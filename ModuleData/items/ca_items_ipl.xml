@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <!--BANNER-->
+  <Item
+    id="ipl_banner"
+    name="Banner"
+    body_name="bo_mace_a"
+    recalculate_body="false"
+    mesh="bre_banner_ipl"
+    culture="Culture.neutral_culture"
+    weight="2.1"
+    Type="OneHandedWeapon"
+    using_tableau="false"
+    item_holsters="abdomen_left">
+    <ItemComponent>
+      <Weapon
+        weapon_class="OneHandedAxe"
+        weapon_balance="100"
+        thrust_speed="78"
+        speed_rating="97"
+        missile_speed="0"
+        weapon_length="150"
+        swing_damage="6"
+        swing_damage_type="Blunt"
+        item_usage="torch"
+        physics_material="metal_weapon"
+        position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true"/>
+      </Weapon>
+    </ItemComponent>
+    <Flags
+      DropOnWeaponChange="true"
+      ForceAttachOffHandPrimaryItemBone="true"
+      HeldInOffHand="true"
+      HasToBeHeldUp="true"
+      CanBePickedUpFromCorpse="false" />
+  </Item>
+  <!--SHIELD-->
+  <Item
+    multiplayer_item="true"
+    id="ipl_tall_heater_shield_noboss_ipl"
+    name="Tall Heater Shield"
+    body_name="bo_cap_heater_shield_k"
+    shield_body_name="bo_heater_shield_k"
+    recalculate_body="false"
+    mesh="b3_heater_shield_k_ipl"
+    culture="Culture.neutral_culture"
+    using_tableau="false"
+    weight="2.1"
+    Type="Shield"
+    item_holsters="shield:shield_2:shield_3:shield_4"
+    has_lower_holster_priority="true"
+    holster_position_shift="-0.1,-0.05,-0.025">
+    <ItemComponent>
+      <Weapon
+        weapon_class="LargeShield"
+        body_armor="15"
+        thrust_speed="82"
+        thrust_damage_type="Blunt"
+        speed_rating="82"
+        physics_material="wood_shield"
+        item_usage="shield"
+        position="0.0, 0.00, 0.00"
+        rotation="0.0,10.0,40.00"
+        weapon_length="105"
+        center_of_mass="-0.0,0.1,0.05"
+        hit_points="160">
+        <WeaponFlags
+          CanBlockRanged="true"
+          HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags
+      WoodenParry="true"
+      HeldInOffHand="true"
+      ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="ipl_shield_ipl" name="Fortified Kite Shield" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="bre_kite_shield_s_ipl_x" weight="2.1" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="15" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="87" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="110" center_of_mass="0.0,0.0,0.1" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="ipl_shield_arr" name="Fortified Kite Shield" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="bre_kite_shield_s_ipl_arr" weight="2.1" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="15" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="87" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="110" center_of_mass="0.0,0.0,0.1" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="ipl_shield_dun" name="Fortified Kite Shield" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="bre_kite_shield_s_ipl_dun" weight="2.1" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="15" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="87" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="110" center_of_mass="0.0,0.0,0.1" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="ipl_shield_gri" name="Fortified Kite Shield" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="bre_kite_shield_s_ipl_gri" weight="2.1" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="15" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="87" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="110" center_of_mass="0.0,0.0,0.1" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="ipl_shield_hyp" name="Fortified Kite Shield" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="bre_kite_shield_s_ipl_hyp" weight="2.1" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="15" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="87" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="110" center_of_mass="0.0,0.0,0.1" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="ipl_shield_rad" name="Fortified Kite Shield" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="bre_kite_shield_s_ipl_rad" weight="2.1" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="15" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="87" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="110" center_of_mass="0.0,0.0,0.1" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="ipl_shield_leg" name="Fortified Kite Shield" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="bre_kite_shield_s_ipl_leg" weight="2.1" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="15" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="87" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="110" center_of_mass="0.0,0.0,0.1" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="ipl_shield_vin" name="Fortified Kite Shield" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="bre_kite_shield_s_ipl_vin" weight="2.1" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="15" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="87" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="110" center_of_mass="0.0,0.0,0.1" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="ipl_shield_vol" name="Fortified Kite Shield" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="bre_kite_shield_s_ipl_vol" weight="2.1" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="15" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="87" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="110" center_of_mass="0.0,0.0,0.1" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="ipl_shield_wet" name="Fortified Kite Shield" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="bre_kite_shield_s_ipl_wet" weight="2.1" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="15" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="87" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="110" center_of_mass="0.0,0.0,0.1" hit_points="160" modifier_group="shield">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+</Items>

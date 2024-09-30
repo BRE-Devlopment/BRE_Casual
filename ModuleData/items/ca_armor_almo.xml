@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <!--HEAD-->
+  <Item
+    multiplayer_item="true"
+    id="almo_cervellera"
+    name="Cervellera"
+    mesh="cervellera"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1.4"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor
+        head_armor="0"
+        has_gender_variations="false"
+        hair_cover_type="type2"
+        beard_cover_type="none"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+    <Flags
+      UseTeamColor="true" />
+  </Item>
+  <!--BODY-->
+  <Item
+    multiplayer_item="true"
+    id="almo_sobrecota"
+    name="Sobrecota"
+    mesh="sobrecota_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+    <Flags
+      UseTeamColor="true" />
+  </Item>
+</Items>
