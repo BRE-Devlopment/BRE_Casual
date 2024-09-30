@@ -36,5 +36,17 @@
 				<GameType value = "MultiplayerGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
+		<XmlNode>
+			<XmlName id="CraftingTemplates" path="crafting_templates"/>
+			<IncludedGameTypes>
+				<GameType value = "MultiplayerGame"/>
+			</IncludedGameTypes>
+		</XmlNode> 
+		<XmlNode>
+			<XmlName id="CraftingPieces" path="crafting_pieces"/>
+			<IncludedGameTypes>
+				<GameType value = "MultiplayerGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
 	</Xmls>
 </Module>

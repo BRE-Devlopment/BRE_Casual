@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CraftingPieces xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../XmlSchemas/CraftingPieces.xsd">
+  <!--SWORD-->
+  <CraftingPiece id="xiii_sword_blade_3" name="Simple Spatha Blade" tier="2" piece_type="Blade" mesh="empire_noble_blade_2" length="96" weight="0.8">
+    <BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_noble_blade_2_scabbard_2">
+      <Thrust damage_type="Pierce" damage_factor="2.9" />
+      <Swing damage_type="Cut" damage_factor="3.9" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_sword_guard_3" name="Imperial Gold Pressed Guard" tier="2" piece_type="Guard" mesh="empire_noble_guard_2" length="2.7" weight="0.1">
+    <BuildData next_piece_offset="0" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_sword_grip_3" name="Jeweled Golden One Handed Grip" tier="2" piece_type="Handle" mesh="empire_noble_grip_2" length="15" weight="0.1">
+    <BuildData piece_offset="0" next_piece_offset="0" previous_piece_offset="0" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_sword_pommel_3" name="Imperial Ring Pommel" tier="2" piece_type="Pommel" mesh="empire_noble_pommel_2" length="6.5" weight="0.1" appearance="0.9">
+  </CraftingPiece>
+  <CraftingPiece id="xiii_sword_guard_2" name="Knobbed Crescent Guard" tier="2" piece_type="Guard" mesh="empire_guard_2" length="3.6" weight="0.1">
+    <BuildData next_piece_offset="0.5" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_sword_grip_2" name="Leather Wrapped Thick One Handed Grip" tier="2" piece_type="Handle" mesh="empire_grip_4" length="15.3" weight="0.1">
+    <BuildData piece_offset="-0.14" previous_piece_offset="0.3" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_sword_pommel_2" name="Eaglehead Pommel" tier="2" piece_type="Pommel" mesh="empire_pommel_6" length="5.4" weight="0.1" appearance="0.9">
+  </CraftingPiece>
+  <CraftingPiece id="xiii_sword_blade_1" name="Narrow Fullered Spatha Blade" tier="2" piece_type="Blade" mesh="empire_blade_1" length="92.4" weight="0.8">
+    <BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_3_scabbard_3">
+      <Thrust damage_type="Pierce" damage_factor="2.9" />
+      <Swing damage_type="Cut" damage_factor="3.9" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_sword_guard_1" name="Curved Imperial Guard" tier="2" piece_type="Guard" mesh="empire_guard_4" length="5.3" weight="0.1">
+    <BuildData next_piece_offset="1.6" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_sword_grip_1" name="Woven Leather Grip" tier="2" piece_type="Handle" mesh="empire_grip_1" length="15.4" weight="0.1">
+    <BuildData piece_offset="-0.18" next_piece_offset="-0.15" previous_piece_offset="0.6" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_sword_pommel_1" name="Faceted Wheel Pommel" tier="2" piece_type="Pommel" mesh="empire_pommel_5" length="6.911" weight="0.1">
+    <BuildData next_piece_offset="0" />
+  </CraftingPiece>
+  <!--MACE-->
+  <CraftingPiece id="xiii_mace_head_1" name="Spiralled Mace Head" tier="2" piece_type="Blade" mesh="mace_head_15" length="13.5" weight="0.8" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="1.7" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_mace_handle_1" name="Long Iron Bottomed Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_12" length="78" weight="1.100" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="17" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_mace_head_3" name="Eastern Light Mace Head" tier="2" piece_type="Blade" mesh="mace_head_14" length="20.8" weight="0.7" full_scale="true">
+    <BladeData physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="1.7" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_mace_head_2" name="Imperial Light Mace Head" tier="2" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.4" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="1.7" />
+    </BladeData>
+  </CraftingPiece>
+  <!--AXE-->
+  <CraftingPiece id="xiii_axe_head_2" name="Imperial Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_29_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.3" weight="0.75">
+    <BuildData piece_offset="-9.6" />
+    <BladeData blade_length="9.105" blade_width="23.082" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="3.5" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_axe_head_1" name="Round Bitted Fine Steel Hatchet Head" tier="2" piece_type="Blade" mesh="axe_craft_9_head" distance_to_next_piece="4.642" distance_to_previous_piece="2.104" weight="0.666">
+    <BuildData piece_offset="-4.208" />
+    <BladeData blade_length="11.538" blade_width="26.876" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="3.6" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_axe_handle_1" name="Long Mahogany Handle With Leather Wrapping" tier="2" piece_type="Handle" mesh="axe_craft_18_handle" length="100" weight="0.361" item_holster_pos_shift="0,0,-0.15">
+    <BuildData piece_offset="31" next_piece_offset="2" />
+  </CraftingPiece>
+  <!--SPEAR-->
+  <CraftingPiece id="xiii_spear_blade_1" name="Imperial Simple Spear Head" tier="2" piece_type="Blade" mesh="spear_blade_1" length="48" weight="0.3" excluded_item_usage_features="swing">
+    <BladeData physics_material="wood_weapon" body_name="bo_spear_b">
+      <Thrust damage_type="Pierce" damage_factor="2.2" />
+    </BladeData>
+    <Flags>
+      <Flag name="DropOnWeaponChange" type="ItemFlags"/>
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_spear_guard_1" name="Decorative Spear Brace" tier="2" piece_type="Guard" mesh="spear_guard_15" length="2.6" weight="0">
+  </CraftingPiece>
+  <CraftingPiece id="xiii_spear_handle_1" name="Mahogany Long Spear Shaft" tier="2" piece_type="Handle" mesh="spear_handle_24" length="260" weight="1.2">
+    <BuildData piece_offset="22.9" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_spear_pommel_1" name="Thamaskene Steel Riveted Spear Pommel" tier="2" piece_type="Pommel" mesh="spear_pommel_9" length="2.9" weight="0">
+  </CraftingPiece>
+  <!--2H-SWORD-->
+  <CraftingPiece id="xiii_2h_sword_blade_3" name="Hooked Falchion Blade" tier="2" piece_type="Blade" mesh="vlandian_blade_9" length="62.59" weight="0.9">
+    <BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="vlandian_blade_9_scabbard_9">
+      <Thrust damage_type="Pierce" damage_factor="2.9" />
+      <Swing damage_type="Cut" damage_factor="3.2" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_sword_guard_3" name="Rounded Flat Guard" tier="2" piece_type="Guard" mesh="khuzait_guard_9" length="0.459" weight="0.1">
+    <BuildData next_piece_offset="0.2" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_sword_grip_3" name="Wooden Two Handed Grip " tier="2" piece_type="Handle" mesh="wood_grip_2" length="25" weight="0.1">
+    <BuildData piece_offset="0" previous_piece_offset="0.4" next_piece_offset="0.3" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_sword_pommel_3" name="Wooden Hook" tier="2" piece_type="Pommel" mesh="cleaver_pommel_3" length="7.8" weight="0.1">
+    <BuildData next_piece_offset="-0.2" />
+  </CraftingPiece>
+  <!--FAUSSARD-->
+  <CraftingPiece id="xiii_2h_sword_blade_2" name="Steel Paramerion Blade" tier="2" piece_type="Blade" mesh="empire_noble_blade_3" length="83.6" weight="1">
+    <BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_noble_blade_3_scabbard_3">
+      <Thrust damage_type="Pierce" damage_factor="2.5" />
+      <Swing damage_type="Cut" damage_factor="3.2" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_sword_guard_2" name="Golden Gladius Guard" tier="2" piece_type="Guard" mesh="empire_noble_guard_3" length="4.5" weight="0.1">
+    <BuildData next_piece_offset="1" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_sword_grip_2" name="Gold Decorated Leather Bastard Sword Grip" tier="2" piece_type="Handle" mesh="empire_noble_grip_3" length="25" weight="0.1">
+    <BuildData piece_offset="0" next_piece_offset="0" previous_piece_offset="0.5" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_sword_pommel_2" name="Imperial Round Pommel" tier="2" piece_type="Pommel" mesh="empire_noble_pommel_3" length="6.8" weight="0.1" appearance="0.9">
+  </CraftingPiece>
+  <!--2H-AXE-->
+  <CraftingPiece id="xiii_2h_axe_head_2" name="Square Bit Two Handed Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_14_head" distance_to_next_piece="3.6" distance_to_previous_piece="2.9" weight="1.1">
+    <BuildData piece_offset="-5.8" />
+    <BladeData blade_length="13.923" blade_width="21.94" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="3.2" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_axe_handle_2" name="Leather Wrapped Two Handed Ash Shaft" tier="2" piece_type="Handle" mesh="axe_craft_29_handle" length="120" weight="0.5">
+    <BuildData piece_offset="35" next_piece_offset="1.835" />
+  </CraftingPiece>
+  <!--2H-MACE-->
+  <CraftingPiece id="xiii_2h_mace_head_1" name="Heavy Long Flanged Mace Head" tier="2" piece_type="Blade" mesh="mace_head_32" length="28" weight="1.5" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="1.35" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_mace_handle_1" name="Iron Topped Two Handed Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_18" length="124" weight="0.5" CraftingCost="75">
+    <BuildData piece_offset="15" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_mace_pommel_1" name="Steel Butt" tier="2" piece_type="Pommel" mesh="spear_pommel_4" length="6" weight="0">
+    <BuildData piece_offset="5" />
+  </CraftingPiece>
+  <!--BASTARD-SWORD-->
+  <CraftingPiece id="xiii_2h_sword_blade_1" name="Fine Steel Paramerion Blade" tier="2" piece_type="Blade" mesh="empire_blade_5" length="95.7" weight="1.28">
+    <BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_5_scabbard_5">
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Swing damage_type="Cut" damage_factor="3.5" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_sword_guard_1" name="Knobbed Crescent Guard" tier="2" piece_type="Guard" mesh="empire_guard_2" length="3.6" weight="0.2">
+    <BuildData next_piece_offset="0.5" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_sword_grip_1" name="Woven Leather Two Handed Grip" tier="2" piece_type="Handle" mesh="empire_grip_10" length="25" weight="0.2">
+    <BuildData piece_offset="-0.18" next_piece_offset="-0.10" previous_piece_offset="0.4" />
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_sword_pommel_1" name="Faceted Wheel Pommel" tier="2" piece_type="Pommel" mesh="empire_pommel_5" length="6.911" weight="0.2">
+    <BuildData next_piece_offset="0" />
+  </CraftingPiece>
+  <!--BASTARD-AXE-->
+  <CraftingPiece id="xiii_2h_axe_head_1" name="Tzikurion Head" tier="2" piece_type="Blade" mesh="axe_craft_26_head" distance_to_next_piece="9" distance_to_previous_piece="3.5" weight="0.5">
+    <BuildData piece_offset="-7"/>
+    <BladeData blade_length="17.6" blade_width="19.393" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="4.1"/>
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="xiii_2h_axe_handle_1" name="Long Mahogany Handle With Leather Wrapping" tier="2" piece_type="Handle" mesh="axe_craft_18_handle" length="100" weight="0.3" item_holster_pos_shift="0,0,-0.15">
+    <BuildData piece_offset="31" next_piece_offset="2" />
+  </CraftingPiece>
+</CraftingPieces>

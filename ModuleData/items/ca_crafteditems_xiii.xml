@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../XmlSchemas/Items.xsd">
+  <!--SWORD-->
+  <CraftedItem multiplayer_item="true" id="xiii_sword_1" name="XIII Spatha" crafting_template="B2_OneHandedSword_Scabbard" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_sword_blade_1" Type="Blade" scale_factor="108" />
+      <Piece id="xiii_sword_guard_1" Type="Guard" scale_factor="90" />
+      <Piece id="xiii_sword_grip_1" Type="Handle" />
+      <Piece id="xiii_sword_pommel_1" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="xiii_sword_2" name="XIII Archon Spatha" crafting_template="B2_OneHandedSword_Scabbard" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_sword_blade_1" Type="Blade" scale_factor="108" />
+      <Piece id="xiii_sword_guard_2" Type="Guard" scale_factor="90" />
+      <Piece id="xiii_sword_grip_2" Type="Handle" />
+      <Piece id="xiii_sword_pommel_2" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="xiii_sword_3" name="XIII Inlaid Spatha" crafting_template="B2_OneHandedSword_Scabbard" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_sword_blade_3" Type="Blade" scale_factor="105" />
+      <Piece id="xiii_sword_guard_3" Type="Guard" />
+      <Piece id="xiii_sword_grip_3" Type="Handle" />
+      <Piece id="xiii_sword_pommel_3" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <!--AXE-->
+  <CraftedItem multiplayer_item="true" id="xiii_axe_1" name="XIII Axe" crafting_template="B2_OneHandedAxe" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_axe_head_1" Type="Blade" />
+      <Piece id="xiii_axe_handle_1" Type="Handle" scale_factor="95" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="xiii_axe_2" name="XIII Axe 2" crafting_template="B2_OneHandedAxe" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_axe_head_2" Type="Blade" />
+      <Piece id="xiii_axe_handle_1" Type="Handle" scale_factor="94" />
+    </Pieces>
+  </CraftedItem>
+  <!--MACE-->
+  <CraftedItem multiplayer_item="true" id="xiii_mace_1" name="XIII Mace" crafting_template="B2_OneHandedMace" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_mace_head_1" Type="Blade" scale_factor="80" />
+      <Piece id="xiii_mace_handle_1" Type="Handle" scale_factor="120" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="xiii_mace_2" name="XIII Mace 2" crafting_template="B2_OneHandedMace" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_mace_head_2" Type="Blade" />
+      <Piece id="xiii_mace_handle_1" Type="Handle" scale_factor="125" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="xiii_mace_3" name="XIII Mace 3" crafting_template="B2_OneHandedMace" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_mace_head_3" Type="Blade" scale_factor="90" />
+      <Piece id="xiii_mace_handle_1" Type="Handle" scale_factor="104" />
+    </Pieces>
+  </CraftedItem>
+  <!--SPEAR-->
+  <CraftedItem multiplayer_item="true" id="xiii_spear_1" name="XIII Spear" crafting_template="B2_TwoHandedPolearm_NoHorseStop" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_spear_blade_1" Type="Blade" />
+      <Piece id="xiii_spear_guard_1" Type="Guard" />
+      <Piece id="xiii_spear_handle_1" Type="Handle" scale_factor="96" />
+      <Piece id="xiii_spear_pommel_1" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <!--2H-SWORD-->
+  <CraftedItem multiplayer_item="true" id="xiii_2h_sword_3" name="XIII Two Handed Cleaver" crafting_template="B2_TwoHandedSword" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_2h_sword_blade_3" Type="Blade" scale_factor="190" />
+      <Piece id="xiii_2h_sword_guard_3" Type="Guard" scale_factor="80" />
+      <Piece id="xiii_2h_sword_grip_3" Type="Handle" scale_factor="120" />
+      <Piece id="xiii_2h_sword_pommel_3" Type="Pommel" scale_factor="120" />
+    </Pieces>
+  </CraftedItem>
+  <!--FAUSSARD-->
+  <CraftedItem multiplayer_item="true" id="xiii_2h_sword_1" name="XIII Paramerion" crafting_template="B2_BastardSword" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_2h_sword_blade_1" Type="Blade" scale_factor="114" />
+      <Piece id="xiii_2h_sword_guard_1" Type="Guard" />
+      <Piece id="xiii_2h_sword_grip_1" Type="Handle" />
+      <Piece id="xiii_2h_sword_pommel_1" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <!--2H-AXE-->
+  <CraftedItem multiplayer_item="true" id="xiii_2h_axe_2" name="XIII Two Handed Axe" crafting_template="B2_TwoHandedAxe" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_2h_axe_head_2" Type="Blade" />
+      <Piece id="xiii_2h_axe_handle_2" Type="Handle" scale_factor="99" />
+    </Pieces>
+  </CraftedItem>
+  <!--2H-MACE-->
+  <CraftedItem multiplayer_item="true" id="xiii_2h_mace_1" name="XIII Two Handed Mace" crafting_template="B2_TwoHandedMace" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_2h_mace_head_1" Type="Blade" />
+      <Piece id="xiii_2h_mace_handle_1" Type="Handle" scale_factor="105" />
+    </Pieces>
+  </CraftedItem>
+  <!--BASTARD-SWORD-->
+  <CraftedItem multiplayer_item="true" id="xiii_2h_sword_2" name="XIII Rich Paramerion" crafting_template="B2_BastardSword" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_2h_sword_blade_2" Type="Blade" scale_factor="130" />
+      <Piece id="xiii_2h_sword_guard_2" Type="Guard" />
+      <Piece id="xiii_2h_sword_grip_2" Type="Handle" />
+      <Piece id="xiii_2h_sword_pommel_2" Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  <!--BASTARD-AXE-->
+  <CraftedItem multiplayer_item="true" id="xiii_2h_axe_1" name="XIII Bastard Axe" crafting_template="B2_TwoHandedAxe" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="xiii_2h_axe_head_1" Type="Blade" />
+      <Piece id="xiii_2h_axe_handle_1" Type="Handle" scale_factor="125" />
+    </Pieces>
+  </CraftedItem>
+</Items>
