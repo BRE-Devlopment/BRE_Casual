@@ -4,7 +4,7 @@
     id="bre_infantry_hero"
     default_group="Infantry"
     level="25"
-    name="{=*}Infantry"
+    name="Infantry"
     occupation="Soldier"
     culture="Culture.bretonnie">
     <face> 
@@ -52,7 +52,7 @@
     id="bre_archer_hero"
     default_group="Ranged"
     level="30"
-    name="{=*}Archer"
+    name="Archer"
     occupation="Soldier"
     culture="Culture.bretonnie">
     <face>
@@ -100,7 +100,7 @@
     id="bre_cavalry_hero"
     default_group="Cavalry"
     level="25"
-    name="{=*}Cavalry"
+    name="Cavalry"
     occupation="Soldier"
     culture="Culture.bretonnie">
     <face>
@@ -155,7 +155,7 @@
     id="bre_cavalry_infantry_hero"
     default_group="Cavalry"
     level="25"
-    name="{=*}Cavalry"
+    name="Cavalry"
     occupation="Soldier"
     culture="Culture.bretonnie">
     <face>
@@ -210,7 +210,7 @@
     id="bre_archer_cavalry_hero"
     default_group="Cavalry"
     level="25"
-    name="{=*}Archer Cavalry"
+    name="Archer Cavalry"
     occupation="Soldier"
     culture="Culture.enemy">
     <face>
