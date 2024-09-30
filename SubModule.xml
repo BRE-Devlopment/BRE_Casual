@@ -12,5 +12,11 @@
 		<DependedModule Id="BRE_Core" Optional="false" />
 	</DependedModules>
 	<Xmls>
+		<XmlNode>
+			<XmlName id="ClanClasses" path="ClanClasses"/>
+			<IncludedGameTypes>
+				<GameType value = "MultiplayerGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
 	</Xmls>
 </Module>
