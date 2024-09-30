@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+	<Name value="BRE Casual" />
+	<Id value="BRE_Casual" />
+	<Version value="v1.0.0.1" />
+	<DefaultModule value="false" />
+	<Official value="false" />
+	<ModuleCategory value="Multiplayer" />
+	<DependedModules>
+		<DependedModule Id="Native" Optional="false" />
+		<DependedModule Id="Multiplayer" Optional="false" />
+		<DependedModule Id="BRE_Core" Optional="false" />
+	</DependedModules>
+	<Xmls>
+	</Xmls>
+</Module>
