@@ -48,5 +48,11 @@
 				<GameType value = "MultiplayerGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
+		<XmlNode>
+			<XmlName id="WeaponDescriptions" path="weapon_descriptions"/>
+			<IncludedGameTypes>
+				<GameType value = "MultiplayerGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
 	</Xmls>
 </Module>
