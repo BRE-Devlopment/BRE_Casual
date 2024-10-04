@@ -354,11 +354,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.co">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -415,12 +415,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.co">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -466,13 +466,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.co">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -1275,11 +1275,11 @@
     mpclassdivision="bre_archer"
     id="herrimault_prawler.he.archer">
     <Weapon0>
-      <equipment id="b2_noble_long_bow" archeritem="true"/>
+      <equipment id="sp_noble_long_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows_watch" archeritem="true"/>
+      <equipment id="sp_arrows_watch" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -1314,11 +1314,11 @@
     mpclassdivision="bre_archer"
     id="herrimault_forester.he.archer">
     <Weapon0>
-      <equipment id="b2_noble_long_bow" archeritem="true"/>
+      <equipment id="sp_noble_long_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows_watch" archeritem="true"/>
+      <equipment id="sp_arrows_watch" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -1684,11 +1684,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.aq">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -1745,12 +1745,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.aq">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -1799,13 +1799,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.aq">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -2394,11 +2394,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.ga">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -2455,12 +2455,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.ga">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -2506,13 +2506,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.ga">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -3040,11 +3040,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.mou">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -3101,12 +3101,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.mou">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -3157,13 +3157,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.mou">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -3769,11 +3769,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.bri">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -3830,12 +3830,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.bri">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -3886,13 +3886,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.bri">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -4391,11 +4391,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.mon">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -4452,12 +4452,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.mon">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -4508,13 +4508,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.mon">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -5025,11 +5025,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.cas">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -5086,12 +5086,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.cas">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -5139,13 +5139,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.cas">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -5638,11 +5638,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.lab">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -5699,12 +5699,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.lab">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -5753,13 +5753,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.lab">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -6263,11 +6263,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.bag">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -6324,12 +6324,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.bag">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -6378,13 +6378,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.bag">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -6888,11 +6888,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.tur">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -6949,12 +6949,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.tur">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -7003,13 +7003,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.tur">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -7513,11 +7513,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.mor">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -7574,12 +7574,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.mor">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -7628,13 +7628,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.mor">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -8138,11 +8138,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.art">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -8199,12 +8199,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.art">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -8253,13 +8253,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.art">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -8766,11 +8766,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.gar">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -8827,12 +8827,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.gar">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -8883,13 +8883,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.gar">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -9389,11 +9389,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.gri">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -9450,12 +9450,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.gri">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -9504,13 +9504,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.gri">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -10017,11 +10017,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.mar">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -10078,12 +10078,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.mar">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -10132,13 +10132,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.mar">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -10642,11 +10642,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.fro">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -10703,12 +10703,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.fro">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -10757,13 +10757,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.fro">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -11273,11 +11273,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.mau">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -11334,12 +11334,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.mau">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -11390,13 +11390,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.mau">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -11895,11 +11895,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.lan">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -11956,12 +11956,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.lan">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -12010,13 +12010,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.lan">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -12519,11 +12519,11 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.bas">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -12580,12 +12580,12 @@
     mpclassdivision="bre_archer"
     id="free_archer.bas">
     <Weapon0>
-      <equipment id="b2_lowland_bow" archeritem="true"/>
-      <equipment id="b2_yew_bow" />
+      <equipment id="sp_lowland_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -12634,13 +12634,13 @@
     mpclassdivision="bre_archer"
     id="master_archer.bas">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -12947,14 +12947,14 @@
     mpclassdivision="bre_archer"
     id="archer_x">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_yew_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_cheap_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_yew_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -13304,11 +13304,11 @@
     mpclassdivision="bre_archer"
     id="archer_almo">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -13676,11 +13676,11 @@
     mpclassdivision="bre_archer"
     id="archer_1_ci">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -13710,11 +13710,11 @@
     mpclassdivision="bre_archer"
     id="archer_2_ci">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -14545,11 +14545,11 @@
     mpclassdivision="bre_archer"
     id="archer_kotf">
     <Weapon0>
-      <equipment id="b2_yew_bow" archeritem="true"/>
+      <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -14877,7 +14877,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -15112,7 +15112,7 @@
             <equipment id="null" disablerandomize="true" hidden="true"/>
         </Weapon2>
         <Weapon3>
-            <equipment id="b2_horse_whip"/>
+            <equipment id="sp_horse_whip"/>
             <equipment id="null" disablerandomize="true" hidden="true"/>
         </Weapon3>
         <Head>
@@ -15254,7 +15254,7 @@
             <equipment id="null" disablerandomize="true" hidden="true"/>
         </Weapon2>
         <Weapon3>
-            <equipment id="b2_horse_whip"/>
+            <equipment id="sp_horse_whip"/>
         </Weapon3>
         <Head>
             <equipment id="sp_western_plated_helmet"/>
@@ -15607,7 +15607,7 @@
             <equipment id="null" disablerandomize="true" hidden="true"/>
         </Weapon2>
         <Weapon3>
-            <equipment id="b2_horse_whip"/>
+            <equipment id="sp_horse_whip"/>
             <equipment id="null" disablerandomize="true" hidden="true"/>
         </Weapon3>
         <Head>
@@ -15962,14 +15962,14 @@
     mpclassdivision="bre_archer"
     id="archer_officer_host">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_yew_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_cheap_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_yew_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -16002,14 +16002,14 @@
     mpclassdivision="bre_archer"
     id="archer_1_host">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_yew_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_cheap_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_yew_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -16564,14 +16564,14 @@
     mpclassdivision="bre_archer"
     id="archer_svci">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_yew_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_cheap_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_yew_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -16726,14 +16726,14 @@
     mpclassdivision="bre_archer"
     id="archer_maw">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_yew_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_cheap_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_yew_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -16953,14 +16953,14 @@
     mpclassdivision="bre_archer"
     id="archer_omey">
     <Weapon0>
-      <equipment id="b2_cheap_bow" archeritem="true"/>
-      <equipment id="b2_lowland_bow" />
-      <equipment id="b2_yew_bow" />
-      <equipment id="b2_noble_long_bow" />
+      <equipment id="sp_cheap_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_yew_bow" />
+      <equipment id="sp_noble_long_bow" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_arrows" archeritem="true"/>
+      <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
