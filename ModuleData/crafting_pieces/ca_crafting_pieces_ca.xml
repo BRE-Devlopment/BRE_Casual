@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CraftingPieces>
+  <!--LANCE-->
+    <CraftingPiece id="b2_spear_banner_10_almo" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_almo" length="12" weight="0">
+    </CraftingPiece>
+    <CraftingPiece id="b2_spear_banner_10_ci" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_ci" length="12" weight="0">
+    </CraftingPiece>
+    <CraftingPiece id="b2_spear_banner_10_ipl" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_ipl" length="12" weight="0">
+    </CraftingPiece>
+    <CraftingPiece id="b2_spear_banner_10_kotf" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_kotf" length="12" weight="0">
+    </CraftingPiece>
+    <CraftingPiece id="b2_spear_banner_10_koh" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_koh" length="12" weight="0">
+    </CraftingPiece>
+    <CraftingPiece id="b2_spear_banner_10_vsc" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_vsc" length="12" weight="0">
+    </CraftingPiece>
+    <CraftingPiece id="b2_spear_banner_10_xiii" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_xiii" length="12" weight="0">
+    </CraftingPiece>
+    <CraftingPiece id="b2_spear_banner_10_host" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_host" length="12" weight="0">
+    </CraftingPiece>
+    <CraftingPiece id="b2_spear_banner_10_svci" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_svci" length="12" weight="0">
+    </CraftingPiece>
+    <CraftingPiece id="b2_spear_banner_10_maw" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_maw" length="12" weight="0">
+    </CraftingPiece>
+</CraftingPieces>

@@ -54,6 +54,17 @@
   <xsl:template match="CraftingTemplate[@id='B2_TwoHandedPolearm_NoHorseStop']/UsablePieces">
     <xsl:copy>
       <xsl:apply-templates select="@*|node()"/>
+      <UsablePiece piece_id="b2_spear_banner_10_almo"/>
+      <UsablePiece piece_id="b2_spear_banner_10_ci"/>
+      <UsablePiece piece_id="b2_spear_banner_10_ipl"/>
+      <UsablePiece piece_id="b2_spear_banner_10_kotf"/>
+      <UsablePiece piece_id="b2_spear_banner_10_koh"/>
+      <UsablePiece piece_id="b2_spear_banner_10_vsc"/>
+      <UsablePiece piece_id="b2_spear_banner_10_xiii"/>
+      <UsablePiece piece_id="b2_spear_banner_10_host"/>
+      <UsablePiece piece_id="b2_spear_banner_10_svci"/>
+      <UsablePiece piece_id="b2_spear_banner_10_maw"/>
+
       <UsablePiece piece_id="xiii_spear_blade_1"/>
       <UsablePiece piece_id="xiii_spear_guard_1"/>
       <UsablePiece piece_id="xiii_spear_handle_1"/>
