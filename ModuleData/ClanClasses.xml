@@ -13873,6 +13873,184 @@
     banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
     color1="FFa80d05"
     color2="FFffffff"
+    name="Infantry"
+    mpclassdivision="bre_infantry"
+    id="infantry_1_ipl">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
+      <equipment id="ipl_shield_ipl" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_bacinet_with_facemask" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_ipl" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FFa80d05"
+    color2="FFffffff"
+    name="Archer"
+    mpclassdivision="bre_archer"
+    id="archer_1_ipl">
+    <Weapon0>
+      <equipment id="sp_longbow_recurve_desert_bow"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_vlandic_arrows"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="ba_openhelm2" />
+      <equipment id="mp_pilgrim_hood" />
+      <equipment id="mp_battania_civil_hood" />
+      <equipment id="mp_nasal_helmet_with_leather" />
+      <equipment id="mp_peaked_helmet_over_mail" />
+      <equipment id="sa_sallet_no_visor" />
+      <equipment id="ba_opensallet" />
+    </Head>
+    <Body>
+      <equipment id="ipl_coat_over_plate_ipl" />
+      <equipment id="mp_sturgian_fortified_armor" />
+      <equipment id="sa_brigandine1" />
+      <equipment id="mp_sturgian_chainmale_longsleeve" />
+      <equipment id="mp_ringed_desert_armor" />
+      <equipment id="mp_western_scale_mail" />
+      <equipment id="mp_desert_scale_armor" />
+    </Body>
+    <Leg>
+      <equipment id="mp_highland_boots" />
+      <equipment id="mp_battania_leather_boots" />
+      <equipment id="mp_rough_tied_boots" />
+      <equipment id="mp_plated_strip_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="sp_a_pauldron_cape_b" />
+      <equipment id="sp_empire_cape_a" />
+      <equipment id="mp_a_battania_cloak_a" />
+      <equipment id="mp_battanian_chainmail_shoulder_a" />
+      <equipment id="mp_padded_leather_shoulders" />
+      <equipment id="mp_bearskin" />
+      <equipment id="sp_chainmail_shoulder_armor" />
+    </Cape>
+    <Gloves>
+      <equipment id="mp_highland_gloves" />
+      <equipment id="mp_guarded_padded_vambrace" />
+      <equipment id="mp_battania_noble_bracers" />
+      <equipment id="mp_plated_strip_gauntlets" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FFa80d05"
+    color2="FFffffff"
+    name="Archer Officer"
+    mpclassdivision="bre_archer"
+    id="archer_2_ipl">
+    <Weapon0>
+      <equipment id="sp_noble_long_bow"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_vlandic_arrows"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="ba_openhelm2" />
+      <equipment id="mp_pilgrim_hood" />
+      <equipment id="mp_battania_civil_hood" />
+      <equipment id="mp_nasal_helmet_with_leather" />
+      <equipment id="mp_peaked_helmet_over_mail" />
+      <equipment id="sa_sallet_no_visor" />
+      <equipment id="ba_opensallet" />
+      <equipment id="ba_sallet" />
+    </Head>
+    <Body>
+      <equipment id="ipl_coat_over_plate_ipl" />
+      <equipment id="mp_sturgian_fortified_armor" />
+      <equipment id="sa_brigandine1" />
+      <equipment id="mp_sturgian_chainmale_longsleeve" />
+      <equipment id="mp_ringed_desert_armor" />
+      <equipment id="mp_western_scale_mail" />
+      <equipment id="mp_desert_scale_armor" />
+      <equipment id="ba_heraldictabard3" />
+    </Body>
+    <Leg>
+      <equipment id="mp_highland_boots" />
+      <equipment id="mp_battania_leather_boots" />
+      <equipment id="mp_rough_tied_boots" />
+      <equipment id="mp_plated_strip_boots" />
+      <equipment id="mp_decorated_imperial_boots" />
+      <equipment id="ba_plategreavesworn" />
+    </Leg>
+    <Cape>
+      <equipment id="sp_a_pauldron_cape_b" />
+      <equipment id="sp_empire_cape_a" />
+      <equipment id="mp_a_battania_cloak_a" />
+      <equipment id="mp_battanian_chainmail_shoulder_a" />
+      <equipment id="mp_padded_leather_shoulders" />
+      <equipment id="mp_bearskin" />
+      <equipment id="sp_chainmail_shoulder_armor" />
+      <equipment id="ba_knightpadcape3" />
+      <equipment id="sp_noble_pauldron_with_scarf" />
+    </Cape>
+    <Gloves>
+      <equipment id="mp_highland_gloves" />
+      <equipment id="mp_guarded_padded_vambrace" />
+      <equipment id="mp_battania_noble_bracers" />
+      <equipment id="mp_plated_strip_gauntlets" />
+      <equipment id="mp_decorated_imperial_gauntlets" />
+      <equipment id="mp_lamellar_plate_gauntlets" />
+      <equipment id="ba_plategauntletworn" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FFa80d05"
+    color2="FFffffff"
     name="Cavalry"
     mpclassdivision="bre_cavalry"
     id="cavalry_1_ipl">
@@ -13987,6 +14165,57 @@
   <ClanClass
     clan="IPL"
     banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FFffffff"
+    color2="FFf6d000"
+    name="Arris (dismounted)"
+    mpclassdivision="bre_infantry"
+    id="infantry_2_ipl">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
+      <equipment id="ipl_shield_arr" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_engraved_vlandian_helm_with_visor" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_arr" />
+    </Body>
+    <Leg>
+      <equipment id="sa_churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
     color1="FFf1c500"
     color2="FF000000"
     name="Dunleap"
@@ -13997,7 +14226,7 @@
       <equipment id="b2_jousting_lance_x" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_ipl_shield_dun" />
+      <equipment id="ipl_shield_dun" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
     </Weapon1>
@@ -14045,6 +14274,57 @@
   <ClanClass
     clan="IPL"
     banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FFf1c500"
+    color2="FF000000"
+    name="Dunleap (dismounted)"
+    mpclassdivision="bre_infantry"
+    id="infantry_3_ipl">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
+      <equipment id="ipl_shield_dun" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_vlandian_helm_with_faceplate_painted" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_dun" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
     color1="FFf2f2f2"
     color2="FF64ad42"
     name="Grimuald"
@@ -14055,7 +14335,7 @@
       <equipment id="b2_jousting_lance_x" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_ipl_shield_gri" />
+      <equipment id="ipl_shield_gri" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
     </Weapon1>
@@ -14103,6 +14383,57 @@
   <ClanClass
     clan="IPL"
     banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FFf2f2f2"
+    color2="FF64ad42"
+    name="Grimuald (dismounted)"
+    mpclassdivision="bre_infantry"
+    id="infantry_4_ipl">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
+      <equipment id="ipl_shield_gri" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_pigface_bascinet_tail" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_gri" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
     color1="FF080808"
     color2="FFa3076c"
     name="Hypnosis"
@@ -14113,7 +14444,7 @@
       <equipment id="b2_jousting_lance_x" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_ipl_shield_hyp" />
+      <equipment id="ipl_shield_hyp" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
     </Weapon1>
@@ -14161,6 +14492,57 @@
   <ClanClass
     clan="IPL"
     banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FF080808"
+    color2="FFa3076c"
+    name="Hypnosis (dismounted)"
+    mpclassdivision="bre_infantry"
+    id="infantry_5_ipl">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
+      <equipment id="ipl_shield_hyp" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_vlandian_helm_with_faceplate_blackend_brass" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_hyp" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
     color1="FF8d0000"
     color2="FFf6d000"
     name="Legionista"
@@ -14171,7 +14553,7 @@
       <equipment id="b2_jousting_lance_x" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_ipl_shield_leg" />
+      <equipment id="ipl_shield_leg" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
     </Weapon1>
@@ -14219,6 +14601,57 @@
   <ClanClass
     clan="IPL"
     banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FF8d0000"
+    color2="FFf6d000"
+    name="Legionista (dismounted)"
+    mpclassdivision="bre_infantry"
+    id="infantry_6_ipl">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
+      <equipment id="ipl_shield_leg" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_barbute4" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_leg" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
     color1="FF00600c"
     color2="FF0d0d0d"
     name="Radon"
@@ -14229,7 +14662,7 @@
       <equipment id="b2_jousting_lance_x" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_ipl_shield_rad" />
+      <equipment id="ipl_shield_rad" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
     </Weapon1>
@@ -14277,6 +14710,57 @@
   <ClanClass
     clan="IPL"
     banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FF00600c"
+    color2="FF0d0d0d"
+    name="Radon (dismounted)"
+    mpclassdivision="bre_infantry"
+    id="infantry_7_ipl">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
+      <equipment id="ipl_shield_rad" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_sallet_wings" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_rad" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
     color1="FF0a0a0a"
     color2="FFffaa09"
     name="Vino"
@@ -14287,7 +14771,7 @@
       <equipment id="b2_jousting_lance_x" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_ipl_shield_vin" />
+      <equipment id="ipl_shield_vin" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
     </Weapon1>
@@ -14335,6 +14819,57 @@
   <ClanClass
     clan="IPL"
     banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FF0a0a0a"
+    color2="FFffaa09"
+    name="Vino (dismounted)"
+    mpclassdivision="bre_infantry"
+    id="infantry_8_ipl">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
+      <equipment id="ipl_shield_vin" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_churburghHelm_black_trimmed_feather" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_vin" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
     color1="FFb12218"
     color2="FF0077e7"
     name="Weteran"
@@ -14345,7 +14880,7 @@
       <equipment id="b2_jousting_lance_x" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_ipl_shield_wet" />
+      <equipment id="ipl_shield_wet" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
     </Weapon1>
@@ -14393,6 +14928,275 @@
   <ClanClass
     clan="IPL"
     banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FFb12218"
+    color2="FF0077e7"
+    name="Weteran (dismounted)"
+    mpclassdivision="bre_infantry"
+    id="infantry_9_ipl">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
+      <equipment id="ipl_shield_wet" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_barbute1" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_wet" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FF000000"
+    color2="FF0087f5"
+    name="MrNoname"
+    mpclassdivision="bre_cavalry"
+    id="mrnoname">
+    <Weapon0>
+      <equipment id="b2_lance_ipl" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_shield_mrn" />
+      <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_sword" />
+      <equipment id="b2_bastard_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_sugarloaf_helm2" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_mrn" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="ipl_caparsion_mrn" cavalryitem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FF000000"
+    color2="FF0087f5"
+    name="MrNoname (dismounted)"
+    mpclassdivision="bre_infantry"
+    id="infantry_10_ipl">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
+      <equipment id="ipl_shield_mrn" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_sugarloaf_helm2" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_mrn" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FF740082"
+    color2="FF032e7c"
+    name="Mar"
+    mpclassdivision="bre_cavalry"
+    id="mar">
+    <Weapon0>
+      <equipment id="b2_lance_ipl" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_shield_mar" />
+      <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_sword" />
+      <equipment id="b2_bastard_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_sallet_wings" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_mar" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="ipl_caparsion_mar" cavalryitem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FF740082"
+    color2="FF032e7c"
+    name="Mar (dismounted)"
+    mpclassdivision="bre_infantry"
+    id="infantry_11_ipl">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
+      <equipment id="ipl_shield_mar" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_sallet_wings" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_mail_with_tabbard_mar" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
     color1="FFffffff"
     color2="FF000000"
     name="Volv"
@@ -14403,7 +15207,7 @@
       <equipment id="b2_jousting_lance_x" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
-      <equipment id="b2_ipl_shield_vol" />
+      <equipment id="ipl_shield_vol" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
     </Weapon1>
@@ -14447,6 +15251,57 @@
       <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="IPL"
+    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
+    color1="FFffffff"
+    color2="FF000000"
+    name="Volv (dismounted)"
+    mpclassdivision="bre_infantry"
+    id="infantry_12_ipl">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ipl_tall_heater_shield_noboss_vol"/>
+      <equipment id="ipl_shield_dun" disablerandomize="true" />
+      <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_crowned_royal_vlandian_helm_with_visor" />
+      <equipment id="sa_butterlord1" disablerandomize="true" />
+      <equipment id="sa_butterlord2" disablerandomize="true" />
+      <equipment id="sa_butterlord3" disablerandomize="true" />
+      <equipment id="sa_butterlord5" disablerandomize="true" />
+      <equipment id="sa_butterlord6" disablerandomize="true" />
+      <equipment id="sa_butterlord7" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="ipl_sa_surcoatplate_vol" />
+    </Body>
+    <Leg>
+      <equipment id="sa_churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="ipl_shoulder_snow" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_churburghgauntlet" />
+    </Gloves>
   </ClanClass>
   <!--KOTF-->
   <ClanClass

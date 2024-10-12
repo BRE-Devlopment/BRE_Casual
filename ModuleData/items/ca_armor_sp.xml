@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <!--BODY-->
+  <Item
+    id="sp_a_pauldron_cape_b"
+    name="Bronze Pauldrons with Neck Guard"
+    mesh="pauldron_cape_b"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="5"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+    <Flags
+      UseTeamColor="true" />
+  </Item>
+  <Item
+    id="sp_noble_pauldron_with_scarf"
+    name="Reinforced Ornate Pauldrons"
+    mesh="noble_pauldron_with_scarf"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="8"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+    <Flags
+      UseTeamColor="true" />
+  </Item>
+</Items>

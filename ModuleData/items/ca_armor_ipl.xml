@@ -34,6 +34,50 @@
     </ItemComponent>
   </Item>
   <!--BODY-->
+  <Item id="ipl_coat_over_plate_ipl" name="Tabbard over Coat of plate" mesh="bre_coat_over_plate_ipl" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item 
+    multiplayer_item="true"
+    id="ipl_mail_with_tabbard_mar"
+    name="Mail With Tabbard" 
+    mesh="bre_mail_with_tabbard_ipl_mar"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor 
+        body_armor="0"
+        covers_body="true" 
+        modifier_group="Chainmail" 
+        material_type="Chainmail"/>
+    </ItemComponent>
+    <Flags UseTeamColor="false"/>
+  </Item>
+  <Item 
+    multiplayer_item="true"
+    id="ipl_mail_with_tabbard_mrn"
+    name="Mail With Tabbard" 
+    mesh="bre_mail_with_tabbard5_ipl_mrn" 
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor 
+        body_armor="0"
+        covers_body="true" 
+        modifier_group="Chainmail" 
+        material_type="Chainmail"/>
+    </ItemComponent>
+    <Flags UseTeamColor="false"/>
+  </Item>
   <Item 
     multiplayer_item="true"
     id="ipl_mail_with_tabbard_ipl"
@@ -225,6 +269,46 @@
     <Flags UseTeamColor="false"/>
   </Item>
   <!--HORSEHARNESS-->
+  <Item
+    multiplayer_item="true"
+    id="ipl_caparsion_mrn"
+    name="Chain Horse Harness"
+    mesh="ipl_caparsion_mrn"
+    weight="95"
+    culture="Culture.neutral_culture"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25"
+        hair_cover_type="all"
+        mane_cover_type="all"
+        covers_head="true"
+        reins_mesh="horse_harness_e_rein"
+        family_type="1"
+        modifier_group="chain"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+    multiplayer_item="true"
+    id="ipl_caparsion_mar"
+    name="Chain Horse Harness"
+    mesh="ipl_caparsion_mar"
+    weight="95"
+    culture="Culture.neutral_culture"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25"
+        hair_cover_type="all"
+        mane_cover_type="all"
+        covers_head="true"
+        reins_mesh="horse_harness_e_rein"
+        family_type="1"
+        modifier_group="chain"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
   <Item
     multiplayer_item="true"
     id="ipl_caparsion_ipl"
