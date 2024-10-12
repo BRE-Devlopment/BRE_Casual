@@ -15877,7 +15877,7 @@
   <!--XIII-->
     <ClanClass 
       clan="XIII" 
-      banner="11.610.610.1536.1536.764.764.1.0.0.6007.40.40.500.500.764.764.0.0.0" 
+      banner="11.6.6.2000.2000.764.764.0.0.0.342.121.121.500.500.764.764.0.0.0" 
       color1="FF361d80" 
       color2="FFf1c232" 
       name="Scutatus" 
@@ -15924,7 +15924,7 @@
             <equipment id="mp_wrapped_scarf"/>
             <equipment id="mp_scarf"/>
             <equipment id="mp_peasant_hood"/>
-            <equipment id="battanian_chainmail_shoulder_a"/>
+            <equipment id="mp_battanian_chainmail_shoulder_a"/>
         </Cape>
         <Gloves>
             <equipment id="mp_plated_strip_gauntlets"/>
@@ -16018,7 +16018,7 @@
     </ClanClass>
     <ClanClass 
       clan="XIII" 
-      banner="11.610.610.1536.1536.764.764.1.0.0.6007.40.40.500.500.764.764.0.0.0" 
+      banner="11.6.6.2000.2000.764.764.0.0.0.342.121.121.500.500.764.764.0.0.0" 
       color1="FF361d80" 
       color2="FFf1c232" 
       name="Gladiator" 
@@ -16140,15 +16140,17 @@
     </ClanClass>
     <ClanClass 
       clan="XIII" 
-      banner="11.610.610.1536.1536.764.764.1.0.0.6007.40.40.500.500.764.764.0.0.0" 
+      banner="11.6.6.2000.2000.764.764.0.0.0.342.121.121.500.500.764.764.0.0.0" 
       color1="FF361d80" 
       color2="FFf1c232" 
       name="Bandophorus" 
       mpclassdivision="bre_infantry" 
       id="infantry_banner_xiii">
         <Weapon0>
-            <equipment id="b2_banner_xiii"/>
-            <equipment id="b2_banner_xiii_2" disablerandomize="true"/>
+            <equipment id="xiii_banner"/>
+            <equipment id="xiii_banner_3" disablerandomize="true"/>
+            <equipment id="xiii_banner_4" disablerandomize="true"/>
+            <equipment id="xiii_banner_2" disablerandomize="true"/>
         </Weapon0>
         <Weapon1>
             <equipment id="xiii_sword_1"/>
@@ -16193,7 +16195,7 @@
     </ClanClass>
     <ClanClass 
       clan="XIII" 
-      banner="11.610.610.1536.1536.764.764.1.0.0.6007.40.40.500.500.764.764.0.0.0" 
+      banner="11.6.6.2000.2000.764.764.0.0.0.342.121.121.500.500.764.764.0.0.0" 
       color1="FF361d80" 
       color2="FFf1c232" 
       name="Saggitarius" 
@@ -16302,7 +16304,7 @@
     </ClanClass>
     <ClanClass 
       clan="XIII" 
-      banner="11.610.610.1536.1536.764.764.1.0.0.6007.40.40.500.500.764.764.0.0.0" 
+      banner="11.6.6.2000.2000.764.764.0.0.0.342.121.121.500.500.764.764.0.0.0" 
       color1="FF361d80" 
       color2="FFf1c232" 
       name="Cataphract" 
@@ -16512,7 +16514,7 @@
     </ClanClass>
     <ClanClass 
       clan="XIII" 
-      banner="11.610.610.1536.1536.764.764.1.0.0.6007.40.40.500.500.764.764.0.0.0" 
+      banner="11.6.6.2000.2000.764.764.0.0.0.342.121.121.500.500.764.764.0.0.0" 
       color1="FF361d80" 
       color2="FFf1c232" 
       name="Empire Nobility" 

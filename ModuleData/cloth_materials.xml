@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base>
+	<materials>
+		<material
+			name="ALMO_sobrecota">
+			<simulation
+				stretching_stiffness="1.000"
+				anchor_stiffness="1.000"
+				bending_stiffness="0.550"
+				shearing_stiffness_="0.640"
+				damping="0.800"
+				gravity="8.800"
+				linear_inertia="0.500"
+				max_linear_velocity="-1.000"
+				linear_velocity_multiplier="1.000"
+				wind="1.000"
+				air_drag_multiplier="0.250" />
+		</material>
+		<material
+			name="ca_empire_banner3">
+			<simulation
+				stretching_stiffness="0.500"
+				anchor_stiffness="1.000"
+				bending_stiffness="0.500"
+				shearing_stiffness_="0.640"
+				damping="0.100"
+				gravity="10.000"
+				linear_inertia="0.400"
+				max_linear_velocity="-1.000"
+				linear_velocity_multiplier="0.400"
+				wind="3.000"
+				air_drag_multiplier="0.300" />
+		</material>
+		<material
+			name="IPL_shoulders">
+			<simulation
+				stretching_stiffness="1.000"
+				anchor_stiffness="1.000"
+				bending_stiffness="0.500"
+				shearing_stiffness_="0.500"
+				damping="0.300"
+				gravity="9.000"
+				linear_inertia="0.500"
+				max_linear_velocity="-1.000"
+				linear_velocity_multiplier="1.000"
+				wind="1.000"
+				air_drag_multiplier="0.500" />
+		</material>
+	</materials>
+</base>

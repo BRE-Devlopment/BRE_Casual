@@ -2,6 +2,7 @@
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="solution">
   <outputDirectory>../MBModule/MBModule/</outputDirectory>
-  <XMLDirectory>../WOTS/Modules/BRE_RP/</XMLDirectory>
+  <XMLDirectory>../WOTS/Modules/BRE_Casual/</XMLDirectory>
   <ModuleAssemblyDirectory>../WOTS/bin/</ModuleAssemblyDirectory>
+  <file id="soln_manifold_mappings" name="ModuleData/clothing_materials.xml" type="clothing_materials" />
 </base>
