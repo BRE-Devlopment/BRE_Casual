@@ -15867,6 +15867,7 @@
     </Leg>
     <Cape>
       <equipment id="ba_knightpadgorget1" />
+      <equipment id="sp_empire_cape_a" />
     </Cape>
     <Gloves>
       <equipment id="ba_plategauntlet" />
@@ -15909,6 +15910,7 @@
     </Leg>
     <Cape>
       <equipment id="ba_knightpadgorget1" />
+      <equipment id="sp_empire_cape_a" />
     </Cape>
     <Gloves>
       <equipment id="ba_plategauntlet" />
@@ -15978,19 +15980,19 @@
       <equipment id="b2_peasant_dagger"/>
     </Weapon2>
     <Head>
-      <equipment id="mp_kettle_helmet_over_mail" />
+      <equipment id="mp_segmented_skullcap_over_padded_coif" />
     </Head>
     <Body>
-      <equipment id="mp_aserai_robe_c_chain" />
+      <equipment id="sa_mail_with_tabbard3" />
     </Body>
     <Leg>
-      <equipment id="mp_mail_chausses" />
+      <equipment id="mp_plated_strip_boots" />
     </Leg>
     <Cape>
       <equipment id="sp_empire_cape_a" />
     </Cape>
     <Gloves>
-      <equipment id="mp_reinforced_mail_mitten" />
+      <equipment id="mp_guarded_padded_vambrace" />
     </Gloves>
   </ClanClass>
   <ClanClass
@@ -16018,16 +16020,19 @@
       <equipment id="b2_peasant_dagger"/>
     </Weapon2>
     <Head>
-      <equipment id="mp_kettle_helmet_over_mail" />
+      <equipment id="mp_segmented_skullcap_over_padded_coif" />
     </Head>
     <Body>
-      <equipment id="mp_aserai_robe_c_chain" />
+      <equipment id="sa_mail_with_tabbard3" />
     </Body>
     <Leg>
-      <equipment id="mp_mail_chausses" />
+      <equipment id="mp_plated_strip_boots" />
     </Leg>
+    <Cape>
+      <equipment id="sp_empire_cape_a" />
+    </Cape>
     <Gloves>
-      <equipment id="mp_reinforced_mail_mitten" />
+      <equipment id="mp_guarded_padded_vambrace" />
     </Gloves>
   </ClanClass>
   <ClanClass
