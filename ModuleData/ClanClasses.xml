@@ -583,7 +583,7 @@
     clan="CO"
     color1="FF6c1010"
     color2="FF142441"
-    banner="1.550.551.1536.1536.764.764.0.0.0"
+    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Ecuyer"
     mpclassdivision="bre_cavalry"
     id="squire.co">
@@ -1914,7 +1914,7 @@
   </ClanClass>
   <ClanClass
     clan="AQ"
-    banner="11.552.552.1536.1536.764.764.1.0.0"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FF9c7018"
     color2="FF122447"
     name="Squire"
@@ -2623,7 +2623,7 @@
     clan="GA"
     color1="FF6c1010"
     color2="FF142441"
-    banner="1.550.551.1536.1536.764.764.0.0.0"
+    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Ecuyer"
     mpclassdivision="bre_cavalry"
     id="squire.ga">
@@ -3277,7 +3277,7 @@
     clan="MOU"
     color1="FF76621f"
     color2="FF0e0f12"
-    banner="11.554.554.1536.1536.764.764.0.0.0"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.mou">
@@ -3666,7 +3666,7 @@
       <equipment id="b2_man_sword"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b3_squire_kiteshield_bri"/>
+      <equipment id="b3_squire_kiteshield"/>
     </Weapon2>
     <Head>
       <equipment id="b3_protector_guard_helmet_1"/>
@@ -3703,7 +3703,7 @@
       <equipment id="b2_man_sword"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b3_squire_kiteshield_bri"/>
+      <equipment id="b3_squire_kiteshield"/>
     </Weapon2>
     <Head>
       <equipment id="b3_protector_veteran_helmet_1"/>
@@ -3740,7 +3740,7 @@
       <equipment id="b2_man_sword"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b3_squire_kiteshield_bri"/>
+      <equipment id="b3_squire_kiteshield"/>
     </Weapon2>
     <Head>
       <equipment id="b3_protector_captain_helmet_1"/>
@@ -4007,7 +4007,7 @@
     clan="BRI"
     color1="FF82776d"
     color2="FF0c0b0a"
-    banner="11.556.556.1536.1536.764.764.0.0.0"
+    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.bri">
@@ -4629,7 +4629,7 @@
     clan="MON"
     color1="FF0c0b0a"
     color2="FF82776d"
-    banner="11.572.573.1536.1536.764.764.0.0.0"
+    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.mon">
@@ -5259,7 +5259,7 @@
     clan="CAS"
     color1="FF25355e"
     color2="FF0c0d0e"
-    banner="3.558.559.1536.1536.764.764.0.0.0"
+    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.cas">
@@ -5870,7 +5870,7 @@
     clan="LAB"
     color1="FF54110e"
     color2="FF938d7f"
-    banner="11.560.560.1536.1536.764.764.0.0.0"
+    banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
     name="Ecuyer"
     mpclassdivision="bre_cavalry"
     id="squire.lab">
@@ -6495,7 +6495,7 @@
     clan="BAG"
     color1="FF54110e"
     color2="FF938d7f"
-    banner="11.582.582.1536.1536.764.764.0.0.0"
+    banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
     name="Ecuyer"
     mpclassdivision="bre_cavalry"
     id="squire.bag">
@@ -7120,7 +7120,7 @@
     clan="TUR"
     color1="FF122447"
     color2="FF9c7018"
-    banner="11.576.576.1536.1536.764.764.0.0.0"
+    banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
     name="Ecuyer"
     mpclassdivision="bre_cavalry"
     id="squire.tur">
@@ -7745,7 +7745,7 @@
     clan="MOR"
     color1="FF102b10"
     color2="FF541613"
-    banner="11.562.562.1536.1536.764.764.0.0.0"
+    banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.mor">
@@ -8370,7 +8370,7 @@
     clan="ART"
     color1="FF2d0d0d"
     color2="FF938d7f"
-    banner="11.564.564.1536.1536.764.764.0.0.0"
+    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.art">
@@ -9001,7 +9001,7 @@
     clan="GAR"
     color1="FF0f0d0b"
     color2="FF51110e"
-    banner="12.566.567.1536.1536.764.764.0.0.0"
+    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.gar">
@@ -9621,7 +9621,7 @@
     clan="GRI"
     color1="FF163415"
     color2="FF938d7f"
-    banner="11.568.569.1536.1536.764.764.0.0.0"
+    banner="7000.568.569.1536.1536.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.gri">
@@ -10249,7 +10249,7 @@
     clan="MAR"
     color1="FF21201f"
     color2="FF9e9d9b"
-    banner="11.570.571.1536.1536.764.764.1.0.0"
+    banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
     name="Ecuyer"
     mpclassdivision="bre_cavalry"
     id="squire.mar">
@@ -10874,7 +10874,7 @@
     clan="FRO"
     color1="FF14253f"
     color2="FF9e9d9b"
-    banner="3.574.575.1536.1536.764.764.1.0.0"
+    banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.fro">
@@ -11508,7 +11508,7 @@
     clan="MAU"
     color1="FF351226"
     color2="FF100f0d"
-    banner="7003.578.579.1536.1536.764.764.0.0.0"
+    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.mau">
@@ -12127,7 +12127,7 @@
     clan="LAN"
     color1="FF0d1228"
     color2="FF9b9ca5"
-    banner="11.580.581.1536.1536.764.764.1.0.0"
+    banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.lan">
@@ -12751,7 +12751,7 @@
     clan="BAS"
     color1="FFd7a12b"
     color2="FF8e1818"
-    banner="11.552.552.1536.1536.764.764.1.0.0"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Écuyer"
     mpclassdivision="bre_cavalry"
     id="squire.bas">
