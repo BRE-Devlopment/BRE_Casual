@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<BannerIconData>
+		<BannerIconGroup id="18" name="bannericons_casual" is_pattern="false">
+			<!--OMEY-->
+			<Icon id="6000" material_name="bannericons_casual" texture_index="0" />
+			<!--CI-->
+			<Icon id="6001" material_name="bannericons_casual" texture_index="1" />
+			<!--LBO-->
+			<Icon id="6002" material_name="bannericons_casual" texture_index="2" />
+			<!--IPL-->
+			<Icon id="6003" material_name="bannericons_casual" texture_index="3" />
+			<!--LBO-PRE-->
+			<Icon id="6004" material_name="bannericons_casual" texture_index="4" />
+			<!--KOH-->
+			<Icon id="6005" material_name="bannericons_casual" texture_index="5" />
+			<!--KOFE-->
+			<Icon id="6006" material_name="bannericons_casual" texture_index="6" />
+			<!--XIII-->
+			<Icon id="6007" material_name="bannericons_casual" texture_index="7" />
+			<!--KOTF-->
+			<Icon id="6008" material_name="bannericons_casual" texture_index="8" />
+			<!--HOST-->
+			<Icon id="6009" material_name="bannericons_casual" texture_index="9" />
+			<!--SVCI-->
+			<Icon id="6010" material_name="bannericons_casual" texture_index="10" />
+			<!--SAN-->
+			<Icon id="6011" material_name="bannericons_casual" texture_index="11" />
+			<!--TOL-->
+			<Icon id="6012" material_name="bannericons_casual" texture_index="12" />
+		</BannerIconGroup>
+		<BannerColors>
+			<!--OMEY blue-->
+			<Color id="600" hex="0xFF19357d"/>
+			<!--CI red-->
+			<Color id="601" hex="0xFF602419"/>
+			<!--CI yellow-->
+			<Color id="602" hex="0xFFae8828"/>
+			<!--VSC black-->
+			<!--VSC white-->
+			<!--IPL red-->
+			<Color id="605" hex="0xFF9c1c0f"/>
+			<!--KSL black-->
+			<!--KOH darkblue-->
+			<Color id="607" hex="0xFF1b2d86"/>
+			<!--KOH lightblue-->
+			<Color id="608" hex="0xFF172ac9"/>
+			<!--SVCI red-->
+			<Color id="609" hex="0xFF7f0000"/>
+			<!--XIII purple-->
+			<Color id="610" hex="0xFF361d80"/>
+		</BannerColors>
+	</BannerIconData>
+</base>
+<!--ARGUMENT COUNT: 0-31-->
+<!--SIGIL/BACKGROUND ID: 0-8191-->
+<!--COLOR ID: 0-1023-->
+<!--SIZE: -8000-8000-->
+<!--ROTATION: 0-360-->
