@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../XmlSchemas/Items.xsd">
+  <!--LANCE-->
+  <CraftedItem multiplayer_item="true" id="b2_lance_maw" name="Lance" crafting_template="B2_TwoHandedPolearm_NoHorseStop" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="sp_spear_blade_14" Type="Blade"/>
+      <Piece id="b2_spear_banner_10_maw" Type="Guard"/>
+      <Piece id="sp_spear_handle_25" Type="Handle" scale_factor="96"/>
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="b2_lance_svci" name="Lance" crafting_template="B2_TwoHandedPolearm_NoHorseStop" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="sp_spear_blade_14" Type="Blade"/>
+      <Piece id="b2_spear_banner_10_svci" Type="Guard"/>
+      <Piece id="sp_spear_handle_25" Type="Handle" scale_factor="96"/>
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="b2_lance_host" name="Lance" crafting_template="B2_TwoHandedPolearm_NoHorseStop" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="sp_spear_blade_14" Type="Blade"/>
+      <Piece id="b2_spear_banner_10_host" Type="Guard"/>
+      <Piece id="sp_spear_handle_25" Type="Handle" scale_factor="96"/>
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="b2_lance_xiii" name="Lance" crafting_template="B2_TwoHandedPolearm_NoHorseStop" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="sp_spear_blade_14" Type="Blade"/>
+      <Piece id="b2_spear_banner_10_xiii" Type="Guard"/>
+      <Piece id="sp_spear_handle_25" Type="Handle" scale_factor="96"/>
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="b2_lance_vsc" name="Lance" crafting_template="B2_TwoHandedPolearm_NoHorseStop" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="sp_spear_blade_14" Type="Blade"/>
+      <Piece id="b2_spear_banner_10_vsc" Type="Guard"/>
+      <Piece id="sp_spear_handle_25" Type="Handle" scale_factor="96"/>
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="b2_lance_koh" name="Lance" crafting_template="B2_TwoHandedPolearm_NoHorseStop" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="sp_spear_blade_14" Type="Blade"/>
+      <Piece id="b2_spear_banner_10_koh" Type="Guard"/>
+      <Piece id="sp_spear_handle_25" Type="Handle" scale_factor="96"/>
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="b2_lance_kotf" name="Lance" crafting_template="B2_TwoHandedPolearm_NoHorseStop" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="sp_spear_blade_14" Type="Blade"/>
+      <Piece id="b2_spear_banner_10_kotf" Type="Guard"/>
+      <Piece id="sp_spear_handle_25" Type="Handle" scale_factor="96"/>
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="b2_lance_ipl" name="Lance" crafting_template="B2_TwoHandedPolearm_NoHorseStop" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="sp_spear_blade_14" Type="Blade"/>
+      <Piece id="b2_spear_banner_10_ipl" Type="Guard"/>
+      <Piece id="sp_spear_handle_25" Type="Handle" scale_factor="96"/>
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="b2_lance_ci" name="Lance" crafting_template="B2_TwoHandedPolearm_NoHorseStop" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="sp_spear_blade_14" Type="Blade"/>
+      <Piece id="b2_spear_banner_10_ci" Type="Guard"/>
+      <Piece id="sp_spear_handle_25" Type="Handle" scale_factor="96"/>
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="b2_lance_almo" name="Lance" crafting_template="B2_TwoHandedPolearm_NoHorseStop" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="sp_spear_blade_14" Type="Blade"/>
+      <Piece id="b2_spear_banner_10_almo" Type="Guard"/>
+      <Piece id="sp_spear_handle_25" Type="Handle" scale_factor="96"/>
+    </Pieces>
+  </CraftedItem>
+</Items>
