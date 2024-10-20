@@ -13376,8 +13376,8 @@
   </ClanClass>
   <ClanClass 
     clan="EPE"
-    color1="FF144ea8"
-    color2="FFd7a12b"
+    color1="FF122447"
+    color2="FF9c7018"
     banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
@@ -18995,7 +18995,7 @@
   <!--OMEY-->
   <ClanClass
     clan="OMEY"
-    banner="11.600.600.1536.1536.764.764.1.0.0.6000.40.40.500.500.764.764.1.0.0"
+    banner="11.148.1.913.1278.763.763.0.0.0.6502.7.7.640.640.764.764.1.0.0.503.128.128.480.480.764.764.1.0.0.503.12.12.470.470.764.764.1.0.0.6501.127.127.400.400.764.764.1.0.0"
     color1="FF1623ab"
     color2="FFFFFFFF"
     name="Infantry"
@@ -19051,7 +19051,7 @@
   </ClanClass>
   <ClanClass
     clan="OMEY"
-    banner="11.600.600.1536.1536.764.764.1.0.0.6000.40.40.500.500.764.764.1.0.0"
+    banner="11.148.1.913.1278.763.763.0.0.0.6502.7.7.640.640.764.764.1.0.0.503.128.128.480.480.764.764.1.0.0.503.12.12.470.470.764.764.1.0.0.6501.127.127.400.400.764.764.1.0.0"
     color1="FF1623ab"
     color2="FFFFFFFF"
     name="Archer"
@@ -19103,7 +19103,7 @@
   </ClanClass>
   <ClanClass
     clan="OMEY"
-    banner="11.600.600.1536.1536.764.764.1.0.0.6000.40.40.500.500.764.764.1.0.0"
+    banner="11.148.1.913.1278.763.763.0.0.0.6502.7.7.640.640.764.764.1.0.0.503.128.128.480.480.764.764.1.0.0.503.12.12.470.470.764.764.1.0.0.6501.127.127.400.400.764.764.1.0.0"
     color1="FFFFFFFF"
     color2="FF1623ab"
     name="Officer"
@@ -19155,6 +19155,1423 @@
     </Cape>
     <Gloves>
       <equipment id="mp_padded_vambrace" />
+    </Gloves>
+  </ClanClass>
+  <!--VD-->
+  <ClanClass
+    clan="VD"
+    banner="35.116.2.1418.1464.766.759.0.0.0.316.2.144.522.523.764.752.1.0.0.503.2.116.347.318.765.818.0.0.0.120.40.116.238.237.777.768.1.1.0.340.15.116.166.124.769.622.0.0.0.301.15.116.171.226.765.894.0.0.90"
+    color1="FF264d16"
+    color2="FF0d0d0d"
+    name="Infantry"
+    mpclassdivision="bre_infantry"
+    id="infantry_vd">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_rus_helm_regular" />
+    </Head>
+    <Body>
+      <equipment id="mp_sturgian_chainmale_longsleeve" />
+    </Body>
+    <Leg>
+      <equipment id="mp_strapped_mail_chausses" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_reinforced_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VD"
+    banner="35.116.2.1418.1464.766.759.0.0.0.316.2.144.522.523.764.752.1.0.0.503.2.116.347.318.765.818.0.0.0.120.40.116.238.237.777.768.1.1.0.340.15.116.166.124.769.622.0.0.0.301.15.116.171.226.765.894.0.0.90"
+    color1="FF264d16"
+    color2="FF0d0d0d"
+    name="Officer"
+    mpclassdivision="bre_infantry"
+    id="infantry_officer_vd">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="sp_banner_vlandia2" disablerandomize="true" disablegroup="Weapon0" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_vaegir_helm" />
+    </Head>
+    <Body>
+      <equipment id="mp_sturgian_chainmale_longsleeve" />
+    </Body>
+    <Leg>
+      <equipment id="mp_strapped_mail_chausses" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_reinforced_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VD"
+    banner="35.116.2.1418.1464.766.759.0.0.0.316.2.144.522.523.764.752.1.0.0.503.2.116.347.318.765.818.0.0.0.120.40.116.238.237.777.768.1.1.0.340.15.116.166.124.769.622.0.0.0.301.15.116.171.226.765.894.0.0.90"
+    color1="FF264d16"
+    color2="FF0d0d0d"
+    name="Commander"
+    mpclassdivision="bre_infantry"
+    id="infantry_officer_2_vd">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_rus_helm_regular" />
+      <equipment id="sa_rus_helm_noble_icon" />
+    </Head>
+    <Body>
+      <equipment id="sa_rus_armour" />
+      <equipment id="sa_rus_armour2" />
+    </Body>
+    <Leg>
+      <equipment id="mp_strapped_mail_chausses" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_lordly_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VD"
+    banner="35.116.2.1418.1464.766.759.0.0.0.316.2.144.522.523.764.752.1.0.0.503.2.116.347.318.765.818.0.0.0.120.40.116.238.237.777.768.1.1.0.340.15.116.166.124.769.622.0.0.0.301.15.116.171.226.765.894.0.0.90"
+    color1="FF264d16"
+    color2="FF0d0d0d"
+    name="Streltsy"
+    mpclassdivision="bre_archer"
+    id="archer_1_vd">
+    <Weapon0>
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="mp_pointed_skullcap_with_mail" />
+    </Head>
+    <Body>
+      <equipment id="mp_battanian_chainmail_armor_a" />
+    </Body>
+    <Leg>
+      <equipment id="sp_turndown_leather_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_padded_vambrace" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VD"
+    banner="35.116.2.1418.1464.766.759.0.0.0.316.2.144.522.523.764.752.1.0.0.503.2.116.347.318.765.818.0.0.0.120.40.116.238.237.777.768.1.1.0.340.15.116.166.124.769.622.0.0.0.301.15.116.171.226.765.894.0.0.90"
+    color1="FF264d16"
+    color2="FF0d0d0d"
+    name="Lancer"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_vd">
+    <Weapon0>
+      <equipment id="b2_lance_vd" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_sword" />
+      <equipment id="b2_bastard_axe" />
+    </Weapon2>
+    <Body>
+      <equipment id="mp_sturgian_chainmale_shortsleeve" />
+    </Body>
+    <Leg>
+      <equipment id="mp_strapped_mail_chausses" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_reinforced_mail_mitten" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="mp_chain_barding" cavalryitem="true"/>
+      <equipment id="mp_halfchain_barding" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="VD"
+    banner="35.116.2.1418.1464.766.759.0.0.0.316.2.144.522.523.764.752.1.0.0.503.2.116.347.318.765.818.0.0.0.120.40.116.238.237.777.768.1.1.0.340.15.116.166.124.769.622.0.0.0.301.15.116.171.226.765.894.0.0.90"
+    color1="FF264d16"
+    color2="FF0d0d0d"
+    name="Cossack"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_2_vd">
+    <Weapon0>
+      <equipment id="b2_lance_vd" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_sword" />
+      <equipment id="b2_bastard_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_rus_helm_noble_icon" />
+    </Head>
+    <Body>
+      <equipment id="sa_rus_armour2" />
+    </Body>
+    <Leg>
+      <equipment id="mp_strapped_mail_chausses" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_lordly_mail_mitten" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="mp_chain_barding" cavalryitem="true"/>
+      <equipment id="mp_halfchain_barding" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="VD"
+    banner="35.116.2.1418.1464.766.759.0.0.0.316.2.144.522.523.764.752.1.0.0.503.2.116.347.318.765.818.0.0.0.120.40.116.238.237.777.768.1.1.0.340.15.116.166.124.769.622.0.0.0.301.15.116.171.226.765.894.0.0.90"
+    color1="FF264d16"
+    color2="FF0d0d0d"
+    name="Infantry"
+    mpclassdivision="bre_infantry"
+    id="infantry_vd">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_rus_helm_regular" />
+    </Head>
+    <Body>
+      <equipment id="mp_sturgian_chainmale_longsleeve" />
+    </Body>
+    <Leg>
+      <equipment id="mp_strapped_mail_chausses" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_reinforced_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <!--LBO-->
+  <ClanClass
+    clan="LBO"
+    banner="11.40.40.1536.1536.764.764.1.0.0.6004.507.507.500.500.764.764.1.0.0"
+    color1="FFffffff"
+    color2="FF333333"
+    name="Milice - Přemyslovci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_1">
+    <Weapon0>
+      <equipment id="b2_native_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_spangenhelm_with_leather" />
+      <equipment id="mp_cervelliere_over_padded_cap" />
+      <equipment id="mp_cervelliere_over_arming_coif" />
+    </Head>
+    <Cape>
+      <equipment id="mp_wrapped_scarf" />
+      <equipment id="mp_scarf" />
+      <equipment id="null" />
+    </Cape>
+    <Body>
+      <equipment id="mp_vlandia_bandit_a" />
+      <equipment id="mp_patched_gambeson" />
+    </Body>
+    <Leg>
+      <equipment id="mp_strapped_shoes" />
+      <equipment id="mp_ragged_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_guarded_armwraps" />
+      <equipment id="mp_armwraps" />
+      <equipment id="mp_ragged_armwraps" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="7500.144.116.1536.1536.764.764.0.0.0"
+    color1="FF000000"
+    color2="FFf4ca16"
+    name="Milice - Vratislavci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_2">
+    <Weapon0>
+      <equipment id="b2_native_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_spangenhelm_with_leather" />
+      <equipment id="mp_cervelliere_over_padded_cap" />
+      <equipment id="mp_cervelliere_over_arming_coif" />
+    </Head>
+    <Cape>
+      <equipment id="mp_wrapped_scarf" />
+      <equipment id="mp_scarf" />
+      <equipment id="null" />
+    </Cape>
+    <Body>
+      <equipment id="mp_vlandia_bandit_a" />
+      <equipment id="mp_patched_gambeson" />
+    </Body>
+    <Leg>
+      <equipment id="mp_strapped_shoes" />
+      <equipment id="mp_ragged_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_guarded_armwraps" />
+      <equipment id="mp_armwraps" />
+      <equipment id="mp_ragged_armwraps" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="11.40.40.1536.1536.764.764.1.0.0.6004.507.507.500.500.764.764.1.0.0"
+    color1="FFffffff"
+    color2="FF333333"
+    name="Zbrojnoš - Přemyslovci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_2_1">
+    <Weapon0>
+      <equipment id="b2_native_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_pointed_skullcap_over_laced_coif" />
+      <equipment id="mp_pointed_skullcap_over_mail" />
+      <equipment id="mp_nasal_helmet_with_mail" />
+      <equipment id="mp_nasal_helmet_with_leather" />
+      <equipment id="sp_cervelliere_over_cloth_headwrap" />
+    </Head>
+    <Cape>
+      <equipment id="mp_hood" />
+      <equipment id="mp_battania_civil_cloak" />
+      <equipment id="mp_desert_fabric_shoulderpad" />
+      <equipment id="mp_wrapped_scarf" />
+      <equipment id="mp_scarf" />
+    </Cape>
+    <Body>
+      <equipment id="mp_empire_warrior_padded_armor_a" />
+      <equipment id="mp_empire_warrior_padded_armor_e" />
+      <equipment id="mp_northern_padded_cloth" />
+      <equipment id="sp_imperial_padded_cloth" />
+      <equipment id="mp_gambeson_b" />
+    </Body>
+    <Leg>
+      <equipment id="mp_battania_leather_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_leather_gloves" />
+      <equipment id="mp_highland_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="7500.144.116.1536.1536.764.764.0.0.0"
+    color1="FF000000"
+    color2="FFf4ca16"
+    name="Zbrojnoš - Vratislavci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_2_2">
+    <Weapon0>
+      <equipment id="b2_native_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_pointed_skullcap_over_laced_coif" />
+      <equipment id="mp_pointed_skullcap_over_mail" />
+      <equipment id="mp_nasal_helmet_with_mail" />
+      <equipment id="mp_nasal_helmet_with_leather" />
+      <equipment id="sp_cervelliere_over_cloth_headwrap" />
+    </Head>
+    <Cape>
+      <equipment id="mp_hood" />
+      <equipment id="mp_battania_civil_cloak" />
+      <equipment id="mp_desert_fabric_shoulderpad" />
+      <equipment id="mp_wrapped_scarf" />
+      <equipment id="mp_scarf" />
+    </Cape>
+    <Body>
+      <equipment id="mp_empire_warrior_padded_armor_a" />
+      <equipment id="mp_empire_warrior_padded_armor_e" />
+      <equipment id="mp_northern_padded_cloth" />
+      <equipment id="sp_imperial_padded_cloth" />
+      <equipment id="mp_gambeson_b" />
+    </Body>
+    <Leg>
+      <equipment id="mp_battania_leather_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_leather_gloves" />
+      <equipment id="mp_highland_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="11.40.40.1536.1536.764.764.1.0.0.6004.507.507.500.500.764.764.1.0.0"
+    color1="FFffffff"
+    color2="FF333333"
+    name="Těžkooděnec - Přemyslovci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_3_1">
+    <Weapon0>
+      <equipment id="b2_native_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_segmented_skullcap_over_mail_coif" />
+      <equipment id="mp_nasal_helmet_over_mail_coif" />
+      <equipment id="sp_pointed_skullcap_over_mail_coif" />
+      <equipment id="mp_nasal_cervelliere_over_mail_coif" />
+      <equipment id="mp_pointed_skullcap_over_laced_coif" />
+      <equipment id="mp_pointed_skullcap_over_mail" />
+    </Head>
+    <Cape>
+      <equipment id="mp_hood" />
+      <equipment id="sa_western_chain_shoulders" />
+      <equipment id="sp_chainmail_shoulder_armor" />
+    </Cape>
+    <Body>
+      <equipment id="mp_vlandia_chainmail" />
+      <equipment id="mp_hauberk" />
+      <equipment id="mp_mail_shirt" />
+    </Body>
+    <Leg>
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_leather_gloves" />
+      <equipment id="mp_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="7500.144.116.1536.1536.764.764.0.0.0"
+    color1="FF000000"
+    color2="FFf4ca16"
+    name="Těžkooděnec - Vratislavci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_3_2">
+    <Weapon0>
+      <equipment id="b2_native_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_segmented_skullcap_over_mail_coif" />
+      <equipment id="mp_nasal_helmet_over_mail_coif" />
+      <equipment id="sp_pointed_skullcap_over_mail_coif" />
+      <equipment id="mp_nasal_cervelliere_over_mail_coif" />
+      <equipment id="mp_pointed_skullcap_over_laced_coif" />
+      <equipment id="mp_pointed_skullcap_over_mail" />
+    </Head>
+    <Cape>
+      <equipment id="mp_hood" />
+      <equipment id="sa_western_chain_shoulders" />
+      <equipment id="sp_chainmail_shoulder_armor" />
+    </Cape>
+    <Body>
+      <equipment id="mp_vlandia_chainmail" />
+      <equipment id="mp_hauberk" />
+      <equipment id="mp_mail_shirt" />
+    </Body>
+    <Leg>
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_leather_gloves" />
+      <equipment id="mp_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="11.40.40.1536.1536.764.764.1.0.0.6004.507.507.500.500.764.764.1.0.0"
+    color1="FFffffff"
+    color2="FF333333"
+    name="Seržant - Přemyslovci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_4_1">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_segmented_skullcap_over_mail_coif" />
+      <equipment id="mp_nasal_helmet_over_mail_coif" />
+      <equipment id="sp_pointed_skullcap_over_mail_coif" />
+      <equipment id="mp_nasal_cervelliere_over_mail_coif" />
+    </Head>
+    <Cape>
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="b2_templar_0" />
+    </Body>
+    <Leg>
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="7500.144.116.1536.1536.764.764.0.0.0"
+    color1="FF000000"
+    color2="FFf4ca16"
+    name="Seržant - Vratislavci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_4_2">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_segmented_skullcap_over_mail_coif" />
+      <equipment id="mp_nasal_helmet_over_mail_coif" />
+      <equipment id="sp_pointed_skullcap_over_mail_coif" />
+      <equipment id="mp_nasal_cervelliere_over_mail_coif" />
+    </Head>
+    <Cape>
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="b2_templar_0" />
+    </Body>
+    <Leg>
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="11.40.40.1536.1536.764.764.1.0.0.6004.507.507.500.500.764.764.1.0.0"
+    color1="FFffffff"
+    color2="FF333333"
+    name="Panoš - Přemyslovci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_5_1">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_segmented_skullcap_over_mail_coif" />
+      <equipment id="mp_nasal_helmet_over_mail_coif" />
+      <equipment id="sp_pointed_skullcap_over_mail_coif" />
+      <equipment id="mp_nasal_cervelliere_over_mail_coif" />
+    </Head>
+    <Cape>
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="sa_sacoat1" />
+    </Body>
+    <Leg>
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
+      <equipment id="mp_leather_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="7500.144.116.1536.1536.764.764.0.0.0"
+    color1="FF000000"
+    color2="FFf4ca16"
+    name="Panoš - Vratislavci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_5_2">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_segmented_skullcap_over_mail_coif" />
+      <equipment id="mp_nasal_helmet_over_mail_coif" />
+      <equipment id="sp_pointed_skullcap_over_mail_coif" />
+      <equipment id="mp_nasal_cervelliere_over_mail_coif" />
+    </Head>
+    <Cape>
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="sa_sacoat3" />
+    </Body>
+    <Leg>
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
+      <equipment id="mp_leather_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="11.40.40.1536.1536.764.764.1.0.0.6004.507.507.500.500.764.764.1.0.0"
+    color1="FFffffff"
+    color2="FF333333"
+    name="Vlajkonoš - Přemyslovci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_6_1">
+    <Weapon0>
+      <equipment id="sp_banner_sturgia2" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon1>
+    <Head>
+      <equipment id="sa_vlandian_helm_with_faceplate" />
+    </Head>
+    <Cape>
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="b2_templar_0" />
+    </Body>
+    <Leg>
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_leather_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="7500.144.116.1536.1536.764.764.0.0.0"
+    color1="FF000000"
+    color2="FFf4ca16"
+    name="Vlajkonoš - Vratislavci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_6_2">
+    <Weapon0>
+      <equipment id="sp_banner_sturgia2" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon1>
+    <Head>
+      <equipment id="sa_vlandian_helm_with_faceplate" />
+    </Head>
+    <Cape>
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="b2_templar_0" />
+    </Body>
+    <Leg>
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_leather_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="11.40.40.1536.1536.764.764.1.0.0.6004.507.507.500.500.764.764.1.0.0"
+    color1="FFffffff"
+    color2="FF333333"
+    name="Hejtman - Přemyslovci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_7_1">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_fluted_helm_with_faceplate" />
+      <equipment id="mp_full_helm_over_cloth_headwrap" />
+      <equipment id="sa_pothelm" />
+      <equipment id="sa_vlandian_helm_with_faceplate" />
+    </Head>
+    <Cape>
+      <equipment id="sp_chainmail_shoulder_armor" />
+      <equipment id="mp_hood" />
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="b2_templar_0" />
+    </Body>
+    <Leg>
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
+      <equipment id="mp_leather_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="7500.144.116.1536.1536.764.764.0.0.0"
+    color1="FF000000"
+    color2="FFf4ca16"
+    name="Hejtman - Vratislavci"
+    mpclassdivision="bre_infantry"
+    id="infantry_lbo_7_2">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_fluted_helm_with_faceplate" />
+      <equipment id="mp_full_helm_over_cloth_headwrap" />
+      <equipment id="sa_pothelm" />
+      <equipment id="sa_vlandian_helm_with_faceplate" />
+    </Head>
+    <Cape>
+      <equipment id="sp_chainmail_shoulder_armor" />
+      <equipment id="mp_hood" />
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="b2_templar_0" />
+    </Body>
+    <Leg>
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
+      <equipment id="mp_leather_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="11.40.40.1536.1536.764.764.1.0.0.6004.507.507.500.500.764.764.1.0.0"
+    color1="FFffffff"
+    color2="FF333333"
+    name="Baron z rodu Přemyslovců"
+    mpclassdivision="bre_infantry"
+    id="infantry_officer_lbo_1">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_great_prankh_helm_crest" />
+    </Head>
+    <Cape>
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="sa_mail_with_tabbard1" />
+    </Body>
+    <Leg>
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="7500.144.116.1536.1536.764.764.0.0.0"
+    color1="FF000000"
+    color2="FFf4ca16"
+    name="Rytíř z Vratislavi"
+    mpclassdivision="bre_infantry"
+    id="infantry_officer_lbo_2">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_great_prankh_helm_winged" />
+    </Head>
+    <Cape>
+      <equipment id="sp_chainmail_shoulder_armor" />
+    </Cape>
+    <Body>
+      <equipment id="sa_mail_with_tabbard3" />
+    </Body>
+    <Leg>
+      <equipment id="mp_leather_cavalier_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="11.40.40.1536.1536.764.764.1.0.0.6004.507.507.500.500.764.764.1.0.0"
+    color1="FFffffff"
+    color2="FF333333"
+    name="Baron z rodu Přemyslovců (mounted)"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_officer_lbo_1">
+    <Weapon0>
+      <equipment id="b2_lance_lbo_pre" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_sword" />
+      <equipment id="b2_bastard_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_great_prankh_helm_crest" />
+    </Head>
+    <Cape>
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="sa_mail_with_tabbard1" />
+    </Body>
+    <Leg>
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="mp_chain_barding" cavalryitem="true"/>
+      <equipment id="mp_halfchain_barding" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="LBO"
+    banner="7500.144.116.1536.1536.764.764.0.0.0"
+    color1="FF000000"
+    color2="FFf4ca16"
+    name="Rytíř z Vratislavi (mounted)"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_officer_lbo_2">
+    <Weapon0>
+      <equipment id="b2_lance_lbo_vra" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_kite_shield" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_sword" />
+      <equipment id="b2_bastard_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_great_prankh_helm_winged" />
+    </Head>
+    <Cape>
+      <equipment id="sp_chainmail_shoulder_armor" />
+    </Cape>
+    <Body>
+      <equipment id="sa_mail_with_tabbard3" />
+    </Body>
+    <Leg>
+      <equipment id="mp_leather_cavalier_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="mp_chain_barding" cavalryitem="true"/>
+      <equipment id="mp_halfchain_barding" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <!--SAN-->
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Peregrino"
+    mpclassdivision="bre_infantry"
+    id="infantry_san">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_tall_heater_shield_noboss_san"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_segmented_cervelliere_over_mail_coif" />
+    </Head>
+    <Cape>
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="mp_banded_leather_over_mail" />
+    </Body>
+    <Leg>
+      <equipment id="mp_buttoned_leather_bracers" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_leather_cavalier_boots" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Infanteria"
+    mpclassdivision="bre_infantry"
+    id="infantry_san_2">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_tall_heater_shield_noboss_san"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_segmented_skullcap_over_mail_coif" />
+    </Head>
+    <Body>
+      <equipment id="ci_mail_with_tabbard_san" />
+    </Body>
+    <Leg>
+      <equipment id="mp_mail_mitten" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_chausses" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Abanderado"
+    mpclassdivision="bre_infantry"
+    id="infantry_san_3">
+    <Weapon0>
+      <equipment id="sp_banner_empire3" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon1>
+    <Head>
+      <equipment id="mp_segmented_skullcap_over_mail_coif" />
+    </Head>
+    <Body>
+      <equipment id="ci_mail_with_tabbard_san" />
+    </Body>
+    <Leg>
+      <equipment id="mp_mail_mitten" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_chausses" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Suboficial"
+    mpclassdivision="bre_infantry"
+    id="infantry_officer_san">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_tall_heater_shield_noboss_san"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_great_helm_brass" />
+    </Head>
+    <Body>
+      <equipment id="ci_mail_with_tabbard_san" />
+    </Body>
+    <Leg>
+      <equipment id="mp_mail_mitten" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_chausses" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Gran Maestre"
+    mpclassdivision="bre_infantry"
+    id="infantry_officer_san_2">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_tall_heater_shield_noboss_san"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_sugarloaf_helm3" />
+    </Head>
+    <Body>
+      <equipment id="ci_mail_with_tabbard_san" />
+    </Body>
+    <Leg>
+      <equipment id="mp_mail_mitten" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_chausses" />
+    </Gloves>
+  </ClanClass>
+  <!--TOL-->
+  <ClanClass
+    clan="TOL"
+    banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0"
+    color1="FFBCA816"
+    color2="FF000000"
+    name="Milicia"
+    mpclassdivision="bre_infantry"
+    id="infantry_tol">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_bracketed_heater_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="mp_kettle_helmet_with_leather" />
+      <equipment id="mp_kettle_helmet_over_padded_cloth" />
+      <equipment id="mp_nasal_cervelliere_over_laced_coif" />
+    </Head>
+    <Body>
+      <equipment id="mp_woven_leather_coat" />
+    </Body>
+    <Leg>
+      <equipment id="mp_leather_cavalier_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_woven_leather_bracers" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="TOL"
+    banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0"
+    color1="FFBCA816"
+    color2="FF000000"
+    name="Infanteria"
+    mpclassdivision="bre_infantry"
+    id="infantry_tol_2">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_bracketed_heater_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_bacinet_with_facemask" />
+      <equipment id="mp_nasal_cervelliere_over_mail_coif" />
+      <equipment id="mp_segmented_skullcap_over_mail_coif" />
+      <equipment id="sa_sallet_no_visor" />
+    </Head>
+    <Cape>
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="ci_coat_of_plates1_c" />
+    </Body>
+    <Leg>
+      <equipment id="mp_leather_cavalier_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="TOL"
+    banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0"
+    color1="FFBCA816"
+    color2="FF000000"
+    name="Abanderado"
+    mpclassdivision="bre_infantry"
+    id="infantry_tol_3">
+    <Weapon0>
+      <equipment id="sp_banner_empire3" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon1>
+    <Head>
+      <equipment id="sa_bacinet_with_facemask" />
+      <equipment id="mp_nasal_cervelliere_over_mail_coif" />
+      <equipment id="mp_segmented_skullcap_over_mail_coif" />
+      <equipment id="sa_sallet_no_visor" />
+    </Head>
+    <Cape>
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Body>
+      <equipment id="ci_coat_of_plates1_c" />
+    </Body>
+    <Leg>
+      <equipment id="mp_leather_cavalier_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
     </Gloves>
   </ClanClass>
 </ClanClasses>

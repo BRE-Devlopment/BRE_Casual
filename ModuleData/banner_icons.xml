@@ -30,6 +30,18 @@
 			<!--TOL-->
 			<Icon id="6012" material_name="bannericons_casual" texture_index="12" />
 		</BannerIconGroup>
+		<BannerIconGroup id="21" name="bannericons_casual_ci" is_pattern="false">
+			<Icon id="6500" material_name="bannericons_casual_ci" texture_index="0" />
+			<Icon id="6501" material_name="bannericons_casual_ci" texture_index="1" />
+			<Icon id="6502" material_name="bannericons_casual_ci" texture_index="2" />
+			<Icon id="6503" material_name="bannericons_casual_ci" texture_index="3" />
+			<Icon id="6504" material_name="bannericons_casual_ci" texture_index="4" />
+			<Icon id="6505" material_name="bannericons_casual_ci" texture_index="5" />
+			<Icon id="6506" material_name="bannericons_casual_ci" texture_index="6" />
+		</BannerIconGroup>
+		<BannerIconGroup id="20" name="Background" is_pattern="true">
+			<Background id="7500" mesh_name="bre_banner_background_lbo" />
+		</BannerIconGroup>
 		<BannerColors>
 			<!--OMEY blue-->
 			<Color id="600" hex="0xFF19357d"/>

@@ -55,6 +55,9 @@
       <UsablePiece id="b2_spear_banner_10_host"/>
       <UsablePiece id="b2_spear_banner_10_svci"/>
       <UsablePiece id="b2_spear_banner_10_maw"/>
+      <UsablePiece id="b2_spear_banner_10_vd"/>
+      <UsablePiece id="b2_spear_banner_10_lbo_pre"/>
+      <UsablePiece id="b2_spear_banner_10_lbo_vra"/>
     </xsl:copy>
   </xsl:template>
   <xsl:template match="WeaponDescription[@id='B2_TwoHandedPolearm_Couching']/AvailablePieces">
@@ -70,6 +73,9 @@
       <UsablePiece id="b2_spear_banner_10_host"/>
       <UsablePiece id="b2_spear_banner_10_svci"/>
       <UsablePiece id="b2_spear_banner_10_maw"/>
+      <UsablePiece id="b2_spear_banner_10_vd"/>
+      <UsablePiece id="b2_spear_banner_10_lbo_pre"/>
+      <UsablePiece id="b2_spear_banner_10_lbo_vra"/>
     </xsl:copy>
   </xsl:template>
   <xsl:template match="WeaponDescription[@id='B2_OneHandedPolearm_NoHorseStop']/AvailablePieces">
@@ -90,6 +96,9 @@
       <UsablePiece id="b2_spear_banner_10_host"/>
       <UsablePiece id="b2_spear_banner_10_svci"/>
       <UsablePiece id="b2_spear_banner_10_maw"/>
+      <UsablePiece id="b2_spear_banner_10_vd"/>
+      <UsablePiece id="b2_spear_banner_10_lbo_pre"/>
+      <UsablePiece id="b2_spear_banner_10_lbo_vra"/>
     </xsl:copy>
   </xsl:template>
   <xsl:template match="WeaponDescription[@id='B2_TwoHandedPolearm_NoHorseStop']/AvailablePieces">
@@ -110,6 +119,9 @@
       <UsablePiece id="b2_spear_banner_10_host"/>
       <UsablePiece id="b2_spear_banner_10_svci"/>
       <UsablePiece id="b2_spear_banner_10_maw"/>
+      <UsablePiece id="b2_spear_banner_10_vd"/>
+      <UsablePiece id="b2_spear_banner_10_lbo_pre"/>
+      <UsablePiece id="b2_spear_banner_10_lbo_vra"/>
     </xsl:copy>
   </xsl:template>
   <xsl:template match="WeaponDescription[@id='B2_OneHandedSword']/AvailablePieces">

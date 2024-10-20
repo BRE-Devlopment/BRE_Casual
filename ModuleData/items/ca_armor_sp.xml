@@ -35,4 +35,20 @@
     <Flags
       UseTeamColor="true" />
   </Item>
+  <Item
+    id="sp_turndown_leather_boots"
+    name="Folded Leather Boots"
+    mesh="sea_raider_leather_boot"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
 </Items>

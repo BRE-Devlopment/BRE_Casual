@@ -21,4 +21,10 @@
     </CraftingPiece>
     <CraftingPiece id="b2_spear_banner_10_maw" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_maw" length="12" weight="0">
     </CraftingPiece>
+    <CraftingPiece id="b2_spear_banner_10_vd" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_vd" length="12" weight="0">
+    </CraftingPiece>
+    <CraftingPiece id="b2_spear_banner_10_lbo_vra" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_lbo_vra" length="12" weight="0">
+    </CraftingPiece>
+    <CraftingPiece id="b2_spear_banner_10_lbo_pre" name="Thin Swallowtail Banner" tier="2" piece_type="Guard" mesh="bre_spear_banner_10_lbo_pre" length="12" weight="0">
+    </CraftingPiece>
 </CraftingPieces>

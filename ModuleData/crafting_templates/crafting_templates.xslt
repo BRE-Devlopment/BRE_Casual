@@ -64,6 +64,9 @@
       <UsablePiece piece_id="b2_spear_banner_10_host"/>
       <UsablePiece piece_id="b2_spear_banner_10_svci"/>
       <UsablePiece piece_id="b2_spear_banner_10_maw"/>
+      <UsablePiece piece_id="b2_spear_banner_10_vd"/>
+      <UsablePiece piece_id="b2_spear_banner_10_lbo_pre"/>
+      <UsablePiece piece_id="b2_spear_banner_10_lbo_vra"/>
 
       <UsablePiece piece_id="xiii_spear_blade_1"/>
       <UsablePiece piece_id="xiii_spear_guard_1"/>
