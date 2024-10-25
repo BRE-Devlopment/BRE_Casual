@@ -1438,7 +1438,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.aq">
     <Weapon0>
-      <equipment id="b2_peasant_spear" />
+      <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
@@ -1506,10 +1506,6 @@
     id="man_at_arms.aq">
     <Weapon0>
       <equipment id="b2_man_spear" />
-      <equipment id="b3_peasant_polearm_1"/>
-      <equipment id="b3_peasant_polearm_2"/>
-      <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_aq" />
@@ -1577,10 +1573,6 @@
     id="sergeant_at_arms.aq">
     <Weapon0>
       <equipment id="b2_man_spear" />
-      <equipment id="b3_peasant_polearm_1"/>
-      <equipment id="b3_peasant_polearm_2"/>
-      <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
@@ -1637,10 +1629,6 @@
     id="captain.aq">
     <Weapon0>
       <equipment id="b2_man_spear" />
-      <equipment id="b3_peasant_polearm_1"/>
-      <equipment id="b3_peasant_polearm_2"/>
-      <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_aq" />
@@ -2929,11 +2917,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.mou">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -3598,11 +3586,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.bri">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -4345,11 +4333,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.mon">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -4996,11 +4984,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.cas">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -5626,11 +5614,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.lab">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -6267,11 +6255,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.bag">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -6908,11 +6896,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.tur">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -7549,11 +7537,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.mor">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -8190,11 +8178,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.art">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -8833,11 +8821,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.gar">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -9474,11 +9462,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.gri">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -10117,11 +10105,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.mar">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -10759,11 +10747,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.fro">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -11404,11 +11392,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.mau">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -12044,11 +12032,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.lan">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -12684,11 +12672,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.bas">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -13327,11 +13315,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.epe">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -13972,11 +13960,11 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.grism">
     <Weapon0>
-            <equipment id="b3_peasant_polearm_1"/>
+      <equipment id="b2_man_spear"/>
+      <equipment id="b3_peasant_polearm_1"/>
       <equipment id="b3_peasant_polearm_2"/>
       <equipment id="b3_peasant_polearm_3"/>
-      <equipment id="b3_peasant_polearm_4"/><equipment id="b2_man_sp
-      ear"/>
+      <equipment id="b3_peasant_polearm_4"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
