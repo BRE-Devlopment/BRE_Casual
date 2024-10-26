@@ -960,6 +960,7 @@
     </Weapon2>
     <Head>
       <equipment id="b3_order_knight_helmet" />
+      <equipment id="null" disablerandomize="true" />
     </Head>
     <Body>
       <equipment id="b3_order_knight_body" />
@@ -12043,7 +12044,7 @@
       <equipment id="b3_tower_shield1_lan"/>
       <equipment id="b3_tower_shield2_lan"/>
       <equipment id="b3_tower_shield3_lan"/>
-      <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -12683,7 +12684,7 @@
       <equipment id="b3_tower_shield1_bas"/>
       <equipment id="b3_tower_shield2_bas"/>
       <equipment id="b3_tower_shield3_bas"/>
-      <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
