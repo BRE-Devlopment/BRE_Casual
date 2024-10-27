@@ -17678,6 +17678,7 @@
         </Weapon2>
         <Weapon3>
             <equipment id="sp_horse_whip"/>
+            <equipment id="null" disablerandomize="true" hidden="true"/>
         </Weapon3>
         <Head>
             <equipment id="sp_western_plated_helmet"/>
@@ -17781,8 +17782,6 @@
         <Weapon2>
             <equipment id="xiii_sword_1"/>
             <equipment id="xiii_sword_3"/>
-            <equipment id="xiii_sword_1"/>
-            <equipment id="xiii_sword_2"/>
             <equipment id="b2_peasant_dagger"/>
         </Weapon2>
         <Head>
@@ -17829,8 +17828,6 @@
             <equipment id="xiii_sword_1"/>
             <equipment id="xiii_sword_2"/>
             <equipment id="xiii_sword_3"/>
-            <equipment id="xiii_sword_1"/>
-            <equipment id="xiii_sword_2"/>
             <equipment id="b2_peasant_dagger"/>
         </Weapon2>
         <Head>
@@ -18010,7 +18007,9 @@
             <equipment id="xiii_spear_1"/>
             <equipment id="xiii_2h_sword_1" disablerandomize="true" disablegroup="Weapon2"/>
             <equipment id="xiii_2h_sword_2" disablerandomize="true" disablegroup="Weapon2"/>
+            <equipment id="xiii_2h_sword_3" disablerandomize="true" disablegroup="Weapon2"/>
             <equipment id="xiii_2h_axe_1" disablerandomize="true" disablegroup="Weapon2"/>
+            <equipment id="xiii_2h_axe_2" disablerandomize="true" disablegroup="Weapon2"/>
             <equipment id="xiii_2h_mace_1" disablerandomize="true" disablegroup="Weapon2"/>
             <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
         </Weapon0>
