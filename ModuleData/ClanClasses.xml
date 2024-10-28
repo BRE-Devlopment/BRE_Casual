@@ -737,7 +737,6 @@
       <equipment id="b3_pilgrim_shield_1" />
       <equipment id="b3_pilgrim_shield_2" />
       <equipment id="b3_pilgrim_shield_3" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Body>
       <equipment id="b3_pilgrim_a_body" />
@@ -782,7 +781,6 @@
       <equipment id="b3_exalted_pilgrim_shield_1" />
       <equipment id="b3_exalted_pilgrim_shield_2" />
       <equipment id="b3_exalted_pilgrim_shield_3" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head> 
       <equipment id="b3_battle_pilgrim_b_helmet1" />
@@ -828,7 +826,6 @@
       <equipment id="b3_exalted_pilgrim_shield_1" />
       <equipment id="b3_exalted_pilgrim_shield_2" />
       <equipment id="b3_exalted_pilgrim_shield_3" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="b3_exalted_pilgrim_b_helmet1" />
@@ -873,7 +870,6 @@
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="b3_order_novice_helmet1" />
@@ -907,7 +903,6 @@
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="b3_order_sergeant_helmet" />
@@ -938,7 +933,6 @@
       <equipment id="b2_man_mace" />
       <equipment id="b2_sergeant_axe" />
       <equipment id="b2_sergeant_sword" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="b3_order_sergeant_helmet" />
@@ -964,16 +958,20 @@
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b2_faussard" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_mace" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_axe" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_sword" disablegroup="Weapon2" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
       <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="b3_order_knight_helmet" />
@@ -1015,16 +1013,20 @@
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b2_faussard" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_mace" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_axe" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_sword" disablegroup="Weapon2" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
       <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="b3_order_commander_helmet" />
@@ -1065,17 +1067,21 @@
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b2_faussard" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_mace" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_axe" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b3_order_paladin_2h_sword" disablegroup="Weapon2" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_order_paladin_2h_sword" />
       <equipment id="b2_man_mace" disablerandomize="true" />
       <equipment id="b2_bastard_sword" disablerandomize="true" />
       <equipment id="b2_bastard_axe" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="b3_order_paladin_helmet" />
@@ -1116,16 +1122,20 @@
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b2_faussard" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_mace" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_axe" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_sword" disablegroup="Weapon2" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
       <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="b3_order_chaplain_helmet" />
@@ -1166,16 +1176,20 @@
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b2_faussard" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_mace" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_axe" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b3_order_inquisitor_2h_sword" disablegroup="Weapon2" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_inquisitor" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_order_inquisitor_2h_sword" />
       <equipment id="b2_man_mace" disablerandomize="true" />
       <equipment id="b2_bastard_sword" disablerandomize="true" />
       <equipment id="b2_bastard_axe" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="b3_order_inquisitor_helmet" />
@@ -1216,16 +1230,20 @@
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b2_faussard" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_mace" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_axe" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b3_order_grand_master_2h_sword" disablegroup="Weapon2" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_grand_master" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_order_grand_master_2h_sword" />
       <equipment id="b2_man_mace" disablerandomize="true" />
       <equipment id="b2_bastard_sword" disablerandomize="true" />
       <equipment id="b2_bastard_axe" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="b3_order_grand_master_helmet" />
@@ -1266,16 +1284,20 @@
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b2_faussard" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b3_order_grand_prior_2h_mace" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_axe" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b2_2h_sword" disablegroup="Weapon2" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_grand_prior" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_order_grand_prior_2h_mace" />
       <equipment id="b2_man_mace" disablerandomize="true" />
       <equipment id="b2_bastard_sword" disablerandomize="true" />
       <equipment id="b2_bastard_axe" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="b3_order_grand_prior_helmet" />
