@@ -11,15 +11,16 @@
     id="armed_peasant.co">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_co"/>
       <equipment id="b3_tower_shield2_co"/>
       <equipment id="b3_tower_shield3_co"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -78,15 +79,16 @@
     id="man_at_arms.co">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_co"/>
       <equipment id="b3_tower_shield2_co"/>
       <equipment id="b3_tower_shield3_co"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -145,10 +147,10 @@
     id="sergeant_at_arms.co">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -156,6 +158,7 @@
       <equipment id="b3_tower_shield2_co"/>
       <equipment id="b3_tower_shield3_co"/>
       <equipment id="sp_banner_vlandia3" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -204,15 +207,16 @@
     id="captain.co">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_co"/>
       <equipment id="b3_tower_shield2_co"/>
       <equipment id="b3_tower_shield3_co"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -376,6 +380,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -438,6 +443,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -490,6 +496,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -538,6 +545,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -608,6 +616,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -674,6 +683,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_grail_shield_co" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
@@ -727,6 +737,7 @@
       <equipment id="b3_pilgrim_shield_1" />
       <equipment id="b3_pilgrim_shield_2" />
       <equipment id="b3_pilgrim_shield_3" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Body>
       <equipment id="b3_pilgrim_a_body" />
@@ -771,6 +782,7 @@
       <equipment id="b3_exalted_pilgrim_shield_1" />
       <equipment id="b3_exalted_pilgrim_shield_2" />
       <equipment id="b3_exalted_pilgrim_shield_3" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head> 
       <equipment id="b3_battle_pilgrim_b_helmet1" />
@@ -816,6 +828,7 @@
       <equipment id="b3_exalted_pilgrim_shield_1" />
       <equipment id="b3_exalted_pilgrim_shield_2" />
       <equipment id="b3_exalted_pilgrim_shield_3" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="b3_exalted_pilgrim_b_helmet1" />
@@ -860,6 +873,7 @@
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="b3_order_novice_helmet1" />
@@ -893,6 +907,7 @@
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="b3_order_sergeant_helmet" />
@@ -923,6 +938,7 @@
       <equipment id="b2_man_mace" />
       <equipment id="b2_sergeant_axe" />
       <equipment id="b2_sergeant_sword" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="b3_order_sergeant_helmet" />
@@ -952,6 +968,7 @@
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
@@ -1002,6 +1019,7 @@
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
@@ -1051,6 +1069,7 @@
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_order_paladin_2h_sword" />
@@ -1101,6 +1120,7 @@
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
@@ -1149,6 +1169,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_inquisitor" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_order_inquisitor_2h_sword" />
@@ -1198,6 +1219,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_grand_master" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_order_grand_master_2h_sword" />
@@ -1247,6 +1269,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_grand_prior" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_order_grand_prior_2h_mace" />
@@ -1298,6 +1321,7 @@
     <Weapon1>
       <equipment id="sp_arrows_watch" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="woc_sword" />
@@ -1336,6 +1360,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows_watch" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -1376,6 +1401,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="woc_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="woc_hood" />
@@ -1410,6 +1436,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="woc_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="woc_helmet" />
@@ -1440,15 +1467,16 @@
     id="armed_peasant.aq">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_aq" />
       <equipment id="b3_tower_shield2_aq" />
       <equipment id="b3_tower_shield3_aq" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace" />
@@ -1507,11 +1535,16 @@
     id="man_at_arms.aq">
     <Weapon0>
       <equipment id="b2_man_spear" />
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_aq" />
       <equipment id="b3_tower_shield2_aq" />
       <equipment id="b3_tower_shield3_aq" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
@@ -1574,6 +1607,10 @@
     id="sergeant_at_arms.aq">
     <Weapon0>
       <equipment id="b2_man_spear" />
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
@@ -1581,6 +1618,7 @@
       <equipment id="b3_tower_shield2_aq" />
       <equipment id="b3_tower_shield3_aq" />
       <equipment id="b2_banner_aq" disablegroup="Weapon0" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
@@ -1630,11 +1668,16 @@
     id="captain.aq">
     <Weapon0>
       <equipment id="b2_man_spear" />
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_aq" />
       <equipment id="b3_tower_shield2_aq" />
       <equipment id="b3_tower_shield3_aq" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
@@ -1711,6 +1754,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -1773,6 +1817,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe" />
@@ -1828,6 +1873,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe" />
@@ -1876,6 +1922,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
@@ -1946,6 +1993,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -2012,6 +2060,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_aq" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
@@ -2056,15 +2105,16 @@
     id="armed_peasant.ga">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_ga"/>
       <equipment id="b3_tower_shield2_ga"/>
       <equipment id="b3_tower_shield3_ga"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -2123,15 +2173,16 @@
     id="man_at_arms.ga">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_ga"/>
       <equipment id="b3_tower_shield2_ga"/>
       <equipment id="b3_tower_shield3_ga"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -2190,10 +2241,10 @@
     id="sergeant_at_arms.ga">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -2201,6 +2252,7 @@
       <equipment id="b3_tower_shield2_ga"/>
       <equipment id="b3_tower_shield3_ga"/>
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -2249,15 +2301,16 @@
     id="captain.ga">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_ga"/>
       <equipment id="b3_tower_shield2_ga"/>
       <equipment id="b3_tower_shield3_ga"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -2332,6 +2385,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_dragonguard_sword"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_tower_shield1_ga"/>
@@ -2365,6 +2419,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_dragonguard_sword"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_tower_shield1_ga"/>
@@ -2400,6 +2455,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_dragonguard_sword"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_tower_shield1_ga"/>
@@ -2436,6 +2492,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -2499,6 +2556,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -2551,6 +2609,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -2599,6 +2658,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -2669,6 +2729,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -2735,6 +2796,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_ga"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -2779,15 +2841,16 @@
     id="armed_peasant.mou">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mou"/>
       <equipment id="b3_tower_shield2_mou"/>
       <equipment id="b3_tower_shield3_mou"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -2846,15 +2909,16 @@
     id="man_at_arms.mou">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mou"/>
       <equipment id="b3_tower_shield2_mou"/>
       <equipment id="b3_tower_shield3_mou"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -2919,10 +2983,10 @@
     id="sergeant_at_arms.mou">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -2930,6 +2994,7 @@
       <equipment id="b3_tower_shield2_mou"/>
       <equipment id="b3_tower_shield3_mou"/>
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -2980,15 +3045,16 @@
     id="captain.mou">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mou"/>
       <equipment id="b3_tower_shield2_mou"/>
       <equipment id="b3_tower_shield3_mou"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -3066,6 +3132,7 @@
       <equipment id="b3_graveguard_mace"/>
       <equipment id="b3_graveguard_axe"/>
       <equipment id="b3_graveguard_sword"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="gg_head"/>
@@ -3098,6 +3165,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -3161,6 +3229,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -3218,6 +3287,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -3267,6 +3337,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -3339,6 +3410,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -3401,6 +3473,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_mou"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -3448,15 +3521,16 @@
     id="armed_peasant.bri">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_bri"/>
       <equipment id="b3_tower_shield2_bri"/>
       <equipment id="b3_tower_shield3_bri"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -3515,15 +3589,16 @@
     id="man_at_arms.bri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_bri"/>
       <equipment id="b3_tower_shield2_bri"/>
       <equipment id="b3_tower_shield3_bri"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -3588,10 +3663,10 @@
     id="sergeant_at_arms.bri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -3599,6 +3674,7 @@
       <equipment id="b3_tower_shield2_bri"/>
       <equipment id="b3_tower_shield3_bri"/>
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -3649,15 +3725,16 @@
     id="captain.bri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_bri"/>
       <equipment id="b3_tower_shield2_bri"/>
       <equipment id="b3_tower_shield3_bri"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -3733,6 +3810,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b2_man_sword"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_squire_kiteshield"/>
@@ -3770,6 +3848,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b2_man_sword"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_squire_kiteshield"/>
@@ -3807,6 +3886,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b2_man_sword"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b3_squire_kiteshield"/>
@@ -3843,6 +3923,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -3906,6 +3987,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -3963,6 +4045,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -4013,6 +4096,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -4085,6 +4169,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -4151,6 +4236,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_bri"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -4195,15 +4281,16 @@
     id="armed_peasant.mon">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mon"/>
       <equipment id="b3_tower_shield2_mon"/>
       <equipment id="b3_tower_shield3_mon"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -4262,15 +4349,16 @@
     id="man_at_arms.mon">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mon"/>
       <equipment id="b3_tower_shield2_mon"/>
       <equipment id="b3_tower_shield3_mon"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -4335,10 +4423,10 @@
     id="sergeant_at_arms.mon">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -4346,6 +4434,7 @@
       <equipment id="b3_tower_shield2_mon"/>
       <equipment id="b3_tower_shield3_mon"/>
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -4396,15 +4485,16 @@
     id="captain.mon">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mon"/>
       <equipment id="b3_tower_shield2_mon"/>
       <equipment id="b3_tower_shield3_mon"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -4482,6 +4572,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -4544,6 +4635,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -4601,6 +4693,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -4651,6 +4744,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -4723,6 +4817,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -4790,6 +4885,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_mon"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
@@ -4850,15 +4946,16 @@
     id="armed_peasant.cas">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_cas"/>
       <equipment id="b3_tower_shield2_cas"/>
       <equipment id="b3_tower_shield3_cas"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -4917,15 +5014,16 @@
     id="man_at_arms.cas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_cas"/>
       <equipment id="b3_tower_shield2_cas"/>
       <equipment id="b3_tower_shield3_cas"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -4986,10 +5084,10 @@
     id="sergeant_at_arms.cas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -4997,6 +5095,7 @@
       <equipment id="b3_tower_shield2_cas"/>
       <equipment id="b3_tower_shield3_cas"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -5046,15 +5145,16 @@
     id="captain.cas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_cas"/>
       <equipment id="b3_tower_shield2_cas"/>
       <equipment id="b3_tower_shield3_cas"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -5132,6 +5232,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -5194,6 +5295,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -5248,6 +5350,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -5297,6 +5400,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -5369,6 +5473,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -5431,6 +5536,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_cas"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -5478,15 +5584,16 @@
     id="armed_peasant.lab">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_lab"/>
       <equipment id="b3_tower_shield2_lab"/>
       <equipment id="b3_tower_shield3_lab"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -5545,15 +5652,16 @@
     id="man_at_arms.lab">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_lab"/>
       <equipment id="b3_tower_shield2_lab"/>
       <equipment id="b3_tower_shield3_lab"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -5616,10 +5724,10 @@
     id="sergeant_at_arms.lab">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -5627,6 +5735,7 @@
       <equipment id="b3_tower_shield2_lab"/>
       <equipment id="b3_tower_shield3_lab"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -5676,15 +5785,16 @@
     id="captain.lab">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_lab"/>
       <equipment id="b3_tower_shield2_lab"/>
       <equipment id="b3_tower_shield3_lab"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -5761,6 +5871,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -5823,6 +5934,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -5878,6 +5990,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -5926,6 +6039,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -5996,6 +6110,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -6062,6 +6177,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_lab"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -6119,15 +6235,16 @@
     id="armed_peasant.bag">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_bag"/>
       <equipment id="b3_tower_shield2_bag"/>
       <equipment id="b3_tower_shield3_bag"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -6186,15 +6303,16 @@
     id="man_at_arms.bag">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_bag"/>
       <equipment id="b3_tower_shield2_bag"/>
       <equipment id="b3_tower_shield3_bag"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -6257,10 +6375,10 @@
     id="sergeant_at_arms.bag">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -6268,6 +6386,7 @@
       <equipment id="b3_tower_shield2_bag"/>
       <equipment id="b3_tower_shield3_bag"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -6317,15 +6436,16 @@
     id="captain.bag">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_bag"/>
       <equipment id="b3_tower_shield2_bag"/>
       <equipment id="b3_tower_shield3_bag"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -6402,6 +6522,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -6464,6 +6585,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -6519,6 +6641,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -6567,6 +6690,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -6637,6 +6761,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -6703,6 +6828,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_bag"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -6760,15 +6886,16 @@
     id="armed_peasant.tur">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_tur"/>
       <equipment id="b3_tower_shield2_tur"/>
       <equipment id="b3_tower_shield3_tur"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -6827,15 +6954,16 @@
     id="man_at_arms.tur">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_tur"/>
       <equipment id="b3_tower_shield2_tur"/>
       <equipment id="b3_tower_shield3_tur"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -6898,10 +7026,10 @@
     id="sergeant_at_arms.tur">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -6909,6 +7037,7 @@
       <equipment id="b3_tower_shield2_tur"/>
       <equipment id="b3_tower_shield3_tur"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -6958,15 +7087,16 @@
     id="captain.tur">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_tur"/>
       <equipment id="b3_tower_shield2_tur"/>
       <equipment id="b3_tower_shield3_tur"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -7043,6 +7173,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -7105,6 +7236,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -7160,6 +7292,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -7208,6 +7341,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -7278,6 +7412,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -7344,6 +7479,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_tur"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -7401,15 +7537,16 @@
     id="armed_peasant.mor">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mor"/>
       <equipment id="b3_tower_shield2_mor"/>
       <equipment id="b3_tower_shield3_mor"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -7468,15 +7605,16 @@
     id="man_at_arms.mor">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mor"/>
       <equipment id="b3_tower_shield2_mor"/>
       <equipment id="b3_tower_shield3_mor"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -7539,10 +7677,10 @@
     id="sergeant_at_arms.mor">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -7550,6 +7688,7 @@
       <equipment id="b3_tower_shield2_mor"/>
       <equipment id="b3_tower_shield3_mor"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -7599,15 +7738,16 @@
     id="captain.mor">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mor"/>
       <equipment id="b3_tower_shield2_mor"/>
       <equipment id="b3_tower_shield3_mor"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -7684,6 +7824,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -7746,6 +7887,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -7801,6 +7943,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -7849,6 +7992,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -7919,6 +8063,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -7985,6 +8130,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_mor"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -8042,15 +8188,16 @@
     id="armed_peasant.art">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_art"/>
       <equipment id="b3_tower_shield2_art"/>
       <equipment id="b3_tower_shield3_art"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -8109,15 +8256,16 @@
     id="man_at_arms.art">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_art"/>
       <equipment id="b3_tower_shield2_art"/>
       <equipment id="b3_tower_shield3_art"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -8180,10 +8328,10 @@
     id="sergeant_at_arms.art">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -8191,6 +8339,7 @@
       <equipment id="b3_tower_shield2_art"/>
       <equipment id="b3_tower_shield3_art"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -8240,15 +8389,16 @@
     id="captain.art">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_art"/>
       <equipment id="b3_tower_shield2_art"/>
       <equipment id="b3_tower_shield3_art"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -8325,6 +8475,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -8387,6 +8538,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -8442,6 +8594,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -8490,6 +8643,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -8560,6 +8714,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -8626,6 +8781,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_art"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -8683,15 +8839,16 @@
     id="armed_peasant.gar">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_gar"/>
       <equipment id="b3_tower_shield2_gar"/>
       <equipment id="b3_tower_shield3_gar"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -8750,15 +8907,16 @@
     id="man_at_arms.gar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_gar"/>
       <equipment id="b3_tower_shield2_gar"/>
       <equipment id="b3_tower_shield3_gar"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -8823,10 +8981,10 @@
     id="sergeant_at_arms.gar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -8834,6 +8992,7 @@
       <equipment id="b3_tower_shield2_gar"/>
       <equipment id="b3_tower_shield3_gar"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -8883,15 +9042,16 @@
     id="captain.gar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_gar"/>
       <equipment id="b3_tower_shield2_gar"/>
       <equipment id="b3_tower_shield3_gar"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -8969,6 +9129,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -9031,6 +9192,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -9088,6 +9250,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -9137,6 +9300,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -9207,6 +9371,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -9269,6 +9434,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_gar"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -9326,15 +9492,16 @@
     id="armed_peasant.gri">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_gri"/>
       <equipment id="b3_tower_shield2_gri"/>
       <equipment id="b3_tower_shield3_gri"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -9393,15 +9560,16 @@
     id="man_at_arms.gri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_gri"/>
       <equipment id="b3_tower_shield2_gri"/>
       <equipment id="b3_tower_shield3_gri"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -9464,10 +9632,10 @@
     id="sergeant_at_arms.gri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -9475,6 +9643,7 @@
       <equipment id="b3_tower_shield2_gri"/>
       <equipment id="b3_tower_shield3_gri"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -9523,15 +9692,16 @@
     id="captain.gri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_gri"/>
       <equipment id="b3_tower_shield2_gri"/>
       <equipment id="b3_tower_shield3_gri"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -9608,6 +9778,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -9670,6 +9841,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -9725,6 +9897,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -9773,6 +9946,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -9843,6 +10017,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -9909,6 +10084,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_gri"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -9969,15 +10145,16 @@
     id="armed_peasant.mar">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mar"/>
       <equipment id="b3_tower_shield2_mar"/>
       <equipment id="b3_tower_shield3_mar"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -10036,15 +10213,16 @@
     id="man_at_arms.mar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mar"/>
       <equipment id="b3_tower_shield2_mar"/>
       <equipment id="b3_tower_shield3_mar"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -10107,10 +10285,10 @@
     id="sergeant_at_arms.mar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -10118,6 +10296,7 @@
       <equipment id="b3_tower_shield2_mar"/>
       <equipment id="b3_tower_shield3_mar"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -10167,15 +10346,16 @@
     id="captain.mar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mar"/>
       <equipment id="b3_tower_shield2_mar"/>
       <equipment id="b3_tower_shield3_mar"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -10252,6 +10432,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -10314,6 +10495,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -10369,6 +10551,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -10417,6 +10600,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -10487,6 +10671,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -10553,6 +10738,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_mar"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -10611,15 +10797,16 @@
     id="armed_peasant.fro">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_ala"/>
       <equipment id="b3_tower_shield2_ala"/>
       <equipment id="b3_tower_shield3_ala"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -10678,15 +10865,16 @@
     id="man_at_arms.fro">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_ala"/>
       <equipment id="b3_tower_shield2_ala"/>
       <equipment id="b3_tower_shield3_ala"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -10749,10 +10937,10 @@
     id="sergeant_at_arms.fro">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -10760,6 +10948,7 @@
       <equipment id="b3_tower_shield2_ala"/>
       <equipment id="b3_tower_shield3_ala"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -10808,15 +10997,16 @@
     id="captain.fro">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_ala"/>
       <equipment id="b3_tower_shield2_ala"/>
       <equipment id="b3_tower_shield3_ala"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -10893,6 +11083,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -10955,6 +11146,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -11010,6 +11202,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -11058,6 +11251,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -11128,6 +11322,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -11194,6 +11389,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_ala"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -11254,15 +11450,16 @@
     id="armed_peasant.mau">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mau"/>
       <equipment id="b3_tower_shield2_mau"/>
       <equipment id="b3_tower_shield3_mau"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -11321,15 +11518,16 @@
     id="man_at_arms.mau">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mau"/>
       <equipment id="b3_tower_shield2_mau"/>
       <equipment id="b3_tower_shield3_mau"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -11394,10 +11592,10 @@
     id="sergeant_at_arms.mau">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -11405,6 +11603,7 @@
       <equipment id="b3_tower_shield2_mau"/>
       <equipment id="b3_tower_shield3_mau"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -11454,15 +11653,16 @@
     id="captain.mau">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_mau"/>
       <equipment id="b3_tower_shield2_mau"/>
       <equipment id="b3_tower_shield3_mau"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -11540,6 +11740,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -11602,6 +11803,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -11659,6 +11861,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -11708,6 +11911,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -11778,6 +11982,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -11840,6 +12045,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_mau"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -11896,15 +12102,16 @@
     id="armed_peasant.lan">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_lan"/>
       <equipment id="b3_tower_shield2_lan"/>
       <equipment id="b3_tower_shield3_lan"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -11963,15 +12170,16 @@
     id="man_at_arms.lan">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_lan"/>
       <equipment id="b3_tower_shield2_lan"/>
       <equipment id="b3_tower_shield3_lan"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -12034,10 +12242,10 @@
     id="sergeant_at_arms.lan">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -12045,6 +12253,7 @@
       <equipment id="b3_tower_shield2_lan"/>
       <equipment id="b3_tower_shield3_lan"/>
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -12093,15 +12302,16 @@
     id="captain.lan">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_lan"/>
       <equipment id="b3_tower_shield2_lan"/>
       <equipment id="b3_tower_shield3_lan"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -12178,6 +12388,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -12240,6 +12451,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -12295,6 +12507,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -12343,6 +12556,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -12413,6 +12627,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -12479,6 +12694,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_lan"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -12536,15 +12752,16 @@
     id="armed_peasant.bas">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_bas"/>
       <equipment id="b3_tower_shield2_bas"/>
       <equipment id="b3_tower_shield3_bas"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -12603,15 +12820,16 @@
     id="man_at_arms.bas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_bas"/>
       <equipment id="b3_tower_shield2_bas"/>
       <equipment id="b3_tower_shield3_bas"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -12674,10 +12892,10 @@
     id="sergeant_at_arms.bas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -12685,6 +12903,7 @@
       <equipment id="b3_tower_shield2_bas"/>
       <equipment id="b3_tower_shield3_bas"/>
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -12733,15 +12952,16 @@
     id="captain.bas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_bas"/>
       <equipment id="b3_tower_shield2_bas"/>
       <equipment id="b3_tower_shield3_bas"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -12818,6 +13038,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -12880,6 +13101,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -12935,6 +13157,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -12983,6 +13206,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -13053,6 +13277,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -13119,6 +13344,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_bas"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -13179,15 +13405,16 @@
     id="armed_peasant.epe">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_epe"/>
       <equipment id="b3_tower_shield2_epe"/>
       <equipment id="b3_tower_shield3_epe"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -13246,15 +13473,16 @@
     id="man_at_arms.epe">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_epe"/>
       <equipment id="b3_tower_shield2_epe"/>
       <equipment id="b3_tower_shield3_epe"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -13317,10 +13545,10 @@
     id="sergeant_at_arms.epe">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -13328,6 +13556,7 @@
       <equipment id="b3_tower_shield2_epe"/>
       <equipment id="b3_tower_shield3_epe"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -13376,15 +13605,16 @@
     id="captain.epe">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_epe"/>
       <equipment id="b3_tower_shield2_epe"/>
       <equipment id="b3_tower_shield3_epe"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -13461,6 +13691,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -13523,6 +13754,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -13578,6 +13810,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -13626,6 +13859,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -13696,6 +13930,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -13762,6 +13997,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_epe"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -13822,15 +14058,16 @@
     id="armed_peasant.grism">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_grism"/>
       <equipment id="b3_tower_shield2_grism"/>
       <equipment id="b3_tower_shield3_grism"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
@@ -13889,15 +14126,16 @@
     id="man_at_arms.grism">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_grism"/>
       <equipment id="b3_tower_shield2_grism"/>
       <equipment id="b3_tower_shield3_grism"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -13962,10 +14200,10 @@
     id="sergeant_at_arms.grism">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -13973,6 +14211,7 @@
       <equipment id="b3_tower_shield2_grism"/>
       <equipment id="b3_tower_shield3_grism"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -14022,15 +14261,16 @@
     id="captain.grism">
     <Weapon0>
       <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_tower_shield1_grism"/>
       <equipment id="b3_tower_shield2_grism"/>
       <equipment id="b3_tower_shield3_grism"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -14108,6 +14348,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -14170,6 +14411,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -14227,6 +14469,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -14276,6 +14519,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -14346,6 +14590,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -14408,6 +14653,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_grism"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
@@ -14463,6 +14709,7 @@
     <Weapon1>
       <equipment id="sp_tall_heater_shield" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -14523,6 +14770,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -14593,6 +14841,7 @@
     <Weapon1>
       <equipment id="sp_wide_heater_shield" />
       <equipment id="sp_western_riders_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -14673,6 +14922,7 @@
     <Weapon1>
       <equipment id="sp_bracketed_heater_shield" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -14735,6 +14985,7 @@
       <equipment id="sp_bracketed_heater_shield" />
       <equipment id="sp_banner_khuzait1" disablegroup="Weapon0" disablerandomize="true" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -14785,6 +15036,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -14832,6 +15084,7 @@
     <Weapon1>
       <equipment id="sp_heavy_heater_shield" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -14878,6 +15131,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_sword" />
@@ -14920,6 +15174,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_heavy_heater_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -14984,6 +15239,7 @@
       <equipment id="sp_heavy_heater_shield" />
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15026,6 +15282,7 @@
     <Weapon1>
       <equipment id="sp_heavy_heater_shield" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15069,6 +15326,7 @@
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15111,6 +15369,7 @@
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15160,6 +15419,7 @@
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="sa_barbute4" />
@@ -15198,6 +15458,7 @@
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15250,6 +15511,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_sword" />
@@ -15283,6 +15545,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -15326,6 +15589,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_flat_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15385,6 +15649,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_flat_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15458,6 +15723,7 @@
       <equipment id="ipl_shield_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15500,6 +15766,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_vlandic_arrows"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_sword" />
@@ -15559,6 +15826,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_vlandic_arrows"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_sword" />
@@ -15630,6 +15898,7 @@
       <equipment id="ipl_shield_ipl" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15688,6 +15957,7 @@
       <equipment id="ipl_shield_arr" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15752,6 +16022,7 @@
       <equipment id="ipl_shield_arr" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15797,6 +16068,7 @@
       <equipment id="ipl_shield_dun" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15861,6 +16133,7 @@
       <equipment id="ipl_shield_dun" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15906,6 +16179,7 @@
       <equipment id="ipl_shield_gri" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -15970,6 +16244,7 @@
       <equipment id="ipl_shield_gri" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16015,6 +16290,7 @@
       <equipment id="ipl_shield_hyp" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16079,6 +16355,7 @@
       <equipment id="ipl_shield_hyp" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16124,6 +16401,7 @@
       <equipment id="ipl_shield_leg" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16188,6 +16466,7 @@
       <equipment id="ipl_shield_leg" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16233,6 +16512,7 @@
       <equipment id="ipl_shield_rad" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16297,6 +16577,7 @@
       <equipment id="ipl_shield_rad" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16342,6 +16623,7 @@
       <equipment id="ipl_shield_vin" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16406,6 +16688,7 @@
       <equipment id="ipl_shield_vin" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16451,6 +16734,7 @@
       <equipment id="ipl_shield_wet" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16515,6 +16799,7 @@
       <equipment id="ipl_shield_wet" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16560,6 +16845,7 @@
       <equipment id="ipl_shield_mrn" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16624,6 +16910,7 @@
       <equipment id="ipl_shield_mrn" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16669,6 +16956,7 @@
       <equipment id="ipl_shield_mar" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16733,6 +17021,7 @@
       <equipment id="ipl_shield_mar" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16778,6 +17067,7 @@
       <equipment id="ipl_shield_vol" />
       <equipment id="ipl_tall_heater_shield_noboss_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16842,6 +17132,7 @@
       <equipment id="ipl_shield_dun" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16893,6 +17184,7 @@
       <equipment id="sp_ironrim_riders_kite_shield" />
       <equipment id="sp_banner_vlandia3" disablegroup="Weapon0" disablerandomize="true" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16936,6 +17228,7 @@
     <Weapon1>
       <equipment id="sp_ironrim_riders_kite_shield" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -16974,6 +17267,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_sword" />
@@ -17007,6 +17301,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_ironrim_riders_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -17064,6 +17359,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="koh_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -17143,6 +17439,7 @@
       <equipment id="koh_shield" />
       <equipment id="sp_banner_sturgia3" disablegroup="Weapon0" disablerandomize="true" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -17210,6 +17507,7 @@
       <equipment id="koh_shield2" />
       <equipment id="sp_banner_sturgia3" disablegroup="Weapon0" disablerandomize="true" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -17257,6 +17555,7 @@
       <equipment id="koh_shield2" />
       <equipment id="sp_banner_sturgia3" disablegroup="Weapon0" disablerandomize="true" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -17301,6 +17600,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -17361,6 +17661,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="koh_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -17417,6 +17718,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="koh_shield2" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="sp_empire_crown_north" />
@@ -17464,6 +17766,7 @@
             <equipment id="xiii_shield"/>
             <equipment id="xiii_shield_3" disablerandomize="true" />
             <equipment id="null" disablerandomize="true" hidden="true" />
+          <equipment id="null" hidden="true" disablerandomize="true"/>
         </Weapon1>
         <Weapon2>
             <equipment id="xiii_sword_1"/>
@@ -17522,6 +17825,7 @@
             <equipment id="xiii_shield_2"/>
             <equipment id="xiii_shield_3" disablerandomize="true" />
             <equipment id="null" disablerandomize="true" hidden="true" />
+          <equipment id="null" hidden="true" disablerandomize="true"/>
         </Weapon1>
         <Weapon2>
             <equipment id="xiii_sword_1"/>
@@ -17609,6 +17913,7 @@
             <equipment id="xiii_mace_2"/>
             <equipment id="xiii_mace_3"/>
             <equipment id="null" disablerandomize="true" hidden="true"/>
+          <equipment id="null" hidden="true" disablerandomize="true"/>
         </Weapon1>
         <Head>
             <equipment id="mp_battania_earmuff_helmet_c_brnz"/>
@@ -17664,6 +17969,7 @@
         </Weapon0>
         <Weapon1>
             <equipment id="xiii_shield"/>
+          <equipment id="null" hidden="true" disablerandomize="true"/>
         </Weapon1>
         <Weapon2>
             <equipment id="xiii_sword_1"/>
@@ -17733,6 +18039,7 @@
             <equipment id="xiii_2h_sword_1"/>
             <equipment id="xiii_2h_sword_2"/>
             <equipment id="xiii_2h_axe_1"/>
+          <equipment id="null" hidden="true" disablerandomize="true"/>
         </Weapon1>
         <Head>
             <equipment id="mp_wolfhead"/>
@@ -17778,6 +18085,7 @@
         <Weapon1>
           <equipment id="sp_imperial_arrows" archeritem="true"/>
           <equipment id="null" hidden="true" disablerandomize="true"/>
+          <equipment id="null" hidden="true" disablerandomize="true"/>
         </Weapon1>
         <Weapon2>
             <equipment id="xiii_sword_1"/>
@@ -17822,6 +18130,7 @@
         </Weapon0>
         <Weapon1>
           <equipment id="sp_imperial_arrows" archeritem="true"/>
+          <equipment id="null" hidden="true" disablerandomize="true"/>
           <equipment id="null" hidden="true" disablerandomize="true"/>
         </Weapon1>
         <Weapon2>
@@ -17881,6 +18190,7 @@
       </Weapon0>
       <Weapon1>
         <equipment id="xiii_shield_2"/>
+        <equipment id="null" hidden="true" disablerandomize="true"/>
       </Weapon1>
       <Weapon2>
         <equipment id="xiii_mace_1"/>
@@ -17945,6 +18255,7 @@
       </Weapon0>
       <Weapon1>
           <equipment id="xiii_shield_2" />
+        <equipment id="null" hidden="true" disablerandomize="true"/>
       </Weapon1>
       <Weapon2>
           <equipment id="xiii_mace_1"/>
@@ -18018,6 +18329,7 @@
             <equipment id="xiii_shield_2"/>
             <equipment id="xiii_shield_3" disablerandomize="true" />
             <equipment id="null" disablerandomize="true" hidden="true" />
+          <equipment id="null" hidden="true" disablerandomize="true"/>
         </Weapon1>
         <Weapon2>
             <equipment id="xiii_sword_1"/>
@@ -18143,6 +18455,7 @@
       <equipment id="ca_tall_heater_shield_noboss" />
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18187,6 +18500,7 @@
       <equipment id="ca_tall_heater_shield_noboss" />
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18231,6 +18545,7 @@
       <equipment id="ca_tall_heater_shield_noboss" />
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18273,6 +18588,7 @@
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18316,6 +18632,7 @@
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18359,6 +18676,7 @@
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18396,6 +18714,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -18437,6 +18756,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_sword" />
@@ -18474,6 +18794,7 @@
     <Weapon1>
       <equipment id="sp_wide_heater_shield" />
       <equipment id="sp_western_riders_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18526,6 +18847,7 @@
     <Weapon1>
       <equipment id="sp_wide_heater_shield" />
       <equipment id="sp_western_riders_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18579,6 +18901,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18627,6 +18950,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18668,6 +18992,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18756,6 +19081,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18808,6 +19134,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18852,6 +19179,7 @@
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="ba_salletpainted" />
@@ -18889,6 +19217,7 @@
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss"/>
       <equipment id="null" disablerandomize="true" hidden="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18925,6 +19254,7 @@
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss"/>
       <equipment id="null" disablerandomize="true" hidden="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -18962,6 +19292,7 @@
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss"/>
       <equipment id="null" disablerandomize="true" hidden="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19001,6 +19332,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -19044,6 +19376,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_leather_round_shield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_sword" />
@@ -19074,6 +19407,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_leather_round_shield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_sword" />
@@ -19121,6 +19455,7 @@
       <equipment id="sp_banner_khuzait2" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="sp_banner_khuzait3" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_sword" />
@@ -19164,6 +19499,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_sword" />
@@ -19203,6 +19539,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_leather_round_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19260,6 +19597,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_leather_round_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19308,6 +19646,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_leather_round_shield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_sword" />
@@ -19338,6 +19677,7 @@
       <equipment id="omey_shield"/>
       <equipment id="sp_banner_aserai3" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19390,6 +19730,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -19446,6 +19787,7 @@
       <equipment id="omey_shield"/>
       <equipment id="sp_banner_aserai3" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19502,6 +19844,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19543,6 +19886,7 @@
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="sp_banner_vlandia2" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19583,6 +19927,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19620,6 +19965,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_sword" />
@@ -19653,6 +19999,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19698,6 +20045,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19752,6 +20100,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19786,6 +20135,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19829,6 +20179,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19872,6 +20223,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19920,6 +20272,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -19968,6 +20321,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20013,6 +20367,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20065,6 +20420,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20111,6 +20467,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20157,6 +20514,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20204,6 +20562,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20246,6 +20605,7 @@
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="sa_vlandian_helm_with_faceplate" />
@@ -20278,6 +20638,7 @@
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="sa_vlandian_helm_with_faceplate" />
@@ -20315,6 +20676,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20364,6 +20726,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20413,6 +20776,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20456,6 +20820,7 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20493,6 +20858,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20544,6 +20910,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20602,6 +20969,7 @@
     <Weapon1>
       <equipment id="ci_tall_heater_shield_noboss_san"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20645,6 +21013,7 @@
     <Weapon1>
       <equipment id="ci_tall_heater_shield_noboss_san"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20680,6 +21049,7 @@
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="mp_segmented_skullcap_over_mail_coif" />
@@ -20714,6 +21084,7 @@
     <Weapon1>
       <equipment id="ci_tall_heater_shield_noboss_san"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20754,6 +21125,7 @@
     <Weapon1>
       <equipment id="ci_tall_heater_shield_noboss_san"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20795,6 +21167,7 @@
     <Weapon1>
       <equipment id="sp_bracketed_heater_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20837,6 +21210,7 @@
     <Weapon1>
       <equipment id="sp_bracketed_heater_shield"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
@@ -20878,6 +21252,7 @@
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="sa_bacinet_with_facemask" />
