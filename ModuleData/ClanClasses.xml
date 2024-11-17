@@ -3150,7 +3150,7 @@
     mpclassdivision="bre_infantry"
     id="cryptguard_guardsman.mou">
     <Weapon0>
-      <equipment id="b3_graveguard_polearm"/>
+      <equipment id="b3_graveguard_polearm" disablegroup="Weapon2"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_graveguard_mace"/>
@@ -3158,6 +3158,12 @@
       <equipment id="b3_graveguard_sword"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
+    <Weapon2>
+      <equipment id="b3_tower_shield1_mou"/>
+      <equipment id="b3_tower_shield2_mou"/>
+      <equipment id="b3_tower_shield3_mou"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
     <Head>
       <equipment id="gg_head"/>
       <equipment id="gg_head2"/>
