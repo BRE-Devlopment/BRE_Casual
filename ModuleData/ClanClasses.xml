@@ -3151,11 +3151,11 @@
     id="cryptguard_guardsman.mou">
     <Weapon0>
       <equipment id="b3_graveguard_polearm" disablegroup="Weapon2"/>
+      <equipment id="b3_graveguard_sword" disablegroup="Weapon2"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_graveguard_mace"/>
       <equipment id="b3_graveguard_axe"/>
-      <equipment id="b3_graveguard_sword"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
