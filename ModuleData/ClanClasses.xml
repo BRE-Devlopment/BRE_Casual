@@ -3150,22 +3150,22 @@
     mpclassdivision="bre_infantry"
     id="cryptguard_guardsman.mou">
     <Weapon0>
-      <equipment id="b3_graveguard_polearm" disablegroup="Weapon1,Weapon2"/>
-      <equipment id="null" disablerandomize="true"  />
+      <equipment id="b3_graveguard_polearm" disablegroup="Weapon1,Weapon3"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_graveguard_sword" disablerandomize="true"/>
-      <equipment id="null" disablerandomize="true"  />
+      <equipment id="b3_graveguard_sword" disablegroup="Weapon0,Weapon2,Weapon3"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b3_graveguard_mace" disablegroup="Weapon2"/>
-      <equipment id="b3_graveguard_axe" disablegroup="Weapon2"/>
+      <equipment id="b3_graveguard_mace"/>
+      <equipment id="b3_graveguard_axe"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b3_tower_shield1_mou" disablegroup="Weapon0"/>
-      <equipment id="b3_tower_shield2_mou" disablegroup="Weapon0"/>
-      <equipment id="b3_tower_shield3_mou" disablegroup="Weapon0"/>
+      <equipment id="b3_tower_shield1_mou"/>
+      <equipment id="b3_tower_shield2_mou"/>
+      <equipment id="b3_tower_shield3_mou"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon3>
     <Head>
