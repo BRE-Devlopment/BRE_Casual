@@ -14725,7 +14725,7 @@
     clan="PAR"
     color1="FFd7a12b"
     color2="FF1a1a1a"
-    banner="11.507.507.1536.1536.764.764.0.0.0.5021.502.502.500.500.764.764.0.0.0"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry"
     id="armed_peasant.par">
@@ -14793,7 +14793,7 @@
     clan="PAR"
     color1="FFd7a12b"
     color2="FF1a1a1a"
-    banner="11.507.507.1536.1536.764.764.0.0.0.5021.502.502.500.500.764.764.0.0.0"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry"
     id="man_at_arms.par">
@@ -14865,7 +14865,7 @@
     clan="PAR"
     color1="FFd7a12b"
     color2="FF1a1a1a"
-    banner="11.507.507.1536.1536.764.764.0.0.0.5021.502.502.500.500.764.764.0.0.0"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.par">
@@ -14926,7 +14926,7 @@
     clan="PAR"
     color1="FFd7a12b"
     color2="FF1a1a1a"
-    banner="11.507.507.1536.1536.764.764.0.0.0.5021.502.502.500.500.764.764.0.0.0"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry"
     id="captain.par">
@@ -15007,7 +15007,7 @@
     clan="PAR"
     color1="FFd7a12b"
     color2="FF1a1a1a"
-    banner="11.507.507.1536.1536.764.764.0.0.0.5021.502.502.500.500.764.764.0.0.0"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer"
     id="peasant_archer.par">
@@ -15069,7 +15069,7 @@
     clan="PAR"
     color1="FFd7a12b"
     color2="FF1a1a1a"
-    banner="11.507.507.1536.1536.764.764.0.0.0.5021.502.502.500.500.764.764.0.0.0"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer"
     id="free_archer.par">
@@ -15124,7 +15124,7 @@
     clan="PAR"
     color1="FFd7a12b"
     color2="FF1a1a1a"
-    banner="11.507.507.1536.1536.764.764.0.0.0.5021.502.502.500.500.764.764.0.0.0"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer"
     id="master_archer.par">
@@ -15177,7 +15177,7 @@
     clan="PAR"
     color1="FFd7a12b"
     color2="FF1a1a1a"
-    banner="11.507.507.1536.1536.764.764.0.0.0.5021.502.502.500.500.764.764.0.0.0"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.par">
@@ -15248,7 +15248,7 @@
     clan="PAR"
     color1="FFd7a12b"
     color2="FF1a1a1a"
-    banner="11.507.507.1536.1536.764.764.0.0.0.5021.502.502.500.500.764.764.0.0.0"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.par">
@@ -15314,7 +15314,7 @@
     clan="PAR"
     color1="FFd7a12b"
     color2="FF1a1a1a"
-    banner="11.507.507.1536.1536.764.764.0.0.0.5021.502.502.500.500.764.764.0.0.0"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Cassyon de Parravon"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.par">
