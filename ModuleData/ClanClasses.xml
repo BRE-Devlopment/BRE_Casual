@@ -17775,45 +17775,6 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass
-    clan="KOH"
-    banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0"
-    color1="FF050505"
-    color2="FFbdbdbd"
-    name="Princess"
-    mpclassdivision="bre_cavalry"
-    id="cavalry_special_koh">
-    <Weapon0>
-      <equipment id="b2_bastard_sword" />
-    </Weapon0>
-    <Weapon1>
-      <equipment id="koh_shield2" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </Weapon1>
-    <Head>
-      <equipment id="sp_empire_crown_north" />
-    </Head>
-    <Body>
-      <equipment id="sp_vlandian_noble_woman_dress" />
-    </Body>
-    <Leg>
-      <equipment id="sp_ladys_shoe" />
-    </Leg>
-    <HorseHarness>
-      <equipment id="null" />
-      <equipment id="null" hidden="true" disablerandomize="true" cavalryitem="true"/>
-    </HorseHarness>
-    <Horse>
-      <equipment id="b2_horse_brown" cavalryitem="true"/>
-      <equipment id="b2_horse_gold" />
-      <equipment id="b2_horse_white" />
-      <equipment id="b2_horse_grey" />
-      <equipment id="b2_horse_darkgrey" />
-      <equipment id="b2_horse_black" />
-      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </Horse>
-  </ClanClass>
   <!--XIII-->
     <ClanClass 
       clan="XIII" 
