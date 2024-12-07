@@ -17374,9 +17374,9 @@
   <!--KOH-->
   <ClanClass
     clan="KOH"
-    banner="14.608.607.1536.1536.764.764.1.0.0.6005.40.40.500.500.764.764.0.0.0"
-    color1="FF080c9c"
-    color2="FFFFFFFF"
+    banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0"
+    color1="FF050505"
+    color2="FFbdbdbd"
     name="Vikingr"
     mpclassdivision="bre_infantry"
     id="infantry_1_koh">
@@ -17451,10 +17451,10 @@
   </ClanClass>
   <ClanClass
     clan="KOH"
-    banner="14.608.607.1536.1536.764.764.1.0.0.6005.40.40.500.500.764.764.0.0.0"
-    color1="FF080c9c"
-    color2="FFFFFFFF"
-    name="Konungsgard"
+    banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0"
+    color1="FF050505"
+    color2="FFbdbdbd"
+    name="Berserker"
     mpclassdivision="bre_infantry"
     id="infantry_2_koh">
     <Weapon0>
@@ -17519,9 +17519,9 @@
   </ClanClass>
   <ClanClass
     clan="KOH"
-    banner="14.608.607.1536.1536.764.764.1.0.0.6005.40.40.500.500.764.764.0.0.0"
-    color1="FF080c9c"
-    color2="FFFFFFFF"
+    banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0"
+    color1="FF050505"
+    color2="FFbdbdbd"
     name="Lendmann"
     mpclassdivision="bre_infantry"
     id="infantry_3_koh">
@@ -17567,10 +17567,10 @@
   </ClanClass>
   <ClanClass
     clan="KOH"
-    banner="14.608.607.1536.1536.764.764.1.0.0.6005.40.40.500.500.764.764.0.0.0"
-    color1="FF080c9c"
-    color2="FFFFFFFF"
-    name="Jarl"
+    banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0"
+    color1="FF050505"
+    color2="FFbdbdbd"
+    name="Aðal"
     mpclassdivision="bre_infantry"
     id="infantry_officer_koh">
     <Weapon0>
@@ -17619,10 +17619,10 @@
   </ClanClass>
   <ClanClass
     clan="KOH"
-    banner="14.608.607.1536.1536.764.764.1.0.0.6005.40.40.500.500.764.764.0.0.0"
-    color1="FF080c9c"
-    color2="FFFFFFFF"
-    name="Skyti"
+    banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0"
+    color1="FF050505"
+    color2="FFbdbdbd"
+    name="Bogimaðr"
     mpclassdivision="bre_archer"
     id="archer_koh">
     <Weapon0>
@@ -17678,12 +17678,51 @@
       <equipment id="mp_padded_vambrace" />
     </Gloves>
   </ClanClass>
+    <ClanClass
+    clan="KOH"
+    banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0"
+    color1="FF050505"
+    color2="FFbdbdbd"
+    name="Langbogimaðr"
+    mpclassdivision="bre_archer"
+    id="archer_2_koh">
+    <Weapon0>
+      <equipment id="sp_noble_bow" archeritem="true"/>
+      <equipment id="sp_noble_long_bow" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_imperial_arrows" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="mp_northern_warlord_helmet" />
+    </Head>
+    <Body>
+      <equipment id="mp_sturgian_chainmale_longsleeve"/>
+    </Body>
+    <Leg>
+      <equipment id="mp_rough_tied_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="mp_battania_shoulder_furr" />
+    </Cape>
+    <Gloves>
+      <equipment id="mp_highland_gloves" />
+    </Gloves>
+  </ClanClass>
   <ClanClass
     clan="KOH"
-    banner="14.608.607.1536.1536.764.764.1.0.0.6005.40.40.500.500.764.764.0.0.0"
-    color1="FF080c9c"
-    color2="FFFFFFFF"
-    name="Hestrmadr"
+    banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0"
+    color1="FF050505"
+    color2="FFbdbdbd"
+    name="Riddari"
     mpclassdivision="bre_cavalry"
     id="cavalry_koh">
     <Weapon0>
@@ -17738,9 +17777,9 @@
   </ClanClass>
   <ClanClass
     clan="KOH"
-    banner="14.608.607.1536.1536.764.764.1.0.0.6005.40.40.500.500.764.764.0.0.0"
-    color1="FF080c9c"
-    color2="FFFFFFFF"
+    banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0"
+    color1="FF050505"
+    color2="FFbdbdbd"
     name="Princess"
     mpclassdivision="bre_cavalry"
     id="cavalry_special_koh">
