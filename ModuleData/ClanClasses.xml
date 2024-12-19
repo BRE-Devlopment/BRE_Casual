@@ -15373,9 +15373,9 @@
   <!--LAU (LAUDETHAIRE)-->
   <ClanClass
     clan="LAU"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
+    color1="FF8e3131"
+    color2="FFcccbc6"
+    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry"
     id="armed_peasant.lau">
@@ -15441,9 +15441,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
+    color1="FF8e3131"
+    color2="FFcccbc6"
+    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry"
     id="man_at_arms.lau">
@@ -15515,9 +15515,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
+    color1="FF8e3131"
+    color2="FFcccbc6"
+    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.lau">
@@ -15576,9 +15576,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
+    color1="FF8e3131"
+    color2="FFcccbc6"
+    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry"
     id="captain.lau">
@@ -15658,9 +15658,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
+    color1="FF8e3131"
+    color2="FFcccbc6"
+    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer"
     id="peasant_archer.lau">
@@ -15720,9 +15720,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
+    color1="FF8e3131"
+    color2="FFcccbc6"
+    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer"
     id="free_archer.lau">
@@ -15777,9 +15777,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
+    color1="FF8e3131"
+    color2="FFcccbc6"
+    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer"
     id="master_archer.lau">
@@ -15833,7 +15833,7 @@
     clan="LAU"
     color1="FF181616"
     color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
+    banner="12.566.567.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.lau">
@@ -15904,7 +15904,7 @@
     clan="LAU"
     color1="FF0f0d0b"
     color2="FF51110e"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
+    banner="12.566.567.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.lau">
@@ -15966,7 +15966,7 @@
     clan="LAU"
     color1="FF0d330d"
     color2="FFcfc9b5"
-    banner="7000.568.569.1536.1536.764.764.0.0.0"
+    banner="12.566.567.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Laudethaire de Parravon"
     mpclassdivision="bre_cavalry"
     id="knight_errant.lau">
