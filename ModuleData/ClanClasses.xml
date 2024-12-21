@@ -14722,8 +14722,8 @@
   <!--PAR (PARRAVON)-->
   <ClanClass 
     clan="PAR"
-    color1="FFd7a12b"
-    color2="FF1a1a1a"
+    color1="FF291B29"
+    color2="FFffe06b"
     banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry"
@@ -14790,8 +14790,8 @@
   </ClanClass>
   <ClanClass 
     clan="PAR"
-    color1="FFd7a12b"
-    color2="FF1a1a1a"
+    color1="FF291B29"
+    color2="FFffe06b"
     banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry"
@@ -14862,8 +14862,8 @@
   </ClanClass>
   <ClanClass 
     clan="PAR"
-    color1="FFd7a12b"
-    color2="FF1a1a1a"
+    color1="FF291B29"
+    color2="FFffe06b"
     banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry"
@@ -14923,8 +14923,8 @@
   </ClanClass>
   <ClanClass 
     clan="PAR"
-    color1="FFd7a12b"
-    color2="FF1a1a1a"
+    color1="FF291B29"
+    color2="FFffe06b"
     banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry"
@@ -15004,8 +15004,8 @@
   </ClanClass>
   <ClanClass 
     clan="PAR"
-    color1="FFd7a12b"
-    color2="FF1a1a1a"
+    color1="FF291B29"
+    color2="FFffe06b"
     banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer"
@@ -15066,8 +15066,8 @@
   </ClanClass>
   <ClanClass 
     clan="PAR"
-    color1="FFd7a12b"
-    color2="FF1a1a1a"
+    color1="FF291B29"
+    color2="FFffe06b"
     banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer"
@@ -15121,8 +15121,8 @@
   </ClanClass>
   <ClanClass 
     clan="PAR"
-    color1="FFd7a12b"
-    color2="FF1a1a1a"
+    color1="FF291B29"
+    color2="FFffe06b"
     banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer"
@@ -15174,8 +15174,8 @@
   </ClanClass>
   <ClanClass 
     clan="PAR"
-    color1="FFd7a12b"
-    color2="FF1a1a1a"
+    color1="FF291B29"
+    color2="FFffe06b"
     banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry"
@@ -15245,8 +15245,8 @@
   </ClanClass>
   <ClanClass 
     clan="PAR"
-    color1="FFd7a12b"
-    color2="FF1a1a1a"
+    color1="FF291B29"
+    color2="FFffe06b"
     banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
@@ -15311,8 +15311,8 @@
   </ClanClass>
   <ClanClass 
     clan="PAR"
-    color1="FFd7a12b"
-    color2="FF1a1a1a"
+    color1="FF291B29"
+    color2="FFffe06b"
     banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Cassyon de Parravon"
     mpclassdivision="bre_cavalry"
@@ -15964,8 +15964,8 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF0d330d"
-    color2="FFcfc9b5"
+    color1="FF0f0d0b"
+    color2="FF51110e"
     banner="12.566.567.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Laudethaire de Parravon"
     mpclassdivision="bre_cavalry"
@@ -16001,9 +16001,7 @@
       <equipment id="null"/>
     </Head>
     <Body>
-      <equipment id="b3_kerrant_body_v1_lau"/>
-      <equipment id="b3_kerrant_body_v2_lau"/>
-      <equipment id="b3_kerrant_body_v3_lau"/>
+      <equipment id="kerrant_torso_laudethaire"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
