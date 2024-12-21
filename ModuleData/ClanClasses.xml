@@ -18693,7 +18693,7 @@
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
-      <equipment id="koh_shield" />
+      <equipment id="mp_leather_round_shield_light" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -18771,7 +18771,7 @@
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
-      <equipment id="koh_shield" />
+      <equipment id="mp_leather_round_shield_light" />
       <equipment id="sp_banner_sturgia3" disablegroup="Weapon0" disablerandomize="true" />
       <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -18839,7 +18839,7 @@
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
-      <equipment id="koh_shield2" />
+      <equipment id="mp_leather_round_shield_light" />
       <equipment id="sp_banner_sturgia3" disablegroup="Weapon0" disablerandomize="true" />
       <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
