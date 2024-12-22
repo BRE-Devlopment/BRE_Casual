@@ -15373,9 +15373,9 @@
   <!--LAU (LAUDETHAIRE)-->
   <ClanClass
     clan="LAU"
-    color1="FF8e3131"
-    color2="FFcccbc6"
-    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
+    color1="FF8a1816"
+    color2="FFffffff"
+    banner="11.584.584.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry"
     id="armed_peasant.lau">
@@ -15441,9 +15441,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF8e3131"
-    color2="FFcccbc6"
-    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
+    color1="FF8a1816"
+    color2="FFffffff"
+    banner="11.584.584.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry"
     id="man_at_arms.lau">
@@ -15466,8 +15466,6 @@
       <equipment id="b2_man_sword"/>
     </Weapon2>
     <Head>
-      <equipment id="b2_spiked_helmet_0"/>
-      <equipment id="b2_spiked_helmet_1"/>
       <equipment id="b2_flattop_helmet_0"/>
       <equipment id="b2_flattop_helmet_1"/>
       <equipment id="b2_kettle_helmet_0"/>
@@ -15515,9 +15513,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF8e3131"
-    color2="FFcccbc6"
-    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
+    color1="FF8a1816"
+    color2="FFffffff"
+    banner="11.584.584.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.lau">
@@ -15542,7 +15540,6 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Head>
-      <equipment id="b2_spiked_mail"/>
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_faceplate_mail"/>
       <equipment id="b2_kettle_mail_0"/>
@@ -15552,11 +15549,12 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
+      <equipment id="b2_templar_0"/>
       <equipment id="b2_templar_1"/>
       <equipment id="b2_templar_2"/>
       <equipment id="b2_templar_3"/>
@@ -15576,9 +15574,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF8e3131"
-    color2="FFcccbc6"
-    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
+    color1="FF8a1816"
+    color2="FFffffff"
+    banner="11.584.584.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry"
     id="captain.lau">
@@ -15605,7 +15603,6 @@
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
-      <equipment id="b2_spiked_mail"/>
       <equipment id="sa_vlandian_helm_with_faceplate"/>
       <equipment id="sa_vlandian_helm_with_faceplate_painted"/>
       <equipment id="sa_vlandian_helm_with_faceplate_brass"/>
@@ -15621,9 +15618,9 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="sa_coat_of_plates1_c"/>
@@ -15658,9 +15655,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF8e3131"
-    color2="FFcccbc6"
-    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
+    color1="FF8a1816"
+    color2="FFffffff"
+    banner="11.584.584.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer"
     id="peasant_archer.lau">
@@ -15720,9 +15717,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF8e3131"
-    color2="FFcccbc6"
-    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
+    color1="FF8a1816"
+    color2="FFffffff"
+    banner="11.584.584.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer"
     id="free_archer.lau">
@@ -15742,8 +15739,6 @@
       <equipment id="b2_peasant_dagger"/>
     </Weapon2>
     <Head>
-      <equipment id="b2_spiked_helmet_0"/>
-      <equipment id="b2_spiked_helmet_1"/>
       <equipment id="b2_flattop_helmet_0"/>
       <equipment id="b2_flattop_helmet_1"/>
       <equipment id="b2_norman_helmet_0"/>
@@ -15777,9 +15772,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF8e3131"
-    color2="FFcccbc6"
-    banner="12.500.506.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
+    color1="FF8a1816"
+    color2="FFffffff"
+    banner="11.584.584.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer"
     id="master_archer.lau">
@@ -15800,7 +15795,6 @@
       <equipment id="b2_peasant_dagger"/>
     </Weapon2>
     <Head>
-      <equipment id="b2_spiked_mail"/>
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
@@ -15831,9 +15825,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
+    color1="FF8a1816"
+    color2="FFffffff"
+    banner="11.584.584.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.lau">
@@ -15902,9 +15896,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF0f0d0b"
-    color2="FF51110e"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
+    color1="FF8a1816"
+    color2="FFffffff"
+    banner="11.584.584.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
     id="squire.lau">
@@ -15924,8 +15918,12 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_squire_helmet_colored_old_1"/>
-      <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_helmet_1_2"/>
+      <equipment id="b3_squire_helmet_2_2"/>
+      <equipment id="b3_squire_helmet_1"/>
+      <equipment id="b3_squire_helmet_2"/>
+      <equipment id="b3_squire_helmet_colored_1"/>
+      <equipment id="b3_squire_helmet_colored_2"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
@@ -15939,13 +15937,13 @@
       <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
-      <equipment id="b3_kerrant_leg_dark"/>
+      <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
     </Cape>
     <Gloves>
-      <equipment id="b3_kerrant_gloves_dark"/>
+      <equipment id="b3_kerrant_gloves"/>
     </Gloves>
     <HorseHarness>
       <equipment id="b3_squire_horse_lau" cavalryitem="true"/>
@@ -15964,9 +15962,9 @@
   </ClanClass>
   <ClanClass 
     clan="LAU"
-    color1="FF0f0d0b"
-    color2="FF51110e"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
+    color1="FF8a1816"
+    color2="FFffffff"
+    banner="11.584.584.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Laudethaire de Parravon"
     mpclassdivision="bre_cavalry"
     id="knight_errant.lau">
@@ -15984,21 +15982,9 @@
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
-      <equipment id="b3_kerrant_head_1"/>
-      <equipment id="b3_kerrant_head_2"/>
-      <equipment id="b3_kerrant_head_3"/>
-
-      <equipment id="b3_squire_coif_1"/>
-      <equipment id="b3_squire_coif_2"/>
-      <equipment id="b3_squire_coif_3"/>
-
-      <equipment id="b3_squire_helmet_1_2"/>
-      <equipment id="b3_squire_helmet_2_2"/>
-      <equipment id="b3_squire_helmet_1"/>
-      <equipment id="b3_squire_helmet_2"/>
-      <equipment id="b3_squire_helmet_colored_1"/>
-      <equipment id="b3_squire_helmet_colored_2"/>
-      <equipment id="null"/>
+      <equipment id="b3_head_lau" disablerandomize="true" />
+      <equipment id="b3_chain_lau" disablerandomize="true"/>
+      <equipment id="b3_squire_helmet_colored_1" disablerandomize="true" />
     </Head>
     <Body>
       <equipment id="kerrant_torso_laudethaire"/>
