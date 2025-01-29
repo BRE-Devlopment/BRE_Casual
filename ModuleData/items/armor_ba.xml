@@ -401,4 +401,21 @@
         material_type="Plate" />
     </ItemComponent>
   </Item>
+  <Item 
+    multiplayer_item="true"
+    id="ba_plategreavesworn" 
+    name="Gold Plate Boots"
+    mesh="ba_plategreavesworn" 
+    culture="Culture.neutral_culture" 
+    weight="0"
+    appearance="1"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor 
+        leg_armor="0" 
+        covers_legs="true" 
+        modifier_group="plate" 
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
 </Items>
