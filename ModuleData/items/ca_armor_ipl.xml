@@ -34,9 +34,19 @@
     </ItemComponent>
   </Item>
   <!--BODY-->
-  <Item id="ipl_coat_over_plate_ipl" name="Tabbard over Coat of plate" mesh="bre_coat_over_plate_ipl" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+  <Item 
+    multiplayer_item="true"
+    id="ipl_coat_over_plate_ipl" 
+    name="Tabbard over Coat of plate" 
+    mesh="bre_coat_over_plate_ipl" 
+    subtype="body_armor" 
+    culture="Culture.neutral_culture" 
+    Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="0" 
+        covers_body="true" 
+        modifier_group="plate" 
+        material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
