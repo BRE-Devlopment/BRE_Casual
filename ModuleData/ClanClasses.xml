@@ -20693,7 +20693,13 @@
     mpclassdivision="bre_infantry"
     id="infantry_1_maw">
     <Weapon0>
-      <equipment id="b2_native_spear"/>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="sp_leather_round_shield"/>
@@ -20725,6 +20731,12 @@
     id="infantry_2_maw">
     <Weapon0>
       <equipment id="b2_native_spear"/>
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="sp_leather_round_shield"/>
