@@ -18449,8 +18449,8 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="ipl_tall_heater_shield_noboss_vol"/>
-      <equipment id="ipl_shield_dun" disablerandomize="true" />
+      <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
+      <equipment id="ipl_shield_vol" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
