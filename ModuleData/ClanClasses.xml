@@ -7,7 +7,7 @@
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Paysan armé"
-    mpclassdivision="bre_infantry"
+    mpclassdivision="bre_infantry_ogre"
     id="armed_peasant.co">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
