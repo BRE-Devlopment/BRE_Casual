@@ -379,6 +379,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -442,6 +443,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -495,6 +497,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -1344,6 +1347,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows_watch" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -1384,6 +1388,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows_watch" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -1777,6 +1782,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -1840,6 +1846,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -1896,6 +1903,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -2516,6 +2524,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -2579,6 +2588,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -2632,6 +2642,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -3195,6 +3206,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -3258,6 +3270,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -3316,6 +3329,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -3953,6 +3967,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -4016,6 +4031,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -4074,6 +4090,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -4601,6 +4618,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -4664,6 +4682,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -4722,6 +4741,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -5261,6 +5281,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -5324,6 +5345,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -5379,6 +5401,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -5900,6 +5923,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -5963,6 +5987,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -6019,6 +6044,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -6551,6 +6577,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -6614,6 +6641,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -6670,6 +6698,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -7202,6 +7231,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -7265,6 +7295,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -7321,6 +7352,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -7853,6 +7885,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -7916,6 +7949,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -7972,6 +8006,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -8504,6 +8539,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -8567,6 +8603,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -8623,6 +8660,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -9158,6 +9196,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -9221,6 +9260,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -9279,6 +9319,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -9807,6 +9848,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -9870,6 +9912,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -9926,6 +9969,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -10461,6 +10505,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -10524,6 +10569,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -10580,6 +10626,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -11112,6 +11159,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -11175,6 +11223,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -11231,6 +11280,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -11769,6 +11819,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -11832,6 +11883,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -11890,6 +11942,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -12417,6 +12470,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -12480,6 +12534,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -12536,6 +12591,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -13067,6 +13123,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -13130,6 +13187,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -13186,6 +13244,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -13720,6 +13779,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -13783,6 +13843,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -13839,6 +13900,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -14377,6 +14439,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -14440,6 +14503,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -14498,6 +14562,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -14687,7 +14752,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b3_pilgrim_faussard_2"/>
+      <equipment id="b2_bastard_sword"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -15016,6 +15081,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -15079,6 +15145,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -15135,6 +15202,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -15667,6 +15735,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -15730,6 +15799,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -15786,6 +15856,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -16091,6 +16162,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -16451,6 +16523,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -16831,6 +16904,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -16866,6 +16940,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -18587,6 +18662,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -18921,6 +18997,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -20035,6 +20112,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -20076,6 +20154,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -20653,6 +20732,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -20693,7 +20773,13 @@
     mpclassdivision="bre_infantry"
     id="infantry_1_maw">
     <Weapon0>
-      <equipment id="b2_native_spear"/>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="sp_leather_round_shield"/>
@@ -20725,6 +20811,12 @@
     id="infantry_2_maw">
     <Weapon0>
       <equipment id="b2_native_spear"/>
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="sp_leather_round_shield"/>
@@ -20819,6 +20911,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -21051,6 +21144,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -21285,6 +21379,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
