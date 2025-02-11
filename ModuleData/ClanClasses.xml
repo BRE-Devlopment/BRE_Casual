@@ -3162,9 +3162,10 @@
     <Weapon0>
       <equipment id="null"/>
       <equipment id="b3_graveguard_polearm" disablegroup="Weapon2" disablerandomize="true"/>
-      <equipment id="b3_graveguard_sword" disablegroup="Weapon2" disablerandomize="true"/>
+      <equipment id="b3_graveguard_2H_sword" disablegroup="Weapon2" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
+      <equipment id="b3_graveguard_sword"/>
       <equipment id="b3_graveguard_mace"/>
       <equipment id="b3_graveguard_axe"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
