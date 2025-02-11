@@ -2922,6 +2922,45 @@
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
+    name="Naked Man"
+    mpclassdivision="bre_infantry_ogre"
+    id="naked_man.mou">
+    <Weapon0>
+      <equipment id="b2_peasant_spear"/>
+      <equipment id="b3_peasant_polearm_1" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_2" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_3" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_tower_shield1_mou"/>
+      <equipment id="b3_tower_shield2_mou"/>
+      <equipment id="b3_tower_shield3_mou"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon2>
+    <Head>
+      <equipment id="null"/>
+    </Head>
+    <Body>
+      <equipment id="null"/>
+    </Body>
+    <Leg>
+      <equipment id="null"/>
+    </Leg>
+    <Gloves>
+      <equipment id="null"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry"
     id="armed_peasant.mou">
