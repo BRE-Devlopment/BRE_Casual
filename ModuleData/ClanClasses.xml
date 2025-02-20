@@ -12117,8 +12117,8 @@
   </ClanClass>
   <ClanClass 
     clan="MAU"
-    color1="FF43102c"
-    color2="FF171716"
+    color1="FFFFFFFF"
+    color2="FFFFFFFF"
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
     name="Dreu de Maulièvre"
     mpclassdivision="bre_cavalry"
@@ -12137,25 +12137,22 @@
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
-      <equipment id="b3_kerrant_head_1_dark"/>
-      <equipment id="b3_kerrant_head_2_dark"/>
-      <equipment id="b3_kerrant_head_3_dark"/>
-
-      <equipment id="b3_squire_coif_1"/>
-      <equipment id="b3_squire_coif_2"/>
-      <equipment id="b3_squire_coif_3"/>
-
-      <equipment id="b3_squire_helmet_colored_old_1"/>
-      <equipment id="b3_squire_helmet_colored_old_2"/>
-      <equipment id="null"/>
+      <equipment id="b3_kotr_head_1"/>
+      <equipment id="b3_kotr_head_2"/>
+      <equipment id="b3_kotr_head_3"/>
+      <equipment id="b3_kotr_head_4"/>
+      <equipment id="b3_kotr_head_5"/>
+      <equipment id="b3_kotr_head_6"/>
+      <equipment id="b3_kotr_head_7"/>
     </Head>
     <Body>
       <equipment id="b3_kerrant_body_v1_mau"/>
-      <equipment id="b3_kerrant_body_v2_mau"/>
-      <equipment id="b3_kerrant_body_v3_mau"/>
+      <equipment id="b3_kotr_body_v2_mau"/>
+      <equipment id="b3_kotr_body_v3_mau"/>
     </Body>
     <Leg>
-      <equipment id="b3_kerrant_leg_dark"/>
+      <equipment id="b3_kotr_leg_1"/>
+      <equipment id="b3_kotr_leg_2"/>
     </Leg>
     <Cape>
       <equipment id="b3_crest_mau"/>
