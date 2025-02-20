@@ -16699,7 +16699,21 @@
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
-      <equipment id="b3_head_ana"/>
+      <equipment id="b3_kerrant_head_1"/>
+      <equipment id="b3_kerrant_head_2"/>
+      <equipment id="b3_kerrant_head_3"/>
+
+      <equipment id="b3_squire_coif_1"/>
+      <equipment id="b3_squire_coif_2"/>
+      <equipment id="b3_squire_coif_3"/>
+
+      <equipment id="b3_squire_helmet_1_2"/>
+      <equipment id="b3_squire_helmet_2_2"/>
+      <equipment id="b3_squire_helmet_1"/>
+      <equipment id="b3_squire_helmet_2"/>
+      <equipment id="b3_squire_helmet_colored_1"/>
+      <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="null"/>
     </Head>
     <Body>
       <equipment id="b3_kerrant_body_v1_ana"/>
