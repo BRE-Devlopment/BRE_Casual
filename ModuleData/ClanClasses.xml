@@ -21159,12 +21159,10 @@
     </Horse>
   </ClanClass>
   <!--SVCI-->
-  <ClanClass
-    clan="SVCI"
+  <ClanClass clan="SVCI" name="Kandidat"
     banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
-    color1="FF6f1716"
+    color1="FFf7d000"
     color2="FFf4ebe9"
-    name="Kandidat"
     mpclassdivision="bre_infantry"
     id="infantry_1_svci">
     <Weapon0>
@@ -21172,7 +21170,7 @@
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
-      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="ca_tall_heater_shield_noboss"/>
       <equipment id="null" disablerandomize="true" hidden="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -21208,12 +21206,10 @@
       <equipment id="null" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="SVCI"
+  <ClanClass clan="SVCI" name="Knecht"
     banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
-    color1="FF6f1716"
+    color1="FFf7d000"
     color2="FFf4ebe9"
-    name="Knecht"
     mpclassdivision="bre_infantry"
     id="infantry_2_svci">
     <Weapon0>
@@ -21221,7 +21217,7 @@
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
-      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="ca_tall_heater_shield_noboss"/>
       <equipment id="null" disablerandomize="true" hidden="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -21250,12 +21246,10 @@
       <equipment id="null" />
     </Cape>
   </ClanClass>
-  <ClanClass
-    clan="SVCI"
+  <ClanClass clan="SVCI" name="Beschossene knecht"
     banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
-    color1="FF6f1716"
+    color1="FFf7d000"
     color2="FFf4ebe9"
-    name="Beschossene knecht"
     mpclassdivision="bre_infantry"
     id="infantry_3_svci">
     <Weapon0>
@@ -21263,7 +21257,7 @@
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
-      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="ca_tall_heater_shield_noboss"/>
       <equipment id="null" disablerandomize="true" hidden="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -21298,61 +21292,18 @@
       <equipment id="mp_leather_gloves" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="SVCI"
+  <ClanClass clan="SVCI" name="Fußknecht"
     banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
-    color1="FF6f1716"
+    color1="FFf7d000"
     color2="FFf4ebe9"
-    name="Doppelsöldner"
     mpclassdivision="bre_infantry"
     id="infantry_4_svci">
-    <Weapon0>
-      <equipment id="b2_faussard" />
-      <equipment id="b2_2h_mace" />
-      <equipment id="b2_2h_axe" />
-      <equipment id="b3_squire_sword_2h" />
-      <equipment id="b2_native_spear" disablerandomize="true" />
-      <equipment id="b3_coalition_polearm" disablerandomize="true" />
-    </Weapon0>
-    <Weapon2>
-      <equipment id="b2_native_mace" />
-      <equipment id="b2_native_sword" />
-      <equipment id="b2_native_axe" />
-    </Weapon2>
-    <Head>
-      <equipment id="ba_opensallet" />
-      <equipment id="ba_openhelm2" />
-    </Head>
-    <Body>
-      <equipment id="sa_swadian_striped_cuirass" />
-    </Body>
-    <Leg>
-      <equipment id="mp_leather_cavalier_boots" />
-    </Leg>
-    <Cape>
-      <equipment id="sp_chainmail_shoulder_armor" />
-      <equipment id="mp_hood" />
-      <equipment id="sa_western_chain_shoulders" />
-    </Cape>
-    <Gloves>
-      <equipment id="mp_leather_gloves" />
-      <equipment id="mp_lordly_mail_mitten" />
-    </Gloves>
-  </ClanClass>
-  <ClanClass
-    clan="SVCI"
-    banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
-    color1="FF6f1716"
-    color2="FFf4ebe9"
-    name="Fußknecht"
-    mpclassdivision="bre_infantry"
-    id="infantry_5_svci">
     <Weapon0>
       <equipment id="b2_native_spear"/>
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
-      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="ca_tall_heater_shield_noboss"/>
       <equipment id="null" disablerandomize="true" hidden="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -21388,24 +21339,130 @@
       <equipment id="mp_lordly_mail_mitten" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="SVCI"
+  <ClanClass clan="SVCI" name="Gefreiter"
     banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
-    color1="FF6f1716"
+    color1="FFf7d000"
     color2="FFf4ebe9"
-    name="Trabant"
+    mpclassdivision="bre_infantry"
+    id="infantry_5_svci">
+    <Weapon0>
+      <equipment id="b2_native_spear"/>
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ca_tall_heater_shield_noboss"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_barbute1" />
+      <equipment id="sa_barbute4" />
+      <equipment id="sa_bacinet_with_facemask" />
+    </Head>
+    <Body>
+      <equipment id="sa_sacoat1" />
+      <equipment id="sa_sacoat2" />
+      <equipment id="sa_sacoat3" />
+    </Body>
+    <Leg>
+      <equipment id="mp_leather_cavalier_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_leather_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass clan="SVCI" name="Beschossene Gefreiter"
+    banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
+    color1="FFf7d000"
+    color2="FFf4ebe9"
     mpclassdivision="bre_infantry"
     id="infantry_6_svci">
     <Weapon0>
+      <equipment id="b2_native_spear"/>
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ca_tall_heater_shield_noboss"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_churburghHelm_black_trimmed_feather" />
+    </Head>
+    <Body>
+      <equipment id="sa_brigandine_plate1" />
+      <equipment id="sa_brigandine_plate2" />
+      <equipment id="sa_brigandine_plate3" />
+    </Body>
+    <Leg>
+      <equipment id="mp_leather_cavalier_boots" />
+      <equipment id="mp_fine_town_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="sa_churburghgauntlet" />
+      <equipment id="sa_1churburghgauntlet" />
+      <equipment id="sa_2churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass clan="SVCI" name="Doppelsöldner"
+    banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
+    color1="FFf7d000"
+    color2="FFf4ebe9"
+    mpclassdivision="bre_infantry"
+    id="infantry_7_svci">
+    <Weapon0>
+      <equipment id="b3_squire_sword_2h"/>
+      <equipment id="b2_native_spear" disablerandomize="true" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" />
+    </Weapon0>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="ba_opensallet" />
+      <equipment id="ba_openhelm2" />
+    </Head>
+    <Body>
+      <equipment id="sa_swadian_striped_cuirass" />
+    </Body>
+    <Leg>
+      <equipment id="mp_leather_cavalier_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="sp_chainmail_shoulder_armor" />
+      <equipment id="mp_hood" />
+      <equipment id="sa_western_chain_shoulders" />
+    </Cape>
+    <Gloves>
+      <equipment id="mp_leather_gloves" />
+      <equipment id="mp_lordly_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass clan="SVCI" name="Trabant"
+    banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
+    color1="FFf7d000"
+    color2="FFf4ebe9"
+    mpclassdivision="bre_infantry"
+    id="infantry_8_svci">
+    <Weapon0>
       <equipment id="b2_native_spear" />
-      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
-      <equipment id="sp_reinforced_kite_shield"/>
+      <equipment id="ca_tall_heater_shield_noboss"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -21437,12 +21494,10 @@
       <equipment id="mp_reinforced_mail_mitten" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="SVCI"
+  <ClanClass clan="SVCI" name="Fähnrich"
     banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
-    color1="FF6f1716"
+    color1="FFf7d000"
     color2="FFf4ebe9"
-    name="Fähnrich"
     mpclassdivision="bre_infantry"
     id="infantry_banner_svci">
     <Weapon0>
@@ -21475,12 +21530,10 @@
       <equipment id="mp_reinforced_padded_mitten" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="SVCI"
+  <ClanClass clan="SVCI" name="Rottmeister"
     banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
-    color1="FF6f1716"
+    color1="FFf7d000"
     color2="FFf4ebe9"
-    name="Rottmeister"
     mpclassdivision="bre_infantry"
     id="infantry_officer_1_svci">
     <Weapon0>
@@ -21512,12 +21565,10 @@
       <equipment id="ba_plategauntlet" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="SVCI"
+  <ClanClass clan="SVCI" name="Wachtmeister"
     banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
-    color1="FF6f1716"
+    color1="FFf7d000"
     color2="FFf4ebe9"
-    name="Wachtmeister"
     mpclassdivision="bre_infantry"
     id="infantry_officer_2_svci">
     <Weapon0>
@@ -21550,14 +21601,62 @@
       <equipment id="ba_plategauntlet" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="SVCI"
+  <ClanClass clan="SVCI" name="Feldwebel"
     banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
-    color1="FF6f1716"
+    color1="FFf7d000"
     color2="FFf4ebe9"
-    name="Hauptmann"
     mpclassdivision="bre_infantry"
     id="infantry_officer_3_svci">
+    <Weapon0>
+      <equipment id="b2_native_spear"/>
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ca_tall_heater_shield_noboss"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+    </Weapon2>
+    <Head>
+      <equipment id="sa_butterlord1" />
+      <equipment id="sa_armet" />
+      <equipment id="sa_crowned_vlandian_helm_with_visor" />
+      <equipment id="sa_great_helm_base" />
+      <equipment id="sa_sallet_base" />
+      <equipment id="sa_sugarloaf_helm3" />
+      <equipment id="ba_bolzanogreathelmet" />
+      <equipment id="sa_butterlord3" />
+    </Head>
+    <Body>
+      <equipment id="sa_tabbartplate" />
+      <equipment id="sa_swadian_striped_plate_armor" />
+    </Body>
+    <Leg>
+      <equipment id="sa_1churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="sa_swadian_shoulders" />
+      <equipment id="sp_empire_cape_a" />
+      <equipment id="mp_scarf" />
+      <equipment id="mp_wrapped_scarf" />
+      <equipment id="b2_pauldron_cape_a" />
+      <equipment id="mp_varangian_bra_royal" />
+      <equipment id="null" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass clan="SVCI" name="Hauptmann"
+    banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
+    color1="FFf7d000"
+    color2="FFf4ebe9"
+    mpclassdivision="bre_infantry"
+    id="infantry_officer_4_svci">
     <Weapon0>
       <equipment id="b2_native_spear"/>
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
@@ -21588,14 +21687,12 @@
       <equipment id="sa_1churburghgauntlet" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="SVCI"
+  <ClanClass clan="SVCI" name="Schütze"
     banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
-    color1="FF6f1716"
+    color1="FFf7d000"
     color2="FFf4ebe9"
-    name="Schütze"
     mpclassdivision="bre_archer"
-    id="archer_svci">
+    id="archer_1_svci">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -21635,6 +21732,255 @@
       <equipment id="mp_leather_gloves" />
       <equipment id="mp_padded_vambrace" />
     </Gloves>
+  </ClanClass>
+  <ClanClass clan="SVCI" name="Beschossene Schütze"
+    banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
+    color1="FFf7d000"
+    color2="FFf4ebe9"
+    mpclassdivision="bre_archer"
+    id="archer_2_svci">
+    <Weapon0>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_yew_bow" />
+      <equipment id="sp_noble_long_bow" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="sa_visoredkettlehelmet" />
+      <equipment id="sa_visoredkettlehelmet1" />
+      <equipment id="ba_openhelm2" />
+    </Head>
+    <Body>
+      <equipment id="mp_mail_shirt" />
+      <equipment id="mp_imperial_mail_vest" />
+    </Body>
+    <Leg>
+      <equipment id="mp_woven_leather_boots" />
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Cape>
+      <equipment id="mp_hood" />
+      <equipment id="mp_wrapped_scarf" />
+    </Cape>
+    <Gloves>
+      <equipment id="mp_leather_gloves" />
+      <equipment id="mp_padded_vambrace" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass clan="SVCI" name="Fußschütze"
+    banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
+    color1="FFf7d000"
+    color2="FFf4ebe9"
+    mpclassdivision="bre_archer"
+    id="archer_3_svci">
+    <Weapon0>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_yew_bow" />
+      <equipment id="sp_noble_long_bow" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="sa_visoredkettlehelmet" />
+      <equipment id="sa_visoredkettlehelmet1" />
+      <equipment id="ba_openhelm2" />
+    </Head>
+    <Body>
+      <equipment id="mp_mail_shirt" />
+      <equipment id="mp_imperial_mail_vest" />
+    </Body>
+    <Leg>
+      <equipment id="mp_woven_leather_boots" />
+      <equipment id="sp_sturgia_boots_a" />
+    </Leg>
+    <Cape>
+      <equipment id="mp_hood" />
+      <equipment id="mp_wrapped_scarf" />
+    </Cape>
+    <Gloves>
+      <equipment id="mp_leather_gloves" />
+      <equipment id="mp_padded_vambrace" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass clan="SVCI" name="Haupt Schütze"
+    banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
+    color1="FFf7d000"
+    color2="FFf4ebe9"
+    mpclassdivision="bre_archer"
+    id="archer_4_svci">
+    <Weapon0>
+      <equipment id="sp_cheap_bow" archeritem="true"/>
+      <equipment id="sp_lowland_bow" />
+      <equipment id="sp_yew_bow" />
+      <equipment id="sp_noble_long_bow" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="sa_barbute4" />
+    </Head>
+    <Body>
+      <equipment id="sa_swadian_plate_with_armguards" />
+      <equipment id="sa_swadian_striped_cuirass" />
+    </Body>
+    <Leg>
+      <equipment id="mp_fine_town_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="mp_hood" />
+      <equipment id="mp_wrapped_scarf" />
+    </Cape>
+    <Gloves>
+      <equipment id="mp_leather_gloves" />
+      <equipment id="mp_padded_vambrace" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass clan="SVCI" name="Knappe"
+    banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
+    color1="FFf7d000"
+    color2="FFf4ebe9"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_1_svci">
+    <Weapon0>
+      <equipment id="b2_lance_svci" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_flat_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
+    <Head>
+      <equipment id="ba_sallet" />
+    </Head>
+    <Body>
+      <equipment id="sa_sacoat1" />
+      <equipment id="sa_sacoat2" />
+      <equipment id="sa_sacoat3" />
+    </Body>
+    <Leg>
+      <equipment id="mp_mail_cavalier_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="mp_mail_mitten" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="mp_chain_barding" cavalryitem="true"/>
+      <equipment id="mp_halfchain_barding" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass clan="SVCI" name="Reiter"
+    banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
+    color1="FFf7d000"
+    color2="FFf4ebe9"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_2_svci">
+    <Weapon0>
+      <equipment id="b2_lance_svci" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_flat_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
+    <Head>
+      <equipment id="sa_armet" />
+      <equipment id="sa_churburghHelm_black_trimmed_feather" />
+    </Head>
+    <Body>
+      <equipment id="sa_swadian_plate_armor" />
+      <equipment id="sa_swadian_plate_with_armguards" />
+      <equipment id="sa_swadian_striped_plate_armor" />
+    </Body>
+    <Leg>
+      <equipment id="sa_churburghboots" />
+      <equipment id="sa_1churburghboots" />
+      <equipment id="sa_2churburghboots" />
+    </Leg>
+    <Cape>
+      <equipment id="mp_hood" />
+    </Cape>
+    <Gloves>
+      <equipment id="sa_churburghgauntlet" />
+      <equipment id="sa_1churburghgauntlet" />
+      <equipment id="sa_2churburghgauntlet" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="mp_chain_barding" cavalryitem="true"/>
+      <equipment id="mp_halfchain_barding" />
+      <equipment id="mp_stripped_leather_harness" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
   </ClanClass>
   <!--MAW-->
   <ClanClass
