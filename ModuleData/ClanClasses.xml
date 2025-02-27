@@ -12887,9 +12887,9 @@
       <equipment id="b3_ang_duke_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
-    <Weapon>
+    <Weapon3>
       <equipment id="b3_ang_duke_sword_2h"/>
-    </Weapon>
+    </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
       <equipment id="b3_kotr_head_2"/>
