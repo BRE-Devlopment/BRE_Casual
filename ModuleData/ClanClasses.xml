@@ -627,6 +627,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -692,12 +693,13 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
-      <equipment id="b2_excalibur" />
       <equipment id="b3_cou_duke_sword_1h" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
     <Weapon3>
+      <equipment id="b2_excalibur" />
       <equipment id="b3_cou_duke_sword_2h" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_grail_head_co" />
@@ -2039,6 +2041,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -2109,6 +2112,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_aqu_duke_sword_2h" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_grail_head_aq" />
@@ -2783,6 +2787,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -2853,6 +2858,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_gas_duke_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_grail_head_ga"/>
@@ -3479,6 +3485,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -3545,6 +3552,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_mou_duke_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_grail_head_mou"/>
@@ -4246,6 +4254,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -4316,6 +4325,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_bri_duke_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_grail_head_bri"/>
@@ -4870,13 +4880,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
-      <equipment id="b2_horse_brown" cavalryitem="true"/>
-      <equipment id="b2_horse_gold" />
-      <equipment id="b2_horse_white" />
-      <equipment id="b2_horse_grey" />
-      <equipment id="b2_horse_darkgrey" />
-      <equipment id="b2_horse_black" />
-      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true" />
+      <equipment id="null" disablegroup="HorseHarness" />
+      <equipment id="b2_horse_brown" cavalryitem="true" disablerandomize="true"/>
+      <equipment id="b2_horse_gold" disablerandomize="true"/>
+      <equipment id="b2_horse_white" disablerandomize="true"/>
+      <equipment id="b2_horse_grey" disablerandomize="true"/>
+      <equipment id="b2_horse_darkgrey" disablerandomize="true"/>
+      <equipment id="b2_horse_black" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
@@ -4902,6 +4912,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -4939,13 +4950,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
-      <equipment id="b2_horse_brown" cavalryitem="true"/>
-      <equipment id="b2_horse_gold"/>
-      <equipment id="b2_horse_white"/>
-      <equipment id="b2_horse_grey"/>
-      <equipment id="b2_horse_darkgrey"/>
-      <equipment id="b2_horse_black"/>
-      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" disablegroup="HorseHarness" />
+      <equipment id="b2_horse_brown" cavalryitem="true" disablerandomize="true"/>
+      <equipment id="b2_horse_gold" disablerandomize="true"/>
+      <equipment id="b2_horse_white" disablerandomize="true"/>
+      <equipment id="b2_horse_grey" disablerandomize="true"/>
+      <equipment id="b2_horse_darkgrey" disablerandomize="true"/>
+      <equipment id="b2_horse_black" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
@@ -4973,6 +4984,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_mon_duke_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
@@ -5004,13 +5016,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
-      <equipment id="b2_horse_brown" cavalryitem="true"/>
-      <equipment id="b2_horse_gold"/>
-      <equipment id="b2_horse_white"/>
-      <equipment id="b2_horse_grey"/>
-      <equipment id="b2_horse_darkgrey"/>
-      <equipment id="b2_horse_black"/>
-      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" disablegroup="HorseHarness" />
+      <equipment id="b2_horse_brown" cavalryitem="true" disablerandomize="true"/>
+      <equipment id="b2_horse_gold" disablerandomize="true"/>
+      <equipment id="b2_horse_white" disablerandomize="true"/>
+      <equipment id="b2_horse_grey" disablerandomize="true"/>
+      <equipment id="b2_horse_darkgrey" disablerandomize="true"/>
+      <equipment id="b2_horse_black" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
@@ -5563,6 +5575,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -5629,6 +5642,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_cas_kotr_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_grail_head_cas"/>
@@ -6208,6 +6222,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -6278,6 +6293,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_default_kotr_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
@@ -6867,6 +6883,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -6937,6 +6954,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_bag_kotr_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
@@ -7526,6 +7544,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -7596,6 +7615,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_default_kotr_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
@@ -8185,6 +8205,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -8841,6 +8862,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -8911,6 +8933,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_art_duke_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
@@ -9506,6 +9529,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -9572,6 +9596,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="bre_default_kotr_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1_dark"/>
@@ -10160,6 +10185,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -10822,6 +10848,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -10892,6 +10919,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_mar_kotr_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
@@ -11481,6 +11509,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -12149,6 +12178,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -12802,6 +12832,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -12872,6 +12903,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_ang_duke_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
@@ -14121,6 +14153,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -14789,6 +14822,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -15433,6 +15467,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
@@ -15503,6 +15538,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_par_duke_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
@@ -16092,6 +16128,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
