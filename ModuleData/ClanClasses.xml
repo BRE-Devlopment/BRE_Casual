@@ -693,6 +693,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
+      <equipment id="b2_excalibur" />
       <equipment id="b3_cou_duke_sword_1h" />
       <equipment id="b2_bastard_axe" />
     </Weapon2>
