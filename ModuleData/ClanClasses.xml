@@ -12886,9 +12886,9 @@
       <equipment id="b3_ang_duke_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
-    <Weapon2>
+    <Weapon>
       <equipment id="b3_ang_duke_sword_2h"/>
-    </Weapon2>
+    </Weapon>
     <Head>
       <equipment id="b3_kotr_head_1"/>
       <equipment id="b3_kotr_head_2"/>
@@ -13545,9 +13545,9 @@
       <equipment id="b3_bas_duke_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
-    <Weapon2>
+    <Weapon3>
       <equipment id="b3_bas_duke_sword_2h"/>
-    </Weapon2>
+    </Weapon3>
     <Head>
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
@@ -15520,9 +15520,9 @@
       <equipment id="b3_par_duke_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
-    <Weapon2>
+    <Weapon3>
       <equipment id="b3_par_duke_sword_2h"/>
-    </Weapon2>
+    </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
       <equipment id="b3_kotr_head_2"/>
