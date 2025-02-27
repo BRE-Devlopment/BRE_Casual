@@ -552,7 +552,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -623,9 +623,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -690,9 +693,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
-      <equipment id="b2_excalibur" />
+      <equipment id="b3_cou_duke_sword_1h" />
       <equipment id="b2_bastard_axe" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_cou_duke_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="b3_grail_head_co" />
       <equipment id="sp_battania_crown" disablerandomize="true" />
@@ -1958,7 +1964,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
-      <equipment id="b2_bastard_sword" />
+      <equipment id="b3_mounted_sergeant_sword_1h" />
       <equipment id="b2_bastard_axe" />
     </Weapon2>
     <Head>
@@ -2029,9 +2035,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -2096,9 +2105,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
-      <equipment id="b2_bastard_sword" />
+      <equipment id="b3_aqu_duke_sword_1h" />
       <equipment id="b2_bastard_axe" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_aqu_duke_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="b3_grail_head_aq" />
     </Head>
@@ -2697,7 +2709,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -2768,9 +2780,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -2835,9 +2850,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_gas_duke_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_gas_duke_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_grail_head_ga"/>
     </Head>
@@ -3386,7 +3404,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -3459,9 +3477,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -3522,9 +3543,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mou_duke_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_mou_duke_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_grail_head_mou"/>
     </Head>
@@ -4148,7 +4172,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -4221,9 +4245,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -4288,9 +4315,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_bri_duke_sword_1h"/>
       <equipment id="b3_theodoric_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_bri_duke_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_grail_head_bri"/>
     </Head>
@@ -4799,7 +4829,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -4872,9 +4902,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -4939,13 +4972,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b2_man_mace" />
-      <equipment id="b2_bastard_sword" />
-      <equipment id="b2_bastard_axe" />
-      <equipment id="b2_man_mace" disablerandomize="true"/>
-      <equipment id="b2_sergeant_axe" disablerandomize="true"/>
-      <equipment id="b2_sergeant_sword" disablerandomize="true"/>
+      <equipment id="b2_man_mace"/>
+      <equipment id="b3_mon_duke_kotr_sword_1h"/>
+      <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_mon_duke_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
       <equipment id="b3_kotr_head_2"/>
@@ -5458,7 +5491,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -5531,9 +5564,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -5594,9 +5630,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_cas_kotr_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_cas_kotr_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_grail_head_cas"/>
     </Head>
@@ -6100,7 +6139,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -6171,9 +6210,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -6238,9 +6280,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_default_kotr_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_default_kotr_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
       <equipment id="b3_kotr_head_2"/>
@@ -6754,7 +6799,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -6825,9 +6870,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -6892,9 +6940,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_bag_kotr_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_bag_kotr_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
       <equipment id="b3_kotr_head_2"/>
@@ -7408,7 +7459,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -7479,9 +7530,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -7546,9 +7600,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_default_kotr_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_default_kotr_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
       <equipment id="b3_kotr_head_2"/>
@@ -8062,7 +8119,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -8133,9 +8190,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -8716,7 +8776,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -8787,9 +8847,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -8854,9 +8917,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_art_duke_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_art_duke_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
       <equipment id="b3_kotr_head_2"/>
@@ -9376,7 +9442,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -9447,9 +9513,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -9510,9 +9579,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="bre_default_kotr_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="bre_default_kotr_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1_dark"/>
       <equipment id="b3_kotr_head_2_dark"/>
@@ -10025,7 +10097,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -10096,9 +10168,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -10163,9 +10238,11 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="bre_default_kerrant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
-    </Weapon2>
+    </Weapon3>
+      <equipment id="bre_default_kerrant_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
@@ -10682,7 +10759,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -10753,9 +10830,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -10820,9 +10900,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mar_kotr_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_mar_kotr_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
       <equipment id="b3_kotr_head_2"/>
@@ -11336,7 +11419,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -11407,9 +11490,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -11474,9 +11560,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_fro_kerrant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_fro_kerrant_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
@@ -11999,7 +12088,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -12070,9 +12159,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -12133,9 +12225,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mau_kerrant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_mau_kerrant_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_kerrant_head_1_dark"/>
       <equipment id="b3_kerrant_head_2_dark"/>
@@ -12647,7 +12742,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -12718,9 +12813,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -12785,8 +12883,11 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_ang_duke_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
+    </Weapon2>
+    <Weapon2>
+      <equipment id="b3_ang_duke_sword_2h"/>
     </Weapon2>
     <Head>
       <equipment id="b3_kotr_head_1"/>
@@ -13300,7 +13401,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -13371,9 +13472,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -13438,8 +13542,11 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_bas_duke_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
+    </Weapon2>
+    <Weapon2>
+      <equipment id="b3_bas_duke_sword_2h"/>
     </Weapon2>
     <Head>
       <equipment id="b3_kerrant_head_1"/>
@@ -13956,7 +14063,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -14027,9 +14134,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -14094,9 +14204,11 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_epe_kerrant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
-    </Weapon2>
+    </Weapon3>
+      <equipment id="b3_epe_kerrant_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
@@ -14619,7 +14731,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -14690,9 +14802,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -14753,9 +14868,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_grs_kerrant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_grs_kerrant_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_head_grism"/>
     </Head>
@@ -15258,7 +15376,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -15329,9 +15447,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -15396,8 +15517,11 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_par_duke_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
+    </Weapon2>
+    <Weapon2>
+      <equipment id="b3_par_duke_sword_2h"/>
     </Weapon2>
     <Head>
       <equipment id="b3_kotr_head_1"/>
@@ -15912,7 +16036,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_mounted_sergeant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
     <Head>
@@ -15983,9 +16107,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
@@ -16050,9 +16177,12 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_san_kerrant_sword_1h"/>
       <equipment id="b2_bastard_axe"/>
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_san_kerrant_sword_2h"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_head_lau" disablerandomize="true" />
       <equipment id="b3_chain_lau" disablerandomize="true"/>
