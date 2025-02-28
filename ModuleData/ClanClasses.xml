@@ -982,7 +982,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
-      <equipment id="b2_bastard_sword" />
+      <equipment id="b3_squire_sword_2h" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
@@ -1037,7 +1037,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
-      <equipment id="b2_bastard_sword" />
+      <equipment id="b3_squire_sword_2h" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
@@ -1092,7 +1092,7 @@
     <Weapon2>
       <equipment id="b3_order_paladin_2h_sword" />
       <equipment id="b2_man_mace" disablerandomize="true" />
-      <equipment id="b2_bastard_sword" disablerandomize="true" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
@@ -1146,7 +1146,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
-      <equipment id="b2_bastard_sword" />
+      <equipment id="b3_squire_sword_2h" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
@@ -1200,7 +1200,7 @@
     <Weapon2>
       <equipment id="b3_order_inquisitor_2h_sword" />
       <equipment id="b2_man_mace" disablerandomize="true" />
-      <equipment id="b2_bastard_sword" disablerandomize="true" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
@@ -1254,7 +1254,7 @@
     <Weapon2>
       <equipment id="b3_order_grand_master_2h_sword" />
       <equipment id="b2_man_mace" disablerandomize="true" />
-      <equipment id="b2_bastard_sword" disablerandomize="true" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
@@ -1308,7 +1308,7 @@
     <Weapon2>
       <equipment id="b3_order_grand_prior_2h_mace" />
       <equipment id="b2_man_mace" disablerandomize="true" />
-      <equipment id="b2_bastard_sword" disablerandomize="true" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
@@ -8271,7 +8271,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="b2_bastard_axe" disablegroup="Weapon3"/>
     </Weapon2>
     <Head>
@@ -16385,10 +16385,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="mp_pointed_skullcap_over_mail" />
       <equipment id="mp_nasal_helmet_over_cloth_headwrap" />
@@ -16719,10 +16722,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_sallet_no_visor" />
       <equipment id="sa_vlandian_helm_with_faceplate" />
@@ -17136,10 +17142,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_vlandian_helm_with_visor" />
       <equipment id="sa_sallet_base" />
@@ -17196,10 +17205,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_butterlord1" />
       <equipment id="sa_butterlord3" />
@@ -17445,10 +17457,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_bacinet_with_facemask" />
       <equipment id="sa_butterlord1" disablerandomize="true" />
@@ -17504,10 +17519,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_engraved_vlandian_helm_with_visor" />
       <equipment id="sa_butterlord1" disablerandomize="true" />
@@ -17615,10 +17633,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_vlandian_helm_with_faceplate_painted" />
       <equipment id="sa_butterlord1" disablerandomize="true" />
@@ -17726,10 +17747,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_pigface_bascinet_tail" />
       <equipment id="sa_butterlord1" disablerandomize="true" />
@@ -17837,10 +17861,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_vlandian_helm_with_faceplate_blackend_brass" />
       <equipment id="sa_butterlord1" disablerandomize="true" />
@@ -17948,10 +17975,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_barbute4" />
       <equipment id="sa_butterlord1" disablerandomize="true" />
@@ -18059,10 +18089,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h" />
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_sallet_wings" />
       <equipment id="sa_butterlord1" disablerandomize="true" />
@@ -18170,10 +18203,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_churburghHelm_black_trimmed_feather" />
       <equipment id="sa_butterlord1" disablerandomize="true" />
@@ -18281,10 +18317,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_barbute1" />
       <equipment id="sa_butterlord1" disablerandomize="true" />
@@ -18392,10 +18431,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_sugarloaf_helm2" />
       <equipment id="sa_butterlord1" disablerandomize="true" />
@@ -18503,10 +18545,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_sallet_wings" />
       <equipment id="sa_butterlord1" disablerandomize="true" />
@@ -18614,10 +18659,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_crowned_royal_vlandian_helm_with_visor" />
       <equipment id="sa_butterlord1" disablerandomize="true" />
@@ -18849,10 +18897,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_pigface_bascinet" />
       <equipment id="mp_peaked_helmet_over_mail_coif" />
@@ -19249,10 +19300,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="mp_lendman_helmet_over_full_mail" />
       <equipment id="mp_goggled_helmet_over_full_mail" />
@@ -20345,10 +20399,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_armet" />
     </Head>
@@ -20398,10 +20455,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_armet1" />
     </Head>
@@ -21104,10 +21164,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
       <equipment id="b2_man_sword" />
+      <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+      </Weapon3>
     </Weapon2>
     <Head>
       <equipment id="mp_bearhead" />
@@ -21162,10 +21225,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
       <equipment id="b2_man_sword" />
+      <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+      </Weapon3>
     </Weapon2>
     <Head>
       <equipment id="mp_bearhead" />
@@ -21566,10 +21632,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Body>
       <equipment id="mp_sturgian_chainmale_shortsleeve" />
     </Body>
@@ -21612,10 +21681,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_rus_helm_noble_icon" />
     </Head>
@@ -22425,10 +22497,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_great_prankh_helm_crest" />
     </Head>
@@ -22477,10 +22552,13 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_sword" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="sa_great_prankh_helm_winged" />
     </Head>
