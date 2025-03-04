@@ -15,7 +15,7 @@
     ranged_ai="50"
     armor="50"
     hitpoints="100"
-    movement_speed="3.80"
+    movement_speed="1.50"
     combat_movement_speed="0.9"
     acceleration="2.4">
     <Perks>
