@@ -12256,7 +12256,7 @@
       <equipment id="b3_kotr_head_7"/>
     </Head>
     <Body>
-      <equipment id="b3_kerrant_body_v1_mau"/>
+      <equipment id="b3_kotr_body_v1_mau"/>
       <equipment id="b3_kotr_body_v2_mau"/>
       <equipment id="b3_kotr_body_v3_mau"/>
     </Body>
@@ -12265,7 +12265,8 @@
       <equipment id="b3_kotr_leg_2"/>
     </Leg>
     <Cape>
-      <equipment id="b3_crest_mau"/>
+      <equipment id="b3_crest_mau" disablerandomize="true"/>
+      <equipment id="null"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
