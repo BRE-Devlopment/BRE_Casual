@@ -16839,10 +16839,14 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
-      <equipment id="b2_bastard_axe"/>
+      <equipment id="b2_man_mace" />
+      <equipment id="b3_ana_duke_sword_1h" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
     </Weapon2>
+    <Weapon3>
+      <equipment id="b3_ana_duke_sword_2h" />
+      <equipment id="null" disablerandomize="true"/>
+    </Weapon3>
     <Head>
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
