@@ -21829,10 +21829,10 @@
       <equipment id="b2_native_mace" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
       <equipment id="b2_man_sword" />
-      <Weapon3>
-      <equipment id="b3_squire_sword_2h" />
-      </Weapon3>
     </Weapon2>
+    <Weapon3>
+    <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
     <Head>
       <equipment id="mp_bearhead" />
       <equipment id="mp_padded_leather_cape" />
