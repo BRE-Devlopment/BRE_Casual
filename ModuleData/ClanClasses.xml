@@ -11582,7 +11582,7 @@
       <equipment id="b3_fro_kerrant_sword_2h"/>
     </Weapon3>
     <Head>
-      <equipment id="b3_kotr_head_7" disablegroup="Cape"/>
+      <equipment id="b3_kotr_head_7"/>
       <equipment id="b3_head_fro" disablerandomize="true"/>
     </Head>
     <Body>
@@ -11596,8 +11596,8 @@
       <equipment id="b3_kerrant_gloves"/>
     </Gloves>
     <Cape>
+      <equipment id="null"/>
       <equipment id="b3_crest_fro" disablerandomize="true"/>
-      <equipment id="null" hidden="true"/>
     </Cape>
     <HorseHarness>
       <equipment id="b3_kotr_horse_fro" cavalryitem="true"/>
@@ -12237,9 +12237,9 @@
       <equipment id="b3_mau_kerrant_sword_2h"/>
     </Weapon3>
     <Head>
-      <equipment id="b3_kerrant_head_1" disablegroup="Cape"/>
-      <equipment id="b3_kerrant_head_2" disablegroup="Cape"/>
-      <equipment id="b3_kerrant_head_3" disablegroup="Cape"/>
+      <equipment id="b3_kerrant_head_1"/>
+      <equipment id="b3_kerrant_head_2"/>
+      <equipment id="b3_kerrant_head_3"/>
       <equipment id="b3_head_mau" disablerandomize="true"/>
     </Head>
     <Body>
@@ -12252,8 +12252,8 @@
       <equipment id="b3_kotr_leg_2"/>
     </Leg>
     <Cape>
+      <equipment id="null"/>
       <equipment id="b3_crest_mau" disablerandomize="true"/>
-      <equipment id="null" hidden="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
