@@ -12262,14 +12262,14 @@
       <equipment id="b3_kotr_leg_2"/>
     </Leg>
     <Cape>
-      <equipment id="b3_crest_mau"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="b3_crest_mau" disablerandomize="true"/>
+      <equipment id="null" hidden="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_kerrant_horse_mau" cavalryitem="true"/>
+      <equipment id="b3_kotr_horse_mau" cavalryitem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
