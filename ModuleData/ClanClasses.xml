@@ -1392,7 +1392,6 @@
     id="herrimault_forester.he.archer">
     <Weapon0>
       <equipment id="sp_noble_long_bow" archeritem="true"/>
-      <equipment id="b3_banner_he" archeritem="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
@@ -1439,7 +1438,6 @@
     </Weapon0>
     <Weapon1>
       <equipment id="woc_shield" />
-      <equipment id="b3_banner_he" archeritem="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
