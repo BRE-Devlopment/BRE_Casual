@@ -1439,7 +1439,6 @@
     </Weapon0>
     <Weapon1>
       <equipment id="woc_shield" />
-      <equipment id="b3_banner_he" archeritem="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
@@ -1475,6 +1474,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="woc_shield" />
+      <equipment id="b3_banner_he" archeritem="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Head>
