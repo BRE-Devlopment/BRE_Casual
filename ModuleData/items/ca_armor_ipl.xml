@@ -40,7 +40,8 @@
     name="Tabbard over Coat of plate" 
     mesh="bre_coat_over_plate_ipl" 
     subtype="body_armor" 
-    culture="Culture.neutral_culture" 
+    culture="Culture.neutral_culture"
+    weight="0"
     Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="0" 
