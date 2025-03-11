@@ -224,7 +224,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -749,6 +749,9 @@
       <equipment id="b3_pilgrim_shield_2" />
       <equipment id="b3_pilgrim_shield_3" />
     </Weapon1>
+    <Weapon2>
+      <equipment id="b2_peasant_mace"/>
+    </Weapon2>	
     <Body>
       <equipment id="b3_pilgrim_a_body" />
       <equipment id="b3_pilgrim_b_body" />
@@ -793,6 +796,9 @@
       <equipment id="b3_exalted_pilgrim_shield_2" />
       <equipment id="b3_exalted_pilgrim_shield_3" />
     </Weapon1>
+    <Weapon2>
+      <equipment id="b2_peasant_mace"/>
+    </Weapon2>		
     <Head> 
       <equipment id="b3_battle_pilgrim_b_helmet1" />
       <equipment id="b3_battle_pilgrim_b_helmet2" />
@@ -838,6 +844,9 @@
       <equipment id="b3_exalted_pilgrim_shield_2" />
       <equipment id="b3_exalted_pilgrim_shield_3" />
     </Weapon1>
+    <Weapon2>
+      <equipment id="b2_peasant_mace"/>
+    </Weapon2>		
     <Head>
       <equipment id="b3_exalted_pilgrim_b_helmet1" />
       <equipment id="b3_exalted_pilgrim_b_helmet2" />
@@ -876,12 +885,15 @@
       <equipment id="b2_faussard" />
       <equipment id="b2_2h_mace" />
       <equipment id="b2_2h_axe" />
-      <equipment id="b2_2h_sword" />
+      <equipment id="b3_squire_sword_2h" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
     </Weapon1>
+    <Weapon2>
+      <equipment id="b2_man_mace" />
+    </Weapon2>	
     <Head>
       <equipment id="b3_order_novice_helmet1" />
       <equipment id="b3_order_novice_helmet2" />
@@ -910,12 +922,15 @@
       <equipment id="b2_faussard" />
       <equipment id="b2_2h_mace" />
       <equipment id="b2_2h_axe" />
-      <equipment id="b2_2h_sword" />
+      <equipment id="b3_squire_sword_2h" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
     </Weapon1>
+    <Weapon2>
+      <equipment id="b2_man_mace" />
+    </Weapon2>		
     <Head>
       <equipment id="b3_order_sergeant_helmet" />
       <equipment id="null" disablerandomize="true" />
@@ -974,7 +989,7 @@
       <equipment id="b2_faussard" disablegroup="Weapon2" disablerandomize="true" />
       <equipment id="b2_2h_mace" disablegroup="Weapon2" disablerandomize="true" />
       <equipment id="b2_2h_axe" disablegroup="Weapon2" disablerandomize="true" />
-      <equipment id="b2_2h_sword" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b3_squire_sword_2h" disablegroup="Weapon2" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
@@ -1029,7 +1044,7 @@
       <equipment id="b2_faussard" disablegroup="Weapon2" disablerandomize="true" />
       <equipment id="b2_2h_mace" disablegroup="Weapon2" disablerandomize="true" />
       <equipment id="b2_2h_axe" disablegroup="Weapon2" disablerandomize="true" />
-      <equipment id="b2_2h_sword" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b3_squire_sword_2h" disablegroup="Weapon2" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
@@ -1138,7 +1153,7 @@
       <equipment id="b2_faussard" disablegroup="Weapon2" disablerandomize="true" />
       <equipment id="b2_2h_mace" disablegroup="Weapon2" disablerandomize="true" />
       <equipment id="b2_2h_axe" disablegroup="Weapon2" disablerandomize="true" />
-      <equipment id="b2_2h_sword" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b3_squire_sword_2h" disablegroup="Weapon2" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
@@ -1300,7 +1315,7 @@
       <equipment id="b2_faussard" disablegroup="Weapon2" disablerandomize="true" />
       <equipment id="b3_order_grand_prior_2h_mace" disablegroup="Weapon2" disablerandomize="true" />
       <equipment id="b2_2h_axe" disablegroup="Weapon2" disablerandomize="true" />
-      <equipment id="b2_2h_sword" disablegroup="Weapon2" disablerandomize="true" />
+      <equipment id="b3_squire_sword_2h" disablegroup="Weapon2" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_grand_prior" />
@@ -1724,7 +1739,7 @@
       <equipment id="b2_sergeant_sword" />
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword" />
+      <equipment id="b3_squire_sword_2h" />
       <equipment id="null" disablerandomize="true" />
     </Weapon3>
     <Head>
@@ -2367,7 +2382,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -3120,7 +3135,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -3818,7 +3833,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -4588,7 +4603,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -5255,7 +5270,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -5905,7 +5920,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -6566,7 +6581,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -7227,7 +7242,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -7888,7 +7903,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -8545,7 +8560,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -9208,7 +9223,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -9868,7 +9883,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -10531,7 +10546,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -11192,7 +11207,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -11847,7 +11862,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -12503,7 +12518,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -13163,7 +13178,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -13824,7 +13839,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -14489,7 +14504,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -15138,7 +15153,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -15799,7 +15814,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -16447,7 +16462,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b2_2h_sword"/>
+      <equipment id="b3_squire_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -16893,7 +16908,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -17110,7 +17125,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -17171,7 +17186,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -17224,7 +17239,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -17272,7 +17287,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -17429,7 +17444,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -17474,7 +17489,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -17518,7 +17533,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -17561,7 +17576,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -17650,7 +17665,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -17920,7 +17935,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -18225,7 +18240,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -18339,7 +18354,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -18453,7 +18468,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -18567,7 +18582,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -18681,7 +18696,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -18795,7 +18810,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -18909,7 +18924,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -19023,7 +19038,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -19137,7 +19152,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -19251,7 +19266,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -19365,7 +19380,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -19418,7 +19433,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -19464,7 +19479,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -19600,7 +19615,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -19677,7 +19692,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -19745,7 +19760,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -19793,7 +19808,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -20697,7 +20712,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -20742,7 +20757,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -20787,7 +20802,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -20832,7 +20847,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -20876,7 +20891,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -20920,7 +20935,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -21295,7 +21310,7 @@
       <equipment id="b2_faussard" />
       <equipment id="b2_2h_mace" />
       <equipment id="b2_2h_axe" />
-      <equipment id="b2_2h_sword" />
+      <equipment id="b3_squire_sword_2h" />
       <equipment id="b2_native_spear" disablerandomize="true" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" />
     </Weapon0>
@@ -21386,7 +21401,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
@@ -21635,7 +21650,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -21672,7 +21687,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -21716,7 +21731,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -21947,7 +21962,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -22058,7 +22073,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
@@ -22116,7 +22131,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -22157,7 +22172,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -22199,7 +22214,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -22379,7 +22394,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -22699,7 +22714,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -22746,7 +22761,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -22793,7 +22808,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -22841,7 +22856,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -22955,7 +22970,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -23005,7 +23020,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -23055,7 +23070,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -23099,7 +23114,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -23254,7 +23269,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -23298,7 +23313,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -23369,7 +23384,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -23410,7 +23425,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -23452,7 +23467,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
@@ -23495,7 +23510,7 @@
       <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
-      <equipment id="b2_2h_sword" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
       <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
       <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
