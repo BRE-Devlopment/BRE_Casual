@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MPCharacters>
   <NPCCharacter 
-    id="bre_infantry_ogre_hero"
+    id="bre_infantry_troll_hero"
     default_group="Infantry"
     level="25"
     name="Infantry"
-    race="ogre"
+    race="troll"
     occupation="Soldier"
     culture="Culture.bretonnie">
     <face> 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MPClassDivisions>
   <MPClassDivision 
-    id="bre_infantry_ogre"
-    hero="bre_infantry_ogre_hero"
-    troop="bre_infantry_ogre_hero"
+    id="bre_infantry_troll"
+    hero="bre_infantry_troll_hero"
+    troop="bre_infantry_troll_hero"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="0.50"
