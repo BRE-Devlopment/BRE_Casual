@@ -12273,7 +12273,7 @@
       <equipment id="b3_crest_mau" disablerandomize="true"/>
     </Cape>
     <Gloves>
-      <equipment id="b3_kerrant_gloves_dark"/>
+      <equipment id="kotr_gauntlets_dark"/>
     </Gloves>
     <HorseHarness>
       <equipment id="b3_kotr_horse_mau" cavalryitem="true"/>
