@@ -13,8 +13,8 @@
     icon="Infantry_Light"
     melee_ai="50"
     ranged_ai="50"
-    armor="75"
-    hitpoints="100"
+    armor="50"
+    hitpoints="150"
     movement_speed="0.80"
     combat_movement_speed="0.9"
     acceleration="2.4">
