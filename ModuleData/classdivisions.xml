@@ -44,7 +44,8 @@
     armor="30"
     movement_speed="0.75"
     combat_movement_speed="0.9"
-    acceleration="3.2">
+    acceleration="3.2"
+    hitpoints="150">
     <Perks>
       <Perk 
         game_mode="all"
@@ -91,7 +92,7 @@
     movement_speed="0.8"
     combat_movement_speed="0.9"
     acceleration="2.7"
-    hitpoints="100">
+    hitpoints="150">
     <Perks>
       <Perk 
         game_mode="all"
@@ -128,7 +129,7 @@
     movement_speed="0.8"
     combat_movement_speed="0.9"
     acceleration="2.7"
-    hitpoints="100">
+    hitpoints="150">
     <Perks>
       <Perk 
         game_mode="all"
@@ -156,7 +157,8 @@
     armor="30"
     movement_speed="0.75"
     combat_movement_speed="0.9"
-    acceleration="3.2">
+    acceleration="3.2"
+    hitpoints="150">
     <Perks>
       <Perk 
         game_mode="all"
