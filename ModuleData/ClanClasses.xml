@@ -751,6 +751,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
+      <equipment id="null"/>	  
     </Weapon2>	
     <Body>
       <equipment id="b3_pilgrim_a_body" />
@@ -798,6 +799,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
+      <equipment id="null"/>	  
     </Weapon2>		
     <Head> 
       <equipment id="b3_battle_pilgrim_b_helmet1" />
@@ -846,6 +848,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
+      <equipment id="null"/>	  
     </Weapon2>		
     <Head>
       <equipment id="b3_exalted_pilgrim_b_helmet1" />
@@ -893,6 +896,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
+      <equipment id="null"/>	  
     </Weapon2>	
     <Head>
       <equipment id="b3_order_novice_helmet1" />
@@ -930,6 +934,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
+      <equipment id="null"/>	    
     </Weapon2>		
     <Head>
       <equipment id="b3_order_sergeant_helmet" />
