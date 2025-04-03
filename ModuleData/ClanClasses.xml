@@ -21167,7 +21167,6 @@
     id="infantry_1_svci">
     <Weapon0>
       <equipment id="b2_native_spear"/>
-      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss"/>
@@ -21214,7 +21213,6 @@
     id="infantry_2_svci">
     <Weapon0>
       <equipment id="b2_native_spear"/>
-      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss"/>
@@ -21254,7 +21252,6 @@
     id="infantry_3_svci">
     <Weapon0>
       <equipment id="b2_native_spear"/>
-      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
     </Weapon0>
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss"/>
