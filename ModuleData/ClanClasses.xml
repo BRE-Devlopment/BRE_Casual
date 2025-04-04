@@ -551,7 +551,10 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
-    </Weapon2>	
+    </Weapon2>		
+    <Head>
+      <equipment id = "april_fools_head" />
+    </Head>
     <Body>
       <equipment id="prisoner"/>
     </Body>
