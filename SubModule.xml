@@ -2,7 +2,7 @@
 <Module>
 	<Name value="BRE Casual" />
 	<Id value="BRE_Casual" />
-	<Version value="v1.0.4.10" />
+	<Version value="v1.0.4.12" />
 	<DefaultModule value="false" />
 	<Official value="false" />
 	<ModuleCategory value="Multiplayer" />
