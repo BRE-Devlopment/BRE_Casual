@@ -5008,7 +5008,7 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b3_mon_duke_kotr_sword_1h"/>
+      <equipment id="b3_mon_duke_sword_1h"/>
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
