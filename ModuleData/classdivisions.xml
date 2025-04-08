@@ -29,6 +29,34 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
+    id="bre_infantry_chaos_warrior"
+    hero="bre_infantry_chaos_warrior_hero"
+    troop="bre_infantry_chaos_warrior_hero"
+    hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
+    multiplier="0.50"
+    cost="0"
+    casual_cost="0"
+    battle_cost="0"
+    icon="Infantry_Light"
+    melee_ai="50"
+    ranged_ai="50"
+    armor="50"
+    hitpoints="100"
+    movement_speed="1.50"
+    combat_movement_speed="0.9"
+    acceleration="2.4">
+    <Perks>
+      <Perk 
+        game_mode="all"
+        name="{=*}Empty perk"
+        description="{=*}-"
+        icon="PerkToughness"
+        perk_list="1">
+      </Perk>
+    </Perks>
+  </MPClassDivision>
+  <MPClassDivision 
     id="bre_infantry"
     hero="bre_infantry_hero"
     troop="bre_infantry_troop"

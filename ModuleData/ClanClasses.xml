@@ -16763,7 +16763,7 @@
     color2="FFfac837"
     banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="bre_infantry"
+    mpclassdivision="bre_infantry_chaos_warrior"
     id="chaos_warrior.chaos">
     <Weapon0>
       <equipment id="b3_chaos_warrior_1h_mace"/>
@@ -16771,22 +16771,78 @@
       <equipment id="b3_chaos_warrior_1h_sword"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_chaos_warrior_2h_sword"/>
-      <equipment id="b3_chaos_warrior_2h_axe"/>
-      <equipment id="b3_chaos_warrior_2h_mace"/>
+      <equipment id="b3_chaos_tower_shield_v1"/>
+      <equipment id="b3_chaos_tower_shield_v2"/>
+      <equipment id="b3_chaos_tower_shield_v3"/>
     </Weapon1>
+    <Weapon2>
+      <equipment id="b3_chaos_warrior_2h_sword"/>
+      <equipment id="b3_chaos_warrior_2h_mace"/>
+      <equipment id="b3_chaos_warrior_2h_axe"/>
+    </Weapon2>
     <Head>
-      <equipment id="null"/>
+      <equipment id="b3_chaos_warrior_helmet_v1"/>
+      <equipment id="b3_chaos_warrior_helmet_v2"/>
+      <equipment id="b3_chaos_warrior_helmet_v3"/>
+      <equipment id="b3_chaos_warrior_helmet_v4"/>
+      <equipment id="b3_chaos_warrior_helmet_v5"/>
+      <equipment id="b3_chaos_warrior_helmet_v6"/>
+      <equipment id="b3_chaos_warrior_helmet_v7"/>
     </Head>
     <Body>
-      <equipment id="null"/>
+      <equipment id="b3_chaos_warrior_torso_v1"/>
+      <equipment id="b3_chaos_warrior_torso_v2"/>
+      <equipment id="b3_chaos_warrior_torso_v3"/>
     </Body>
     <Leg>
-     <equipment id="null"/>
+     <equipment id="b3_chaos_warrior_boots_v1"/>
+     <equipment id="b3_chaos_warrior_boots_v2"/>
+     <equipment id="b3_chaos_warrior_boots_v3"/>
     </Leg>
     <Gloves>
-      <equipment id="null"/>
+      <equipment id="b3_chaos_warrior_gauntlets_v1"/>
+      <equipment id="b3_chaos_warrior_gauntlets_v2"/>
+      <equipment id="b3_chaos_warrior_gauntlets_v3"/>
     </Gloves>
+    <Cape>
+      <equipment id="b3_chaos_warrior_shoulders_v1"/>
+      <equipment id="b3_chaos_warrior_shoulders_v2"/>
+      <equipment id="b3_chaos_warrior_shoulders_v3"/>
+    </Cape>
+  </ClanClass>
+  <ClanClass 
+    clan="CHAOS"
+    color1="FF4c2f57"
+    color2="FFfac837"
+    banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
+    name="Chaos Chosen"
+    mpclassdivision="bre_infantry_chaos_warrior"
+    id="chaos_chosen.chaos">
+    <Weapon0>
+      <equipment id="b3_chaos_warrior_1h_mace"/>
+      <equipment id="b3_chaos_warrior_axe"/>
+      <equipment id="b3_chaos_warrior_1h_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_chaos_warrior_2h_sword"/>
+      <equipment id="b3_chaos_warrior_2h_mace"/>
+      <equipment id="b3_chaos_warrior_2h_axe"/>
+    </Weapon1>
+    <Head>
+      <equipment id="b3_chaos_chosen_helmet"/>
+    </Head>
+    <Body>
+      <equipment id="b3_chaos_chosen_torso"/>
+    </Body>
+    <Leg>
+     <equipment id="b3_chaos_chosen_boots"/>
+    </Leg>
+    <Gloves>
+      <equipment id="b3_chaos_chosen_gauntlets"/>
+    </Gloves>
+    <Cape>
+      <equipment id="b3_chaos_chosen_shoulders"/>
+    </Cape>
   </ClanClass>
   <ClanClass 
     clan="CHAOS"
