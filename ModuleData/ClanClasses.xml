@@ -16788,6 +16788,7 @@
       <equipment id="b3_chaos_warrior_helmet_v5"/>
       <equipment id="b3_chaos_warrior_helmet_v6"/>
       <equipment id="b3_chaos_warrior_helmet_v7"/>
+      <equipment id="null"/>
     </Head>
     <Body>
       <equipment id="b3_chaos_warrior_torso_v1"/>
@@ -16809,6 +16810,17 @@
       <equipment id="b3_chaos_warrior_shoulders_v2"/>
       <equipment id="b3_chaos_warrior_shoulders_v3"/>
     </Cape>
+    <HorseHarness>
+      <equipment id="b3_chaos_warrior_horse_armour_v1" cavalryitem="true"/>
+      <equipment id="b3_chaos_warrior_horse_armour_v2" cavalryitem="true"/>
+      <equipment id="null"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b3_chaos_war_horse" cavalryitem="true"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
   </ClanClass>
   <ClanClass 
     clan="CHAOS"
@@ -16842,6 +16854,92 @@
     </Gloves>
     <Cape>
       <equipment id="b3_chaos_chosen_shoulders"/>
+    </Cape>
+  </ClanClass>
+  <ClanClass 
+    clan="CHAOS"
+    color1="FF4c2f57"
+    color2="FFfac837"
+    banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
+    name="Chaos Marauder"
+    mpclassdivision="bre_infantry_chaos_warrior"
+    id="chaos_marauder.chaos">
+    <Weapon0>
+      <equipment id="b3_chaos_marauder_1h_mace"/>
+      <equipment id="b3_chaos_marauder_1h_axe"/>
+      <equipment id="b3_chaos_marauder_1h_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_chaos_marauder_shield_v1"/>
+      <equipment id="b3_chaos_marauder_shield_v2"/>
+      <equipment id="b3_chaos_marauder_shield_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="b3_chaos_marauder_helmet_v1"/>
+      <equipment id="b3_chaos_marauder_helmet_v2"/>
+      <equipment id="b3_chaos_marauder_helmet_v3"/>
+    </Head>
+    <Body>
+      <equipment id="b3_chaos_marauder_torso_v1"/>
+      <equipment id="b3_chaos_marauder_torso_v2"/>
+      <equipment id="b3_chaos_marauder_torso_v3"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_chaos_marauder_boots_v1"/>
+      <equipment id="b3_chaos_marauder_boots_v2"/>
+      <equipment id="b3_chaos_marauder_boots_v3"/>
+    </Leg>
+    <Gloves>
+      <equipment id="b3_chaos_marauder_gauntlets_v1"/>
+      <equipment id="b3_chaos_marauder_gauntlets_v2"/>
+      <equipment id="b3_chaos_marauder_gauntlets_v3"/>
+    </Gloves>
+    <Cape>
+      <equipment id="b3_chaos_marauder_shoulders_v1"/>
+      <equipment id="b3_chaos_marauder_shoulders_v2"/>
+      <equipment id="b3_chaos_marauder_shoulders_v3"/>
+    </Cape>
+  </ClanClass>
+  <ClanClass 
+    clan="CHAOS"
+    color1="FF4c2f57"
+    color2="FFfac837"
+    banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
+    name="Chaos Marauder Sergent"
+    mpclassdivision="bre_infantry_chaos_warrior"
+    id="chaos_marauder_sergent.chaos">
+    <Weapon0>
+      <equipment id="b3_chaos_marauder_1h_mace"/>
+      <equipment id="b3_chaos_marauder_1h_axe"/>
+      <equipment id="b3_chaos_marauder_1h_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_chaos_marauder_shield_v1"/>
+      <equipment id="b3_chaos_marauder_shield_v2"/>
+      <equipment id="b3_chaos_marauder_shield_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="b3_chaos_marauder_helmet_sergeant"/>
+    </Head>
+    <Body>
+      <equipment id="b3_chaos_marauder_torso_v1"/>
+      <equipment id="b3_chaos_marauder_torso_v2"/>
+      <equipment id="b3_chaos_marauder_torso_v3"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_chaos_marauder_boots_v1"/>
+      <equipment id="b3_chaos_marauder_boots_v2"/>
+      <equipment id="b3_chaos_marauder_boots_v3"/>
+    </Leg>
+    <Gloves>
+      <equipment id="b3_chaos_marauder_gauntlets_v1"/>
+      <equipment id="b3_chaos_marauder_gauntlets_v2"/>
+      <equipment id="b3_chaos_marauder_gauntlets_v3"/>
+    </Gloves>
+    <Cape>
+      <equipment id="b3_chaos_marauder_shoulders_v1"/>
+      <equipment id="b3_chaos_marauder_shoulders_v2"/>
+      <equipment id="b3_chaos_marauder_shoulders_v3"/>
     </Cape>
   </ClanClass>
   <ClanClass 
