@@ -1061,7 +1061,7 @@
       <equipment id="b2_faussard"/>
       <equipment id="b2_2h_mace"/>
       <equipment id="b2_2h_axe" />
-      <equipment id="b3_squire_sword_2h"/>
+      <equipment id="b3_order_commander_2h_sword"/>
     </Weapon3>		
     <Head>
       <equipment id="b3_order_commander_helmet" />
