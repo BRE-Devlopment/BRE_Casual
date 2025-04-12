@@ -3194,7 +3194,7 @@
       <equipment id="b3_graveguard_2H_sword" disablegroup="Weapon2" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_graveguard_sword"/>
+      <equipment id="b3_graveguard_sword_1H"/>
       <equipment id="b3_graveguard_mace"/>
       <equipment id="b3_graveguard_axe"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -16940,6 +16940,88 @@
       <equipment id="b3_chaos_marauder_shoulders_v1"/>
       <equipment id="b3_chaos_marauder_shoulders_v2"/>
       <equipment id="b3_chaos_marauder_shoulders_v3"/>
+    </Cape>
+  </ClanClass>
+  <ClanClass 
+    clan="CHAOS"
+    color1="FF4c2f57"
+    color2="FFfac837"
+    banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
+    name="Chaos Cultist"
+    mpclassdivision="bre_infantry_chaos_warrior"
+    id="chaos_cultist.chaos">
+    <Weapon0>
+      <equipment id="b3_chaos_marauder_1h_mace"/>
+      <equipment id="b3_chaos_marauder_1h_axe"/>
+      <equipment id="b3_chaos_marauder_1h_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_chaos_marauder_shield_v1"/>
+      <equipment id="b3_chaos_marauder_shield_v2"/>
+      <equipment id="b3_chaos_marauder_shield_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="b3_chaos_cultist_head_v1"/>
+      <equipment id="b3_chaos_cultist_head_v2"/>
+      <equipment id="b3_chaos_cultist_head_v3"/>
+    </Head>
+    <Body>
+      <equipment id="b3_chaos_cultist_torso_v1"/>
+      <equipment id="b3_chaos_cultist_torso_v2"/>
+      <equipment id="b3_chaos_cultist_torso_v3"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_chaos_cultist_boots_v1"/>
+      <equipment id="b3_chaos_cultist_boots_v2"/>
+      <equipment id="b3_chaos_cultist_boots_v3"/>
+    </Leg>
+    <Gloves>
+      <equipment id="b3_chaos_cultist_gauntlets_v1"/>
+      <equipment id="b3_chaos_cultist_gauntlets_v2"/>
+      <equipment id="b3_chaos_cultist_gauntlets_v3"/>
+    </Gloves>
+    <Cape>
+      <equipment id="b3_chaos_cultist_shoulders_v1"/>
+      <equipment id="b3_chaos_cultist_shoulders_v2"/>
+      <equipment id="b3_chaos_cultist_shoulders_v3"/>
+    </Cape>
+  </ClanClass>
+  <ClanClass 
+    clan="CHAOS"
+    color1="FF4c2f57"
+    color2="FFfac837"
+    banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
+    name="Chaos Cultist Sergent"
+    mpclassdivision="bre_infantry_chaos_warrior"
+    id="chaos_cultist_sergent.chaos">
+    <Weapon0>
+      <equipment id="b3_chaos_marauder_1h_mace"/>
+      <equipment id="b3_chaos_marauder_1h_axe"/>
+      <equipment id="b3_chaos_marauder_1h_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_chaos_marauder_shield_v1"/>
+      <equipment id="b3_chaos_marauder_shield_v2"/>
+      <equipment id="b3_chaos_marauder_shield_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="b3_chaos_cultist_head_sergeant"/>
+    </Head>
+    <Body>
+      <equipment id="b3_chaos_cultist_torso_sergeant"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_chaos_cultist_boots_v1"/>
+      <equipment id="b3_chaos_cultist_boots_v2"/>
+      <equipment id="b3_chaos_cultist_boots_v3"/>
+    </Leg>
+    <Gloves>
+      <equipment id="b3_chaos_cultist_gauntlets_v1"/>
+      <equipment id="b3_chaos_cultist_gauntlets_v2"/>
+      <equipment id="b3_chaos_cultist_gauntlets_v3"/>
+    </Gloves>
+    <Cape>
+      <equipment id="b3_chaos_cultist_sergeant_shoulders"/>
     </Cape>
   </ClanClass>
   <ClanClass 
