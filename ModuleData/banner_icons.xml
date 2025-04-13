@@ -30,6 +30,10 @@
 			<!--TOL-->
 			<Icon id="6012" material_name="bannericons_casual" texture_index="12" />
 		</BannerIconGroup>
+		<BannerIconGroup id="19" name="bannericon_coalition" is_pattern="false">
+			<!--EICH-->
+			<Icon id="6013" material_name="bannericon_coalition" texture_index="0" />
+		</BannerIconGroup>
 		<BannerIconGroup id="21" name="bannericons_casual_ci" is_pattern="false">
 			<Icon id="6500" material_name="bannericons_casual_ci" texture_index="0" />
 			<Icon id="6501" material_name="bannericons_casual_ci" texture_index="1" />
@@ -62,6 +66,8 @@
 			<Color id="609" hex="0xFF7f0000"/>
 			<!--XIII purple-->
 			<Color id="610" hex="0xFF361d80"/>
+			<!--EICH black-->
+			<Color id="611" hex="0xFFfa851e"/>
 		</BannerColors>
 	</BannerIconData>
 </base>

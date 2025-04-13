@@ -91,7 +91,7 @@
         head_armor="0"
         has_gender_variations="false"
         hair_cover_type="type2"
-        beard_cover_type="none"
+        beard_cover_type="all"
         modifier_group="Chainmail"
         material_type="Chainmail" />
     </ItemComponent>
@@ -110,7 +110,7 @@
         head_armor="0"
         has_gender_variations="false"
         hair_cover_type="type2"
-        beard_cover_type="none"
+        beard_cover_type="all"
         modifier_group="Chainmail"
         material_type="Chainmail" />
     </ItemComponent>
@@ -129,7 +129,7 @@
         head_armor="0"
         has_gender_variations="false"
         hair_cover_type="type2"
-        beard_cover_type="none"
+        beard_cover_type="all"
         modifier_group="Chainmail"
         material_type="Chainmail" />
     </ItemComponent>
@@ -171,7 +171,7 @@
     multiplayer_item="true"
     id="vsc_infantry_ls_shoulder"
     name="Infantry Leadership Shoulder"
-    mesh="VSC_Infantry_lSShoulder "
+    mesh="VSC_Infantry_lSShoulder"
     culture="Culture.neutral_culture"
     weight="0"
     appearance="1"
