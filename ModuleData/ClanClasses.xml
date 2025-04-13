@@ -17026,6 +17026,36 @@
   </ClanClass>
   <ClanClass 
     clan="CHAOS"
+    color1="FF4c2f57"
+    color2="FFfac837"
+    banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
+    name="Naked Chaos Guy"
+    mpclassdivision="bre_infantry_chaos_warrior"
+    id="naked_chaos_guy.chaos">
+    <Weapon0>
+      <equipment id="null"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="null"/>
+    </Weapon1>
+    <Head>
+      <equipment id="null"/>
+    </Head>
+    <Body>
+      <equipment id="null"/>
+    </Body>
+    <Leg>
+      <equipment id="null"/>
+    </Leg>
+    <Gloves>
+      <equipment id="null"/>
+    </Gloves>
+    <Cape>
+      <equipment id="null"/>
+    </Cape>
+  </ClanClass>
+  <ClanClass 
+    clan="CHAOS"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
