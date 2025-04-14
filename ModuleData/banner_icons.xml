@@ -59,7 +59,7 @@
 			<!--KOH lightblue-->
 			<Color id="608" hex="0xFF172ac9"/>
 			<!--SVCI red-->
-			<Color id="609" hex="0xFFf7d000"/>
+			<Color id="609" hex="0xFF7f0000"/>
 			<!--XIII purple-->
 			<Color id="610" hex="0xFF361d80"/>
 		</BannerColors>
