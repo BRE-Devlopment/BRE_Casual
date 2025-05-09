@@ -507,6 +507,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -1945,6 +1947,8 @@
       <equipment id="b2_flattop_mail" />
       <equipment id="b2_norman_mail_0" />
       <equipment id="b2_norman_mail_1" />
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b2_mail_shirt" />
@@ -2688,6 +2692,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -3381,6 +3387,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -4145,6 +4153,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -4800,6 +4810,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -5462,6 +5474,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -6108,6 +6122,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -6766,6 +6782,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -7424,6 +7442,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -8082,6 +8102,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -8736,6 +8758,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -9400,6 +9424,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -10053,6 +10079,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -10713,6 +10741,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -11371,6 +11401,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -12027,6 +12059,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -12676,6 +12710,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -13333,6 +13369,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -13991,6 +14029,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -14657,6 +14697,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -15299,6 +15341,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -15957,6 +16001,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -16606,6 +16652,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
