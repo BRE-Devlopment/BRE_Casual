@@ -23986,4 +23986,289 @@
       <equipment id="mp_mail_mitten" />
     </Gloves>
   </ClanClass>
+  <!--VSC Völsung clan-->
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Vikingr"
+    mpclassdivision="bre_infantry"
+    id="infantry_vsc_1">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="sp_banner_empire3" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_bracketed_heater_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="vsc_infantry_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="vsc_infantry_shoulder1"/>
+      <equipment id="vsc_infantry_shoulder2"/>
+    </Cape>
+    <Body>
+      <equipment id="vsc_infantry_armour" />
+    </Body>
+    <Leg>
+      <equipment id="vsc_infantry_legs" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_infantry_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Aðal"
+    mpclassdivision="bre_infantry"
+    id="infantry_vsc_2">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="sp_banner_empire3" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_bracketed_heater_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="vsc_infantry_ls_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="vsc_infantry_ls_shoulder"/>
+    </Cape>
+    <Body>
+      <equipment id="vsc_infantry_ls_armour" />
+    </Body>
+    <Leg>
+      <equipment id="vsc_infantry_legs" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_infantry_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Bogimaðr"
+    mpclassdivision="bre_archer"
+    id="archer_vsc_1">
+    <Weapon0>
+      <equipment id="sp_woodland_yew_bow" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="vsc_archer_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="vsc_archer_shoulder"/>
+    </Cape>
+    <Body>
+      <equipment id="vsc_archer_armour" />
+    </Body>
+    <Leg>
+      <equipment id="mp_rough_tied_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_archer_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Bogimaðr Aðal"
+    mpclassdivision="bre_archer"
+    id="archer_vsc_2">
+    <Weapon0>
+      <equipment id="sp_woodland_yew_bow" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="vsc_archer_ls_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="mp_rough_bearskin"/>
+    </Cape>
+    <Body>
+      <equipment id="vsc_archer_ls_armour" />
+    </Body>
+    <Leg>
+      <equipment id="vsc_archer_ls_gloves" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_infantry_legs" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Riddari"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_vsc_1">
+    <Weapon0>
+      <equipment id="b2_lance_koh" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_flat_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
+    <Head>
+      <equipment id="vsc_cavalry_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="vsc_cavalry_shoulder"/>
+    </Cape>
+    <Body>
+      <equipment id="vsc_cavalry_armour" />
+    </Body>
+    <Leg>
+      <equipment id="vsc_infantry_legs" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_archer_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Riddari Aðal"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_vsc_2">
+    <Weapon0>
+      <equipment id="b2_lance_koh" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_flat_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
+    <Head>
+      <equipment id="vsc_cavalry_ls_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="vsc_cavalry_ls_shoulder"/>
+    </Cape>
+    <Body>
+      <equipment id="vsc_infantry_armour" />
+    </Body>
+    <Leg>
+      <equipment id="vsc_infantry_legs" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_archer_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Light Riddari"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_vsc_3">
+    <Weapon0>
+      <equipment id="b2_lance_koh" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_flat_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
+    <Head>
+      <equipment id="vsc_light_cavalry_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="vsc_light_cavalry_shoulder"/>
+    </Cape>
+    <Body>
+      <equipment id="mp_eastern_studded_leather" />
+    </Body>
+    <Leg>
+      <equipment id="mp_rough_tied_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_archer_ls_gloves" />
+    </Gloves>
+  </ClanClass>
 </ClanClasses>
