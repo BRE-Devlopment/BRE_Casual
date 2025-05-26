@@ -1,0 +1,5 @@
+<WeaponGroups>
+	<WeaponGroup id="human_infantry">
+		<Weapon id="b2_peasant_spear"/>
+	</WeaponGroup>
+</WeaponGroups>
