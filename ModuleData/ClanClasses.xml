@@ -17888,7 +17888,7 @@
       <WeaponGroup id="human_infantry"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="null"/>
+      <equipment id="b3_chaos_troll_mace"/>
     </Weapon0>
     <Head>
       <equipment id="null"/>
