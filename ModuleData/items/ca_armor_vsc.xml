@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <!--HEAD-->
+  <Item
+    multiplayer_item="true"
+    id="vsc_infantry_helmet"
+    name="Infantry Helmet"
+    mesh="VSC_Infantry_Helmet"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor
+        head_armor="0"
+        has_gender_variations="false"
+        hair_cover_type="type2"
+        beard_cover_type="none"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+    multiplayer_item="true"
+    id="vsc_infantry_ls_helmet"
+    name="Infantry Leadership Helmet"
+    mesh="VSC_Infantry_lSHelmet"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor
+        head_armor="0"
+        has_gender_variations="false"
+        hair_cover_type="type2"
+        beard_cover_type="none"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+    multiplayer_item="true"
+    id="vsc_archer_helmet"
+    name="Archer Helmet"
+    mesh="VSC_Archer_Helmet"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor
+        head_armor="0"
+        has_gender_variations="false"
+        hair_cover_type="type2"
+        beard_cover_type="none"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+    multiplayer_item="true"
+    id="vsc_archer_ls_helmet"
+    name="Archer Leadership Helmet"
+    mesh="VSC_Archer_LSHelmet"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor
+        head_armor="0"
+        has_gender_variations="false"
+        hair_cover_type="type2"
+        beard_cover_type="none"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+    multiplayer_item="true"
+    id="vsc_cavalry_helmet"
+    name="Cavalry Helmet"
+    mesh="VSC_Cavalry_Helmet"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor
+        head_armor="0"
+        has_gender_variations="false"
+        hair_cover_type="type2"
+        beard_cover_type="none"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+    multiplayer_item="true"
+    id="vsc_cavalry_ls_helmet"
+    name="Cavalry Leadership Helmet"
+    mesh="VSC_Cavalry_LSHelmet"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor
+        head_armor="0"
+        has_gender_variations="false"
+        hair_cover_type="type2"
+        beard_cover_type="none"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+    multiplayer_item="true"
+    id="vsc_light_cavalry_helmet"
+    name="Light Cavalry Helmet"
+    mesh="VSC_LightCavalry_Helmet"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor
+        head_armor="0"
+        has_gender_variations="false"
+        hair_cover_type="type2"
+        beard_cover_type="none"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <!--CAPE-->
+  <Item 
+    multiplayer_item="true"
+    id="vsc_infantry_shoulder1"
+    name="Infantry Shoulder"
+    mesh="VSC_Infantry_Shoulder1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="Cape">
+    <ItemComponent>
+      <Armor 
+        body_armor="0"
+        modifier_group="Chainmail"
+        material_type="Chainmail"/>
+    </ItemComponent>
+  </Item>
+  <Item 
+    multiplayer_item="true"
+    id="vsc_infantry_shoulder2"
+    name="Infantry Shoulder 2"
+    mesh="VSC_Infantry_Shoulder2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="Cape">
+    <ItemComponent>
+      <Armor 
+        body_armor="0"
+        modifier_group="Chainmail"
+        material_type="Chainmail"/>
+    </ItemComponent>
+  </Item>
+  <Item 
+    multiplayer_item="true"
+    id="vsc_infantry_ls_shoulder"
+    name="Infantry Leadership Shoulder"
+    mesh="VSC_Infantry_lSShoulder "
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="Cape">
+    <ItemComponent>
+      <Armor 
+        body_armor="0"
+        modifier_group="Chainmail"
+        material_type="Chainmail"/>
+    </ItemComponent>
+  </Item>
+  <Item 
+    multiplayer_item="true"
+    id="vsc_archer_shoulder"
+    name="Archer Shoulder"
+    mesh="VSC_Archer_Shoulder"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="Cape">
+    <ItemComponent>
+      <Armor 
+        body_armor="0"
+        modifier_group="Chainmail"
+        material_type="Chainmail"/>
+    </ItemComponent>
+  </Item>
+  <Item 
+    multiplayer_item="true"
+    id="vsc_cavalry_shoulder"
+    name="Cavalry Shoulder"
+    mesh="VSC_Cavalry_Shoulder"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="Cape">
+    <ItemComponent>
+      <Armor 
+        body_armor="0"
+        modifier_group="Chainmail"
+        material_type="Chainmail"/>
+    </ItemComponent>
+  </Item>
+  <Item 
+    multiplayer_item="true"
+    id="vsc_cavalry_ls_shoulder"
+    name="Cavalry Leadership Shoulder"
+    mesh="VSC_Cavalry_LSShoulder"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="Cape">
+    <ItemComponent>
+      <Armor 
+        body_armor="0"
+        modifier_group="Chainmail"
+        material_type="Chainmail"/>
+    </ItemComponent>
+  </Item>
+  <Item 
+    multiplayer_item="true"
+    id="vsc_light_cavalry_shoulder"
+    name="Light Cavalry Shoulder"
+    mesh="VSC_LightCavalry_Shoulder"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="Cape">
+    <ItemComponent>
+      <Armor 
+        body_armor="0"
+        modifier_group="Chainmail"
+        material_type="Chainmail"/>
+    </ItemComponent>
+  </Item>
+  <!--BODY-->
+  <Item
+    multiplayer_item="true"
+    id="vsc_infantry_armour"
+    name="Infantry Armour"
+    mesh="VSC_Infantry_Armour"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+    multiplayer_item="true"
+    id="vsc_infantry_ls_armour"
+    name="Infantry Leadership Armour"
+    mesh="VSC_Infantry_lSArmour"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+    multiplayer_item="true"
+    id="vsc_archer_armour"
+    name="Archer Armour"
+    mesh="VSC_Archer_Armour"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+    multiplayer_item="true"
+    id="vsc_archer_ls_armour"
+    name="Archer Leadership Armour"
+    mesh="VSC_Archer_LSArmour"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+    multiplayer_item="true"
+    id="vsc_cavalry_armour"
+    name="Cavalry Armour"
+    mesh="VSC_Cavalry_Armour"
+    culture="Culture.neutral_culture"
+    weight="0"
+    appearance="1"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <!--GLOVES-->
+  <Item
+      multiplayer_item="true"
+      id="vsc_infantry_gloves"
+      name="Infantry Gloves"
+      mesh="VSC_Infantry_Gloves"
+      subtype="body_armor" 
+      culture="Culture.neutral_culture"
+      weight="0"
+      appearance="1"
+      Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+      multiplayer_item="true"
+      id="vsc_archer_gloves"
+      name="Archer Gloves"
+      mesh="VSC_Archer_Gloves"
+      subtype="body_armor" 
+      culture="Culture.neutral_culture"
+      weight="0"
+      appearance="1"
+      Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <Item
+      multiplayer_item="true"
+      id="vsc_archer_ls_gloves"
+      name="Archer Leadership Gloves"
+      mesh="VSC_Archer_LSGloves"
+      subtype="body_armor" 
+      culture="Culture.neutral_culture"
+      weight="0"
+      appearance="1"
+      Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+  <!--LEG-->
+  <Item
+      multiplayer_item="true"
+      id="vsc_infantry_legs"
+      name="Infantry Greaves"
+      mesh="VSC_Infantry_Legs"
+      culture="Culture.neutral_culture"
+      weight="0"
+      appearance="1"
+      Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="Chainmail"
+        material_type="Chainmail" />
+    </ItemComponent>
+  </Item>
+</Items>

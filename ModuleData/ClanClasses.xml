@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ClanClasses>
-  <!--CO-->
+  <!--CO Couronne-->
   <ClanClass 
     clan="CO"
     color1="FF8e1818"
@@ -381,7 +381,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -445,7 +444,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -499,7 +497,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -510,6 +507,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -729,7 +728,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--OR-->
+  <!--OR Ordre Du Lac-->
   <ClanClass
     clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
@@ -1367,7 +1366,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--HE-->
+  <!--HE Bande des Herrimaults-->
   <ClanClass
     clan="HE"
     banner="11.513.513.1536.1536.764.764.0.0.0.5012.507.507.500.500.764.764.0.0.0"
@@ -1383,7 +1382,6 @@
     <Weapon1>
       <equipment id="sp_arrows_watch" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -1425,7 +1423,6 @@
     <Weapon1>
       <equipment id="sp_arrows_watch" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -1522,7 +1519,7 @@
       <equipment id="woc_arm_plated" />
     </Gloves>
   </ClanClass>
-  <!--AQ-->
+  <!--AQ Aquitanie-->
   <ClanClass
     clan="AQ"
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
@@ -1821,7 +1818,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -1885,7 +1881,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe" />
@@ -1942,7 +1937,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe" />
@@ -1953,6 +1947,8 @@
       <equipment id="b2_flattop_mail" />
       <equipment id="b2_norman_mail_0" />
       <equipment id="b2_norman_mail_1" />
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b2_mail_shirt" />
@@ -2170,7 +2166,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--GA-->
+  <!--GA Gasconnie-->
   <ClanClass 
     clan="GA"
     color1="FF8e1818"
@@ -2570,7 +2566,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -2634,7 +2629,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -2688,7 +2682,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -2699,6 +2692,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -2916,7 +2911,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--MOU-->
+  <!--MOU Moussillon-->
   <ClanClass 
     clan="MOU"
     color1="FFdab42b"
@@ -3260,7 +3255,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -3324,7 +3318,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -3383,7 +3376,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -3395,6 +3387,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -3613,7 +3607,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--BRI-->
+  <!--BRI Brionne-->
   <ClanClass 
     clan="BRI"
     color1="FFbbbbbb"
@@ -4028,7 +4022,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -4092,7 +4085,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -4151,7 +4143,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -4162,6 +4153,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -4383,7 +4376,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--MON-->
+  <!--MON Monfort-->
   <ClanClass 
     clan="MON"
     color1="FF171617"
@@ -4686,7 +4679,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -4750,7 +4742,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -4809,7 +4800,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -4820,6 +4810,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -5055,7 +5047,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--CAS-->
+  <!--CAS Castagne-->
   <ClanClass 
     clan="CAS"
     color1="FF1c232c"
@@ -5353,7 +5345,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -5417,7 +5408,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -5473,7 +5463,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -5485,6 +5474,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -5703,7 +5694,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--LAB-->
+  <!--LAB Labour-->
   <ClanClass 
     clan="LAB"
     color1="FF7f1b12"
@@ -6002,7 +5993,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -6066,7 +6056,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -6123,7 +6112,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -6134,6 +6122,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -6364,7 +6354,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--BAG-->
+  <!--BAG Bagnac-->
   <ClanClass 
     clan="BAG"
     color1="FF8a1816"
@@ -6663,7 +6653,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -6727,7 +6716,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -6784,7 +6772,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -6795,6 +6782,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -7025,7 +7014,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--TUR-->
+  <!--TUR Turin-->
   <ClanClass 
     clan="TUR"
     color1="FF263d7d"
@@ -7324,7 +7313,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -7388,7 +7376,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -7445,7 +7432,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -7456,6 +7442,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -7686,7 +7674,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--MOR-->
+  <!--MOR Mortenel-->
   <ClanClass 
     clan="MOR"
     color1="FF194a13"
@@ -7985,7 +7973,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -8049,7 +8036,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -8106,7 +8092,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -8117,6 +8102,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -8343,7 +8330,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--ART-->
+  <!--ART Artenois-->
   <ClanClass 
     clan="ART"
     color1="FF470c0c"
@@ -8642,7 +8629,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -8706,7 +8692,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -8763,7 +8748,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -8774,6 +8758,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -9004,7 +8990,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--GAR-->
+  <!--GAR Garamont-->
   <ClanClass 
     clan="GAR"
     color1="FF181616"
@@ -9306,7 +9292,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -9370,7 +9355,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -9429,7 +9413,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -9441,6 +9424,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -9965,7 +9950,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -10029,7 +10013,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -10086,7 +10069,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -10097,6 +10079,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -10329,7 +10313,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--MAR-->
+  <!--MAR Marechal-->
   <ClanClass 
     clan="MAR"
     color1="FF3a3a3a"
@@ -10628,7 +10612,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -10692,7 +10675,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -10749,7 +10731,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -10760,6 +10741,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -10991,7 +10974,7 @@
     </Horse>
   </ClanClass>
 
-  <!--FRO-->
+  <!--FRO Frontiere-->
   <ClanClass 
     clan="FRO"
     color1="FFe0ddd2"
@@ -11289,7 +11272,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -11353,7 +11335,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -11410,7 +11391,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -11421,6 +11401,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -11643,7 +11625,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--MAU-->
+  <!--MAU Maulièvre-->
   <ClanClass 
     clan="MAU"
     color1="FF242121"
@@ -11945,7 +11927,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -12009,7 +11990,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -12068,7 +12048,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -12080,6 +12059,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -12302,7 +12283,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--LAN-->
+  <!--LAN L'Anguille-->
   <ClanClass 
     clan="LAN"
     color1="FFffffff"
@@ -12600,7 +12581,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -12664,7 +12644,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -12721,7 +12700,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -12732,6 +12710,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -12962,7 +12942,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--BAS-->
+  <!--BAS Bastogne-->
   <ClanClass 
     clan="BAS"
     color1="FFd7a12b"
@@ -13260,7 +13240,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -13324,7 +13303,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -13381,7 +13359,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -13392,6 +13369,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -13623,7 +13602,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--EPE-->
+  <!--EPE Espée-->
   <ClanClass 
     clan="EPE"
     color1="FF144ea8"
@@ -13921,7 +13900,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -13985,7 +13963,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -14042,7 +14019,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -14053,6 +14029,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -14285,7 +14263,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--GRISM-->
+  <!--GRISM Grismerie-->
   <ClanClass 
     clan="GRISM"
     color1="FF470c0c"
@@ -14587,7 +14565,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -14651,7 +14628,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -14710,7 +14686,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -14722,6 +14697,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -14936,7 +14913,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--PAR (PARRAVON)-->
+  <!--PAR Parravon-->
   <ClanClass 
     clan="PAR"
     color1="FF0a0610"
@@ -15235,7 +15212,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -15299,7 +15275,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -15356,7 +15331,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -15367,6 +15341,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -15597,7 +15573,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--LAU (LAUDETHAIRE)-->
+  <!--LAU Laudethaire de Sanglac -->
   <ClanClass
     clan="LAU"
     color1="FF8a1816"
@@ -15896,7 +15872,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -15960,7 +15935,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -16017,7 +15991,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -16028,6 +16001,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -16246,7 +16221,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--ANA-->
+  <!--ANA Anara de Garamont-->
   <ClanClass 
     clan="ANA"
     color1="FF4c2f57"
@@ -16545,7 +16520,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -16609,7 +16583,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_axe"/>
@@ -16668,7 +16641,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_sergeant_axe"/>
@@ -16680,6 +16652,8 @@
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -16906,7 +16880,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--ENEMY-->
+  <!--ENEMY Coalition-->
   <ClanClass
     clan="ENEMY"
     banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
@@ -16925,14 +16899,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_tall_heater_shield" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_full_helm_over_padded_cap" />
@@ -16988,7 +16961,6 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -17123,7 +17095,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--ALMO-->
+  <!--ALMO Almogàver-->
   <ClanClass
     clan="ALMO"
     banner="7002.132.14.1536.1536.764.764.0.0.0"
@@ -17142,14 +17114,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_bracketed_heater_shield" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sp_cervelliere_over_cloth_headwrap" />
@@ -17205,14 +17176,13 @@
     <Weapon1>
       <equipment id="sp_bracketed_heater_shield" />
       <equipment id="sp_banner_khuzait1" disablegroup="Weapon0" disablerandomize="true" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_nasal_cervelliere_over_mail_coif" />
@@ -17256,14 +17226,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_visoredkettlehelmet" />
@@ -17304,14 +17273,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_heavy_heater_shield" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_sugarloaf_helm" />
@@ -17352,7 +17320,6 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -17442,7 +17409,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--BD-->
+  <!--BD Blood Diamond-->
   <ClanClass
     clan="BD"
     banner="2.40.116.1536.1536.929.764.1.0.0.512.142.116.449.449.813.750.1.1.0"
@@ -17463,14 +17430,13 @@
     <Weapon1>
       <equipment id="sp_heavy_heater_shield" />
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_sallet_base" />
@@ -17506,14 +17472,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_heavy_heater_shield" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_sallet_wings" />
@@ -17531,7 +17496,7 @@
       <equipment id="sa_1churburghgauntlet" />
     </Gloves>
   </ClanClass>
-  <!--CI-->
+  <!--CI Coronas Ibéricas-->
   <ClanClass
     clan="CI"
     banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
@@ -17550,14 +17515,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_bacinet_with_facemask" />
@@ -17593,14 +17557,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_sugarloaf_helm" />
@@ -17682,14 +17645,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_butterlord1" />
@@ -17737,7 +17699,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_sword" />
@@ -17772,7 +17733,6 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -17933,7 +17893,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--IPL-->
+  <!--IPL Imperium Polskie-->
   <ClanClass
     clan="IPL"
     banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0"
@@ -17955,14 +17915,13 @@
       <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
       <equipment id="ipl_shield_ipl" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_bacinet_with_facemask" />
@@ -18260,14 +18219,13 @@
       <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
       <equipment id="ipl_shield_arr" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_engraved_vlandian_helm_with_visor" />
@@ -18374,14 +18332,13 @@
       <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
       <equipment id="ipl_shield_dun" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_vlandian_helm_with_faceplate_painted" />
@@ -18488,14 +18445,13 @@
       <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
       <equipment id="ipl_shield_gri" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_pigface_bascinet_tail" />
@@ -18602,14 +18558,13 @@
       <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
       <equipment id="ipl_shield_hyp" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_vlandian_helm_with_faceplate_blackend_brass" />
@@ -18716,14 +18671,13 @@
       <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
       <equipment id="ipl_shield_leg" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_barbute4" />
@@ -18830,14 +18784,13 @@
       <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
       <equipment id="ipl_shield_rad" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_sallet_wings" />
@@ -18944,14 +18897,13 @@
       <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
       <equipment id="ipl_shield_vin" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_churburghHelm_black_trimmed_feather" />
@@ -19058,14 +19010,13 @@
       <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
       <equipment id="ipl_shield_wet" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_barbute1" />
@@ -19172,14 +19123,13 @@
       <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
       <equipment id="ipl_shield_mrn" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_sugarloaf_helm2" />
@@ -19286,14 +19236,13 @@
       <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
       <equipment id="ipl_shield_mar" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_sallet_wings" />
@@ -19400,14 +19349,13 @@
       <equipment id="ipl_tall_heater_shield_noboss_ipl"/>
       <equipment id="ipl_shield_vol" disablerandomize="true" />
       <equipment id="ipl_banner" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_crowned_royal_vlandian_helm_with_visor" />
@@ -19431,7 +19379,7 @@
       <equipment id="sa_churburghgauntlet" />
     </Gloves>
   </ClanClass>
-  <!--KOTF-->
+  <!--KOTF Kingdom of the Franks-->
   <ClanClass
     clan="KOTF"
     banner="27.15.12.1536.1536.764.764.1.0.0.6008.40.40.500.500.764.764.0.0.0"
@@ -19452,14 +19400,13 @@
     <Weapon1>
       <equipment id="sp_ironrim_riders_kite_shield" />
       <equipment id="sp_banner_vlandia3" disablegroup="Weapon0" disablerandomize="true" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_pigface_bascinet" />
@@ -19496,14 +19443,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_ironrim_riders_kite_shield" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_italio_norman_helm_crown" />
@@ -19536,7 +19482,6 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -19613,7 +19558,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--KOH-->
+  <!--KOH Völsung Clan-->
   <ClanClass
     clan="KOH"
     banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0"
@@ -19638,7 +19583,7 @@
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_goggled_helmet_over_leather" />
@@ -19711,14 +19656,13 @@
     <Weapon1>
       <equipment id="mp_leather_round_shield_light" />
       <equipment id="sp_banner_sturgia3" disablegroup="Weapon0" disablerandomize="true" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_lendman_helmet_over_full_mail" />
@@ -19779,14 +19723,13 @@
     <Weapon1>
       <equipment id="mp_leather_round_shield_light" />
       <equipment id="sp_banner_sturgia3" disablegroup="Weapon0" disablerandomize="true" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_decorated_goggled_helmet" />
@@ -19827,14 +19770,13 @@
     <Weapon1>
       <equipment id="koh_shield2" />
       <equipment id="sp_banner_sturgia3" disablegroup="Weapon0" disablerandomize="true" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_rus_helm_noble_icon" />
@@ -19874,7 +19816,6 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -19936,7 +19877,6 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_imperial_arrows" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -20021,7 +19961,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--XIII-->
+  <!--XIII XIIIth Tagma-->
     <ClanClass 
       clan="XIII" 
       banner="11.6.6.2000.2000.764.764.0.0.0.342.121.121.500.500.764.764.0.0.0" 
@@ -20042,7 +19982,7 @@
         <Weapon1>
             <equipment id="xiii_shield"/>
             <equipment id="xiii_shield_3" disablerandomize="true" />
-            <equipment id="null" disablerandomize="true" hidden="true" />
+            <equipment id="null" hidden="true" disablerandomize="true"/>
           <equipment id="null" hidden="true" disablerandomize="true"/>
         </Weapon1>
         <Weapon2>
@@ -20101,7 +20041,7 @@
             <equipment id="xiii_shield"/>
             <equipment id="xiii_shield_2"/>
             <equipment id="xiii_shield_3" disablerandomize="true" />
-            <equipment id="null" disablerandomize="true" hidden="true" />
+            <equipment id="null" hidden="true" disablerandomize="true"/>
           <equipment id="null" hidden="true" disablerandomize="true"/>
         </Weapon1>
         <Weapon2>
@@ -20605,7 +20545,7 @@
             <equipment id="xiii_shield"/>
             <equipment id="xiii_shield_2"/>
             <equipment id="xiii_shield_3" disablerandomize="true" />
-            <equipment id="null" disablerandomize="true" hidden="true" />
+            <equipment id="null" hidden="true" disablerandomize="true"/>
           <equipment id="null" hidden="true" disablerandomize="true"/>
         </Weapon1>
         <Weapon2>
@@ -20710,7 +20650,7 @@
             <equipment id="null" hidden="true" disablerandomize="true"/>
         </Horse>
     </ClanClass>
-  <!--HOST-->
+  <!--HOST Knights Hospitaller-->
   <ClanClass
     clan="HOST"
     banner="11.116.116.1536.1536.764.764.1.0.0.6009.40.40.500.500.764.764.1.0.0"
@@ -20731,14 +20671,13 @@
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_royal_great_helm" />
@@ -20776,14 +20715,13 @@
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_crowned_royal_vlandian_helm_with_visor" />
@@ -20821,14 +20759,13 @@
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
       <equipment id="sp_banner_vlandia2" disablegroup="Weapon0" disablerandomize="true" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="ba_bolzanogreathelmet" />
@@ -20864,14 +20801,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="ba_bolzanogreathelmet" />
@@ -20908,14 +20844,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_vlandian_helm_with_faceplate" />
@@ -20952,14 +20887,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_battania_civil_hood" />
@@ -20992,7 +20926,6 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -21034,7 +20967,6 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -21170,7 +21102,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--SVCI-->
+  <!--SVCI Štvanci-->
   <ClanClass clan="SVCI" name="Kandidat"
     banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0"
     color1="FF6f1716"
@@ -21472,14 +21404,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="ca_tall_heater_shield_noboss"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="ba_salletclean" />
@@ -21764,7 +21695,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_sword" />
@@ -21809,7 +21739,6 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -21856,7 +21785,6 @@
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_sword" />
@@ -21901,7 +21829,6 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -22042,7 +21969,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--MAW-->
+  <!--MAW Mercenaries of the Maw-->
   <ClanClass
     clan="MAW"
     banner="11.116.116.1836.1836.768.788.1.0.330.404.33.33.637.644.762.762.1.1.0"
@@ -22146,12 +22073,11 @@
       <equipment id="sp_banner_khuzait1" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="sp_banner_khuzait2" disablerandomize="true" disablegroup="Weapon0" />
       <equipment id="sp_banner_khuzait3" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_sword" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_bearhead" />
@@ -22191,7 +22117,6 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -22354,7 +22279,7 @@
       <equipment id="sp_cut_dress_with_pouch" />
     </Body>
   </ClanClass>
-  <!--OMEY-->
+  <!--OMEY Guardia Omeya-->
   <ClanClass
     clan="OMEY"
     banner="11.148.1.913.1278.763.763.0.0.0.6502.7.7.640.640.764.764.1.0.0.503.128.128.480.480.764.764.1.0.0.503.12.12.470.470.764.764.1.0.0.6501.127.127.400.400.764.764.1.0.0"
@@ -22375,14 +22300,13 @@
     <Weapon1>
       <equipment id="omey_shield"/>
       <equipment id="sp_banner_aserai3" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_southern_noble_helmet" />
@@ -22430,7 +22354,6 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -22486,14 +22409,13 @@
     <Weapon1>
       <equipment id="omey_shield"/>
       <equipment id="sp_banner_aserai3" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_aserai_lord_helmet_a" />
@@ -22523,7 +22445,7 @@
       <equipment id="mp_padded_vambrace" />
     </Gloves>
   </ClanClass>
-  <!--VD-->
+  <!--VD Vestmar Dominion-->
   <ClanClass
     clan="VD"
     banner="35.116.2.1418.1464.766.759.0.0.0.316.2.144.522.523.764.752.1.0.0.503.2.116.347.318.765.818.0.0.0.120.40.116.238.237.777.768.1.1.0.340.15.116.166.124.769.622.0.0.0.301.15.116.171.226.765.894.0.0.90"
@@ -22543,14 +22465,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_rus_helm_regular" />
@@ -22585,14 +22506,13 @@
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
       <equipment id="sp_banner_vlandia2" disablerandomize="true" disablegroup="Weapon0" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_vaegir_helm" />
@@ -22626,14 +22546,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_rus_helm_regular" />
@@ -22665,7 +22584,6 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -22806,14 +22724,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_rus_helm_regular" />
@@ -22828,7 +22745,7 @@
       <equipment id="mp_reinforced_mail_mitten" />
     </Gloves>
   </ClanClass>
-  <!--LBO-->
+  <!--LBO Legio Bohemorum-->
   <ClanClass
     clan="LBO"
     banner="11.40.40.1536.1536.764.764.1.0.0.6004.507.507.500.500.764.764.1.0.0"
@@ -23126,14 +23043,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_segmented_skullcap_over_mail_coif" />
@@ -23173,14 +23089,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_segmented_skullcap_over_mail_coif" />
@@ -23220,14 +23135,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_segmented_skullcap_over_mail_coif" />
@@ -23268,14 +23182,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_segmented_skullcap_over_mail_coif" />
@@ -23382,14 +23295,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_fluted_helm_with_faceplate" />
@@ -23432,14 +23344,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_fluted_helm_with_faceplate" />
@@ -23482,14 +23393,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_great_prankh_helm_crest" />
@@ -23526,14 +23436,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_reinforced_kite_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_great_prankh_helm_winged" />
@@ -23661,7 +23570,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--SAN-->
+  <!--SAN Santiago-->
   <ClanClass
     clan="SAN"
     banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
@@ -23681,14 +23590,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="ci_tall_heater_shield_noboss_san"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_segmented_cervelliere_over_mail_coif" />
@@ -23725,14 +23633,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="ci_tall_heater_shield_noboss_san"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_segmented_skullcap_over_mail_coif" />
@@ -23796,14 +23703,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="ci_tall_heater_shield_noboss_san"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_great_helm_brass" />
@@ -23837,14 +23743,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="ci_tall_heater_shield_noboss_san"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_sugarloaf_helm3" />
@@ -23859,7 +23764,7 @@
       <equipment id="mp_mail_chausses" />
     </Gloves>
   </ClanClass>
-  <!--TOL-->
+  <!--TOL Toledo-->
   <ClanClass
     clan="TOL"
     banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0"
@@ -23879,14 +23784,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_bracketed_heater_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="mp_kettle_helmet_with_leather" />
@@ -23922,14 +23826,13 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_bracketed_heater_shield"/>
-      <equipment id="null" disablerandomize="true" hidden="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_native_mace" />
       <equipment id="b2_native_sword" />
       <equipment id="b2_native_axe" />
-      <equipment id="null" disablerandomize="true" hidden="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="sa_bacinet_with_facemask" />
@@ -23984,6 +23887,291 @@
     </Leg>
     <Gloves>
       <equipment id="mp_mail_mitten" />
+    </Gloves>
+  </ClanClass>
+  <!--VSC Völsung clan-->
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Vikingr"
+    mpclassdivision="bre_infantry"
+    id="infantry_vsc_1">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="sp_banner_empire3" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_bracketed_heater_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="vsc_infantry_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="vsc_infantry_shoulder1"/>
+      <equipment id="vsc_infantry_shoulder2"/>
+    </Cape>
+    <Body>
+      <equipment id="vsc_infantry_armour" />
+    </Body>
+    <Leg>
+      <equipment id="vsc_infantry_legs" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_infantry_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Aðal"
+    mpclassdivision="bre_infantry"
+    id="infantry_vsc_2">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="sp_banner_empire3" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_bracketed_heater_shield"/>
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" disablerandomize="true" hidden="true" />
+    </Weapon2>
+    <Head>
+      <equipment id="vsc_infantry_ls_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="vsc_infantry_ls_shoulder"/>
+    </Cape>
+    <Body>
+      <equipment id="vsc_infantry_ls_armour" />
+    </Body>
+    <Leg>
+      <equipment id="vsc_infantry_legs" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_infantry_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Bogimaðr"
+    mpclassdivision="bre_archer"
+    id="archer_vsc_1">
+    <Weapon0>
+      <equipment id="sp_woodland_yew_bow" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="vsc_archer_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="vsc_archer_shoulder"/>
+    </Cape>
+    <Body>
+      <equipment id="vsc_archer_armour" />
+    </Body>
+    <Leg>
+      <equipment id="mp_rough_tied_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_archer_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Bogimaðr Aðal"
+    mpclassdivision="bre_archer"
+    id="archer_vsc_2">
+    <Weapon0>
+      <equipment id="sp_woodland_yew_bow" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="vsc_archer_ls_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="mp_rough_bearskin"/>
+    </Cape>
+    <Body>
+      <equipment id="vsc_archer_ls_armour" />
+    </Body>
+    <Leg>
+      <equipment id="vsc_archer_ls_gloves" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_infantry_legs" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Riddari"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_vsc_1">
+    <Weapon0>
+      <equipment id="b2_lance_koh" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_flat_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
+    <Head>
+      <equipment id="vsc_cavalry_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="vsc_cavalry_shoulder"/>
+    </Cape>
+    <Body>
+      <equipment id="vsc_cavalry_armour" />
+    </Body>
+    <Leg>
+      <equipment id="vsc_infantry_legs" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_archer_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Riddari Aðal"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_vsc_2">
+    <Weapon0>
+      <equipment id="b2_lance_koh" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_flat_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
+    <Head>
+      <equipment id="vsc_cavalry_ls_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="vsc_cavalry_ls_shoulder"/>
+    </Cape>
+    <Body>
+      <equipment id="vsc_infantry_armour" />
+    </Body>
+    <Leg>
+      <equipment id="vsc_infantry_legs" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_archer_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="VSC"
+    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179"
+    color1="FFFFFFFF"
+    color2="FF000000"
+    name="Völsung Light Riddari"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_vsc_3">
+    <Weapon0>
+      <equipment id="b2_lance_koh" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_reinforced_flat_kite_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
+    <Head>
+      <equipment id="vsc_light_cavalry_helmet" />
+    </Head>
+    <Cape>
+      <equipment id="vsc_light_cavalry_shoulder"/>
+    </Cape>
+    <Body>
+      <equipment id="mp_eastern_studded_leather" />
+    </Body>
+    <Leg>
+      <equipment id="mp_rough_tied_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="vsc_archer_ls_gloves" />
     </Gloves>
   </ClanClass>
 </ClanClasses>
