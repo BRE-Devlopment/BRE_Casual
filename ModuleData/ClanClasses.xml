@@ -17560,6 +17560,26 @@
   <!-- CHAOS -->
   <ClanClass 
     clan="CHAOS"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
+    name="Trololo"
+    mpclassdivision="bre_infantry_troll"
+    id="chaos_troll">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry"/>
+    </UsableWeaponGroups>
+    <SpellCasting
+      max_mana="100"
+      mana_refill_amount="2">
+      <Spell id="troll_vomit"/>
+    </SpellCasting>
+    <Weapon0>
+      <equipment id="b3_chaos_troll_mace"/>
+    </Weapon0>
+  </ClanClass>
+  <ClanClass 
+    clan="CHAOS"
     color1="FF4c2f57"
     color2="FFfac837"
     banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
@@ -17876,34 +17896,6 @@
       <equipment id="null"/>
     </Cape>
   </ClanClass>
-  <ClanClass 
-    clan="CHAOS"
-    color1="FFdab42b"
-    color2="FF1f1a19"
-    banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
-    name="Naked Man"
-    mpclassdivision="bre_infantry_troll"
-    id="chaos_troll.chaos">
-    <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
-    </UsableWeaponGroups>
-    <Weapon0>
-      <equipment id="b3_chaos_troll_mace"/>
-    </Weapon0>
-    <Head>
-      <equipment id="null"/>
-    </Head>
-    <Body>
-      <equipment id="null"/>
-    </Body>
-    <Leg>
-      <equipment id="null"/>
-    </Leg>
-    <Gloves>
-      <equipment id="null"/>
-    </Gloves>
-  </ClanClass>
-
   <!--ENEMY-->
   <ClanClass
     clan="ENEMY"
