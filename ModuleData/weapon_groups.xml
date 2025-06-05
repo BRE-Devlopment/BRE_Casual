@@ -1,5 +1,109 @@
 <WeaponGroups>
-	<WeaponGroup id="human_infantry">
+	<WeaponGroup id="chaos_troll">
+		<Weapon id="b3_chaos_troll_mace"/>
+	</WeaponGroup>
+	<WeaponGroup id="chaos_warrior">
 		<Weapon id="b2_peasant_spear"/>
+	</WeaponGroup>
+	<WeaponGroup id="human_infantry_default">
+		<!-- shield -->
+			<Weapon id="b3_tower_shield1_co"/>
+			<Weapon id="b3_tower_shield2_co"/>
+			<Weapon id="b3_tower_shield3_co"/>
+			<Weapon id="b3_tower_shield1_or"/>
+			<Weapon id="b3_tower_shield2_or"/>
+			<Weapon id="b3_tower_shield3_or"/>
+			<Weapon id="b3_tower_shield1_he"/>
+			<Weapon id="b3_tower_shield2_he"/>
+			<Weapon id="b3_tower_shield3_he"/>
+			<Weapon id="b3_tower_shield1_aq"/>
+			<Weapon id="b3_tower_shield2_aq"/>
+			<Weapon id="b3_tower_shield3_aq"/>
+			<Weapon id="b3_tower_shield1_ga"/>
+			<Weapon id="b3_tower_shield2_ga"/>
+			<Weapon id="b3_tower_shield3_ga"/>
+			<Weapon id="b3_tower_shield1_mou"/>
+			<Weapon id="b3_tower_shield2_mou"/>
+			<Weapon id="b3_tower_shield3_mou"/>
+			<Weapon id="b3_tower_shield1_bri"/>
+			<Weapon id="b3_tower_shield2_bri"/>
+			<Weapon id="b3_tower_shield3_bri"/>
+			<Weapon id="b3_tower_shield1_mon"/>
+			<Weapon id="b3_tower_shield2_mon"/>
+			<Weapon id="b3_tower_shield3_mon"/>
+			<Weapon id="b3_tower_shield1_cas"/>
+			<Weapon id="b3_tower_shield2_cas"/>
+			<Weapon id="b3_tower_shield3_cas"/>
+			<Weapon id="b3_tower_shield1_lab"/>
+			<Weapon id="b3_tower_shield2_lab"/>
+			<Weapon id="b3_tower_shield3_lab"/>
+			<Weapon id="b3_tower_shield1_bag"/>
+			<Weapon id="b3_tower_shield2_bag"/>
+			<Weapon id="b3_tower_shield3_bag"/>
+			<Weapon id="b3_tower_shield1_tur"/>
+			<Weapon id="b3_tower_shield2_tur"/>
+			<Weapon id="b3_tower_shield3_tur"/>
+			<Weapon id="b3_tower_shield1_mor"/>
+			<Weapon id="b3_tower_shield2_mor"/>
+			<Weapon id="b3_tower_shield3_mor"/>
+			<Weapon id="b3_tower_shield1_art"/>
+			<Weapon id="b3_tower_shield2_art"/>
+			<Weapon id="b3_tower_shield3_art"/>
+			<Weapon id="b3_tower_shield1_gar"/>
+			<Weapon id="b3_tower_shield2_gar"/>
+			<Weapon id="b3_tower_shield3_gar"/>
+			<Weapon id="b3_tower_shield1_gri"/>
+			<Weapon id="b3_tower_shield2_gri"/>
+			<Weapon id="b3_tower_shield3_gri"/>
+			<Weapon id="b3_tower_shield1_mar"/>
+			<Weapon id="b3_tower_shield2_mar"/>
+			<Weapon id="b3_tower_shield3_mar"/>
+			<Weapon id="b3_tower_shield1_fro"/>
+			<Weapon id="b3_tower_shield2_fro"/>
+			<Weapon id="b3_tower_shield3_fro"/>
+			<Weapon id="b3_tower_shield1_mau"/>
+			<Weapon id="b3_tower_shield2_mau"/>
+			<Weapon id="b3_tower_shield3_mau"/>
+			<Weapon id="b3_tower_shield1_lan"/>
+			<Weapon id="b3_tower_shield2_lan"/>
+			<Weapon id="b3_tower_shield3_lan"/>
+			<Weapon id="b3_tower_shield1_bas"/>
+			<Weapon id="b3_tower_shield2_bas"/>
+			<Weapon id="b3_tower_shield3_bas"/>
+			<Weapon id="b3_tower_shield1_epe"/>
+			<Weapon id="b3_tower_shield2_epe"/>
+			<Weapon id="b3_tower_shield3_epe"/>
+			<Weapon id="b3_tower_shield1_grism"/>
+			<Weapon id="b3_tower_shield2_grism"/>
+			<Weapon id="b3_tower_shield3_grism"/>
+			<Weapon id="b3_tower_shield1_par"/>
+			<Weapon id="b3_tower_shield2_par"/>
+			<Weapon id="b3_tower_shield3_par"/>
+			<Weapon id="b3_tower_shield1_lau"/>
+			<Weapon id="b3_tower_shield2_lau"/>
+			<Weapon id="b3_tower_shield3_lau"/>
+			<Weapon id="b3_tower_shield1_ana"/>
+			<Weapon id="b3_tower_shield2_ana"/>
+			<Weapon id="b3_tower_shield3_ana"/>
+
+		<!-- shared -->
+			<Weapon id="b3_peasant_polearm_1"/>
+			<Weapon id="b3_peasant_polearm_2"/>
+			<Weapon id="b3_peasant_polearm_3"/>
+			<Weapon id="b3_peasant_polearm_4"/>
+		<!-- peasant -->
+			<Weapon id="b2_peasant_spear"/>
+			<Weapon id="b2_peasant_mace"/>
+			<Weapon id="b2_peasant_axe"/>
+			<Weapon id="b2_peasant_sword"/>
+		<!-- man at arms -->
+			<Weapon id="b2_man_spear"/>
+			<Weapon id="b2_man_mace"/>
+			<Weapon id="b2_man_axe"/>
+			<Weapon id="b2_man_sword"/>
+		<!-- sergent -->
+			<Weapon id="sp_banner_vlandia1"/>
+			<Weapon id="b2_sergeant_axe"/>
+			<Weapon id="b2_sergeant_sword"/>
 	</WeaponGroup>
 </WeaponGroups>

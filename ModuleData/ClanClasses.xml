@@ -10,7 +10,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -81,7 +81,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -152,7 +152,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -215,7 +215,7 @@
     mpclassdivision="bre_infantry"
     id="captain.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -299,7 +299,7 @@
     mpclassdivision="bre_infantry"
     id="lionhelm_guard.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_lionhelm_hammer"/>
@@ -333,7 +333,7 @@
     mpclassdivision="bre_infantry"
     id="lionhelm_sergeant.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_lionhelm_hammer"/>
@@ -364,7 +364,7 @@
     mpclassdivision="bre_infantry"
     id="lionhelm_captain.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_lionhelm_hammer"/>
@@ -395,7 +395,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -461,7 +461,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -517,7 +517,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -574,7 +574,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_co"/>
@@ -648,7 +648,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_co"/>
@@ -717,7 +717,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_co" />
@@ -770,7 +770,7 @@
     mpclassdivision="bre_infantry"
     id="pilgrim.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_pilgrim_faussard" />
@@ -818,7 +818,7 @@
     mpclassdivision="bre_infantry"
     id="battle_pilgrim.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_pilgrim_faussard" />
@@ -873,7 +873,7 @@
     mpclassdivision="bre_infantry"
     id="exalted_pilgrim.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_pilgrim_faussard" />
@@ -925,7 +925,7 @@
     mpclassdivision="bre_infantry"
     id="brother_novice.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_faussard" />
@@ -966,7 +966,7 @@
     mpclassdivision="bre_infantry"
     id="brother_sergeant.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_faussard" />
@@ -1005,7 +1005,7 @@
     mpclassdivision="bre_infantry"
     id="standard_bearer.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_banner_or_montjoie" />
@@ -1038,7 +1038,7 @@
     mpclassdivision="bre_cavalry"
     id="brother_knight.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_or" />
@@ -1097,7 +1097,7 @@
     mpclassdivision="bre_cavalry"
     id="commander.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_or" />
@@ -1155,7 +1155,7 @@
     mpclassdivision="bre_cavalry"
     id="paladin.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_or" />
@@ -1214,7 +1214,7 @@
     mpclassdivision="bre_cavalry"
     id="chaplain.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_or" />
@@ -1272,7 +1272,7 @@
     mpclassdivision="bre_cavalry"
     id="inquisitor.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_or" />
@@ -1330,7 +1330,7 @@
     mpclassdivision="bre_cavalry"
     id="grand_master.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_or" />
@@ -1388,7 +1388,7 @@
     mpclassdivision="bre_cavalry"
     id="grand_prior.or">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_or" />
@@ -1447,7 +1447,7 @@
     mpclassdivision="bre_archer"
     id="herrimault_prawler.he.archer">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_noble_long_bow" archeritem="true"/>
@@ -1491,7 +1491,7 @@
     mpclassdivision="bre_archer"
     id="herrimault_forester.he.archer">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_noble_long_bow" archeritem="true"/>
@@ -1536,7 +1536,7 @@
     mpclassdivision="bre_infantry"
     id="herrimault_prawler.he.infantry">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="woc_sword" />
@@ -1574,7 +1574,7 @@
     mpclassdivision="bre_infantry"
     id="herrimault_forester.he.infantry">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="woc_sword" />
@@ -1614,7 +1614,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.aq">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -1685,7 +1685,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.aq">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear" />
@@ -1760,7 +1760,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.aq">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear" />
@@ -1824,7 +1824,7 @@
     mpclassdivision="bre_infantry"
     id="captain.aq">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear" />
@@ -1908,7 +1908,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.aq">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -1974,7 +1974,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.aq">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -2033,7 +2033,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.aq">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -2090,7 +2090,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.aq">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_aq" />
@@ -2164,7 +2164,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.aq">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_aq"/>
@@ -2233,7 +2233,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.aq">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_aq" />
@@ -2285,7 +2285,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -2356,7 +2356,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -2427,7 +2427,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -2490,7 +2490,7 @@
     mpclassdivision="bre_infantry"
     id="captain.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -2574,7 +2574,7 @@
     mpclassdivision="bre_infantry"
     id="dragonguard_guard.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_dragonguard_2h_sword"/>
@@ -2611,7 +2611,7 @@
     mpclassdivision="bre_infantry"
     id="dragonguard_sergeant.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_dragonguard_2h_sword"/>
@@ -2650,7 +2650,7 @@
     mpclassdivision="bre_infantry"
     id="dragonguard_captain.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_dragonguard_2h_sword"/>
@@ -2689,7 +2689,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -2755,7 +2755,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -2811,7 +2811,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -2868,7 +2868,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ga"/>
@@ -2942,7 +2942,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ga"/>
@@ -3011,7 +3011,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.ga">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ga"/>
@@ -3063,7 +3063,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.mou">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -3134,7 +3134,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.mou">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -3211,7 +3211,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.mou">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -3275,7 +3275,7 @@
     mpclassdivision="bre_infantry"
     id="captain.mou">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -3360,7 +3360,7 @@
     mpclassdivision="bre_infantry"
     id="cryptguard_guardsman.mou">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="null"/>
@@ -3405,7 +3405,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.mou">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -3471,7 +3471,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.mou">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -3532,7 +3532,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.mou">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -3590,7 +3590,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.mou">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mou"/>
@@ -3666,7 +3666,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.mou">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mou"/>
@@ -3731,7 +3731,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.mou">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mou"/>
@@ -3786,7 +3786,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -3857,7 +3857,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -3934,7 +3934,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -3999,7 +3999,7 @@
     mpclassdivision="bre_infantry"
     id="captain.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -4084,7 +4084,7 @@
     mpclassdivision="bre_infantry"
     id="protector_guard.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_protector_poleaxe"/>
@@ -4125,7 +4125,7 @@
     mpclassdivision="bre_infantry"
     id="protector_veteran.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_protector_poleaxe"/>
@@ -4166,7 +4166,7 @@
     mpclassdivision="bre_infantry"
     id="protector_captain.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_protector_poleaxe"/>
@@ -4205,7 +4205,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -4271,7 +4271,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -4332,7 +4332,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -4391,7 +4391,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_bri"/>
@@ -4467,7 +4467,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_bri"/>
@@ -4536,7 +4536,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.bri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_bri"/>
@@ -4588,7 +4588,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.mon">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -4659,7 +4659,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.mon">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -4736,7 +4736,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.mon">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -4801,7 +4801,7 @@
     mpclassdivision="bre_infantry"
     id="captain.mon">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -4886,7 +4886,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.mon">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -4952,7 +4952,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.mon">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -5013,7 +5013,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.mon">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -5072,7 +5072,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.mon">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mon"/>
@@ -5148,7 +5148,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.mon">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mon"/>
@@ -5217,7 +5217,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.mon">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mon"/>
@@ -5283,7 +5283,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.cas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -5354,7 +5354,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.cas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -5427,7 +5427,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.cas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -5491,7 +5491,7 @@
     mpclassdivision="bre_infantry"
     id="captain.cas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -5576,7 +5576,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.cas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -5642,7 +5642,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.cas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -5700,7 +5700,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.cas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -5758,7 +5758,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.cas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_cas"/>
@@ -5834,7 +5834,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.cas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_cas"/>
@@ -5899,7 +5899,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.cas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_cas"/>
@@ -5954,7 +5954,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.lab">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -6025,7 +6025,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.lab">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -6100,7 +6100,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.lab">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -6164,7 +6164,7 @@
     mpclassdivision="bre_infantry"
     id="captain.lab">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -6248,7 +6248,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.lab">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -6314,7 +6314,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.lab">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -6373,7 +6373,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.lab">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -6430,7 +6430,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.lab">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_lab"/>
@@ -6504,7 +6504,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.lab">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_lab"/>
@@ -6573,7 +6573,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.lab">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_lab"/>
@@ -6638,7 +6638,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.bag">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -6709,7 +6709,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.bag">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -6784,7 +6784,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.bag">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -6848,7 +6848,7 @@
     mpclassdivision="bre_infantry"
     id="captain.bag">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -6932,7 +6932,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.bag">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -6998,7 +6998,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.bag">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -7057,7 +7057,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.bag">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -7114,7 +7114,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.bag">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_bag"/>
@@ -7188,7 +7188,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.bag">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_bag"/>
@@ -7257,7 +7257,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.bag">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_bag"/>
@@ -7322,7 +7322,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.tur">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -7393,7 +7393,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.tur">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -7468,7 +7468,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.tur">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -7532,7 +7532,7 @@
     mpclassdivision="bre_infantry"
     id="captain.tur">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -7616,7 +7616,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.tur">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -7682,7 +7682,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.tur">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -7741,7 +7741,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.tur">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -7798,7 +7798,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.tur">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_tur"/>
@@ -7872,7 +7872,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.tur">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_tur"/>
@@ -7941,7 +7941,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.tur">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_tur"/>
@@ -8006,7 +8006,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.mor">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -8077,7 +8077,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.mor">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -8152,7 +8152,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.mor">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -8216,7 +8216,7 @@
     mpclassdivision="bre_infantry"
     id="captain.mor">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -8300,7 +8300,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.mor">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -8366,7 +8366,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.mor">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -8425,7 +8425,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.mor">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -8482,7 +8482,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.mor">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mor"/>
@@ -8556,7 +8556,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.mor">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mor"/>
@@ -8625,7 +8625,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.mor">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mor"/>
@@ -8690,7 +8690,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.art">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -8761,7 +8761,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.art">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -8836,7 +8836,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.art">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -8900,7 +8900,7 @@
     mpclassdivision="bre_infantry"
     id="captain.art">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -8984,7 +8984,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.art">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -9050,7 +9050,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.art">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -9109,7 +9109,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.art">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -9166,7 +9166,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.art">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_art"/>
@@ -9240,7 +9240,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.art">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_art"/>
@@ -9309,7 +9309,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.art">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_art"/>
@@ -9374,7 +9374,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.gar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -9445,7 +9445,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.gar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -9522,7 +9522,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.gar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -9586,7 +9586,7 @@
     mpclassdivision="bre_infantry"
     id="captain.gar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -9671,7 +9671,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.gar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -9737,7 +9737,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.gar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -9798,7 +9798,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.gar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -9856,7 +9856,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.gar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_gar"/>
@@ -9930,7 +9930,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.gar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_gar"/>
@@ -9995,7 +9995,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.gar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_gar"/>
@@ -10060,7 +10060,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.gri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -10131,7 +10131,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.gri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -10206,7 +10206,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.gri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -10269,7 +10269,7 @@
     mpclassdivision="bre_infantry"
     id="captain.gri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -10353,7 +10353,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.gri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -10419,7 +10419,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.gri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -10478,7 +10478,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.gri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -10535,7 +10535,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.gri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_gri"/>
@@ -10609,7 +10609,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.gri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_gri"/>
@@ -10678,7 +10678,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_errant.gri">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_gri"/>
@@ -10746,7 +10746,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.mar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -10817,7 +10817,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.mar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -10892,7 +10892,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.mar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -10956,7 +10956,7 @@
     mpclassdivision="bre_infantry"
     id="captain.mar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -11040,7 +11040,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.mar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -11106,7 +11106,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.mar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -11165,7 +11165,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.mar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -11222,7 +11222,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.mar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mar"/>
@@ -11296,7 +11296,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.mar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mar"/>
@@ -11365,7 +11365,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.mar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mar"/>
@@ -11431,7 +11431,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.fro">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -11502,7 +11502,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.fro">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -11577,7 +11577,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.fro">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -11640,7 +11640,7 @@
     mpclassdivision="bre_infantry"
     id="captain.fro">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -11724,7 +11724,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.fro">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -11790,7 +11790,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.fro">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -11849,7 +11849,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.fro">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -11906,7 +11906,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.fro">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_fro"/>
@@ -11980,7 +11980,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.fro">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_fro"/>
@@ -12049,7 +12049,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_errant.fro">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_fro"/>
@@ -12107,7 +12107,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.mau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -12178,7 +12178,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.mau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -12255,7 +12255,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.mau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -12319,7 +12319,7 @@
     mpclassdivision="bre_infantry"
     id="captain.mau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -12404,7 +12404,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.mau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -12470,7 +12470,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.mau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -12531,7 +12531,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.mau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -12589,7 +12589,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.mau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mau"/>
@@ -12663,7 +12663,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.mau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mau"/>
@@ -12728,7 +12728,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_errant.mau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_mau"/>
@@ -12790,7 +12790,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.lan">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -12861,7 +12861,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.lan">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -12936,7 +12936,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.lan">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -12999,7 +12999,7 @@
     mpclassdivision="bre_infantry"
     id="captain.lan">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -13083,7 +13083,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.lan">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -13149,7 +13149,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.lan">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -13208,7 +13208,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.lan">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -13265,7 +13265,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.lan">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_lan"/>
@@ -13339,7 +13339,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.lan">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_lan"/>
@@ -13408,7 +13408,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.lan">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_lan"/>
@@ -13473,7 +13473,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.bas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -13544,7 +13544,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.bas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -13619,7 +13619,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.bas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -13682,7 +13682,7 @@
     mpclassdivision="bre_infantry"
     id="captain.bas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -13766,7 +13766,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.bas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -13832,7 +13832,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.bas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -13891,7 +13891,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.bas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -13948,7 +13948,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.bas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_bas"/>
@@ -14022,7 +14022,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.bas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_bas"/>
@@ -14091,7 +14091,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_errant.bas">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_bas"/>
@@ -14159,7 +14159,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.epe">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -14230,7 +14230,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.epe">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -14305,7 +14305,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.epe">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -14368,7 +14368,7 @@
     mpclassdivision="bre_infantry"
     id="captain.epe">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -14452,7 +14452,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.epe">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -14518,7 +14518,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.epe">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -14577,7 +14577,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.epe">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -14634,7 +14634,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.epe">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_epe"/>
@@ -14708,7 +14708,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.epe">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_epe"/>
@@ -14777,7 +14777,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_errant.epe">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_epe"/>
@@ -14845,7 +14845,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.grism">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -14916,7 +14916,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.grism">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -14993,7 +14993,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.grism">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -15057,7 +15057,7 @@
     mpclassdivision="bre_infantry"
     id="captain.grism">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -15142,7 +15142,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.grism">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -15208,7 +15208,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.grism">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -15269,7 +15269,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.grism">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -15327,7 +15327,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.grism">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_grism"/>
@@ -15401,7 +15401,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.grism">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_grism"/>
@@ -15466,7 +15466,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_errant.grism">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_grism"/>
@@ -15520,7 +15520,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.par">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -15591,7 +15591,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.par">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -15666,7 +15666,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.par">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -15730,7 +15730,7 @@
     mpclassdivision="bre_infantry"
     id="captain.par">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -15814,7 +15814,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.par">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -15880,7 +15880,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.par">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -15939,7 +15939,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.par">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -15996,7 +15996,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.par">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_par"/>
@@ -16070,7 +16070,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.par">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_par"/>
@@ -16139,7 +16139,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.par">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_par"/>
@@ -16204,7 +16204,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.lau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -16275,7 +16275,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.lau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -16350,7 +16350,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.lau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -16414,7 +16414,7 @@
     mpclassdivision="bre_infantry"
     id="captain.lau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -16498,7 +16498,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.lau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -16564,7 +16564,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.lau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -16623,7 +16623,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.lau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -16680,7 +16680,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.lau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_lau"/>
@@ -16754,7 +16754,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.lau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_lau"/>
@@ -16823,7 +16823,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_errant.lau">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_lau"/>
@@ -16877,7 +16877,7 @@
     mpclassdivision="bre_infantry"
     id="armed_peasant.ana">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -16948,7 +16948,7 @@
     mpclassdivision="bre_infantry"
     id="man_at_arms.ana">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -17023,7 +17023,7 @@
     mpclassdivision="bre_infantry"
     id="sergeant_at_arms.ana">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -17086,7 +17086,7 @@
     mpclassdivision="bre_infantry"
     id="captain.ana">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_man_spear"/>
@@ -17171,7 +17171,7 @@
     mpclassdivision="bre_archer"
     id="peasant_archer.ana">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -17237,7 +17237,7 @@
     mpclassdivision="bre_archer"
     id="free_archer.ana">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
@@ -17298,7 +17298,7 @@
     mpclassdivision="bre_archer"
     id="master_archer.ana">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -17356,7 +17356,7 @@
     mpclassdivision="bre_cavalry"
     id="mounted_sergeant.ana">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ana"/>
@@ -17430,7 +17430,7 @@
     mpclassdivision="bre_cavalry"
     id="squire.ana">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ana"/>
@@ -17495,7 +17495,7 @@
     mpclassdivision="bre_cavalry"
     id="knight_errant.ana">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ana"/>
@@ -17567,11 +17567,11 @@
     mpclassdivision="bre_infantry_troll"
     id="chaos_troll">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <SpellCasting
       max_mana="100"
-      mana_refill_amount="2">
+      mana_refill_amount="0">
       <Spell id="troll_vomit"/>
     </SpellCasting>
     <Weapon0>
@@ -17587,7 +17587,7 @@
     mpclassdivision="bre_infantry_chaos_warrior"
     id="chaos_warrior.chaos">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_chaos_warrior_1h_mace"/>
@@ -17655,7 +17655,7 @@
     mpclassdivision="bre_infantry_chaos_warrior"
     id="chaos_chosen.chaos">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_chaos_warrior_1h_mace"/>
@@ -17692,7 +17692,7 @@
     mpclassdivision="bre_infantry_chaos_warrior"
     id="chaos_marauder.chaos">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_chaos_marauder_1h_mace"/>
@@ -17739,7 +17739,7 @@
     mpclassdivision="bre_infantry_chaos_warrior"
     id="chaos_marauder_sergent.chaos">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_chaos_marauder_1h_mace"/>
@@ -17784,7 +17784,7 @@
     mpclassdivision="bre_infantry_chaos_warrior"
     id="chaos_cultist.chaos">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_chaos_marauder_1h_mace"/>
@@ -17831,7 +17831,7 @@
     mpclassdivision="bre_infantry_chaos_warrior"
     id="chaos_cultist_sergent.chaos">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_chaos_marauder_1h_mace"/>
@@ -17872,7 +17872,7 @@
     mpclassdivision="bre_infantry_chaos_warrior"
     id="naked_chaos_guy.chaos">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="null"/>
@@ -17906,7 +17906,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_x">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -17972,7 +17972,7 @@
     mpclassdivision="bre_archer"
     id="archer_x">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -18049,7 +18049,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_x">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_x" />
@@ -18129,7 +18129,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_1_almo">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -18193,7 +18193,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_2_almo">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -18249,7 +18249,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_3_almo">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -18300,7 +18300,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_captain_almo">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -18354,7 +18354,7 @@
     mpclassdivision="bre_archer"
     id="archer_almo">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -18402,7 +18402,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_almo">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_almo" />
@@ -18463,7 +18463,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_1_bd">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -18511,7 +18511,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_bd">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -18558,7 +18558,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_1_ci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -18604,7 +18604,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_2_ci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -18661,7 +18661,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_banner_ci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_banner_empire3" />
@@ -18699,7 +18699,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_ci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -18759,7 +18759,7 @@
     mpclassdivision="bre_archer"
     id="archer_1_ci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -18798,7 +18798,7 @@
     mpclassdivision="bre_archer"
     id="archer_2_ci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -18846,7 +18846,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_1_ci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ci" />
@@ -18909,7 +18909,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_2_ci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ci" />
@@ -18978,7 +18978,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_1_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -19033,7 +19033,7 @@
     mpclassdivision="bre_archer"
     id="archer_1_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_longbow_recurve_desert_bow"/>
@@ -19096,7 +19096,7 @@
     mpclassdivision="bre_archer"
     id="archer_2_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_noble_long_bow"/>
@@ -19168,7 +19168,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_1_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ipl" />
@@ -19230,7 +19230,7 @@
     mpclassdivision="bre_cavalry"
     id="arris">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ipl" />
@@ -19292,7 +19292,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_2_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -19347,7 +19347,7 @@
     mpclassdivision="bre_cavalry"
     id="dunleap">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ipl" />
@@ -19409,7 +19409,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_3_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -19464,7 +19464,7 @@
     mpclassdivision="bre_cavalry"
     id="grimuald">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ipl" />
@@ -19526,7 +19526,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_4_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -19581,7 +19581,7 @@
     mpclassdivision="bre_cavalry"
     id="hypnosis">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ipl" />
@@ -19643,7 +19643,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_5_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -19698,7 +19698,7 @@
     mpclassdivision="bre_cavalry"
     id="legionista">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ipl" />
@@ -19760,7 +19760,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_6_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -19815,7 +19815,7 @@
     mpclassdivision="bre_cavalry"
     id="radon">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ipl" />
@@ -19877,7 +19877,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_7_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -19932,7 +19932,7 @@
     mpclassdivision="bre_cavalry"
     id="vino">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ipl" />
@@ -19994,7 +19994,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_8_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -20049,7 +20049,7 @@
     mpclassdivision="bre_cavalry"
     id="weteran">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ipl" />
@@ -20111,7 +20111,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_9_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -20166,7 +20166,7 @@
     mpclassdivision="bre_cavalry"
     id="mrnoname">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ipl" />
@@ -20228,7 +20228,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_10_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -20283,7 +20283,7 @@
     mpclassdivision="bre_cavalry"
     id="mar">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ipl" />
@@ -20345,7 +20345,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_11_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -20400,7 +20400,7 @@
     mpclassdivision="bre_cavalry"
     id="volv">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_ipl" />
@@ -20462,7 +20462,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_12_ipl">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -20518,7 +20518,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_1_kotf">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -20567,7 +20567,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_kotf">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -20613,7 +20613,7 @@
     mpclassdivision="bre_archer"
     id="archer_kotf">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -20652,7 +20652,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_kotf">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_kotf" />
@@ -20709,7 +20709,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_1_koh">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -20789,7 +20789,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_2_koh">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -20860,7 +20860,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_3_koh">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -20911,7 +20911,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_koh">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -20966,7 +20966,7 @@
     mpclassdivision="bre_archer"
     id="archer_koh">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_woodland_yew_bow" archeritem="true"/>
@@ -21031,7 +21031,7 @@
     mpclassdivision="bre_archer"
     id="archer_2_koh">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_noble_bow" archeritem="true"/>
@@ -21073,7 +21073,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_koh">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_koh" />
@@ -21135,7 +21135,7 @@
       mpclassdivision="bre_infantry" 
       id="infantry_1_xiii">
       <UsableWeaponGroups>
-        <WeaponGroup id="human_infantry"/>
+        <WeaponGroup id="human_infantry_default"/>
       </UsableWeaponGroups>
         <Weapon0>
             <equipment id="xiii_spear_1"/>
@@ -21195,7 +21195,7 @@
       mpclassdivision="bre_cavalry_infantry" 
       id="infantry_2_xiii">
       <UsableWeaponGroups>
-        <WeaponGroup id="human_infantry"/>
+        <WeaponGroup id="human_infantry_default"/>
       </UsableWeaponGroups>
         <Weapon0>
             <equipment id="xiii_spear_1"/>
@@ -21284,7 +21284,7 @@
       mpclassdivision="bre_infantry" 
       id="infantry_3_xiii">
       <UsableWeaponGroups>
-        <WeaponGroup id="human_infantry"/>
+        <WeaponGroup id="human_infantry_default"/>
       </UsableWeaponGroups>
         <Weapon0>
             <equipment id="xiii_spear_1"/>
@@ -21348,7 +21348,7 @@
       mpclassdivision="bre_cavalry_infantry" 
       id="infantry_4_xiii">
       <UsableWeaponGroups>
-        <WeaponGroup id="human_infantry"/>
+        <WeaponGroup id="human_infantry_default"/>
       </UsableWeaponGroups>
         <Weapon0>
             <equipment id="xiii_spear_1"/>
@@ -21415,7 +21415,7 @@
       mpclassdivision="bre_infantry" 
       id="infantry_banner_xiii">
       <UsableWeaponGroups>
-        <WeaponGroup id="human_infantry"/>
+        <WeaponGroup id="human_infantry_default"/>
       </UsableWeaponGroups>
         <Weapon0>
             <equipment id="xiii_banner"/>
@@ -21474,7 +21474,7 @@
       mpclassdivision="bre_archer" 
       id="archer_1_xiii">
       <UsableWeaponGroups>
-        <WeaponGroup id="human_infantry"/>
+        <WeaponGroup id="human_infantry_default"/>
       </UsableWeaponGroups>
         <Weapon0>
           <equipment id="sp_noble_bow" archeritem="true"/>
@@ -21523,7 +21523,7 @@
       mpclassdivision="bre_archer_cavalry" 
       id="archer_2_xiii">
       <UsableWeaponGroups>
-        <WeaponGroup id="human_infantry"/>
+        <WeaponGroup id="human_infantry_default"/>
       </UsableWeaponGroups>
         <Weapon0>
           <equipment id="sp_noble_bow" archeritem="true"/>
@@ -21587,7 +21587,7 @@
       mpclassdivision="bre_cavalry" 
       id="cavalry_3_xiii">
       <UsableWeaponGroups>
-        <WeaponGroup id="human_infantry"/>
+        <WeaponGroup id="human_infantry_default"/>
       </UsableWeaponGroups>
       <Weapon0>
         <equipment id="b2_lance_xiii"/>
@@ -21655,7 +21655,7 @@
       mpclassdivision="bre_cavalry" 
       id="cavalry_4_xiii">
       <UsableWeaponGroups>
-        <WeaponGroup id="human_infantry"/>
+        <WeaponGroup id="human_infantry_default"/>
       </UsableWeaponGroups>
       <Weapon0>
           <equipment id="b2_lance_xiii"/>
@@ -21723,7 +21723,7 @@
       mpclassdivision="bre_cavalry_infantry" 
       id="infantry_5_xiii">
       <UsableWeaponGroups>
-        <WeaponGroup id="human_infantry"/>
+        <WeaponGroup id="human_infantry_default"/>
       </UsableWeaponGroups>
       <Weapon0>
           <equipment id="xiii_spear_1"/>
@@ -21811,7 +21811,7 @@
       mpclassdivision="bre_cavalry_infantry" 
       id="infantry_rp_1_xiii">
       <UsableWeaponGroups>
-        <WeaponGroup id="human_infantry"/>
+        <WeaponGroup id="human_infantry_default"/>
       </UsableWeaponGroups>
       <Head>
           <equipment id="null"/>
@@ -21857,7 +21857,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_3_host">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -21905,7 +21905,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_2_host">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -21953,7 +21953,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_1_host">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -22001,7 +22001,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_3_host">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -22048,7 +22048,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_2_host">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -22095,7 +22095,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_1_host">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -22138,7 +22138,7 @@
     mpclassdivision="bre_archer"
     id="archer_officer_host">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -22183,7 +22183,7 @@
     mpclassdivision="bre_archer"
     id="archer_1_host">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -22228,7 +22228,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_officer_host">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_host" />
@@ -22284,7 +22284,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_1_host">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_host" />
@@ -22339,7 +22339,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_1_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -22388,7 +22388,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_2_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -22430,7 +22430,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_3_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -22478,7 +22478,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_4_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -22528,7 +22528,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_5_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -22568,7 +22568,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_6_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -22609,7 +22609,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_7_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b3_squire_sword_2h"/>
@@ -22648,7 +22648,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_8_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -22695,7 +22695,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_banner_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_banner_sturgia2" />
@@ -22734,7 +22734,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_1_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -22772,7 +22772,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_2_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -22811,7 +22811,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_3_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -22864,7 +22864,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_4_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -22903,7 +22903,7 @@
     mpclassdivision="bre_archer"
     id="archer_1_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -22952,7 +22952,7 @@
     mpclassdivision="bre_archer"
     id="archer_2_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -23001,7 +23001,7 @@
     mpclassdivision="bre_archer"
     id="archer_3_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -23050,7 +23050,7 @@
     mpclassdivision="bre_archer"
     id="archer_4_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -23097,7 +23097,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_1_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_svci" />
@@ -23152,7 +23152,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_2_svci">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_svci" />
@@ -23219,7 +23219,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_1_maw">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -23259,7 +23259,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_2_maw">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -23306,7 +23306,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_3_maw">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -23358,7 +23358,7 @@
     mpclassdivision="bre_archer"
     id="archer_maw">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -23406,7 +23406,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_1_maw">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_maw" />
@@ -23470,7 +23470,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_2_maw">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_maw" />
@@ -23526,7 +23526,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_rp_1_maw">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -23552,7 +23552,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_omey">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -23612,7 +23612,7 @@
     mpclassdivision="bre_archer"
     id="archer_omey">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
@@ -23669,7 +23669,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_omey">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -23730,7 +23730,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_vd">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -23774,7 +23774,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_vd">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -23819,7 +23819,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_2_vd">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -23865,7 +23865,7 @@
     mpclassdivision="bre_archer"
     id="archer_1_vd">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
@@ -23904,7 +23904,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_vd">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_vd" />
@@ -23953,7 +23953,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_2_vd">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_vd" />
@@ -24005,7 +24005,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_vd">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -24050,7 +24050,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_1">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -24097,7 +24097,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_2">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -24144,7 +24144,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_2_1">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -24196,7 +24196,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_2_2">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -24248,7 +24248,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_3_1">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -24297,7 +24297,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_3_2">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear"/>
@@ -24346,7 +24346,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_4_1">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -24396,7 +24396,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_4_2">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -24446,7 +24446,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_5_1">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -24497,7 +24497,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_5_2">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -24548,7 +24548,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_6_1">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_banner_sturgia2" />
@@ -24584,7 +24584,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_6_2">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_banner_sturgia2" />
@@ -24620,7 +24620,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_7_1">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -24673,7 +24673,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_lbo_7_2">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -24726,7 +24726,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_lbo_1">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -24773,7 +24773,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_lbo_2">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -24820,7 +24820,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_officer_lbo_1">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_lbo_pre" />
@@ -24875,7 +24875,7 @@
     mpclassdivision="bre_cavalry"
     id="cavalry_officer_lbo_2">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_lance_lbo_vra" />
@@ -24931,7 +24931,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_san">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -24978,7 +24978,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_san_2">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -25022,7 +25022,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_san_3">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_banner_empire3" />
@@ -25055,7 +25055,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_san">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -25099,7 +25099,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_officer_san_2">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -25144,7 +25144,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_tol">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -25190,7 +25190,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_tol_2">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_native_spear" />
@@ -25240,7 +25240,7 @@
     mpclassdivision="bre_infantry"
     id="infantry_tol_3">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry"/>
+      <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_banner_empire3" />
