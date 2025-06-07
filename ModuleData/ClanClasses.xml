@@ -17570,10 +17570,13 @@
       <WeaponGroup id="human_infantry"/>
     </UsableWeaponGroups>
     <SpellCasting
-      max_mana="100"
-      mana_refill_amount="2">
+      max_mana="100.0"
+      mana_refill_amount="1.0">
       <Spell id="troll_vomit"/>
     </SpellCasting>
+    <PassiveEffect 
+      effect="Healing"
+      intensity="0.5"/>
     <Weapon0>
       <equipment id="b3_chaos_troll_mace"/>
     </Weapon0>
