@@ -17570,9 +17570,10 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <SpellCasting
-      max_mana="100.0"
-      mana_refill_amount="1.0">
+      max_mana="30.0"
+      mana_refill_amount="0.0">
       <Spell id="troll_vomit"/>
+      <Spell id="troll_stomp"/>
     </SpellCasting>
     <PassiveEffect 
       effect="Healing"

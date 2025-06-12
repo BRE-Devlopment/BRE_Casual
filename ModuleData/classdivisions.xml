@@ -14,17 +14,21 @@
     melee_ai="50"
     ranged_ai="50"
     armor="50"
-    hitpoints="100"
+    hitpoints="1000"
     movement_speed="1.0"
     combat_movement_speed="0.9"
     acceleration="2.4">
     <Perks>
       <Perk 
         game_mode="all"
-        name="{=*}Empty perk"
-        description="{=*}-"
+        name="Decreased received missile damage"
+        description=""
         icon="PerkToughness"
         perk_list="1">
+        <Effect
+          type="DamageTaken"
+          value="-0.33"
+          hit_type="Ranged" />
       </Perk>
     </Perks>
   </MPClassDivision>
