@@ -2141,6 +2141,12 @@
     </Weapon3>
     <Head>
       <equipment id="b3_grail_head_aq" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_grail_body_aq" />
@@ -2886,6 +2892,12 @@
     </Weapon3>
     <Head>
       <equipment id="b3_grail_head_ga"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_grail_body_ga"/>
@@ -3579,6 +3591,12 @@
     </Weapon3>
     <Head>
       <equipment id="b3_grail_head_mou"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_grail_body_mou"/>
@@ -4351,6 +4369,12 @@
     </Weapon3>
     <Head>
       <equipment id="b3_grail_head_bri"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_grail_body_bri"/>
@@ -5015,6 +5039,12 @@
       <equipment id="b3_kotr_head_5"/>
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_mon"/>
@@ -5666,6 +5696,12 @@
     </Weapon3>
     <Head>
       <equipment id="b3_grail_head_cas"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_grail_body_cas"/>
@@ -6322,6 +6358,12 @@
       <equipment id="b3_kotr_head_5"/>
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_lab"/>
@@ -6982,6 +7024,12 @@
       <equipment id="b3_kotr_head_5"/>
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_bag"/>
@@ -7642,6 +7690,12 @@
       <equipment id="b3_kotr_head_5"/>
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_tur"/>
@@ -8298,6 +8352,12 @@
       <equipment id="b3_kotr_head_5"/>
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_mor"/>
@@ -8958,6 +9018,12 @@
       <equipment id="b3_kotr_head_5"/>
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_art"/>
@@ -9605,7 +9671,6 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b3_squire_sword_2h"/>
       <equipment id="b3_default_kotr_sword_1h"/>
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
@@ -9621,6 +9686,12 @@
       <equipment id="b3_kotr_head_5_dark"/>
       <equipment id="b3_kotr_head_6_dark"/>
       <equipment id="b3_kotr_head_7_dark"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_gar"/>
@@ -10932,7 +11003,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_mar_kotr_sword_2h"/>
-      <equipment id="null" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
@@ -10942,6 +11013,12 @@
       <equipment id="b3_kotr_head_5"/>
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_mar"/>
@@ -11595,6 +11672,12 @@
     </Weapon3>
     <Head>
       <equipment id="b3_head_fro"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_fro"/>
@@ -12246,10 +12329,13 @@
       <equipment id="b3_mau_kerrant_sword_2h"/>
     </Weapon3>
     <Head>
-      <equipment id="b3_kerrant_head_1"/>
-      <equipment id="b3_kerrant_head_2"/>
-      <equipment id="b3_kerrant_head_3"/>
       <equipment id="b3_head_mau"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_mau"/>
@@ -12908,6 +12994,12 @@
       <equipment id="b3_kotr_head_5"/>
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_lan"/>
@@ -14884,6 +14976,7 @@
     </Weapon3>
     <Head>
       <equipment id="b3_head_grism"/>
+      <equipment id="null"/>
     </Head>
     <Body>
       <equipment id="b3_kerrant_body_v1_grism"/>
@@ -15539,6 +15632,10 @@
       <equipment id="b3_kotr_head_5"/>
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
+      <equipment id="b3_squire_coif_1"/>
+      <equipment id="b3_squire_coif_2"/>
+      <equipment id="b3_squire_coif_3"/>
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_par"/>
@@ -16194,6 +16291,10 @@
       <equipment id="b3_head_lau" disablerandomize="true" />
       <equipment id="b3_chain_lau" disablerandomize="true"/>
       <equipment id="b3_squire_helmet_colored_1" disablerandomize="true" />
+      <equipment id="b3_squire_coif_1"/>
+      <equipment id="b3_squire_coif_2"/>
+      <equipment id="b3_squire_coif_3"/>
+      <equipment id="null"/>
     </Head>
     <Body>
       <equipment id="kerrant_torso_laudethaire"/>
