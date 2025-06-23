@@ -2146,7 +2146,7 @@
       <equipment id="b3_squire_coif_2" disablerandomize="true"/>
       <equipment id="b3_squire_coif_3" disablerandomize="true"/>
 
-      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_grail_body_aq" />
@@ -2897,7 +2897,7 @@
       <equipment id="b3_squire_coif_2" disablerandomize="true"/>
       <equipment id="b3_squire_coif_3" disablerandomize="true"/>
 
-      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_grail_body_ga"/>
@@ -3606,6 +3606,7 @@
     </Leg>
     <Cape>
       <equipment id="b3_grail_cape_mou"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_grail_gloves_mou"/>
@@ -4374,7 +4375,7 @@
       <equipment id="b3_squire_coif_2" disablerandomize="true"/>
       <equipment id="b3_squire_coif_3" disablerandomize="true"/>
 
-      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_grail_body_bri"/>
@@ -5057,6 +5058,7 @@
     </Leg>
     <Cape>
       <equipment id="b3_crest_mon"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kotr_gloves_1"/>
@@ -5711,6 +5713,7 @@
     </Leg>
     <Cape>
       <equipment id="b3_grail_cape_cas"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_grail_gloves_cas"/>
@@ -6376,6 +6379,7 @@
     </Leg>
     <Cape>
       <equipment id="b3_crest_lab"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kotr_gloves_1"/>
@@ -7042,6 +7046,7 @@
     </Leg>
     <Cape>
       <equipment id="b3_crest_bag"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kotr_gloves_1"/>
@@ -7708,6 +7713,7 @@
     </Leg>
     <Cape>
       <equipment id="b3_crest_tur"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kotr_gloves_1"/>
@@ -8370,6 +8376,7 @@
     </Leg>
     <Cape>
       <equipment id="b3_crest_mor"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kotr_gloves_1"/>
@@ -9036,6 +9043,7 @@
     </Leg>
     <Cape>
       <equipment id="b3_crest_art"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kotr_gloves_1"/>
@@ -9671,27 +9679,27 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace"/>
-      <equipment id="b3_default_kotr_sword_1h"/>
+      <equipment id="b3_grs_kerrant_sword_1h"/>
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b3_squire_sword_2h"/>
+      <equipment id="b3_grs_kerrant_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
-      <equipment id="b3_kotr_head_1_dark"/>
-      <equipment id="b3_kotr_head_2_dark"/>
-      <equipment id="b3_kotr_head_3_dark"/>
-      <equipment id="b3_kotr_head_4_dark"/>
       <equipment id="b3_kotr_head_5_dark"/>
-      <equipment id="b3_kotr_head_6_dark"/>
-      <equipment id="b3_kotr_head_7_dark"/>
+      <equipment id="b3_kotr_head_1_dark" disablerandomize="true"/>
+      <equipment id="b3_kotr_head_2_dark" disablerandomize="true"/>
+      <equipment id="b3_kotr_head_3_dark" disablerandomize="true"/>
+      <equipment id="b3_kotr_head_4_dark" disablerandomize="true"/>
+      <equipment id="b3_kotr_head_6_dark" disablerandomize="true"/>
+      <equipment id="b3_kotr_head_7_dark" disablerandomize="true"/>
 
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
       <equipment id="b3_squire_coif_2" disablerandomize="true"/>
       <equipment id="b3_squire_coif_3" disablerandomize="true"/>
 
-      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_gar"/>
@@ -9702,9 +9710,6 @@
       <equipment id="b3_kotr_leg_1_dark"/>
       <equipment id="b3_kotr_leg_2_dark"/>
     </Leg>
-    <Cape>
-      <equipment id="b3_crest_gar"/>
-    </Cape>
     <Gloves>
       <equipment id="b3_kotr_gloves_1_dark"/>
       <equipment id="b3_kotr_gloves_2_dark"/>
@@ -11003,7 +11008,7 @@
     </Weapon2>
     <Weapon3>
       <equipment id="b3_mar_kotr_sword_2h"/>
-      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
       <equipment id="b3_kotr_head_1"/>
@@ -11031,6 +11036,7 @@
     </Leg>
     <Cape>
       <equipment id="b3_crest_mar"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kotr_gloves_1"/>
@@ -11691,6 +11697,7 @@
     </Gloves>
     <Cape>
       <equipment id="b3_crest_fro"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <HorseHarness>
       <equipment id="b3_kotr_horse_fro" cavalryitem="true"/>
@@ -12348,6 +12355,7 @@
     </Leg>
     <Cape>
       <equipment id="b3_crest_mau"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kotr_gloves_1_dark"/>
@@ -13012,6 +13020,7 @@
     </Leg>
     <Cape>
       <equipment id="b3_crest_lan"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kotr_gloves_1"/>
@@ -15648,6 +15657,7 @@
     </Leg>
     <Cape>
       <equipment id="b3_crest_par"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kotr_gloves_1"/>
