@@ -3592,9 +3592,9 @@
     <Head>
       <equipment id="b3_grail_head_mou"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
@@ -5041,9 +5041,9 @@
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
@@ -5699,9 +5699,9 @@
     <Head>
       <equipment id="b3_grail_head_cas"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
@@ -6362,9 +6362,9 @@
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
@@ -7029,9 +7029,9 @@
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
@@ -7696,9 +7696,9 @@
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
@@ -8359,9 +8359,9 @@
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
@@ -9026,9 +9026,9 @@
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
@@ -11019,9 +11019,9 @@
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
@@ -11679,9 +11679,9 @@
     <Head>
       <equipment id="b3_head_fro"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
@@ -12338,9 +12338,9 @@
     <Head>
       <equipment id="b3_head_mau"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
@@ -13003,9 +13003,9 @@
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
