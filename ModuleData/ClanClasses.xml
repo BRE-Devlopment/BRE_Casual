@@ -24351,6 +24351,9 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_bracketed_heater_shield"/>
+      <equipment id="ca_tower_shield1_eich"/>
+      <equipment id="ca_tower_shield2_eich"/>
+      <equipment id="ca_tower_shield3_eich"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
     </Weapon1>
     <Weapon2>
@@ -24409,6 +24412,9 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_bracketed_heater_shield"/>
+      <equipment id="ca_tower_shield1_eich"/>
+      <equipment id="ca_tower_shield2_eich"/>
+      <equipment id="ca_tower_shield3_eich"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
     </Weapon1>
     <Weapon2>
@@ -24492,6 +24498,9 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_bracketed_heater_shield"/>
+      <equipment id="ca_tower_shield1_eich"/>
+      <equipment id="ca_tower_shield2_eich"/>
+      <equipment id="ca_tower_shield3_eich"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
     </Weapon1>
     <Weapon2>
@@ -24578,6 +24587,9 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sp_bracketed_heater_shield"/>
+      <equipment id="ca_tower_shield1_eich"/>
+      <equipment id="ca_tower_shield2_eich"/>
+      <equipment id="ca_tower_shield3_eich"/>
       <equipment id="null" disablerandomize="true" hidden="true" />
     </Weapon1>
     <Weapon2>
