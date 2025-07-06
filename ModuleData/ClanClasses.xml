@@ -24334,8 +24334,8 @@
   <!--EICH Eichenwacht-->
   <ClanClass
     clan="EICH"
-    banner="11.611.611.1500.1500.764.764.0.0.0.6013.35.35.240.240.764.764.0.0.0"
-    color1="FFfa851e"
+    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    color1="FFfa591e"
     color2="FFffffff"
     name="Jungrecke"
     mpclassdivision="bre_infantry"
@@ -24395,8 +24395,8 @@
   </ClanClass>
   <ClanClass
     clan="EICH"
-    banner="11.611.611.1500.1500.764.764.0.0.0.6013.35.35.240.240.764.764.0.0.0"
-    color1="FFfa851e"
+    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    color1="FFfa591e"
     color2="FFffffff"
     name="Knecht"
     mpclassdivision="bre_infantry"
@@ -24481,8 +24481,8 @@
   </ClanClass>
   <ClanClass
     clan="EICH"
-    banner="11.611.611.1500.1500.764.764.0.0.0.6013.35.35.240.240.764.764.0.0.0"
-    color1="FFfa851e"
+    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    color1="FFfa591e"
     color2="FFffffff"
     name="Eichgeschworener"
     mpclassdivision="bre_infantry"
@@ -24570,8 +24570,8 @@
   </ClanClass>
   <ClanClass
     clan="EICH"
-    banner="11.611.611.1500.1500.764.764.0.0.0.6013.35.35.240.240.764.764.0.0.0"
-    color1="FFfa851e"
+    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    color1="FFfa591e"
     color2="FFffffff"
     name="Kronengarde"
     mpclassdivision="bre_infantry"
@@ -24660,8 +24660,8 @@
   </ClanClass>
   <ClanClass
     clan="EICH"
-    banner="11.611.611.1500.1500.764.764.0.0.0.6013.35.35.240.240.764.764.0.0.0"
-    color1="FFfa851e"
+    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    color1="FFfa591e"
     color2="FFffffff"
     name="Schützenknecht"
     mpclassdivision="bre_archer"
@@ -24724,8 +24724,8 @@
   </ClanClass>
   <ClanClass
     clan="EICH"
-    banner="11.611.611.1500.1500.764.764.0.0.0.6013.35.35.240.240.764.764.0.0.0"
-    color1="FFfa851e"
+    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    color1="FFfa591e"
     color2="FFffffff"
     name="Hainritter"
     mpclassdivision="bre_cavalry"
@@ -24819,8 +24819,8 @@
   </ClanClass>
   <ClanClass
     clan="EICH"
-    banner="11.611.611.1500.1500.764.764.0.0.0.6013.35.35.240.240.764.764.0.0.0"
-    color1="FFfa851e"
+    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    color1="FFfa591e"
     color2="FFffffff"
     name="Marschall"
     mpclassdivision="bre_cavalry"
