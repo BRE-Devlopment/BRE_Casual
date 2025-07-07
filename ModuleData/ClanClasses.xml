@@ -1008,7 +1008,12 @@
     </Weapon3>	
     <Head>
       <equipment id="b3_order_knight_helmet" />
-      <equipment id="null" disablerandomize="true" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_knight_body" />
@@ -1064,6 +1069,12 @@
     </Weapon3>		
     <Head>
       <equipment id="b3_order_commander_helmet" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_commander_body" />
@@ -1120,6 +1131,12 @@
     </Weapon3>		
     <Head>
       <equipment id="b3_order_paladin_helmet" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_paladin_body" />
@@ -1175,6 +1192,12 @@
     </Weapon3>	
     <Head>
       <equipment id="b3_order_chaplain_helmet" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_chaplain_body" />
@@ -1230,6 +1253,12 @@
     </Weapon3>		
     <Head>
       <equipment id="b3_order_inquisitor_helmet" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_inquisitor_body" />
@@ -1285,6 +1314,12 @@
     </Weapon3>			
     <Head>
       <equipment id="b3_order_grand_master_helmet" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_grand_master_body" />
@@ -1340,6 +1375,12 @@
     </Weapon3>
     <Head>
       <equipment id="b3_order_grand_prior_helmet" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_grand_prior_body" />
@@ -1807,6 +1848,126 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
+    name="Falcon Keeper"
+    mpclassdivision="bre_infantry"
+    id="falcon_keeper.aq">
+    <Weapon0>
+      <equipment id="b3_falconeers_spear" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_tower_shield1_aq" />
+      <equipment id="b3_tower_shield2_aq" />
+      <equipment id="b3_tower_shield3_aq" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_falconeer_warhammer" />
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon2>
+    <Head>
+      <equipment id="b3_aquitaine_falcon_keeper_helmet_v1"/>
+      <equipment id="b3_aquitaine_falcon_keeper_helmet_v2"/>
+    </Head>
+    <Body>
+      <equipment id="b3_aquitaine_falcon_keeper_torso" />
+      <equipment id="b3_aquitaine_falcon_keeper_torso_v2" />
+    </Body>
+    <Leg>
+      <equipment id="b3_aquitaine_falcon_keeper_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_aquitaine_falcon_keeper_gauntlets" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="AQ"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
+    color1="FFd7a12b"
+    color2="FF144ea8"
+    name="Falcon Hunter"
+    mpclassdivision="bre_infantry"
+    id="falcon_hunter.aq">
+    <Weapon0>
+      <equipment id="b3_falconeers_spear" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_tower_shield1_aq" />
+      <equipment id="b3_tower_shield2_aq" />
+      <equipment id="b3_tower_shield3_aq" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_falconeer_warhammer" />
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon2>
+    <Head>
+      <equipment id="b3_aquitaine_falcon_hunter_helmet_v1"/>
+      <equipment id="b3_aquitaine_falcon_hunter_helmet_v2"/>
+      <equipment id="b3_aquitaine_falcon_hunter_helmet_v3"/>
+    </Head>
+    <Body>
+      <equipment id="b3_aquitaine_falcon_hunter_torso" />
+      <equipment id="b3_aquitaine_falcon_hunter_torso_v2" />
+    </Body>
+    <Leg>
+      <equipment id="b3_aquitaine_falcon_hunter_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_aquitaine_falcon_hunter_gauntlets_v1" />
+      <equipment id="b3_aquitaine_falcon_hunter_gauntlets_v2" />
+      <equipment id="b3_aquitaine_falcon_hunter_gauntlets_v3" />
+      <equipment id="b3_aquitaine_falcon_hunter_gauntlets_v4" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="AQ"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
+    color1="FFd7a12b"
+    color2="FF144ea8"
+    name="Grand Facloneer"
+    mpclassdivision="bre_infantry"
+    id="grand_falconeer.aq">
+    <Weapon0>
+      <equipment id="b3_falconeers_spear" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_tower_shield1_aq" />
+      <equipment id="b3_tower_shield2_aq" />
+      <equipment id="b3_tower_shield3_aq" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_falconeer_warhammer" />
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon2>
+    <Head>
+      <equipment id="b3_aquitaine_grand_fauconnier_helmet"/>
+    </Head>
+    <Body>
+      <equipment id="b3_aquitaine_grand_fauconnier_torso" />
+      <equipment id="b3_aquitaine_grand_fauconnier_torso_v2" />
+    </Body>
+    <Leg>
+      <equipment id="b3_aquitaine_grand_fauconnier_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="b3_aquitaine_grand_fauconnier_shoulders" />
+    </Cape>
+    <Gloves>
+      <equipment id="b3_aquitaine_grand_fauconnier_gauntlets" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="AQ"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
+    color1="FFd7a12b"
+    color2="FF144ea8"
     name="Peasant archer"
     mpclassdivision="bre_archer"
     id="peasant_archer.aq">
@@ -2119,7 +2280,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
-    name="Armand of Aquitanie"
+    name="Armand de Aquitanie"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.aq">
     <Weapon0>
@@ -3214,13 +3375,13 @@
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Grave guard"
-    mpclassdivision="bre_infantry"
-    id="cryptguard_guardsman.mou">
+    name="Armiger"
+    mpclassdivision="bre_infantry_invisible"
+    id="armiger.mou">
     <Weapon0>
       <equipment id="null"/>
       <equipment id="b3_graveguard_polearm" disablegroup="Weapon2" disablerandomize="true"/>
-      <equipment id="b3_graveguard_sword_2H" disablegroup="Weapon2" disablerandomize="true"/>
+      <equipment id="b3_graveguard_2h_sword" disablegroup="Weapon2" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_graveguard_sword_1H"/>
@@ -3229,26 +3390,111 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b3_tower_shield1_mou"/>
-      <equipment id="b3_tower_shield2_mou"/>
-      <equipment id="b3_tower_shield3_mou"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v1"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v2"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v3"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon2>
     <Head>
-      <equipment id="gg_head"/>
-      <equipment id="gg_head2"/>
+      <equipment id="b3_moussillon_graveguard_armiger_helmet_v1"/>
+      <equipment id="b3_moussillon_graveguard_armiger_helmet_v1"/>
     </Head>
     <Body>
-      <equipment id="gg_body"/>
+      <equipment id="b3_moussillon_graveguard_armiger_torso"/>
     </Body>
     <Leg>
-      <equipment id="gg_leg"/>
+      <equipment id="b3_graveguard_armiger_boots"/>
     </Leg>
     <Cape>
-      <equipment id="gg_cape"/>
+      <equipment id="b3_moussillon_graveguard_armiger_shoulders"/>
     </Cape>
     <Gloves>
-      <equipment id="gg_gloves"/>
+      <equipment id="b3_graveguard_armiger_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
+    name="Garde des Cryptes"
+    mpclassdivision="bre_infantry_invisible"
+    id="guarde_des_cryptes.mou">
+    <Weapon0>
+      <equipment id="null"/>
+      <equipment id="b3_graveguard_polearm" disablegroup="Weapon2" disablerandomize="true"/>
+      <equipment id="b3_graveguard_2h_sword" disablegroup="Weapon2" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_graveguard_sword_1H"/>
+      <equipment id="b3_graveguard_mace"/>
+      <equipment id="b3_graveguard_axe"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v1"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v2"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v3"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="b3_graveguard_guarde_des_cryptes_helmet_moussillon"/>
+      <equipment id="b3_graveguard_guarde_des_cryptes_helmet_nomask_moussillon"/>
+    </Head>
+    <Body>
+      <equipment id="b3_graveguard_guarde_des_cryptes_moussillon_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_graveguard_guarde_des_cryptes_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_graveguard_guarde_des_cryptes_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_graveguard_guarde_des_cryptes_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
+    name="Seneschal"
+    mpclassdivision="bre_infantry_invisible"
+    id="seneschal.mou">
+    <Weapon0>
+      <equipment id="null"/>
+      <equipment id="b3_graveguard_polearm" disablegroup="Weapon2" disablerandomize="true"/>
+      <equipment id="b3_graveguard_2h_sword" disablegroup="Weapon2" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_graveguard_sword_1H"/>
+      <equipment id="b3_graveguard_mace"/>
+      <equipment id="b3_graveguard_axe"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v1"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v2"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v3"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+
+      <equipment id="b3_graveguard_seneschal_moussillon_helmet"/>
+      <equipment id="b3_graveguard_seneschal_moussillon_nomask_helmet"/>
+    </Head>
+    <Body>
+      <equipment id="b3_graveguard_seneschal_moussillon_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_graveguard_seneschal_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_graveguard_seneschal_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_graveguard_seneschal_gauntlets"/>
     </Gloves>
   </ClanClass>
   <ClanClass 
@@ -3569,7 +3815,7 @@
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Malory of Moussillon"
+    name="Malory de Moussillon"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.mou">
     <Weapon0>
@@ -4348,7 +4594,7 @@
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Theodoric of Brionne"
+    name="Theodoric de Brionne"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.bri">
     <Weapon0>
@@ -4387,7 +4633,8 @@
       <equipment id="b3_grail_gloves_bri"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_grail_horse_bri" cavalryitem="true"/>
+      <equipment id="b3_bri_questing_knight_caparison" cavalryitem="true"/>
+      <equipment id="b3_grail_horse_bri" cavalryitem="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
@@ -4686,6 +4933,50 @@
       <equipment id="mp_lordly_mail_mitten"/>
       <equipment id="b2_crossbow_armor_hand_black"/>
       <equipment id="b2_crossbow_armor_hand_dark"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="MON"
+    color1="FF171617"
+    color2="FFbbbbbb"
+    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
+    name="Montfort Warden"
+    mpclassdivision="bre_infantry"
+    id="montfort_warden.mon">
+    <Weapon0>
+      <equipment id="b3_montfort_warden_2h_sword" disablegroup="Weapon1"/>
+      <equipment id="b2_man_spear" disablerandomize="true"/>
+      <equipment id="null"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_montfort_warden_shield"/>
+      <equipment id="b3_montfort_warden_shield_r1"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_montfort_warhammer" disablegroup="Weapon1"/>
+      <equipment id="b2_sergeant_axe"/>
+      <equipment id="b2_sergeant_sword"/>
+    </Weapon2>
+   
+    <Head>
+      <equipment id="b3_montfort_warden_helmet_r1"/>
+      <equipment id="b3_montfort_warden_helmet_r2"/>
+      <equipment id="b3_montfort_warden_helmet_r3"/>
+    </Head>
+    <Body>
+      <equipment id="b3_montfort_warden_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_montfort_warden_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_montfort_warden_shoulders_r1"/>
+      <equipment id="b3_montfort_warden_shoulders_r2"/>
+      <equipment id="b3_montfort_warden_shoulders_r3"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_montfort_warden_gauntlets"/>
     </Gloves>
   </ClanClass>
   <ClanClass 
@@ -5366,6 +5657,131 @@
     color1="FF1c232c"
     color2="FF29559f"
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
+    name="Armiger"
+    mpclassdivision="bre_infantry_invisible"
+    id="armiger.cas">
+    <Weapon0>
+      <equipment id="null"/>
+      <equipment id="b3_graveguard_polearm" disablegroup="Weapon2" disablerandomize="true"/>
+      <equipment id="b3_graveguard_2h_sword" disablegroup="Weapon2" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_graveguard_sword_1H"/>
+      <equipment id="b3_graveguard_mace"/>
+      <equipment id="b3_graveguard_axe"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_castagne_graveguard_tower_shield_v1"/>
+      <equipment id="b3_castagne_graveguard_tower_shield_v2"/>
+      <equipment id="b3_castagne_graveguard_tower_shield_v3"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="b3_castagne_graveguard_armiger_helmet_v1"/>
+    </Head>
+    <Body>
+      <equipment id="b3_castagne_graveguard_armiger_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_graveguard_armiger_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_moussillon_graveguard_armiger_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_graveguard_armiger_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="CAS"
+    color1="FF1c232c"
+    color2="FF29559f"
+    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
+    name="Garde des Cryptes"
+    mpclassdivision="bre_infantry_invisible"
+    id="guarde_des_cryptes.cas">
+    <Weapon0>
+      <equipment id="null"/>
+      <equipment id="b3_graveguard_polearm" disablegroup="Weapon2" disablerandomize="true"/>
+      <equipment id="b3_graveguard_2h_sword" disablegroup="Weapon2" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_graveguard_sword_1H"/>
+      <equipment id="b3_graveguard_mace"/>
+      <equipment id="b3_graveguard_axe"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_castagne_graveguard_tower_shield_v1"/>
+      <equipment id="b3_castagne_graveguard_tower_shield_v2"/>
+      <equipment id="b3_castagne_graveguard_tower_shield_v3"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="b3_graveguard_guarde_des_cryptes_helmet_castagne"/>
+      <equipment id="b3_graveguard_guarde_des_cryptes_helmet_nomask_castagne"/>
+    </Head>
+    <Body>
+      <equipment id="b3_graveguard_guarde_des_cryptes_castagne_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_graveguard_guarde_des_cryptes_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_graveguard_guarde_des_cryptes_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_graveguard_guarde_des_cryptes_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="CAS"
+    color1="FF1c232c"
+    color2="FF29559f"
+    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
+    name="Seneschal"
+    mpclassdivision="bre_infantry_invisible"
+    id="seneschal.cas">
+    <Weapon0>
+      <equipment id="null"/>
+      <equipment id="b3_graveguard_polearm" disablegroup="Weapon2" disablerandomize="true"/>
+      <equipment id="b3_graveguard_2h_sword" disablegroup="Weapon2" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_graveguard_sword_1H"/>
+      <equipment id="b3_graveguard_mace"/>
+      <equipment id="b3_graveguard_axe"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_castagne_graveguard_tower_shield_v1"/>
+      <equipment id="b3_castagne_graveguard_tower_shield_v2"/>
+      <equipment id="b3_castagne_graveguard_tower_shield_v3"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="b3_graveguard_seneschal_castagne_helmet"/>
+      <equipment id="b3_graveguard_seneschal_castagne_nomask_helmet"/>
+    </Head>
+    <Body>
+      <equipment id="b3_graveguard_seneschal_castagne_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_graveguard_seneschal_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_graveguard_seneschal_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_graveguard_seneschal_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="CAS"
+    color1="FF1c232c"
+    color2="FF29559f"
+    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer"
     id="peasant_archer.cas">
@@ -5676,7 +6092,7 @@
     color1="FF1c232c"
     color2="FF29559f"
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
-    name="Dangorn of Castagne"
+    name="Dangorn de Castagne"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.cas">
     <Weapon0>
@@ -5688,6 +6104,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_moussillon_flail"/>
       <equipment id="b2_man_mace"/>
       <equipment id="b3_cas_kotr_sword_1h"/>
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
@@ -5719,7 +6136,8 @@
       <equipment id="b3_grail_gloves_cas"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_grail_horse_cas" cavalryitem="true"/>
+      <equipment id="b3_cas_questing_knight_caparison" cavalryitem="true"/>
+      <equipment id="b3_grail_horse_cas" cavalryitem="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
@@ -7053,7 +7471,8 @@
       <equipment id="b3_kotr_gloves_2"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_kotr_horse_bag" cavalryitem="true"/>
+      <equipment id="b3_bag_questing_knight_caparison" cavalryitem="true"/>
+      <equipment id="b3_kotr_horse_bag" cavalryitem="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
@@ -8334,7 +8753,7 @@
     color1="FF091f0a"
     color2="FF450c0c"
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
-    name="Hildebrand of Mortenel"
+    name="Hildebrand de Mortenel"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.mor">
     <Weapon0>
@@ -9666,7 +10085,7 @@
     color1="FF080808"
     color2="FF570a08"
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
-    name="Bertelis of Garamont"
+    name="Bertelis de Garamont"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.gar">
     <Weapon0>
