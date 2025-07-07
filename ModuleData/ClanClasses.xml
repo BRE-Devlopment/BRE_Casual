@@ -1008,7 +1008,7 @@
     </Weapon3>	
     <Head>
       <equipment id="b3_order_knight_helmet" />
-      
+
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
       <equipment id="b3_squire_coif_2" disablerandomize="true"/>
       <equipment id="b3_squire_coif_3" disablerandomize="true"/>
@@ -2256,7 +2256,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
-    name="Armand of Aquitanie"
+    name="Armand de Aquitanie"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.aq">
     <Weapon0>
@@ -3791,7 +3791,7 @@
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Malory of Moussillon"
+    name="Malory de Moussillon"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.mou">
     <Weapon0>
@@ -4570,7 +4570,7 @@
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Theodoric of Brionne"
+    name="Theodoric de Brionne"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.bri">
     <Weapon0>
@@ -4609,7 +4609,8 @@
       <equipment id="b3_grail_gloves_bri"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_grail_horse_bri" cavalryitem="true"/>
+      <equipment id="b3_bri_questing_knight_caparison" cavalryitem="true"/>
+      <equipment id="b3_grail_horse_bri" cavalryitem="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
@@ -6060,7 +6061,7 @@
     color1="FF1c232c"
     color2="FF29559f"
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
-    name="Dangorn of Castagne"
+    name="Dangorn de Castagne"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.cas">
     <Weapon0>
@@ -6103,7 +6104,8 @@
       <equipment id="b3_grail_gloves_cas"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_grail_horse_cas" cavalryitem="true"/>
+      <equipment id="b3_cas_questing_knight_caparison" cavalryitem="true"/>
+      <equipment id="b3_grail_horse_cas" cavalryitem="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
@@ -7437,7 +7439,8 @@
       <equipment id="b3_kotr_gloves_2"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_kotr_horse_bag" cavalryitem="true"/>
+      <equipment id="b3_bag_questing_knight_caparison" cavalryitem="true"/>
+      <equipment id="b3_kotr_horse_bag" cavalryitem="true" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
@@ -8718,7 +8721,7 @@
     color1="FF091f0a"
     color2="FF450c0c"
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
-    name="Hildebrand of Mortenel"
+    name="Hildebrand de Mortenel"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.mor">
     <Weapon0>
@@ -10050,7 +10053,7 @@
     color1="FF080808"
     color2="FF570a08"
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
-    name="Bertelis of Garamont"
+    name="Bertelis de Garamont"
     mpclassdivision="bre_cavalry"
     id="knight_of_the_realm.gar">
     <Weapon0>
