@@ -1811,7 +1811,7 @@
     mpclassdivision="bre_infantry"
     id="falcon_keeper.aq">
     <Weapon0>
-      <equipment id="null" />
+      <equipment id="b3_falconeers_spear" />
     </Weapon0>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -1841,7 +1841,7 @@
     mpclassdivision="bre_infantry"
     id="falcon_hunter.aq">
     <Weapon0>
-      <equipment id="null" />
+      <equipment id="b3_falconeers_spear" />
     </Weapon0>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -1875,7 +1875,7 @@
     mpclassdivision="bre_infantry"
     id="grand_falconeer.aq">
     <Weapon0>
-      <equipment id="null" />
+      <equipment id="b3_falconeers_spear" />
     </Weapon0>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -4880,6 +4880,11 @@
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
+    <Weapon1>
+      <equipment id="b3_montfort_warden_shield"/>
+      <equipment id="b3_montfort_warden_shield_r1"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
    
     <Head>
       <equipment id="b3_montfort_warden_helmet_r1"/>
