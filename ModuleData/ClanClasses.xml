@@ -4940,16 +4940,15 @@
     color1="FF171617"
     color2="FFbbbbbb"
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
-    name="Montfort Warden"
+    name="Montfort Warden Initiate"
     mpclassdivision="bre_infantry"
-    id="montfort_warden.mon">
+    id="montfort_warden_r1.mon">
     <Weapon0>
       <equipment id="b3_montfort_warden_2h_sword" disablegroup="Weapon1"/>
       <equipment id="b2_man_spear" disablerandomize="true"/>
       <equipment id="null"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_montfort_warden_shield"/>
       <equipment id="b3_montfort_warden_shield_r1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -4961,8 +4960,6 @@
    
     <Head>
       <equipment id="b3_montfort_warden_helmet_r1"/>
-      <equipment id="b3_montfort_warden_helmet_r2"/>
-      <equipment id="b3_montfort_warden_helmet_r3"/>
     </Head>
     <Body>
       <equipment id="b3_montfort_warden_torso"/>
@@ -4972,7 +4969,83 @@
     </Leg>
     <Cape>
       <equipment id="b3_montfort_warden_shoulders_r1"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_montfort_warden_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="MON"
+    color1="FF171617"
+    color2="FFbbbbbb"
+    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
+    name="Montfort Warden Veteran"
+    mpclassdivision="bre_infantry"
+    id="montfort_warden_r2.mon">
+    <Weapon0>
+      <equipment id="b3_montfort_warden_2h_sword" disablegroup="Weapon1"/>
+      <equipment id="b2_man_spear" disablerandomize="true"/>
+      <equipment id="null"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_montfort_warden_shield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_montfort_warhammer" disablegroup="Weapon1"/>
+      <equipment id="b2_sergeant_axe"/>
+      <equipment id="b2_sergeant_sword"/>
+    </Weapon2>
+   
+    <Head>
+      <equipment id="b3_montfort_warden_helmet_r2"/>
+    </Head>
+    <Body>
+      <equipment id="b3_montfort_warden_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_montfort_warden_boots"/>
+    </Leg>
+    <Cape>
       <equipment id="b3_montfort_warden_shoulders_r2"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_montfort_warden_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="MON"
+    color1="FF171617"
+    color2="FFbbbbbb"
+    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
+    name="Montfort Warden Captain"
+    mpclassdivision="bre_infantry"
+    id="montfort_warden_r3.mon">
+    <Weapon0>
+      <equipment id="b3_montfort_warden_2h_sword" disablegroup="Weapon1"/>
+      <equipment id="b2_man_spear" disablerandomize="true"/>
+      <equipment id="null"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_montfort_warden_shield"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_montfort_warhammer" disablegroup="Weapon1"/>
+      <equipment id="b2_sergeant_axe"/>
+      <equipment id="b2_sergeant_sword"/>
+    </Weapon2>
+   
+    <Head>
+      <equipment id="b3_montfort_warden_helmet_r3"/>
+    </Head>
+    <Body>
+      <equipment id="b3_montfort_warden_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_montfort_warden_boots"/>
+    </Leg>
+    <Cape>
       <equipment id="b3_montfort_warden_shoulders_r3"/>
     </Cape>
     <Gloves>
