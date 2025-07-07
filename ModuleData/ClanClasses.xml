@@ -4874,6 +4874,38 @@
     color1="FF171617"
     color2="FFbbbbbb"
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
+    name="Montfort Warden"
+    mpclassdivision="bre_infantry"
+    id="montfort_warden.mon">
+    <Weapon0>
+      <equipment id="b2_man_spear"/>
+    </Weapon0>
+   
+    <Head>
+      <equipment id="b3_montfort_warden_helmet_r1"/>
+      <equipment id="b3_montfort_warden_helmet_r2"/>
+      <equipment id="b3_montfort_warden_helmet_r3"/>
+    </Head>
+    <Body>
+      <equipment id="b3_montfort_warden_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_montfort_warden_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_montfort_warden_shoulders_r1"/>
+      <equipment id="b3_montfort_warden_shoulders_r2"/>
+      <equipment id="b3_montfort_warden_shoulders_r3"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_montfort_warden_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="MON"
+    color1="FF171617"
+    color2="FFbbbbbb"
+    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer"
     id="peasant_archer.mon">
