@@ -1853,11 +1853,19 @@
     id="falcon_keeper.aq">
     <Weapon0>
       <equipment id="b3_falconeers_spear" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
-    <Weapon3>
-      <equipment id="b3_squire_sword_2h" />
-      <equipment id="null" disablerandomize="true" />
-    </Weapon3>
+    <Weapon1>
+      <equipment id="b3_tower_shield1_aq" />
+      <equipment id="b3_tower_shield2_aq" />
+      <equipment id="b3_tower_shield3_aq" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_falconeer_warhammer" />
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon2>
     <Head>
       <equipment id="b3_aquitaine_falcon_keeper_helmet_v1"/>
       <equipment id="b3_aquitaine_falcon_keeper_helmet_v2"/>
@@ -1883,11 +1891,19 @@
     id="falcon_hunter.aq">
     <Weapon0>
       <equipment id="b3_falconeers_spear" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
-    <Weapon3>
-      <equipment id="b3_squire_sword_2h" />
-      <equipment id="null" disablerandomize="true" />
-    </Weapon3>
+    <Weapon1>
+      <equipment id="b3_tower_shield1_aq" />
+      <equipment id="b3_tower_shield2_aq" />
+      <equipment id="b3_tower_shield3_aq" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_falconeer_warhammer" />
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon2>
     <Head>
       <equipment id="b3_aquitaine_falcon_hunter_helmet_v1"/>
       <equipment id="b3_aquitaine_falcon_hunter_helmet_v2"/>
@@ -1917,11 +1933,19 @@
     id="grand_falconeer.aq">
     <Weapon0>
       <equipment id="b3_falconeers_spear" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
     </Weapon0>
-    <Weapon3>
-      <equipment id="b3_squire_sword_2h" />
-      <equipment id="null" disablerandomize="true" />
-    </Weapon3>
+    <Weapon1>
+      <equipment id="b3_tower_shield1_aq" />
+      <equipment id="b3_tower_shield2_aq" />
+      <equipment id="b3_tower_shield3_aq" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_falconeer_warhammer" />
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon2>
     <Head>
       <equipment id="b3_aquitaine_grand_fauconnier_helmet"/>
     </Head>
@@ -4920,13 +4944,20 @@
     mpclassdivision="bre_infantry"
     id="montfort_warden.mon">
     <Weapon0>
-      <equipment id="b2_man_spear"/>
+      <equipment id="b3_montfort_warden_2h_sword" disablegroup="Weapon1"/>
+      <equipment id="b2_man_spear" disablerandomize="true"/>
+      <equipment id="null"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_montfort_warden_shield"/>
       <equipment id="b3_montfort_warden_shield_r1"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
+    <Weapon2>
+      <equipment id="b3_montfort_warhammer" disablegroup="Weapon1"/>
+      <equipment id="b2_sergeant_axe"/>
+      <equipment id="b2_sergeant_sword"/>
+    </Weapon2>
    
     <Head>
       <equipment id="b3_montfort_warden_helmet_r1"/>
