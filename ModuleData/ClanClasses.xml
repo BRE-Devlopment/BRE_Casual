@@ -6073,6 +6073,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
+      <equipment id="b3_moussillon_flail"/>
       <equipment id="b2_man_mace"/>
       <equipment id="b3_cas_kotr_sword_1h"/>
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
