@@ -1807,6 +1807,102 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
+    name="Falcon Keeper"
+    mpclassdivision="bre_infantry"
+    id="falcon_keeper.aq">
+    <Weapon0>
+      <equipment id="null" />
+    </Weapon0>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+      <equipment id="null" disablerandomize="true" />
+    </Weapon3>
+    <Head>
+      <equipment id="b3_aquitaine_falcon_keeper_helmet_v1"/>
+      <equipment id="b3_aquitaine_falcon_keeper_helmet_v2"/>
+    </Head>
+    <Body>
+      <equipment id="b3_aquitaine_falcon_keeper_torso" />
+      <equipment id="b3_aquitaine_falcon_keeper_torso_v2" />
+    </Body>
+    <Leg>
+      <equipment id="b3_aquitaine_falcon_keeper_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_aquitaine_falcon_keeper_gauntlets" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="AQ"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
+    color1="FFd7a12b"
+    color2="FF144ea8"
+    name="Falcon Hunter"
+    mpclassdivision="bre_infantry"
+    id="falcon_hunter.aq">
+    <Weapon0>
+      <equipment id="null" />
+    </Weapon0>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+      <equipment id="null" disablerandomize="true" />
+    </Weapon3>
+    <Head>
+      <equipment id="b3_aquitaine_falcon_hunter_helmet_v1"/>
+      <equipment id="b3_aquitaine_falcon_hunter_helmet_v2"/>
+      <equipment id="b3_aquitaine_falcon_hunter_helmet_v3"/>
+    </Head>
+    <Body>
+      <equipment id="b3_aquitaine_falcon_hunter_torso" />
+      <equipment id="b3_aquitaine_falcon_hunter_torso_v2" />
+    </Body>
+    <Leg>
+      <equipment id="b3_aquitaine_falcon_hunter_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_aquitaine_falcon_hunter_gauntlets_v1" />
+      <equipment id="b3_aquitaine_falcon_hunter_gauntlets_v2" />
+      <equipment id="b3_aquitaine_falcon_hunter_gauntlets_v3" />
+      <equipment id="b3_aquitaine_falcon_hunter_gauntlets_v4" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="AQ"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
+    color1="FFd7a12b"
+    color2="FF144ea8"
+    name="Grand Facloneer"
+    mpclassdivision="bre_infantry"
+    id="grand_falconeer.aq">
+    <Weapon0>
+      <equipment id="null" />
+    </Weapon0>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+      <equipment id="null" disablerandomize="true" />
+    </Weapon3>
+    <Head>
+      <equipment id="b3_aquitaine_grand_fauconnier_helmet"/>
+    </Head>
+    <Body>
+      <equipment id="b3_aquitaine_grand_fauconnier_torso" />
+      <equipment id="b3_aquitaine_grand_fauconnier_torso_v2" />
+    </Body>
+    <Leg>
+      <equipment id="b3_aquitaine_grand_fauconnier_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="b3_aquitaine_grand_fauconnier_shoulders" />
+    </Cape>
+    <Gloves>
+      <equipment id="b3_aquitaine_grand_fauconnier_gauntlets" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="AQ"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
+    color1="FFd7a12b"
+    color2="FF144ea8"
     name="Peasant archer"
     mpclassdivision="bre_archer"
     id="peasant_archer.aq">
