@@ -1008,7 +1008,12 @@
     </Weapon3>	
     <Head>
       <equipment id="b3_order_knight_helmet" />
-      <equipment id="null" disablerandomize="true" />
+      
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_knight_body" />
@@ -1064,6 +1069,12 @@
     </Weapon3>		
     <Head>
       <equipment id="b3_order_commander_helmet" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_commander_body" />
@@ -1120,6 +1131,12 @@
     </Weapon3>		
     <Head>
       <equipment id="b3_order_paladin_helmet" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_paladin_body" />
@@ -1175,6 +1192,12 @@
     </Weapon3>	
     <Head>
       <equipment id="b3_order_chaplain_helmet" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_chaplain_body" />
@@ -1230,6 +1253,12 @@
     </Weapon3>		
     <Head>
       <equipment id="b3_order_inquisitor_helmet" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_inquisitor_body" />
@@ -1285,6 +1314,12 @@
     </Weapon3>			
     <Head>
       <equipment id="b3_order_grand_master_helmet" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_grand_master_body" />
@@ -1340,6 +1375,12 @@
     </Weapon3>			
     <Head>
       <equipment id="b3_order_grand_prior_helmet" />
+
+      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
+
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_grand_prior_body" />
