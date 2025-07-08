@@ -24867,6 +24867,7 @@
       <equipment id="mp_hood" />
       <equipment id="mp_desert_leather_shoulderpad" />
       <equipment id="mp_wrapped_scarf" />
+      <equipment id="null" />
     </Cape>
     <Body>
       <equipment id="mp_aketon" />
@@ -24943,6 +24944,7 @@
       <equipment id="sp_southern_shawl" />
       <equipment id="sa_western_chain_shoulders" />
       <equipment id="sa_swadian_shoulders" />
+      <equipment id="null" />
     </Cape>
     <Body>
       <equipment id="mp_empire_warrior_padded_armor_f" />
@@ -25026,6 +25028,7 @@
       <equipment id="sp_southern_shawl" />
       <equipment id="sa_western_chain_shoulders" />
       <equipment id="sa_swadian_shoulders" />
+      <equipment id="null" />
     </Cape>
     <Body>
       <equipment id="sa_coat_of_plates2_c" />
@@ -25115,6 +25118,7 @@
       <equipment id="sp_chainmail_shoulder_armor" />
       <equipment id="mp_scarf" />
       <equipment id="sa_swadian_shoulders" />
+      <equipment id="null" />
     </Cape>
     <Body>
       <equipment id="sa_mail_with_tabbard1" />
@@ -25186,6 +25190,7 @@
       <equipment id="sp_empire_cape_a" />
       <equipment id="mp_hood" />
       <equipment id="sp_southern_shawl" />
+      <equipment id="null" />
     </Cape>
     <Body>
       <equipment id="mp_banded_leather_over_mail" />
