@@ -2,420 +2,168 @@
 <Items>
   <!--BAHAMOTHS-->
   <!--HEAD-->
-  <Item 
-    multiplayer_item="true"
-    id="ba_bolzanogreathelmet" 
-    name="Great Helmet" 
-    subtype="head_armor" 
-    mesh="ba_bolzanogreathelmet" 
-    culture="Culture.neutral_culture" 
-    weight="0" 
-    appearance="1" 
-    Type="HeadArmor">
+  <Item id="ba_closehelm" name="Plate Close Helmet" subtype="head_armor" mesh="ba_closehelm" culture="Culture.vlandia" weight="0" ppearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor 
-        head_armor="0" 
-        has_gender_variations="false" 
-        hair_cover_type="all" 
-        modifier_group="plate"
-        material_type="Plate" 
-        beard_cover_type="all" />
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
     </ItemComponent>
-    <Flags UseTeamColor="true" /> 
+    <Flags UseTeamColor="true" />	
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_turban_helmet_1clean" 
-    name="Turban Helmet" 
-    subtype="head_armor" 
-    mesh="ba_turban_helmet_1clean" 
-    culture="Culture.neutral_culture" 
-    weight="0"  
-    appearance="1" 
-    Type="HeadArmor">
+  <Item multiplayer_item="true" id="ba_bolzanogreathelmet" name="Great Helmet" subtype="head_armor" mesh="ba_bolzanogreathelmet" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor 
-        head_armor="0" 
-        has_gender_variations="false" 
-        hair_cover_type="all" 
-        modifier_group="plate" 
-        material_type="Plate" 
-        beard_cover_type="all" />
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
     </ItemComponent>
-    <Flags UseTeamColor="false" />  
+    <Flags UseTeamColor="true" />
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_turban_helmet_1" 
-    name="Turban Helmet" 
-    subtype="head_armor" 
-    mesh="ba_turban_helmet_1" 
-    culture="Culture.neutral_culture" 
-    weight="0"  
-    appearance="1" 
-    Type="HeadArmor">
+  <Item multiplayer_item="true" id="ba_turban_helmet_1clean" name="Turban Helmet" subtype="head_armor" mesh="ba_turban_helmet_1clean" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor 
-        head_armor="0" 
-        has_gender_variations="false" 
-        hair_cover_type="all" 
-        modifier_group="plate" 
-        material_type="Plate" 
-        beard_cover_type="all" />
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
     </ItemComponent>
-    <Flags UseTeamColor="false" />  
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_opensallet" 
-    name="Worn Open Sallet"
-    subtype="head_armor" 
-    mesh="ba_opensallet" 
-    culture="Culture.neutral_culture" 
-    weight="0" 
-    appearance="1" 
-    Type="HeadArmor">
+  <Item multiplayer_item="true" id="ba_turban_helmet_1" name="Turban Helmet" subtype="head_armor" mesh="ba_turban_helmet_1" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor 
-        head_armor="0"
-        has_gender_variations="false" 
-        hair_cover_type="all" 
-        modifier_group="plate"
-        material_type="Plate" 
-        beard_cover_type="none" />
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
     </ItemComponent>
-    <Flags UseTeamColor="true" /> 
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_sallet" 
-    name="Worn Sallet" 
-    subtype="head_armor" 
-    mesh="ba_sallet" 
-    culture="Culture.neutral_culture" 
-    weight="0" 
-    appearance="1"
-    Type="HeadArmor">
+  <Item multiplayer_item="true" id="ba_opensallet" name="Worn Open Sallet" subtype="head_armor" mesh="ba_opensallet" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor 
-        head_armor="0" 
-        has_gender_variations="false" 
-        hair_cover_type="all" 
-        modifier_group="plate" 
-        material_type="Plate" 
-        beard_cover_type="none" />
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
-    <Flags UseTeamColor="true" /> 
+    <Flags UseTeamColor="true" />
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_opensalletclean" 
-    name="Plate Open Sallet"
-    subtype="head_armor" 
-    mesh="ba_opensalletclean" 
-    culture="Culture.neutral_culture" 
-    weight="0" 
-    appearance="1"
-    Type="HeadArmor">
+  <Item multiplayer_item="true" id="ba_closedsallet" name="Worn Closed Sallet" subtype="head_armor" mesh="ba_closedsallet" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="0"
-       has_gender_variations="false"
-        hair_cover_type="all"
-         modifier_group="plate"
-          material_type="Plate"
-           beard_cover_type="none" />
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
-    <Flags UseTeamColor="true" /> 
+    <Flags UseTeamColor="true" />
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_salletpainted" 
-    name="Painted Sallet" 
-    subtype="head_armor" 
-    mesh="ba_salletpainted" 
-    culture="Culture.neutral_culture" 
-    weight="0" 
-    appearance="1" 
-    Type="HeadArmor">
+  <Item multiplayer_item="true" id="ba_sallet" name="Worn Sallet" subtype="head_armor" mesh="ba_sallet" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="0" 
-        has_gender_variations="false" 
-        hair_cover_type="all" 
-        modifier_group="plate" 
-        material_type="Plate" 
-        beard_cover_type="none" />
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
-    <Flags UseTeamColor="true" /> 
+    <Flags UseTeamColor="true" />
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_salletclean" 
-    name="Sallet" 
-    subtype="head_armor" 
-    mesh="ba_salletclean" 
-    culture="Culture.neutral_culture" 
-    weight="0" 
-    appearance="1"
-    Type="HeadArmor">
+  <Item multiplayer_item="true" id="ba_opensalletclean" name="Plate Open Sallet" subtype="head_armor" mesh="ba_opensalletclean" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor 
-        head_armor="0" 
-        has_gender_variations="false" 
-        hair_cover_type="all" 
-        modifier_group="plate" 
-        material_type="Plate" 
-        beard_cover_type="none" />
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
-    <Flags UseTeamColor="true" /> 
+    <Flags UseTeamColor="true" />
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_openhelm2" 
-    name="Battered Open Sallet" 
-    subtype="head_armor" 
-    mesh="ba_openhelm2" 
-    culture="Culture.neutral_culture" 
-    weight="0"
-    appearance="1"
-    Type="HeadArmor">
+  <Item multiplayer_item="true" id="ba_salletpainted" name="Painted Sallet" subtype="head_armor" mesh="ba_salletpainted" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor 
-        head_armor="0" 
-        has_gender_variations="false" 
-        hair_cover_type="all" 
-        modifier_group="plate" 
-        material_type="Plate" 
-        beard_cover_type="type3" />
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
-    <Flags UseTeamColor="true" /> 
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="ba_closedsalletpainted" name="Painted Closed Sallet" subtype="head_armor" mesh="ba_closedsalletpainted" culture="Culture.vlandia" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item multiplayer_item="true" id="ba_salletclean" name="Sallet" subtype="head_armor" mesh="ba_salletclean" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item multiplayer_item="true" id="ba_openhelm2" name="Battered Open Sallet" subtype="head_armor" mesh="ba_openhelm2" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
   </Item>
   <!--CAPE-->
-  <Item 
-    multiplayer_item="true"
-    id="ba_gorget" 
-    name="Plate Gorget" 
-    mesh="ba_gorget"
-    culture="Culture.neutral_culture" 
-    weight="0" 
-    appearance="1" 
-    Type="Cape">
+  <Item multiplayer_item="true" id="ba_gorget" name="Plate Gorget" mesh="ba_gorget" culture="Culture.neutral_culture" weight="0" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor 
-        body_armor="0" 
-        modifier_group="plate" 
-        material_type="Plate" />
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_largepauldronclean" 
-    name="Large Plate Pauldrons" 
-    mesh="ba_largepauldronclean"
-    culture="Culture.neutral_culture"
-    weight="0" 
-    appearance="1" 
-    Type="Cape">
+  <Item multiplayer_item="true" id="ba_gorgetgold" name="Gold Plate Gorget" mesh="ba_gorgetgold" culture="Culture.neutral_culture" weight="0" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor 
-        body_armor="0"
-        modifier_group="plate" 
-        material_type="Plate" />
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_knightpadgorget1" 
-    name="Plate Pauldrons with Gorget" 
-    mesh="ba_knightpadgorget1"
-    culture="Culture.neutral_culture" 
-    weight="0" 
-    appearance="1" 
-    Type="Cape">
+  <Item multiplayer_item="true" id="ba_largepauldronclean" name="Large Plate Pauldrons" mesh="ba_largepauldronclean" culture="Culture.neutral_culture" weight="0" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor 
-        body_armor="0" 
-        modifier_group="plate" 
-        material_type="Plate" />
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_knightpadcape3" 
-    name="Plate Pauldrons with Cape" 
-    mesh="ba_knightpadcape3"
-    culture="Culture.neutral_culture" 
-    weight="0" 
-    appearance="1" 
-    Type="Cape">
+  <Item multiplayer_item="true" id="ba_knightpadgorget1" name="Plate Pauldrons with Gorget" mesh="ba_knightpadgorget1" culture="Culture.neutral_culture" weight="0" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor 
-        body_armor="0"
-        modifier_group="plate" 
-        material_type="Plate" />
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item multiplayer_item="true" id="ba_knightpadcape3" name="Plate Pauldrons with Cape" mesh="ba_knightpadcape3" culture="Culture.neutral_culture" weight="0" appearance="1" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_knightpadcapegold" 
-    name="Gold Plate Pauldrons with Cape" 
-    mesh="ba_knightpadcapegold"
-    culture="Culture.neutral_culture" 
-    weight="0" 
-    appearance="1" 
-    Type="Cape">
+  <Item multiplayer_item="true" id="ba_knightpadcapegold" name="Gold Plate Pauldrons with Cape" mesh="ba_knightpadcapegold" culture="Culture.neutral_culture" weight="0" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor 
-        body_armor="0"
-        modifier_group="plate" 
-        material_type="Plate" />
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_knightpad2" 
-    name="Plate Pauldrons"
-    mesh="ba_knightpad2"
-    culture="Culture.neutral_culture" 
-    weight="0" 
-    appearance="1" 
-    Type="Cape">
+  <Item multiplayer_item="true" id="ba_knightpad2" name="Plate Pauldrons" mesh="ba_knightpad2" culture="Culture.neutral_culture" weight="0" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor 
-        body_armor="0"
-        modifier_group="plate"
-        material_type="Plate" />
+      <Armor body_armor="0" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
   </Item>
   <!--BODY-->
-   <Item 
-    multiplayer_item="true"
-    id="ba_heraldictabard3" 
-    name="Tabard over Plate Armor" 
-    mesh="ba_heraldictabard3"
-    subtype="body_armor" 
-    culture="Culture.neutral_culture" 
-    weight="0"
-    appearance="1" 
-    Type="BodyArmor">
+  <Item multiplayer_item="true" id="ba_heraldictabard3" name="Tabard over Plate Armor" mesh="ba_heraldictabard3" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor 
-        body_armor="0" 
-        covers_body="true" 
-        modifier_group="plate" 
-        material_type="Plate" />
+      <Armor body_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <!--GLOVES-->
-  <Item 
-    multiplayer_item="true"
-    id="ba_plategauntletworn" 
-    name="Battered Plate Gauntlets" 
-    mesh="ba_plategauntletworn"
-    subtype="body_armor" 
-    culture="Culture.neutral_culture" 
-    weight="0"
-    appearance="1" 
-    Type="HandArmor">
+  <Item multiplayer_item="true" id="ba_platearmor" name="Full Plate Armor with Rondel" mesh="ba_platearmor" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-    <Armor 
-      body_armor="0" 
-      covers_hands="true"
-      modifier_group="Plate" 
-      material_type="Plate" />
-    </ItemComponent>
-    <Flags UseTeamColor="false" />
-  </Item>  
-  <Item 
-    multiplayer_item="true"
-    id="ba_plategauntlet" 
-    name="Plate Gauntlets" 
-    mesh="ba_plategauntlet" 
-    subtype="body_armor" 
-    culture="Culture.neutral_culture"
-    weight="0"
-    appearance="1" 
-    Type="HandArmor">
-    <ItemComponent>
-    <Armor 
-      body_armor="0"
-      covers_hands="true" 
-      modifier_group="Plate" 
-      material_type="Plate" />
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_plategauntletgold" 
-    name="Gold Plate Gauntlets" 
-    mesh="ba_plategauntletgold" 
-    subtype="body_armor" 
-    culture="Culture.neutral_culture"
-    weight="0"
-    appearance="1" 
-    Type="HandArmor">
+  <Item multiplayer_item="true" id="ba_platearmorgold" name="Gold Full Plate Armor with Rondel" mesh="ba_platearmorgold" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-    <Armor 
-      body_armor="0"
-      covers_hands="true" 
-      modifier_group="Plate" 
-      material_type="Plate" />
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <!--GLOVES-->
+  <Item multiplayer_item="true" id="ba_plategauntletworn" name="Battered Plate Gauntlets" mesh="ba_plategauntletworn" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HandArmor">
+    <ItemComponent>
+      <Armor body_armor="0" covers_hands="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item multiplayer_item="true" id="ba_plategauntlet" name="Plate Gauntlets" mesh="ba_plategauntlet" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HandArmor">
+    <ItemComponent>
+      <Armor body_armor="0" covers_hands="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item multiplayer_item="true" id="ba_plategauntletgold" name="Gold Plate Gauntlets" mesh="ba_plategauntletgold" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HandArmor">
+    <ItemComponent>
+      <Armor body_armor="0" covers_hands="true" modifier_group="Plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
   <!--LEG-->
-  <Item 
-    multiplayer_item="true"
-    id="ba_plategreaves" 
-    name="Plate Boots"
-    mesh="ba_plategreaves" 
-    culture="Culture.neutral_culture" 
-    weight="0"
-    appearance="1"
-    Type="LegArmor">
+  <Item multiplayer_item="true" id="ba_plategreaves" name="Plate Boots" mesh="ba_plategreaves" culture="Culture.neutral_culture" weight="0" appearance="1" Type="LegArmor">
     <ItemComponent>
-      <Armor 
-        leg_armor="0" 
-        covers_legs="true" 
-        modifier_group="plate" 
-        material_type="Plate" />
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_plategreavesgold" 
-    name="Gold Plate Boots"
-    mesh="ba_plategreavesgold" 
-    culture="Culture.neutral_culture" 
-    weight="0"
-    appearance="1"
-    Type="LegArmor">
+  <Item multiplayer_item="true" id="ba_plategreavesgold" name="Gold Plate Boots" mesh="ba_plategreavesgold" culture="Culture.neutral_culture" weight="0" appearance="1" Type="LegArmor">
     <ItemComponent>
-      <Armor 
-        leg_armor="0" 
-        covers_legs="true" 
-        modifier_group="plate" 
-        material_type="Plate" />
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
   </Item>
-  <Item 
-    multiplayer_item="true"
-    id="ba_plategreavesworn" 
-    name="Gold Plate Boots"
-    mesh="ba_plategreavesworn" 
-    culture="Culture.neutral_culture" 
-    weight="0"
-    appearance="1"
-    Type="LegArmor">
+  <Item multiplayer_item="true" id="ba_plategreavesworn" name="BatteredPlate Boots" mesh="ba_plategreavesworn" culture="Culture.neutral_culture" weight="0" appearance="1" Type="LegArmor">
     <ItemComponent>
-      <Armor 
-        leg_armor="0" 
-        covers_legs="true" 
-        modifier_group="plate" 
-        material_type="Plate" />
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
   </Item>
 </Items>
