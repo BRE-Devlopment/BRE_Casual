@@ -24826,7 +24826,7 @@
   <!--EICH Eichenwacht-->
   <ClanClass
     clan="EICH"
-    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    banner="11.611.611.2000.2000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
     color1="FFfa591e"
     color2="FFffffff"
     name="Jungrecke"
@@ -24867,6 +24867,7 @@
       <equipment id="mp_hood" />
       <equipment id="mp_desert_leather_shoulderpad" />
       <equipment id="mp_wrapped_scarf" />
+      <equipment id="null" />
     </Cape>
     <Body>
       <equipment id="mp_aketon" />
@@ -24887,7 +24888,7 @@
   </ClanClass>
   <ClanClass
     clan="EICH"
-    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    banner="11.611.611.2000.2000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
     color1="FFfa591e"
     color2="FFffffff"
     name="Knecht"
@@ -24943,6 +24944,7 @@
       <equipment id="sp_southern_shawl" />
       <equipment id="sa_western_chain_shoulders" />
       <equipment id="sa_swadian_shoulders" />
+      <equipment id="null" />
     </Cape>
     <Body>
       <equipment id="mp_empire_warrior_padded_armor_f" />
@@ -24973,7 +24975,7 @@
   </ClanClass>
   <ClanClass
     clan="EICH"
-    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    banner="11.611.611.2000.2000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
     color1="FFfa591e"
     color2="FFffffff"
     name="Eichgeschworener"
@@ -25026,6 +25028,7 @@
       <equipment id="sp_southern_shawl" />
       <equipment id="sa_western_chain_shoulders" />
       <equipment id="sa_swadian_shoulders" />
+      <equipment id="null" />
     </Cape>
     <Body>
       <equipment id="sa_coat_of_plates2_c" />
@@ -25062,7 +25065,7 @@
   </ClanClass>
   <ClanClass
     clan="EICH"
-    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    banner="11.611.611.2000.2000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
     color1="FFfa591e"
     color2="FFffffff"
     name="Kronengarde"
@@ -25115,6 +25118,7 @@
       <equipment id="sp_chainmail_shoulder_armor" />
       <equipment id="mp_scarf" />
       <equipment id="sa_swadian_shoulders" />
+      <equipment id="null" />
     </Cape>
     <Body>
       <equipment id="sa_mail_with_tabbard1" />
@@ -25152,7 +25156,7 @@
   </ClanClass>
   <ClanClass
     clan="EICH"
-    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    banner="11.611.611.2000.2000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
     color1="FFfa591e"
     color2="FFffffff"
     name="Schützenknecht"
@@ -25186,6 +25190,7 @@
       <equipment id="sp_empire_cape_a" />
       <equipment id="mp_hood" />
       <equipment id="sp_southern_shawl" />
+      <equipment id="null" />
     </Cape>
     <Body>
       <equipment id="mp_banded_leather_over_mail" />
@@ -25216,7 +25221,7 @@
   </ClanClass>
   <ClanClass
     clan="EICH"
-    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    banner="11.611.611.2000.2000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
     color1="FFfa591e"
     color2="FFffffff"
     name="Hainritter"
@@ -25311,7 +25316,7 @@
   </ClanClass>
   <ClanClass
     clan="EICH"
-    banner="11.611.611.2000.20000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
+    banner="11.611.611.2000.2000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0"
     color1="FFfa591e"
     color2="FFffffff"
     name="Marschall"
