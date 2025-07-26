@@ -693,7 +693,7 @@
     <Weapon2>
       <equipment id="b2_man_mace" />
       <equipment id="b3_cou_duke_sword_1h" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b2_excalibur" />
@@ -2294,7 +2294,7 @@
     <Weapon2>
       <equipment id="b2_man_mace" />
       <equipment id="b3_aqu_duke_sword_1h" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_aqu_duke_sword_2h" />
@@ -17434,7 +17434,7 @@
     <Weapon2>
       <equipment id="b2_man_mace" />
       <equipment id="b3_ana_kerrant_sword_1h" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_ana_kerrant_sword_2h" />
@@ -18095,7 +18095,7 @@
     <Weapon2>
       <equipment id="b2_man_mace" />
       <equipment id="b3_plo_kerrant_sword_1h" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_plo_kerrant_sword_2h" />
@@ -18756,7 +18756,7 @@
     <Weapon2>
       <equipment id="b2_man_mace" />
       <equipment id="b3_han_kerrant_sword_1h" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_han_kerrant_sword_2h" />
@@ -19417,7 +19417,7 @@
     <Weapon2>
       <equipment id="b2_man_mace" />
       <equipment id="b3_reo_kerrant_sword_1h" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_reo_kerrant_sword_2h" />
@@ -20078,7 +20078,7 @@
     <Weapon2>
       <equipment id="b2_man_mace" />
       <equipment id="b3_cre_kerrant_sword_1h" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_cre_kerrant_sword_2h" />
@@ -20283,7 +20283,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -20615,7 +20615,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -21028,7 +21028,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -21091,7 +21091,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -21342,7 +21342,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -21404,7 +21404,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -21517,7 +21517,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -21630,7 +21630,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -21743,7 +21743,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -21856,7 +21856,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -21969,7 +21969,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h" />
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -22082,7 +22082,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -22195,7 +22195,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -22308,7 +22308,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -22421,7 +22421,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -22534,7 +22534,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -22768,7 +22768,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -23166,7 +23166,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -24257,7 +24257,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -24313,7 +24313,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -24777,7 +24777,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -24831,7 +24831,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -24899,7 +24899,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -25158,7 +25158,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -25211,7 +25211,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -25448,7 +25448,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
       <equipment id="b2_man_sword" />
     </Weapon2>
     <Weapon3>
@@ -25509,7 +25509,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
       <equipment id="b2_man_sword" />
     </Weapon2>
     <Weapon3>
@@ -25909,7 +25909,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -25958,7 +25958,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -26765,7 +26765,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -26820,7 +26820,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -27360,7 +27360,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -27415,7 +27415,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -27469,7 +27469,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -27921,7 +27921,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
@@ -28016,7 +28016,7 @@
     <Weapon2>
       <equipment id="b3_squire_sword_1h"/>
       <equipment id="b2_native_mace" />
-      <equipment id="b2_bastard_axe" disablegroup="Weapon3" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b3_squire_sword_2h" />
