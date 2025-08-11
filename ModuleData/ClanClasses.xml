@@ -19729,9 +19729,7 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b2_templar_1"/>
@@ -19798,9 +19796,7 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="sa_coat_of_plates1_c"/>
