@@ -632,45 +632,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -1944,7 +1928,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
-    name="Grand Fauconnier"
+    name="Grand Facloneer"
     mpclassdivision="bre_infantry"
     id="grand_falconeer.aq">
     <Weapon0>
@@ -2249,45 +2233,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -3016,45 +2984,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -3820,41 +3772,25 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -4611,45 +4547,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -5408,45 +5328,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -6218,41 +6122,25 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -6889,45 +6777,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -7572,45 +7444,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -8256,45 +8112,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -8939,45 +8779,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -9618,45 +9442,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -10307,41 +10115,25 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -10981,45 +10773,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -11067,14 +10843,10 @@
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
       <equipment id="b3_kerrant_head_3"/>
-      <equipment id="b3_knighterrant_helmet_v4_light"/>
-      <equipment id="b3_knighterrant_helmet_v5_light"/>
 
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
 
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
@@ -11663,45 +11435,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -12346,45 +12102,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -13025,41 +12765,25 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -13695,45 +13419,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -14376,45 +14084,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -14462,14 +14154,10 @@
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
       <equipment id="b3_kerrant_head_3"/>
-      <equipment id="b3_knighterrant_helmet_v4_light"/>
-      <equipment id="b3_knighterrant_helmet_v5_light"/>
 
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
 
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
@@ -15057,45 +14745,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -15143,14 +14815,10 @@
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
       <equipment id="b3_kerrant_head_3"/>
-      <equipment id="b3_knighterrant_helmet_v4_light"/>
-      <equipment id="b3_knighterrant_helmet_v5_light"/>
 
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
 
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
@@ -15745,41 +15413,25 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -16406,45 +16058,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -16500,7 +16136,6 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
@@ -17088,45 +16723,29 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -17177,8 +16796,6 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="null"/>
     </Head>
     <Body>
@@ -17760,41 +17377,25 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -17843,14 +17444,10 @@
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
       <equipment id="b3_kerrant_head_3"/>
-      <equipment id="b3_knighterrant_helmet_v4_light"/>
-      <equipment id="b3_knighterrant_helmet_v5_light"/>
 
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
 
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
@@ -18441,41 +18038,25 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -18524,14 +18105,10 @@
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
       <equipment id="b3_kerrant_head_3"/>
-      <equipment id="b3_knighterrant_helmet_v4_dark"/>
-      <equipment id="b3_knighterrant_helmet_v5_dark"/>
 
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
-
 
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
@@ -19122,41 +18699,25 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -19205,14 +18766,10 @@
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
       <equipment id="b3_kerrant_head_3"/>
-      <equipment id="b3_knighterrant_helmet_v4_dark"/>
-      <equipment id="b3_knighterrant_helmet_v5_light"/>
 
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
-
 
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
@@ -19803,41 +19360,25 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
-      <equipment id="b3_squire_helmet_colored_1"/>
-      <equipment id="b3_squire_helmet_colored_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_squire_helmet_colored_old_1"/>
+      <equipment id="b3_squire_helmet_colored_old_2"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -19886,14 +19427,10 @@
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
       <equipment id="b3_kerrant_head_3"/>
-      <equipment id="b3_knighterrant_helmet_v4_light"/>
-      <equipment id="b3_knighterrant_helmet_v5_light"/>
 
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-
 
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
@@ -20484,41 +20021,25 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
-
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
-
-      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
-      <equipment id="b3_squire_coif_noneck"/>
-      <equipment id="b3_squire_coif_nocloth_noneck"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
       <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_v1_3"/>
       <equipment id="b3_squire_body_v2_1"/>
+      <equipment id="b3_squire_body_v2_2"/>
+      <equipment id="b3_squire_body_v2_3"/>
       <equipment id="b3_squire_body_v3_1"/>
-
-      <equipment id="b3_squire_body_old_v1"/>
-      <equipment id="b3_squire_body_old_v2"/>
-      <equipment id="b3_squire_body_old_v3"/>
-      <equipment id="b3_squire_body_old_v4"/>
-      <equipment id="b3_squire_body_old_v5"/>
-      <equipment id="b3_squire_body_old_v6"/>
-      <equipment id="b3_squire_body_old_v7"/>
-      <equipment id="b3_squire_body_old_v8"/>
-      <equipment id="b3_squire_body_old_v9"/>
+      <equipment id="b3_squire_body_v3_2"/>
+      <equipment id="b3_squire_body_v3_3"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
-      <equipment id="b3_squire_backpack_v1"/>
-      <equipment id="b3_squire_backpack_v2"/>
-      <equipment id="b3_squire_backpack_v3"/>
-      <equipment id="b3_squire_backpack_v5"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -20567,14 +20088,10 @@
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
       <equipment id="b3_kerrant_head_3"/>
-      <equipment id="b3_knighterrant_helmet_v4_dark"/>
-      <equipment id="b3_knighterrant_helmet_v5_dark"/>
 
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
-
 
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
