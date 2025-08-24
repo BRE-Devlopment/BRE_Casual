@@ -18809,7 +18809,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry"
@@ -18877,7 +18877,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry"
@@ -18949,7 +18949,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry"
@@ -19009,7 +19009,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry"
@@ -19091,7 +19091,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer"
@@ -19153,7 +19153,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer"
@@ -19208,7 +19208,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer"
@@ -19264,7 +19264,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry"
@@ -19335,7 +19335,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
