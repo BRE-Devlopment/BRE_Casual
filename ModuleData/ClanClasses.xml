@@ -2289,6 +2289,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_aq" />
+      <equipment id="b3_oriflamme_banner" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
