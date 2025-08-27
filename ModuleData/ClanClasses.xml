@@ -752,6 +752,10 @@
       <equipment id="b2_peasant_mace"/>
       <equipment id="null"/>	  
     </Weapon2>	
+    <Head>
+      <equipment id="b3_bre_monk_hair" />
+      <equipment id="null" />
+    </Head>
     <Body>
       <equipment id="b3_pilgrim_a_body" />
       <equipment id="b3_pilgrim_b_body" />
@@ -800,7 +804,8 @@
       <equipment id="b2_peasant_mace"/>
       <equipment id="null"/>	  
     </Weapon2>		
-    <Head> 
+    <Head>
+      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_battle_pilgrim_b_helmet1" />
       <equipment id="b3_battle_pilgrim_b_helmet2" />
       <equipment id="b3_battle_pilgrim_c_helmet1" />
@@ -850,6 +855,7 @@
       <equipment id="null"/>	  
     </Weapon2>		
     <Head>
+      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_exalted_pilgrim_b_helmet1" />
       <equipment id="b3_exalted_pilgrim_b_helmet2" />
       <equipment id="b3_exalted_pilgrim_c_helmet" />
@@ -898,6 +904,7 @@
       <equipment id="null"/>	  
     </Weapon2>	
     <Head>
+      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_novice_helmet1" />
       <equipment id="b3_order_novice_helmet2" />
       <equipment id="null" disablerandomize="true" />
@@ -936,6 +943,7 @@
       <equipment id="null"/>	    
     </Weapon2>		
     <Head>
+      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_sergeant_helmet" />
       <equipment id="null" disablerandomize="true" />
     </Head>
@@ -967,6 +975,7 @@
       <equipment id="b2_sergeant_sword" />
     </Weapon1>
     <Head>
+      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_sergeant_helmet" />
     </Head>
     <Body>
@@ -1007,6 +1016,7 @@
       <equipment id="b3_squire_sword_2h"/>
     </Weapon3>	
     <Head>
+      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_knight_helmet" />
 
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
@@ -1068,6 +1078,7 @@
       <equipment id="b3_squire_sword_2h"/>
     </Weapon3>		
     <Head>
+      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_commander_helmet" />
 
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
@@ -1130,6 +1141,7 @@
       <equipment id="b3_order_paladin_2h_sword" />	  
     </Weapon3>		
     <Head>
+      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_paladin_helmet" />
 
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
@@ -1191,6 +1203,7 @@
       <equipment id="b3_squire_sword_2h"/>
     </Weapon3>	
     <Head>
+      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_chaplain_helmet" />
 
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
@@ -1252,6 +1265,7 @@
       <equipment id="b3_order_inquisitor_2h_sword" />	  
     </Weapon3>		
     <Head>
+      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_inquisitor_helmet" />
 
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
@@ -1313,6 +1327,7 @@
       <equipment id="b3_order_grand_master_2h_sword" />	  
     </Weapon3>			
     <Head>
+      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_grand_master_helmet" />
 
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
@@ -1374,6 +1389,7 @@
       <equipment id="b3_order_grand_prior_2h_mace" />	  
     </Weapon3>
     <Head>
+      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_grand_prior_helmet" />
 
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
@@ -9172,6 +9188,172 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
+  <ClanClass
+    clan="ART"
+    color1="FF470c0c"
+    color2="FFf4ebe9"
+    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
+    name="Hunter of Arden"
+    mpclassdivision="bre_infantry"
+    id="hunter_of_arden.art">
+    <Weapon0>
+      <equipment id="b3_art_ror_spear" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_art_ror_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_man_mace"/>
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_art_ror_2h_sword"/>
+      <equipment id="null" disablerandomize="true"/>
+    </Weapon3>
+    <Head>
+      <equipment id="b3_bre_art_ror_r1_helmet"/>
+      <equipment id="null" />
+    </Head>
+    <Body>
+      <equipment id="b3_bre_art_ror_r1_torso" />
+    </Body>
+    <Leg>
+      <equipment id="b3_bre_art_ror_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="b3_bre_art_ror_r1_shoulders" />
+    </Cape>
+    <Gloves>
+      <equipment id="b3_bre_art_ror_gauntlets" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="b3_bre_art_ror_r1_horse_armor" cavalryitem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold" />
+      <equipment id="b2_horse_white" />
+      <equipment id="b2_horse_grey" />
+      <equipment id="b2_horse_darkgrey" />
+      <equipment id="b2_horse_black" />
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="ART"
+    color1="FF470c0c"
+    color2="FFf4ebe9"
+    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
+    name="Sergeant of the Hunt"
+    mpclassdivision="bre_infantry"
+    id="sergeant_of_the_hunt.art">
+    <Weapon0>
+      <equipment id="b3_art_ror_spear" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_art_ror_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_man_mace"/>
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_art_ror_2h_sword"/>
+      <equipment id="null" disablerandomize="true"/>
+    </Weapon3>
+    <Head>
+      <equipment id="b3_bre_art_ror_r2_helmet"/>
+    </Head>
+    <Body>
+      <equipment id="b3_bre_art_ror_r2_torso" />
+    </Body>
+    <Leg>
+      <equipment id="b3_bre_art_ror_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="b3_bre_art_ror_r2_shoulders" />
+    </Cape>
+    <Gloves>
+      <equipment id="b3_bre_art_ror_gauntlets" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="b3_bre_art_ror_r2_horse_armor" cavalryitem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold" />
+      <equipment id="b2_horse_white" />
+      <equipment id="b2_horse_grey" />
+      <equipment id="b2_horse_darkgrey" />
+      <equipment id="b2_horse_black" />
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="ART"
+    color1="FF470c0c"
+    color2="FFf4ebe9"
+    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
+    name="Captain of the white boar"
+    mpclassdivision="bre_infantry"
+    id="captain_of_the_white_boar.art">
+    <Weapon0>
+      <equipment id="b3_art_ror_spear" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_art_ror_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_man_mace"/>
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_art_ror_2h_sword"/>
+      <equipment id="null" disablerandomize="true"/>
+    </Weapon3>
+    <Head>
+      <equipment id="b3_bre_art_ror_r3_helmet"/>
+    </Head>
+    <Body>
+      <equipment id="b3_bre_art_ror_r3_torso" />
+    </Body>
+    <Leg>
+      <equipment id="b3_bre_art_ror_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="b3_bre_art_ror_r3_shoulders" />
+    </Cape>
+    <Gloves>
+      <equipment id="b3_bre_art_ror_gauntlets" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="b3_bre_art_ror_r3_horse_armor" cavalryitem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold" />
+      <equipment id="b2_horse_white" />
+      <equipment id="b2_horse_grey" />
+      <equipment id="b2_horse_darkgrey" />
+      <equipment id="b2_horse_black" />
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
   <ClanClass 
     clan="ART"
     color1="FF470c0c"
@@ -15788,6 +15970,126 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
+  <ClanClass
+    clan="PAR"
+    color1="FF0a0610"
+    color2="FF946615"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
+    name="Greyhelm Oathsworn"
+    mpclassdivision="bre_infantry"
+    id="greyhelm_oathsworn.par">
+    <Weapon0>
+      <equipment id="b3_parravon_2h_mace" />
+      <equipment id="b3_parravon_2h_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_parravon_ror_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_parravon_1h_mace" />
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon2>
+    <Head>
+      <equipment id="b3_par_ror_helmet_r1"/>
+    </Head>
+    <Body>
+      <equipment id="b3_par_ror_torso_r1" />
+      <equipment id="b3_par_ror_torso_r1_v2" />
+    </Body>
+    <Leg>
+      <equipment id="b3_par_ror_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="b3_par_ror_coif_r1_2" />
+      <equipment id="b3_par_ror_coif_r1_2_v2" />
+    </Cape>
+    <Gloves>
+      <equipment id="b3_par_ror_gauntlets" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="PAR"
+    color1="FF0a0610"
+    color2="FF946615"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
+    name="Greyhelm Shieldbreaker"
+    mpclassdivision="bre_infantry"
+    id="greyhelm_shieldbreaker.par">
+    <Weapon0>
+      <equipment id="b3_parravon_2h_mace" />
+      <equipment id="b3_parravon_2h_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_parravon_ror_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_parravon_1h_mace" />
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon2>
+    <Head>
+      <equipment id="b3_par_ror_helmet_r2"/>
+    </Head>
+    <Body>
+      <equipment id="b3_par_ror_torso_r2" />
+      <equipment id="b3_par_ror_torso_r2_v2" />
+    </Body>
+    <Leg>
+      <equipment id="b3_par_ror_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="b3_par_ror_coif_r1_2" />
+      <equipment id="b3_par_ror_coif_r1_2_v2" />
+    </Cape>
+    <Gloves>
+      <equipment id="b3_par_ror_gauntlets_plates" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="PAR"
+    color1="FF0a0610"
+    color2="FF946615"
+    banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
+    name="Greyhelm Captain"
+    mpclassdivision="bre_infantry"
+    id="greyhelm_captain.par">
+    <Weapon0>
+      <equipment id="b3_parravon_2h_mace" />
+      <equipment id="b3_parravon_2h_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_parravon_ror_shield" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_parravon_1h_mace" />
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon2>
+    <Head>
+      <equipment id="b3_par_ror_helmet_r3"/>
+    </Head>
+    <Body>
+      <equipment id="b3_par_ror_torso_r3" />
+      <equipment id="b3_par_ror_torso_r3_v2" />
+    </Body>
+    <Leg>
+      <equipment id="b3_par_ror_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="b3_par_ror_shoulder_r3" />
+      <equipment id="b3_par_ror_shoulder_r3_v2" />
+    </Cape>
+    <Gloves>
+      <equipment id="b3_par_ror_gauntlets_plates" />
+    </Gloves>
+  </ClanClass>
   <ClanClass 
     clan="PAR"
     color1="FF0a0610"
@@ -18809,7 +19111,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry"
@@ -18877,7 +19179,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry"
@@ -18949,7 +19251,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry"
@@ -19009,7 +19311,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry"
@@ -19091,7 +19393,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer"
@@ -19153,7 +19455,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer"
@@ -19208,7 +19510,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer"
@@ -19264,7 +19566,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry"
@@ -19335,7 +19637,7 @@
   <ClanClass 
     clan="REO"
     color1="FFbfbfb5"
-    color2="FF86352d"
+    color2="FF520d06"
     banner="1.587.588.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
