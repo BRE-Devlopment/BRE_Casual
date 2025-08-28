@@ -9195,7 +9195,7 @@
     color2="FFf4ebe9"
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Hunter of Arden"
-    mpclassdivision="bre_infantry"
+    mpclassdivision="bre_cavalry"
     id="hunter_of_arden.art">
     <Weapon0>
       <equipment id="b3_art_ror_spear" />
@@ -9251,7 +9251,7 @@
     color2="FFf4ebe9"
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Sergeant of the Hunt"
-    mpclassdivision="bre_infantry"
+    mpclassdivision="bre_cavalry"
     id="sergeant_of_the_hunt.art">
     <Weapon0>
       <equipment id="b3_art_ror_spear" />
@@ -9306,7 +9306,7 @@
     color2="FFf4ebe9"
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Captain of the white boar"
-    mpclassdivision="bre_infantry"
+    mpclassdivision="bre_cavalry"
     id="captain_of_the_white_boar.art">
     <Weapon0>
       <equipment id="b3_art_ror_spear" />
@@ -16084,8 +16084,8 @@
       <equipment id="b3_par_ror_boots" />
     </Leg>
     <Cape>
-      <equipment id="b3_par_ror_shoulder_r3" />
-      <equipment id="b3_par_ror_shoulder_r3_v2" />
+      <equipment id="b3_par_ror_coif_r3" />
+      <equipment id="b3_par_ror_coif_r3_v2" />
     </Cape>
     <Gloves>
       <equipment id="b3_par_ror_gauntlets_plates" />
@@ -16436,9 +16436,9 @@
       <equipment id="b3_kotr_head_5"/>
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
-      <equipment id="b3_squire_coif_1"/>
-      <equipment id="b3_squire_coif_2"/>
-      <equipment id="b3_squire_coif_3"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
