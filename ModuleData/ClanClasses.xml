@@ -22841,43 +22841,31 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
-      <equipment id="b3_gau_kerrant_sword_1h" />
+      <equipment id="b3_gis_duke_sword_1h" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b3_gau_kerrant_sword_2h" />
+      <equipment id="b3_gis_duke_sword_2h" />
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
-      <equipment id="b3_kerrant_head_1"/>
-      <equipment id="b3_kerrant_head_2"/>
-      <equipment id="b3_kerrant_head_3"/>
-
-      <equipment id="b3_squire_coif_1"/>
-      <equipment id="b3_squire_coif_2"/>
-      <equipment id="b3_squire_coif_3"/>
-
-      <equipment id="b3_squire_helmet_1_2"/>
-      <equipment id="b3_squire_helmet_2_2"/>
-      <equipment id="b3_squire_helmet_1"/>
-      <equipment id="b3_squire_helmet_2"/>
-      <equipment id="b3_squire_helmet_colored_1"/>
-      <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_grail_head_gis"/>
       <equipment id="null"/>
     </Head>
+    <Cape>
+      <equipment id="b3_grail_cape_gis"/>
+    </Cape>
     <Body>
-      <equipment id="b3_kerrant_body_v1_theu"/>
-      <equipment id="b3_kerrant_body_v2_theu"/>
-      <equipment id="b3_kerrant_body_v3_theu"/>
+      <equipment id="b3_grail_body_gis"/>
     </Body>
     <Leg>
-      <equipment id="b3_kerrant_leg_dark"/>
+      <equipment id="b3_grail_leg_gis"/>
     </Leg>
     <Gloves>
-      <equipment id="b3_kerrant_gloves_dark"/>
+      <equipment id="b3_grail_gloves_gis"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_kerrant_horse_theu" cavalryitem="true"/>
+      <equipment id="b3_kotr_horse_gis" cavalryitem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
