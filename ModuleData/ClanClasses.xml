@@ -18284,6 +18284,8 @@
       <equipment id="b2_man_sword"/>
     </Weapon2>
     <Head>
+      <equipment id="b2_spiked_helmet_0"/>
+      <equipment id="b2_spiked_helmet_1"/>
       <equipment id="b2_flattop_helmet_0"/>
       <equipment id="b2_flattop_helmet_1"/>
       <equipment id="b2_kettle_helmet_0"/>
@@ -18358,6 +18360,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Head>
+      <equipment id="b2_spiked_mail"/>
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_faceplate_mail"/>
       <equipment id="b2_kettle_mail_0"/>
@@ -18365,13 +18368,13 @@
       <equipment id="b2_kettle_mail_2"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
-
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
       <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
     <Body>
+      <equipment id="b2_templar_0"/>
       <equipment id="b2_templar_1"/>
       <equipment id="b2_templar_2"/>
       <equipment id="b2_templar_3"/>
@@ -18420,7 +18423,6 @@
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
-      <equipment id="b2_spiked_mail"/>
       <equipment id="sa_vlandian_helm_with_faceplate"/>
       <equipment id="sa_vlandian_helm_with_faceplate_painted"/>
       <equipment id="sa_vlandian_helm_with_faceplate_brass"/>
@@ -18434,6 +18436,7 @@
       <equipment id="b2_kettle_mail_2"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b2_spiked_mail"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
       <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
@@ -18557,6 +18560,8 @@
       <equipment id="b2_peasant_dagger"/>
     </Weapon2>
     <Head>
+      <equipment id="b2_spiked_helmet_0"/>
+      <equipment id="b2_spiked_helmet_1"/>
       <equipment id="b2_flattop_helmet_0"/>
       <equipment id="b2_flattop_helmet_1"/>
       <equipment id="b2_norman_helmet_0"/>
@@ -18665,6 +18670,8 @@
       <equipment id="b2_man_sword" />
     </Weapon2>
     <Head>
+      <equipment id="b2_spiked_helmet_0"/>
+      <equipment id="b2_spiked_helmet_1"/>
       <equipment id="b2_flattop_helmet_0"/>
       <equipment id="b2_flattop_helmet_1"/>
       <equipment id="b2_kettle_helmet_0"/>
@@ -18965,6 +18972,8 @@
       <equipment id="b2_man_sword"/>
     </Weapon2>
     <Head>
+      <equipment id="b2_spiked_helmet_0"/>
+      <equipment id="b2_spiked_helmet_1"/>
       <equipment id="b2_flattop_helmet_0"/>
       <equipment id="b2_flattop_helmet_1"/>
       <equipment id="b2_kettle_helmet_0"/>
@@ -19039,6 +19048,7 @@
       <equipment id="b2_sergeant_sword"/>
     </Weapon2>
     <Head>
+      <equipment id="b2_spiked_mail"/>
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_faceplate_mail"/>
       <equipment id="b2_kettle_mail_0"/>
@@ -19046,13 +19056,13 @@
       <equipment id="b2_kettle_mail_2"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
-
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
       <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
     <Body>
+      <equipment id="b2_templar_0"/>
       <equipment id="b2_templar_1"/>
       <equipment id="b2_templar_2"/>
       <equipment id="b2_templar_3"/>
@@ -19101,7 +19111,6 @@
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
-      <equipment id="b2_spiked_mail"/>
       <equipment id="sa_vlandian_helm_with_faceplate"/>
       <equipment id="sa_vlandian_helm_with_faceplate_painted"/>
       <equipment id="sa_vlandian_helm_with_faceplate_brass"/>
@@ -19115,6 +19124,7 @@
       <equipment id="b2_kettle_mail_2"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
+      <equipment id="b2_spiked_mail"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
       <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
@@ -19238,6 +19248,8 @@
       <equipment id="b2_peasant_dagger"/>
     </Weapon2>
     <Head>
+      <equipment id="b2_spiked_helmet_0"/>
+      <equipment id="b2_spiked_helmet_1"/>
       <equipment id="b2_flattop_helmet_0"/>
       <equipment id="b2_flattop_helmet_1"/>
       <equipment id="b2_norman_helmet_0"/>
@@ -19346,6 +19358,8 @@
       <equipment id="b2_man_sword" />
     </Weapon2>
     <Head>
+      <equipment id="b2_spiked_helmet_0"/>
+      <equipment id="b2_spiked_helmet_1"/>
       <equipment id="b2_flattop_helmet_0"/>
       <equipment id="b2_flattop_helmet_1"/>
       <equipment id="b2_kettle_helmet_0"/>
@@ -19729,9 +19743,12 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
+      <equipment id="b2_templar_0"/>
       <equipment id="b2_templar_1"/>
       <equipment id="b2_templar_2"/>
       <equipment id="b2_templar_3"/>
@@ -19780,7 +19797,6 @@
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
-      <equipment id="b2_spiked_mail"/>
       <equipment id="sa_vlandian_helm_with_faceplate"/>
       <equipment id="sa_vlandian_helm_with_faceplate_painted"/>
       <equipment id="sa_vlandian_helm_with_faceplate_brass"/>
@@ -19796,7 +19812,9 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="sa_coat_of_plates1_c"/>
@@ -19971,12 +19989,11 @@
       <equipment id="b2_peasant_dagger"/>
     </Weapon2>
     <Head>
-      <equipment id="b2_spiked_mail"/>
       <equipment id="b2_flattop_mail"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -20411,6 +20428,7 @@
       <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
     <Body>
+      <equipment id="b2_templar_0"/>
       <equipment id="b2_templar_1"/>
       <equipment id="b2_templar_2"/>
       <equipment id="b2_templar_3"/>
