@@ -22851,7 +22851,7 @@
     id="knight_errant.gis">
     <Weapon0>
       <equipment id="b2_lance_gis"/>
-      <equipment id="b3_kerrant_lance_gis" disablerandomize="true"/>
+      <equipment id="b3_kotr_lance_gis" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_gis"/>
