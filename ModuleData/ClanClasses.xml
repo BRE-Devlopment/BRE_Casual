@@ -17648,8 +17648,8 @@ Every item group has to have a last entry with:
     mpclassdivision="bre_cavalry"
     id="knight_errant.ana">
     <Weapon0>
-      <equipment id="b2_lance_ana"/>
-      <equipment id="b3_kerrant_lance_bas" disablerandomize="true"/>
+      <equipment id="b2_lance_bas"/>
+      <equipment id="b3_kerrant_lance_ana" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_ana"/>
