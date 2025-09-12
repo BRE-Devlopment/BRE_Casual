@@ -21573,7 +21573,7 @@
       <equipment id="b3_kerrant_gloves_dark"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_kerrant_horse_gau" cavalryitem="true"/>
+      <equipment id="b3_kotr_horse_gau" cavalryitem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
@@ -22234,7 +22234,7 @@
       <equipment id="b3_kerrant_gloves_dark"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_kerrant_horse_theu" cavalryitem="true"/>
+      <equipment id="b3_kotr_horse_theu" cavalryitem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>

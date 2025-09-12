@@ -2,7 +2,7 @@
 <Items>
   <!--BAHAMOTHS-->
   <!--HEAD-->
-  <Item id="ba_closehelm" name="Plate Close Helmet" subtype="head_armor" mesh="ba_closehelm" culture="Culture.vlandia" weight="0" ppearance="1" Type="HeadArmor">
+  <Item id="ba_closehelm" name="Plate Close Helmet" subtype="head_armor" mesh="ba_closehelm" culture="Culture.vlandia" weight="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
       <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
     </ItemComponent>
