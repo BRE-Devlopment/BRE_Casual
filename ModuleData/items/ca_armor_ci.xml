@@ -1,22 +1,2494 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Items>
-  <!--BODY-->
-  <Item 
-    multiplayer_item="true"
-    id="ci_coat_of_plates1_c" 
-    name="Coat of Plates" 
-    mesh="bre_coat_of_plates_ci"
-    subtype="body_armor" 
-    culture="Culture.neutral_culture" 
-    weight="0" 
-    appearance="3" 
-    Type="BodyArmor">
+  <!-- #region Helmets -->
+  <Item id="ci_armet" name="Helmet Hispano 01" subtype="head_armor" mesh="armet"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor 
-        body_armor="0" 
-        covers_body="true" 
-        modifier_group="chain"
-        material_type="Chainmail"/>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_filipogh" name="Helmet Hispano 03" subtype="head_armor" mesh="filipogh"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="none"
+        modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_casco_nolicus" name="Helmet Nolicus" subtype="head_armor" mesh="casco_nolicus"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_casco_sutrupa" name="Helmet Sutrupa" subtype="head_armor" mesh="casco_sutrupa"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_askz2" name="Helmet Askz" subtype="head_armor" mesh="hp_askz2"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="ci_butterlord1" name="Helmet Rey 01" subtype="head_armor" mesh="sa_butterlord1"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_corona_alecks" name="Helmet Rey 02" subtype="head_armor" mesh="coronasiralecks"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="none"
+        modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_casco_corona_alecks" name="Helmet Rey 03" subtype="head_armor" mesh="casco_siralecks"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_casco_dralion" name="Helmet Dralion" subtype="head_armor" mesh="dralionhelmet"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="ci_crowned_vlandian_helm_with_visor" name="Helmet Dume" subtype="head_armor"
+    mesh="crowned_vlandian_helm_with_visor" culture="Culture.neutral_culture" weight="0"
+    appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="ci_butterlord3" name="Helmet Traese" subtype="head_armor" mesh="sa_butterlord3"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_antonito" name="Chaperón Antoñito el terrorista" subtype="head_armor" mesh="antoñito"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_antonio" name="Casco Antoñito" subtype="head_armor" mesh="antonio"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_pacocasco" name="Casco Paco" subtype="head_armor" mesh="pacocasco"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_greathelmetjoanisi_cloth_1" name="Casco Joanisi" subtype="head_armor"
+    mesh="greathelmetjoanisi_cloth_1" culture="Culture.neutral_culture" weight="0" appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_lishman_helmet" name="Helmet Lishman" subtype="head_armor" mesh="lishman_helmet"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" covers_head="true" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_manu_helmet" name="Casco Manu" subtype="head_armor" mesh="casco_manu"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" covers_head="false" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_casco_camarada" name="Capacete Camarada" subtype="head_armor" mesh="casco_camarada"
+    culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="omey_helmet_b_closed" name="Mameluco Helmet 1" mesh="omey_helmet_b_closed"
+    culture="Culture.aserai" subtype="head_armor" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="omey_helmet_b_leather" name="Mameluco Helmet 2" mesh="omey_helmet_b_leather"
+    culture="Culture.aserai" subtype="head_armor" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="omey_helmet_b_open" name="Mameluco Helmet 3" mesh="omey_helmet_b_open"
+    culture="Culture.aserai" subtype="head_armor" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_helmet1" name="Casco CI 1" subtype="head_armor" mesh="cts_spanish_helmet1"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_helmet2" name="Casco CI 2" subtype="head_armor" mesh="cts_spanish_helmet2"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_helmet3" name="Casco CI 3" subtype="head_armor" mesh="cts_spanish_helmet3"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_helmet4" name="Casco CI 4" subtype="head_armor" mesh="cts_spanish_helmet4"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_helmet5" name="Casco CI 5" subtype="head_armor" mesh="cts_spanish_helmet5"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_helmet_6" name="Casco CI 6" subtype="head_armor" mesh="cts_spanish_helmet_6"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_helmet_7" name="Casco CI 7" subtype="head_armor" mesh="cts_spanish_helmet_7"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_helmet_8" name="Casco CI 8" subtype="head_armor" mesh="cts_spanish_helmet_8"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_helmet_9" name="Casco CI 9" subtype="head_armor" mesh="cts_spanish_helmet_9"
+    culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_helmet_10" name="Casco CI 10" subtype="head_armor"
+    mesh="cts_spanish_helmet_10" culture="Culture.neutral_culture" weight="0" appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_helmet_officer" name="Casco oficial Vieja Guardia" subtype="head_armor"
+    mesh="cts_spanish_helmet_officer" culture="Culture.neutral_culture" weight="0" appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_helmet_veteran" name="Casco Vieja Guardia" subtype="head_armor"
+    mesh="cts_spanish_helmet_veteran" culture="Culture.neutral_culture" weight="0" appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="os_mario_helmet" name="Casco Mario" subtype="head_armor" mesh="mh"
+    culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="os_capucha_santiago" name="Capucha Fraile" subtype="head_armor"
+    mesh="os_capucha_santiago" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type3"
+        modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="os_casco_cruzado" name="Casco Cruzado" subtype="head_armor" mesh="casco_cruzado"
+    culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="os_capuchamallabajada" name="Capucha malla bajada" subtype="head_armor"
+    mesh="os_capuchamallabajada" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="none"
+        modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="os_capuchamalla_benda" name="Capucha malla con benda" subtype="head_armor"
+    mesh="os_capuchamalla-benda" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="os_cotamalla" name="Capucha malla" subtype="head_armor" mesh="os_cotamalla"
+    culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="os_sombrero_inquisidor" name="Sombrero inquisidor" subtype="head_armor"
+    mesh="sombrero_inquisidor" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="type1"
+        modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_toledo_spanish_helmet1" name="Casco Toledo 1" subtype="head_armor"
+    mesh="cts_toledo_spanish_helmet1" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_toledo_spanish_helmet2" name="Casco Toledo 2" subtype="head_armor"
+    mesh="cts_toledo_spanish_helmet2" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_toledo_spanish_helmet3" name="Casco Toledo 3" subtype="head_armor"
+    mesh="cts_toledo_spanish_helmet3" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_toledo_spanish_helmet4" name="Casco Toledo 4" subtype="head_armor"
+    mesh="cts_toledo_spanish_helmet4" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_toledo_spanish_helmet5" name="Casco Toledo 5" subtype="head_armor"
+    mesh="cts_toledo_spanish_helmet5" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="casco_toledo_peon" name="Capacete Peon Toledo" subtype="head_armor"
+    mesh="casco_toledo_peon" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="casco_toledo_espadero" name="Capacete Espadero Toledo" subtype="head_armor"
+    mesh="casco_toledo_espadero" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="casco_toledo_espadero_gorjal" name="Capacete Espadero Gorjal bajado Toledo"
+    subtype="head_armor" mesh="casco_toledo_espadero_gorjal" culture="Culture.neutral_culture"
+    weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="casco_toledo_custodio" name="Capacete Custodio Toledo" subtype="head_armor"
+    mesh="casco_toledo_custodio" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="casco_toledo_custodio_gorjal" name="Capacete Custodio Gorjal bajado Toledo"
+    subtype="head_armor" mesh="casco_toledo_custodio_gorjal" culture="Culture.neutral_culture"
+    weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="casco_toledo_suboficial" name="Capacete Suboficial Toledo" subtype="head_armor"
+    mesh="casco_toledo_suboficial" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="casco_toledo_suboficial_gorjal" name="Capacete Suboficial Gorjal bajado Toledo"
+    subtype="head_armor" mesh="casco_toledo_suboficial_gorjal" culture="Culture.neutral_culture"
+    weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="casco_toledo_oficial" name="Capacete Oficial Toledo" subtype="head_armor"
+    mesh="casco_toledo_oficial" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="casco_toledo_oficial_gorjal" name="Capacete Oficial Gorjal bajado Toledo"
+    subtype="head_armor" mesh="casco_toledo_oficial_gorjal" culture="Culture.neutral_culture"
+    weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+  <Item id="cts_spanish_kinguard_bascinet" name="Bascinet Guardia Real" subtype="head_armor"
+    mesh="cts_spanish_kinguard_bascinet" culture="Culture.neutral_culture" weight="0" appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="cts_spanish_kinguard_bascinet1" name="Bascinet Guardia Real 2" subtype="head_armor"
+    mesh="cts_spanish_kinguard_bascinet1" culture="Culture.neutral_culture" weight="0"
+    appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_cav_bascinet1" name="Capucha malla caballería" subtype="head_armor"
+    mesh="ci_cav_bascinet1" culture="Culture.neutral_culture" weight="0" appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_cav_bascinet2" name="Bascinet medio caballería" subtype="head_armor"
+    mesh="ci_cav_bascinet2" culture="Culture.neutral_culture" weight="0" appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="ci_cav_bascinet3" name="Bascinet cerrado caballería" subtype="head_armor"
+    mesh="ci_cav_bascinet3" culture="Culture.neutral_culture" weight="0" appearance="1"
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="cts_spanish_king_helm" name="Yelmo astado real" subtype="head_armor"
+    mesh="cts_spanish_king_helm" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all"
+        beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <!-- #endregion -->
+
+  <!-- #region Capes -->
+  <Item id="os_capasantiago" name="Cape Santiago 01" culture="Culture.neutral_culture" mesh="capasantiago" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="os_capasantiago2" name="Cape Santiago 02" culture="Culture.neutral_culture" mesh="capita" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="os_nueva_capasantiago" name="Capa Santiago Larga" culture="Culture.neutral_culture" mesh="capa-santiago" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="os_nueva_capasantiago2" name="Capa Santiago Corta" culture="Culture.neutral_culture" mesh="capa-santiago-corta" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="os_capa_santiago_inquisidor" name="Capa inquisidor larga" culture="Culture.neutral_culture" mesh="capa-santiago_inquisidor" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="os_capa_santiago_corta_inquisidor" name="Capa inquisidor corta" culture="Culture.neutral_culture" mesh="capa-santiago-corta_inquisidor" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="os_collar_inquisidor" name="Rosario" culture="Culture.neutral_culture" mesh="collar_inquisidor" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_spain_shoulder_cloth" name="Hombreras CI cloth" culture="Culture.neutral_culture" mesh="cts_spain_shoulder_cloth" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_spain_shoulder_cloth1" name="Hombreras CI cloth 1" culture="Culture.neutral_culture" mesh="cts_spain_shoulder_cloth1" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_spain_shoulder_cloth2" name="Hombreras CI cloth 2" culture="Culture.neutral_culture" mesh="cts_spain_shoulder_cloth2" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_spain_shoulder_metal_cloth" name="Hombreras CI metal cloth" culture="Culture.neutral_culture" mesh="cts_spain_shoulder_metal_cloth" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_spain_shoulder_metal_cloth1" name="Hombreras CI metal cloth 1" culture="Culture.neutral_culture" mesh="cts_spain_shoulder_metal_cloth1" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_spanish_plated_shoulder_ptrotection" name="Hombreras CI plated shoulder protection" culture="Culture.neutral_culture" mesh="cts_spanish_plated_shoulder_ptrotection" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_spanish_plated_shoulder_ptrotection1" name="Hombreras CI shoulder protection 1" culture="Culture.neutral_culture" mesh="cts_spanish_plated_shoulder_ptrotection1" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_spanish_square_shoulder_protection" name="Hombreras CI square shoulder protection" culture="Culture.neutral_culture" mesh="cts_spanish_square_shoulder_protection " subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_santiago_spanish_shoulder_protection" name="Hombreras Santiago 1" culture="Culture.neutral_culture" mesh="cts_santiago_spanish_shoulder_protection" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_santiago_spanish_shoulder_protection2" name="Hombreras Santiago 2" culture="Culture.neutral_culture" mesh="cts_santiago_spanish_shoulder_protection2" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_santiago_spanish_shoulder_protection3" name="Hombreras Santiago 3" culture="Culture.neutral_culture" mesh="cts_santiago_spanish_shoulder_protection3" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_santiago_spanish_shoulder_protection4" name="Hombreras Santiago 4" culture="Culture.neutral_culture" mesh="cts_santiago_spanish_shoulder_protection4" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_santiago_spanish_shoulder_protection5" name="Hombreras Santiago 5" culture="Culture.neutral_culture" mesh="cts_santiago_spanish_shoulder_protection5" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="os_collar" name="Hombreras Santiago 5" culture="Culture.neutral_culture" mesh="collar" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_toledo_spain_shoulder_cloth2" name="Hombreras Toledo 2" culture="Culture.neutral_culture" mesh="cts_toledo_spain_shoulder_cloth2" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_toledo_spain_shoulder_metal_cloth1" name="Hombreras Toledo 4" culture="Culture.neutral_culture" mesh="cts_toledo_spain_shoulder_metal_cloth1" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_toledo_spanish_plated_shoulder_ptrotection" name="Hombreras Toledo 5" culture="Culture.neutral_culture" mesh="cts_toledo_spanish_plated_shoulder_ptrotection" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_toledo_spanish_square_shoulder_protection" name="Hombreras Toledo 6" culture="Culture.neutral_culture" mesh="cts_toledo_spanish_square_shoulder_protection" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="toledo_capa_hispano" name="Capa negra Hispano" culture="Culture.neutral_culture" mesh="toledo_capa_hispano" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id="cts_castile_spanish_shoulder_cloth" name="Castile shoulders cloth" culture="Culture.neutral_culture" mesh="cts_castile_spanish_shoulder_cloth" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_castile_spanish_shoulder_cloth2" name="Castile shoulders cloth" culture="Culture.neutral_culture" mesh="cts_castile_spanish_shoulder_cloth2" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_castile_spanish_shoulder_metal_cloth" name="Castile shoulders metal cloth" culture="Culture.neutral_culture" mesh="cts_castile_spanish_shoulder_metal_cloth" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_castile_spanish_shoulder_metal_cloth1" name="Castile shoulders metal cloth" culture="Culture.neutral_culture" mesh="cts_castile_spanish_shoulder_metal_cloth1" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_castile_spanish_shoulder_protection" name="Castile shoulders protection" culture="Culture.neutral_culture" mesh="cts_castile_spanish_shoulder_protection" subtype="body_armor" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_spanish_kinguard_cape_omey" name="Capa Guardia Real Omey" mesh="cts_spanish_kinguard_cape_omey" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_spanish_kinguard_cape_santiago" name="Capa Guardia Real Santiago" mesh="cts_spanish_kinguard_cape_santiago" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_spanish_kinguard_cape_termito" name="Capa Guardia Real Zumito" mesh="cts_spanish_kinguard_cape_termito" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_spanish_kinguard_cape_toledo" name="Capa Guardia Real Toledo" mesh="cts_spanish_kinguard_cape_toledo" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_spanish_kinguard_cape_castile" name="Capa Guardia Real Castilla" mesh="cts_spanish_kinguard_cape_castile" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_spanish_kinguard_cape_ci" name="Capa Guardia Real" mesh="cts_spanish_kinguard_cape_ci" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="ci_arq_capucha" name="Capucha arquero" mesh="ci_arq_capucha" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="ci_mochila_escudero" name="Mochila escudero" mesh="mochila_escudero" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_shoulder_spanish_king" name="Iberian King armored cape" mesh="cts_shoulder_spanish_king" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_shoulder_spanish_king1" name="Iberian king armored shoulder plates" mesh="cts_shoulder_spanish_king1" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+  <!-- #endregion -->
+
+  <!-- #region Body armor -->
+  <Item id="os_vlandia_leather_armor" name="Pechera Iniciado Santiago" mesh="vlandia_leather_armor" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="os_mail_with_tabbard2" name="Pechera Infante Santiago" mesh="santiago_mail_with_tabbard2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="ci_of_plates1_c_slim" name="Plate CI 01" mesh="ci_of_plates1_c_slim" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="pt_armadura_toledo_slim" name="Coat of Plates Toledo with Banner" mesh="armadura_toledo_slim" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="pt_armadura_toledo_cuadros_slim" name="Coat of Plates Toledo" mesh="armadura_toledo_cuadros_slim" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="pt_tabard_with_platea" name="Pechera Hiispano 02" mesh="filipino_vs_tabard_with_platea" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id ="omey_civil_a" name="Pijama de Elite Omeya" mesh="omey_civil_a" culture="Culture.neutral_culture" subtype="body_armor" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" has_gender_variations="false" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id ="omey_chain_plate_a" name="Mameluco Armor 1" mesh="omey_chain_plate_a" culture="Culture.neutral_culture" subtype="body_armor" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id ="omey_chain_plate_b" name="Mameluco Armor 2" mesh="omey_chain_plate_b" culture="Culture.neutral_culture" subtype="body_armor" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	
+	<Item id ="omey_plate_a" name="Mameluco Armor 3" mesh="omey_plate_a" culture="Culture.neutral_culture" subtype="body_armor" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_spanish_levi" name="CI Armor levi" mesh="cts_spanish_levi" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_spanish_armor_tier2" name="CI Armor tier 2" mesh="cts_spanish_armor_tier2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_spanish_armor_tier3" name="CI Armor tier 3" mesh="cts_spanish_armor_tier3" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_spanish_armor_tier4" name="CI Armor tier 4" mesh="cts_spanish_armor_tier4" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_spanish_armor_tier5" name="CI Armor tier 5" mesh="cts_spanish_armor_tier5" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_aguila_spanish_armor_tier5_2" name="CI Armor tier 5" mesh="cts_aguila_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_patron3_spanish_armor_tier5_2" name="CI Armor tier 5" mesh="cts_patron3_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_patron4_spanish_armor_tier5_2" name="CI Armor tier 5" mesh="cts_patron4_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_armor_spanish_veteran" name="Armadura Vieja Guardia CI 1" mesh="cts_armor_spanish_veteran" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_armor_spanish_veteran1" name="Armadura Vieja Guardia CI 2" mesh="cts_armor_spanish_veteran1" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_armor_spanish_veteran2" name="Armadura Vieja Guardia CI 3" mesh="cts_armor_spanish_veteran2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_armor_spanish_veteran3" name="Armadura Vieja Guardia CI 4" mesh="cts_armor_spanish_veteran3" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_armor_spanish_veteran4" name="Armadura Vieja Guardia CI 5" mesh="cts_armor_spanish_veteran4" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_armor_spanish_veteran5" name="Armadura Vieja Guardia CI 6" mesh="cts_armor_spanish_veteran5" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_santiago_spanish_levi" name="Santiago Levy Armor" mesh="cts_santiago_spanish_levi" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_santiago_spanish_armor_tier2" name="Santiago Armor Tier 2" mesh="cts_santiago_spanish_armor_tier2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_santiago_spanish_armor_tier3" name="Santiago Armor Tier 3" mesh="cts_santiago_spanish_armor_tier3" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_santiago_spanish_armor_tier4" name="Santiago Armor Tier 4" mesh="cts_santiago_spanish_armor_tier4" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_santiago_spanish_armor_tier5_2" name="Santiago Armor Tier 5" mesh="cts_santiago_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_santiago_spanish_armor_tier5_3" name="Santiago Armor Tier 5" mesh="cts_santiago_spanish_armor_tier5_3" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_santiago_spanish_armor_inquisidor" name="Tabardo inquisidor" mesh="cts_santiago_spanish_armor_inquisidor" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_santiago_spanish_armor_inquisidor" name="Tabardo inquisidor" mesh="cts_santiago_spanish_armor_inquisidor" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_toledo_spanish_levi" name="Toledo Levy Armor" mesh="cts_toledo_spanish_levi" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_toledo_spanish_armor_tier2" name="Toledo Armor Tier 2" mesh="cts_toledo_spanish_armor_tier2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_toledo_spanish_armor_tier3" name="Toledo Armor Tier 3" mesh="cts_toledo_spanish_armor_tier3" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_toledo_spanish_armor_tier4" name="Toledo Armor Tier 4" mesh="cts_toledo_spanish_armor_tier4" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_toledo_spanish_armor_tier4_2" name="Toledo Armor Suboficial" mesh="cts_toledo_spanish_armor_tier4_2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_toledo_spanish_armor_tier5_2" name="Toledo Armor Tier 5" mesh="cts_toledo_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_toledo_ofi_spanish_armor_tier5_2" name="Toledo Armor Tier 5 Officer" mesh="cts_toledo_ofi_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_toledo_peon_spanish_armor_tier2" name="Toledo Armor Peon Tier 2" mesh="cts_toledo_peon_spanish_armor_tier2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_toledo_espadero_spanish_armor_tier2" name="Toledo Armor Espadero Tier 2" mesh="cts_toledo_espadero_spanish_armor_tier2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_castile_spanish_levi" name="Castile Levy Armor" mesh="cts_castile_spanish_levi" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_castile_spanish_armor_tier2" name="Castile Armor Tier 2" mesh="cts_castile_spanish_armor_tier2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_castile_spanish_armor_tier3" name="Castile Armor Tier 3" mesh="cts_castile_spanish_armor_tier3" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_castile_spanish_armor_tier4" name="Castile Armor Tier 4" mesh="cts_castile_spanish_armor_tier4" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_castile_spanish_armor_tier5" name="Castile Armor Tier 5" mesh="cts_castile_spanish_armor_tier5" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_castile_spanish_armor_tier5_2" name="Castile Armor Tier 5" mesh="cts_castile_spanish_armor_tier5_2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="cts_spanish_kinguard_armor" name="Armadura Guardia Real" mesh="cts_spanish_kinguard_armor" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="ci_cav_gambeson1" name="Gambesón explorador" mesh="ci_cav_gambeson1" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="cloth" material_type="Cloth" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="ci_cav_gambeson2" name="Gambesón jinete" mesh="ci_cav_gambeson2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+	<Item id="ci_cav_gambeson3" name="Gambesón caballero" mesh="ci_cav_gambeson3" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<Item id="cts_spanish_king_armor" name="Iberian king plate armor" mesh="cts_spanish_king_armor" subtype="body_armor" culture="Culture.neutral_culture" weight="0" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" has_gender_variations="false"/>
+		</ItemComponent>
+	</Item>
+  <!-- #endregion -->
+
+  <!-- #region Gloves -->
+  <Item id="cts_spanish_chainmail_glove" name="Guante CI chainmail" mesh="cts_spanish_chainmail_glove" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HandArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_spanish_leather_glove" name="Guante CI leather" mesh="cts_spanish_leather_glove" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HandArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Leather" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_spanish_plated_gloves" name="Guante CI plated" mesh="cts_spanish_plated_gloves" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HandArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+
+	<Item id="cts_spanish_king_gloves" name="Iberian king plate gauntlets" mesh="cts_spanish_king_gloves" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HandArmor">
+		<ItemComponent>
+			<Armor body_armor="0" leg_armor="0" arm_armor="0" covers_hands="true" modifier_group="plate" material_type="Plate" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+  <!-- #endregion -->
+
+  <!-- #region Boots -->
+  <Item id="cts_spanish_chainmail_boots" name="CI boots chainmail" mesh="cts_spanish_chainmail_boots" culture="Culture.neutral_culture" weight="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+  <Item id="cts_spanish_leather_boots" name="CI boots leather" mesh="cts_spanish_leather_boots" culture="Culture.neutral_culture" weight="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+  <Item id="cts_spanish_plated_boots" name="CI boots plated" mesh="cts_spanish_plated_boots" culture="Culture.neutral_culture" weight="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+	<Item id="cts_spanish_kinguard_boots" name="Botas Guardia Real" mesh="cts_spanish_kinguard_boots" culture="Culture.neutral_culture" weight="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+	<Item id="ci_cav_pantalones1" name="Botas jinete" mesh="ci_cav_pantalones1" culture="Culture.neutral_culture" weight="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+  <Item id="ci_cav_pantalones2" name="Botas caballero" mesh="ci_cav_pantalones2" culture="Culture.neutral_culture" weight="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="cloth" material_type="Cloth" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+	<Item id="cts_spanish_king_boots" name="Iberian king plated greaves" mesh="cts_spanish_king_boots" culture="Culture.neutral_culture" weight="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="0" covers_legs="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
   </Item>
+  <!-- #endregion -->
+
+  <!-- #region Shields -->
+	<Item
+		multiplayer_item="true"
+		id="santiago_shield"
+		name="Santiago Shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="ci_santiagoshield"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_shield_toledo"
+		name="Escudo Toledo"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="ci_shield_toledo"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudodralion"
+		name="Dralion Shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="dralion_heater_shield_c"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+  <Item
+		multiplayer_item="true"
+		id="ci_escudo_recluta_ci"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_recluta_ci"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_soldado_ci"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_soldado_ci"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_veterano1_ci"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_veterano1_ci"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudoveterano2_ci"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudoveterano2_ci"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_oficial_ci"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_oficial_ci"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="os_escudo_recluta_santiago"
+		name="Escudo Santiago"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_recluta_santiago"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="os_escudo_iniciado_santiago"
+		name="Escudo iniciado Santiago"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_iniciado_santiago"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="os_escudo_soldado_santiago"
+		name="Escudo Santiago"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_soldado_santiago"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="os_escudo_veterano1_santiago"
+		name="Escudo Santiago"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_veterano1_santiago"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="os_escudoveterano2_santiago"
+		name="Escudo Santiago"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudoveterano2_santiago"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="os_escudo_oficial_santiago"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_oficial_santiago"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="pt_escudo_recluta_toledo"
+		name="Escudo Toledo"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_recluta_toledo"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="pt_escudo_soldado_toledo"
+		name="Escudo Toledo"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_soldado_toledo"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="pt_escudo_veterano1_toledo"
+		name="Escudo Toledo"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_veterano1_toledo"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="pt_escudoveterano2_toledo"
+		name="Escudo Toledo"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudoveterano2_toledo"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="pt_escudo_oficial_toledo"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_oficial_toledo"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_subofi"
+		name="Escudo jinete CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_subofi"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_oficial"
+		name="Escudo oficial caballería CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_oficial"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_explorador"
+		name="Escudo explorador CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_explorador"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+  <Item
+		multiplayer_item="true"
+		id="ci_escudo_oficial_castile"
+		name="Castile leadership shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_oficial_castile"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudoveterano2_castile"
+		name="Castile oficial shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudoveterano2_castile"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_veterano1_castile"
+		name="Castile veteran shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_veterano1_castile"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_soldado_castile"
+		name="Castile shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_soldado_castile"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_recluta_castile"
+		name="Castile levy shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_recluta_castile"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+  <Item
+		id="cts_spanish_king_shield"
+		name="{=OM9achAa}Iberian royal shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="cts_spanish_king_shield"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		appearance="0.7"
+		Type="Shield"
+		item_holsters="shield_kite:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,0,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,-15.0,220.00"
+				physics_material="wood_shield"
+				weapon_length="105"
+				center_of_mass="0.0,0.05,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+  <!-- #endregion -->
+
+	<!-- #region Native items -->
+	<!-- Helmet-->
+	<Item id="sp_kettle_helmet_leather" name="Kettle Helmet with Leather" mesh="kettle_helmet_leather" culture="Culture.neutral_culture" weight="0" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+		</ItemComponent>
+		<Flags />
+	</Item>
+
+	<!-- Capes -->
+  <Item id="sp_aserai_shoulder_a" name="Shawl" mesh="aserai_shoulder_a" culture="Culture.neutral_culture" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+
+  <Item id="sp_battania_cloak_a" name="Simple Cape" mesh="battania_cloak_a" culture="Culture.neutral_culture" weight="0" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="0" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	<!-- #endregion-->
 </Items>

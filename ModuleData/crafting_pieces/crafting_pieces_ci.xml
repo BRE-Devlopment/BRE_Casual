@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CraftingPieces>
+  <CraftingPiece
+    id="aloevera_blade"
+    name="Hoja espada ceremonias"
+    tier="4"
+    piece_type="Blade"
+    mesh="aloevera_blade"
+    culture="Culture.vlandia"
+    length="99"
+    weight="0.75">
+    <BladeData
+      stack_amount="3"
+      physics_material="metal_weapon"
+      body_name="bo_sword_one_handed">
+      <Thrust
+        damage_type="Pierce"
+        damage_factor="3" />
+      <Swing
+        damage_type="Cut"
+        damage_factor="4.1" />
+    </BladeData>
+    <Materials>
+      <Material
+        id="Iron5"
+        count="4" />
+    </Materials>
+  </CraftingPiece>
+
+  <CraftingPiece
+    id="aloevera_guard_low"
+    name="Guarda espada ceremonias"
+    tier="5"
+    piece_type="Guard"
+    mesh="aloevera_guard_low"
+    culture="Culture.vlandia"
+    length="5.89"
+    weight="0.10">
+    <BuildData
+      next_piece_offset="40" />
+    <StatContributions
+      armor_bonus="0" />
+    <Materials>
+      <Material
+        id="Iron5"
+        count="1" />
+    </Materials>
+  </CraftingPiece>
+
+  <CraftingPiece
+    id="aloevera_grip"
+    name="Mango espada ceremonias"
+    tier="4"
+    piece_type="Handle"
+    mesh="aloevera_grip"
+    culture="Culture.vlandia"
+    length="30"
+    weight="0.2"
+    item_holster_pos_shift="0,0,-0.02">
+    <BuildData
+      piece_offset="-6.75"
+      previous_piece_offset="13.5" />
+    <Materials>
+      <Material
+        id="Iron2"
+        count="1" />
+    </Materials>
+  </CraftingPiece>
+
+  <CraftingPiece
+    id="aloeavera_pommel"
+    name="Pomo espada ceremonias"
+    tier="3"
+    piece_type="Pommel"
+    mesh="aloeavera_pommel"
+    culture="Culture.vlandia"
+    length="3.1"
+    weight="0.140">
+    <Materials>
+      <Material
+        id="Iron3"
+        count="1" />
+    </Materials>
+  </CraftingPiece>
+</CraftingPieces>

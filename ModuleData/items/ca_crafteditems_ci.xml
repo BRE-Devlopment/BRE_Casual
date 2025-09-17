@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../XmlSchemas/Items.xsd">
+  <CraftedItem
+		id="ci_espada_ceremonial"
+		name="Espada ceremonial"
+		crafting_template="B2_TwoHandedSword">
+		<Pieces>
+			<Piece
+				id="aloevera_blade"
+				Type="Blade"
+				scale_factor="135" />
+			<Piece
+				id="aloevera_guard_low"
+				Type="Guard"
+				scale_factor="110" />
+			<Piece
+				id="aloevera_grip"
+				Type="Handle"
+				scale_factor="150" />
+			<Piece
+				id="aloeavera_pommel"
+				Type="Pommel"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+</Items>
