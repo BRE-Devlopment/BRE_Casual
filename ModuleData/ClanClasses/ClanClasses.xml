@@ -23032,7 +23032,7 @@
     </Gloves>
   </ClanClass>
   <!--CI Coronas Ibéricas-->
-  <ClanClass
+  <!-- <ClanClass
     clan="CI"
     banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
     color1="FF260702"
@@ -23427,7 +23427,7 @@
       <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
-  </ClanClass>
+  </ClanClass> -->
   <!--IPL Imperium Polskie-->
   <ClanClass
     clan="IPL"

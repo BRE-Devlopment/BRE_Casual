@@ -1,0 +1,2124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClanClasses>
+  <!-- #region CI-->
+  <ClanClass
+    clan="CI"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Leva"
+    mpclassdivision="bre_infantry"
+    id="infantry_1_ci">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_recluta_ci" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet5" />
+      <equipment id="cts_spanish_helmet_7" />
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_levi" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_leather_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="null" />
+    </Cape>
+    <Gloves>
+      <equipment id="null" />
+      <equipment id="cts_spanish_leather_glove" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="CI"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Milicia"
+    mpclassdivision="bre_infantry"
+    id="infantry_2_ci">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_soldado_ci" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet_10" />
+			<equipment id="cts_spanish_helmet5" />
+			<equipment id="cts_spanish_helmet_7" />
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_levi" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_leather_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="cts_spain_shoulder_cloth2" />
+    </Cape>
+    <Gloves>
+      <equipment id="null" />
+			<equipment id="cts_spanish_leather_glove" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="CI"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Infantería"
+    mpclassdivision="bre_infantry"
+    id="infantry_3_ci">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_soldado_ci" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet_10" />
+			<equipment id="cts_spanish_helmet5" />
+			<equipment id="cts_spanish_helmet_7" />
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_armor_tier2" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_chainmail_boots" />
+			<equipment id="cts_spanish_leather_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="cts_spain_shoulder_metal_cloth" />
+			<equipment id="cts_spain_shoulder_cloth2" />
+    </Cape>
+    <Gloves>
+      <equipment id="cts_spanish_chainmail_glove" />
+			<equipment id="cts_spanish_leather_glove" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="CI"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Hombre de Armas"
+    mpclassdivision="bre_infantry"
+    id="infantry_4_ci">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_veterano1_ci" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet4" />
+			<equipment id="cts_spanish_helmet_10" />
+			<equipment id="cts_spanish_helmet5" />
+      <equipment id="ci_pacocasco"/>
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_armor_tier3" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="cts_spanish_square_shoulder_protection" />
+    </Cape>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+			<equipment id="cts_spanish_chainmail_glove" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="CI"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Vieja Guardia"
+    mpclassdivision="bre_infantry"
+    id="infantry_5_ci">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_veterano1_ci" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet_veteran" />
+			<equipment id="cts_spanish_helmet_officer" />
+    </Head>
+    <Body>
+      <equipment id="cts_armor_spanish_veteran" />
+			<equipment id="cts_armor_spanish_veteran1" />
+			<equipment id="cts_armor_spanish_veteran2" />
+			<equipment id="cts_armor_spanish_veteran3" />
+			<equipment id="cts_armor_spanish_veteran4" />
+			<equipment id="cts_armor_spanish_veteran5" />
+    </Body>
+    <Leg>
+			<equipment id="cts_spanish_leather_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="null" />
+    </Cape>
+    <Gloves>
+			<equipment id="null" />
+			<equipment id="cts_spanish_leather_glove" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="CI"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Escudero"
+    mpclassdivision="bre_infantry"
+    id="infantry_6_ci">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_veterano1_ci" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet3" />
+			<equipment id="cts_spanish_helmet5" />
+			<equipment id="ci_cav_bascinet2" />
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_armor_tier3" />
+    </Body>
+    <Leg>
+			<equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="cts_spanish_square_shoulder_protection" />
+      <equipment id="ci_mochila_escudero" />
+    </Cape>
+    <Gloves>
+			<equipment id="cts_spanish_plated_gloves" />
+			<equipment id="cts_spanish_chainmail_glove" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="CI"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Abanderado"
+    mpclassdivision="bre_infantry"
+    id="infantry_banner_ci">
+    <Weapon0>
+      <equipment id="sp_banner_empire3" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="cts_spanish_helmet3" />
+			<equipment id="cts_spanish_helmet4" />
+			<equipment id="cts_spanish_helmet_10" />
+			<equipment id="cts_spanish_helmet5" />
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_armor_tier3" />
+    </Body>
+    <Leg>
+			<equipment id="cts_spanish_plated_boots" />
+			<equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="cts_spanish_plated_shoulder_ptrotection1" />
+    </Cape>
+    <Gloves>
+			<equipment id="cts_spanish_plated_gloves" />
+			<equipment id="cts_spanish_chainmail_glove" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="CI"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Guardia Real"
+    mpclassdivision="bre_infantry"
+    id="infantry_7_ci">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudoveterano2_ci" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="null"/>
+			<equipment id="cts_spanish_kinguard_bascinet"/>
+			<equipment id="cts_spanish_kinguard_bascinet1"/>
+			<equipment id="ci_antonio"/>
+			<equipment id="ci_casco_sutrupa" />
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_kinguard_armor" />
+    </Body>
+    <Leg>
+			<equipment id="cts_spanish_kinguard_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="cts_spanish_kinguard_cape_ci" />
+			<equipment id="cts_spanish_kinguard_cape_toledo" />
+			<equipment id="cts_spanish_kinguard_cape_omey" />
+			<equipment id="cts_spanish_kinguard_cape_santiago" />
+			<equipment id="cts_spanish_kinguard_cape_termito" />
+    </Cape>
+    <Gloves>
+			<equipment id="cts_spanish_plated_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="CI"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Suboficial Infantería"
+    mpclassdivision="bre_infantry"
+    id="infantry_8_ci">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudoveterano2_ci" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="null" />
+			<equipment id="cts_spanish_helmet_9" />
+			<equipment id="cts_spanish_helmet3" />
+			<equipment id="cts_spanish_helmet4" />
+			<equipment id="cts_spanish_helmet_10" />
+			<equipment id="cts_spanish_helmet5" />
+			<equipment id="sa_sallet_base" />
+			<equipment id="sa_great_prankh_helm" />
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_armor_tier4" />
+    </Body>
+    <Leg>
+			<equipment id="cts_spanish_plated_boots" />
+			<equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="cts_spanish_plated_shoulder_ptrotection1" />
+			<equipment id="cts_spain_shoulder_cloth2" />
+			<equipment id="cts_spain_shoulder_metal_cloth" />
+    </Cape>
+    <Gloves>
+			<equipment id="cts_spanish_plated_gloves" />
+			<equipment id="cts_spanish_chainmail_glove" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="CI"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Oficial"
+    mpclassdivision="bre_infantry"
+    id="infantry_9_ci">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_oficial_ci" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="null" />
+			<equipment id="cts_spanish_helmet_6" />
+			<equipment id="cts_spanish_helmet_9" />
+			<equipment id="cts_spanish_helmet3" />
+			<equipment id="cts_spanish_helmet4" />
+			<equipment id="cts_spanish_helmet_10" />
+			<equipment id="cts_spanish_helmet5" />
+			<equipment id="sw_great_prankh_helm" />
+			<equipment id="ci_askz2" />
+			<equipment id="ci_armet" />
+			<equipment id="sa_butterlord1" />
+			<equipment id="ci_crowned_vlandian_helm_with_visor" />
+			<equipment id="sa_butterlord3" />
+			<equipment id="sa_sallet_base" />
+			<equipment id="sa_sugarloaf_helm3" />
+			<equipment id="sa_sugarloaf_helm2" />
+			<equipment id="ci_filipogh" />
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_armor_tier5" />
+			<equipment id="cts_aguila_spanish_armor_tier5_2" />
+			<equipment id="cts_patron3_spanish_armor_tier5_2" />
+			<equipment id="cts_patron4_spanish_armor_tier5_2" />
+    </Body>
+    <Leg>
+			<equipment id="cts_spanish_plated_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="null" />
+			<equipment id="cts_spanish_plated_shoulder_ptrotection" />
+			<equipment id="mp_varangian_bra_royal" />
+			<equipment id="sp_empire_cape_a" />
+			<equipment id="sa_swadian_shoulders" />
+			<equipment id="b2_pauldron_cape_a" />
+    </Cape>
+    <Gloves>
+			<equipment id="cts_spanish_plated_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="CI"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Rey"
+    mpclassdivision="bre_infantry"
+    id="infantry_10_ci">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="ci_espada_ceremonial" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="cts_spanish_king_shield" />
+			<equipment id="ci_escudo_oficial_ci" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_king_helm" />
+			<equipment id="ci_corona_alecks" />
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_king_armor" />
+			<equipment id="cts_spanish_armor_tier5" />
+			<equipment id="cts_aguila_spanish_armor_tier5_2" />
+			<equipment id="cts_patron3_spanish_armor_tier5_2" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_king_boots" />
+			<equipment id="cts_spanish_plated_boots" />
+			<equipment id="cts_spanish_kinguard_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="cts_shoulder_spanish_king" />
+			<equipment id="cts_shoulder_spanish_king1" />
+			<equipment id="null" />
+    </Cape>
+    <Gloves>
+      <equipment id="cts_spanish_king_gloves" />
+    </Gloves>
+  </ClanClass>
+  <!-- #endregion -->
+  <!-- #region Santiago-->
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Peregrino"
+    mpclassdivision="bre_infantry"
+    id="infantry_san">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="os_escudo_recluta_santiago" />
+			<equipment id="os_escudo_iniciado_santiago" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet_10" />
+			<equipment id="sp_pointed_skullcap_over_mail_coif" />
+			<equipment id="null" />
+    </Head>
+    <Cape>
+      <equipment id="cts_santiago_spanish_shoulder_protection4" />
+			<equipment id="cts_santiago_spanish_shoulder_protection2" />
+			<equipment id="cts_santiago_spanish_shoulder_protection3" />
+			<equipment id="cts_santiago_spanish_shoulder_protection5" />
+			<equipment id="os_collar_inquisidor" />
+			<equipment id="null" />
+    </Cape>
+    <Body>
+      <equipment id="cts_santiago_spanish_levi" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_leather_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="cts_spanish_leather_glove" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Iniciado"
+    mpclassdivision="bre_infantry"
+    id="infantry_san_2">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="os_escudo_iniciado_santiago"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet_10" />
+			<equipment id="sp_pointed_skullcap_over_mail_coif" />
+			<equipment id="os_cotamalla" />
+			<equipment id="os_capuchamalla_benda" />
+			<equipment id="os_capuchamallabajada" />
+			<equipment id="null" />
+    </Head>
+    <Cape>
+      <equipment id="cts_santiago_spanish_shoulder_protection4" />
+			<equipment id="cts_santiago_spanish_shoulder_protection2" />
+			<equipment id="cts_santiago_spanish_shoulder_protection3" />
+			<equipment id="cts_santiago_spanish_shoulder_protection5" />
+			<equipment id="os_capasantiago" />
+			<equipment id="os_capasantiago2" />
+			<equipment id="os_nueva_capasantiago" />
+			<equipment id="os_nueva_capasantiago2" />
+			<equipment id="os_collar_inquisidor" />
+			<equipment id="null" />
+    </Cape>
+    <Body>
+      <equipment id="cts_santiago_spanish_armor_tier2" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_chainmail_boots" />
+			<equipment id="cts_spanish_leather_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="cts_spanish_chainmail_glove" />
+			<equipment id="cts_spanish_leather_glove" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Hombre de Armas"
+    mpclassdivision="bre_infantry"
+    id="infantry_san_3">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="os_escudo_veterano1_santiago"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="sa_vlandian_helm_with_faceplate"/>
+			<equipment id="os_casco_cruzado" />
+			<equipment id="os_capucha_santiago" />
+			<equipment id="os_cotamalla" />
+			<equipment id="os_capuchamalla_benda" />
+			<equipment id="os_capuchamallabajada" />
+			<equipment id="null" />
+    </Head>
+    <Cape>
+      <equipment id="cts_santiago_spanish_shoulder_protection" />
+			<equipment id="os_capasantiago" />
+			<equipment id="os_capasantiago2" />
+			<equipment id="os_nueva_capasantiago" />
+			<equipment id="os_nueva_capasantiago2" />
+			<equipment id="os_collar_inquisidor" />
+			<equipment id="null" />
+    </Cape>
+    <Body>
+      <equipment id="cts_santiago_spanish_armor_tier3" />
+			<equipment id="sp_monk_robe" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_chainmail_boots" />
+			<equipment id="sp_sturgia_boots_d" />
+    </Leg>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+			<equipment id="null" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Inquisidor"
+    mpclassdivision="bre_infantry"
+    id="infantry_san_4">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="os_escudo_veterano1_santiago"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="os_sombrero_inquisidor" />
+			<equipment id="null" />
+    </Head>
+    <Cape>
+      <equipment id="null" />
+			<equipment id="os_capa_santiago_inquisidor" />
+			<equipment id="os_capa_santiago_corta_inquisidor" />
+			<equipment id="os_collar_inquisidor" />
+    </Cape>
+    <Body>
+      <equipment id="cts_santiago_spanish_armor_inquisidor" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+			<equipment id="null" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Escudero"
+    mpclassdivision="bre_infantry"
+    id="infantry_san_5">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="os_escudo_veterano1_santiago"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="sa_vlandian_helm_with_faceplate"/>
+			<equipment id="os_casco_cruzado" />
+			<equipment id="os_capucha_santiago" />
+			<equipment id="os_cotamalla" />
+			<equipment id="os_capuchamalla_benda" />
+			<equipment id="os_capuchamallabajada" />
+			<equipment id="null" />
+    </Head>
+    <Cape>
+      <equipment id="ci_mochila_escudero" />
+    </Cape>
+    <Body>
+      <equipment id="cts_santiago_spanish_armor_tier3" />
+			<equipment id="sp_monk_robe" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_chainmail_boots" />
+			<equipment id="sp_sturgia_boots_d" />
+    </Leg>
+    <Gloves>
+      <equipment id="cts_spanish_chainmail_glove" />
+			<equipment id="cts_spanish_plated_gloves" />
+			<equipment id="null" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Abanderado"
+    mpclassdivision="bre_infantry"
+    id="infantry_san_banner">
+    <Weapon0>
+      <equipment id="santiago_banner" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="sa_vlandian_helm_with_visor" />
+			<equipment id="sa_sallet_no_visor" />
+			<equipment id="null" />
+    </Head>
+    <Body>
+      <equipment id="cts_santiago_spanish_armor_tier4" />
+    </Body>
+    <Leg>
+			<equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="cts_spanish_plated_shoulder_ptrotection1" />
+			<equipment id="cts_santiago_spanish_shoulder_protection" />
+			<equipment id="os_capasantiago" />
+			<equipment id="os_capasantiago2" />
+			<equipment id="os_nueva_capasantiago" />
+			<equipment id="os_nueva_capasantiago2" />
+			<equipment id="os_collar_inquisidor" />
+			<equipment id="null" />
+    </Cape>
+    <Gloves>
+			<equipment id="cts_spanish_chainmail_glove" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Suboficial"
+    mpclassdivision="bre_infantry"
+    id="infantry_san_6">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="os_escudo_veterano1_santiago" />
+			<equipment id="os_escudoveterano2_santiago" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="sw_great_helm_brass" />
+			<equipment id="sw_sugarloaf_helm3" />
+			<equipment id="ci_greathelmetjoanisi_cloth_1"/>
+			<equipment id="null" />
+    </Head>
+    <Cape>
+      <equipment id="cts_spanish_plated_shoulder_ptrotection1" />
+			<equipment id="cts_santiago_spanish_shoulder_protection" />
+			<equipment id="os_capasantiago" />
+			<equipment id="os_capasantiago2" />
+			<equipment id="os_nueva_capasantiago" />
+			<equipment id="os_nueva_capasantiago2" />
+			<equipment id="os_collar_inquisidor" />
+			<equipment id="null" />
+    </Cape>
+    <Body>
+      <equipment id="cts_santiago_spanish_armor_tier4" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_plated_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="SAN"
+    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
+    color1="FFF4F4F4"
+    color2="FF880000"
+    name="Maestrazgo"
+    mpclassdivision="bre_infantry"
+    id="infantry_san_7">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="os_escudo_oficial_santiago"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="os_mario_helmet" />
+			<equipment id="ci_manu_helmet"/>
+			<equipment id="null" />
+    </Head>
+    <Cape>
+      <equipment id="os_capasantiago" />
+			<equipment id="os_capasantiago2" />
+			<equipment id="os_nueva_capasantiago" />
+			<equipment id="os_nueva_capasantiago2" />
+			<equipment id="sp_empire_cape_a" />
+			<equipment id="cts_santiago_spanish_shoulder_protection2" />
+			<equipment id="os_collar_inquisidor" />
+			<equipment id="null" />
+    </Cape>
+    <Body>
+      <equipment id="cts_santiago_spanish_armor_tier5_2" />
+			<equipment id="cts_santiago_spanish_armor_tier5_3" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_plated_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+    </Gloves>
+  </ClanClass>
+  <!-- #endregion -->
+  <!-- #region Toledo -->
+  <ClanClass
+    clan="TOL"
+    banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0"
+    color1="FFBCA816"
+    color2="FF000000"
+    name="Milicia"
+    mpclassdivision="bre_infantry"
+    id="infantry_tol">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="pt_escudo_recluta_toledo"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="casco_toledo_peon" />
+			<equipment id="null" />
+    </Head>
+    <Cape>
+			<equipment id="cts_toledo_spain_shoulder_cloth2" />
+			<equipment id="null" />
+		</Cape>
+    <Body>
+      <equipment id="cts_toledo_spanish_levi" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_leather_glove" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_leather_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="TOL"
+    banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0"
+    color1="FFBCA816"
+    color2="FF000000"
+    name="Peón"
+    mpclassdivision="bre_infantry"
+    id="infantry_tol_2">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="pt_escudo_soldado_toledo"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="casco_toledo_peon" />
+			<equipment id="null" />
+    </Head>
+    <Cape>
+			<equipment id="cts_spain_shoulder_metal_cloth" />
+			<equipment id="cts_toledo_spain_shoulder_cloth2" />
+			<equipment id="cts_toledo_spain_shoulder_metal_cloth1" />
+		</Cape>
+    <Body>
+      <equipment id="cts_toledo_peon_spanish_armor_tier2" />
+			<equipment id="cts_toledo_spanish_armor_tier2" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_chainmail_glove" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_leather_boots" />
+			<equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="TOL"
+    banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0"
+    color1="FFBCA816"
+    color2="FF000000"
+    name="Alabardero"
+    mpclassdivision="bre_infantry"
+    id="infantry_tol_3">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="pt_escudo_veterano1_toledo"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="casco_toledo_espadero" />
+			<equipment id="casco_toledo_espadero_gorjal" />
+			<equipment id="ci_casco_camarada" />
+			<equipment id="null" />
+    </Head>
+    <Cape>
+			<equipment id="cts_toledo_spanish_square_shoulder_protection" />
+		</Cape>
+    <Body>
+      <equipment id="cts_toledo_spanish_armor_tier3" />
+			<equipment id="cts_toledo_espadero_spanish_armor_tier2" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_leather_boots" />
+			<equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="TOL"
+    banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0"
+    color1="FFBCA816"
+    color2="FF000000"
+    name="Escudero"
+    mpclassdivision="bre_infantry"
+    id="infantry_tol_4">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="pt_escudo_veterano1_toledo"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="casco_toledo_espadero" />
+			<equipment id="casco_toledo_espadero_gorjal" />
+			<equipment id="null" />
+    </Head>
+    <Cape>
+			<equipment id="ci_mochila_escudero" />
+		</Cape>
+    <Body>
+      <equipment id="cts_toledo_spanish_armor_tier3" />
+			<equipment id="cts_toledo_espadero_spanish_armor_tier2" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_leather_boots" />
+			<equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="TOL"
+    banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0"
+    color1="FFBCA816"
+    color2="FF000000"
+    name="Abanderado"
+    mpclassdivision="bre_infantry"
+    id="infantry_tol_banner">
+    <Weapon0>
+      <equipment id="toledo_new_banner" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="casco_toledo_espadero" />
+			<equipment id="casco_toledo_espadero_gorjal" />
+			<equipment id="null" />
+    </Head>
+    <Cape>
+			<equipment id="cts_spanish_plated_shoulder_ptrotection1" />
+			<equipment id="cts_toledo_spanish_square_shoulder_protection" />
+		</Cape>
+    <Body>
+      <equipment id="cts_toledo_espadero_spanish_armor_tier2" />
+			<equipment id="cts_toledo_spanish_armor_tier3" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_plated_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="TOL"
+    banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0"
+    color1="FFBCA816"
+    color2="FF000000"
+    name="Custodio"
+    mpclassdivision="bre_infantry"
+    id="infantry_tol_5">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="pt_escudoveterano2_toledo"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="casco_toledo_custodio" />
+			<equipment id="casco_toledo_custodio_gorjal" />
+			<equipment id="sa_vlandian_helm_with_visor" />
+			<equipment id="sa_sallet_no_visor" />
+			<equipment id="null" />
+    </Head>
+    <Cape>
+			<equipment id="ba_knightpadgorget1" />
+		</Cape>
+    <Body>
+      <equipment id="sa_coat_of_plates9_c" />
+    </Body>
+    <Gloves>
+      <equipment id="sa_1churburghgauntlet" />
+    </Gloves>
+    <Leg>
+      <equipment id="sa_plate_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="TOL"
+    banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0"
+    color1="FFBCA816"
+    color2="FF000000"
+    name="Oficial"
+    mpclassdivision="bre_infantry"
+    id="infantry_tol_6">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="pt_escudo_oficial_toledo"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="casco_toledo_oficial" />
+			<equipment id="casco_toledo_oficial_gorjal" />
+			<equipment id="ci_filipogh" />
+			<equipment id="ci_casco_nolicus" />
+			<equipment id="ci_battania_crown" />
+			<equipment id="null" />
+    </Head>
+    <Cape>
+			<equipment id="toledo_capa_hispano" />
+			<equipment id="cts_toledo_spanish_plated_shoulder_ptrotection" />
+			<equipment id="null" />
+		</Cape>
+    <Body>
+      <equipment id="cts_toledo_ofi_spanish_armor_tier5_2" />
+			<equipment id="cts_toledo_spanish_armor_tier5_2" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_plated_boots" />
+    </Leg>
+  </ClanClass>
+  <!-- #endregion -->
+
+  <!-- #region Castile -->
+  <ClanClass
+    clan="CAST"
+    banner="3.127.148.1135.1135.764.764.1.0.0.206.83.116.206.306.944.923.1.0.18.326.15.116.206.306.919.984.1.0.0.140.79.116.310.332.614.957.1.0.0.140.79.116.310.332.907.594.1.0.0.206.83.116.201.298.629.551.1.0.18.326.15.116.201.298.614.619.1.0.0"
+    color1="FF4A100C"
+    color2="FFFFFFFF"
+    name="Levy"
+    mpclassdivision="bre_infantry"
+    id="infantry_castile_1">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_recluta_castile"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet5" />
+			<equipment id="cts_spanish_helmet_7" />
+    </Head>
+    <Body>
+      <equipment id="cts_castile_spanish_levi" />
+    </Body>
+    <Gloves>
+      <equipment id="null" />
+			<equipment id="cts_spanish_leather_glove" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_leather_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="CAST"
+    banner="3.127.148.1135.1135.764.764.1.0.0.206.83.116.206.306.944.923.1.0.18.326.15.116.206.306.919.984.1.0.0.140.79.116.310.332.614.957.1.0.0.140.79.116.310.332.907.594.1.0.0.206.83.116.201.298.629.551.1.0.18.326.15.116.201.298.614.619.1.0.0"
+    color1="FF4A100C"
+    color2="FFFFFFFF"
+    name="Militia"
+    mpclassdivision="bre_infantry"
+    id="infantry_castile_2">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_soldado_castile"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet_10" />
+			<equipment id="cts_spanish_helmet5" />
+			<equipment id="cts_spanish_helmet_7" />
+    </Head>
+    <Cape>
+			<equipment id="cts_castile_spanish_shoulder_cloth2" />
+		</Cape>
+    <Body>
+      <equipment id="cts_castile_spanish_levi" />
+    </Body>
+    <Gloves>
+      <equipment id="null" />
+			<equipment id="cts_spanish_leather_glove" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_leather_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="CAST"
+    banner="3.127.148.1135.1135.764.764.1.0.0.206.83.116.206.306.944.923.1.0.18.326.15.116.206.306.919.984.1.0.0.140.79.116.310.332.614.957.1.0.0.140.79.116.310.332.907.594.1.0.0.206.83.116.201.298.629.551.1.0.18.326.15.116.201.298.614.619.1.0.0"
+    color1="FF4A100C"
+    color2="FFFFFFFF"
+    name="Watchman"
+    mpclassdivision="bre_infantry"
+    id="infantry_castile_3">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_soldado_castile"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet_10" />
+			<equipment id="cts_spanish_helmet5" />
+			<equipment id="cts_spanish_helmet_7" />
+    </Head>
+    <Cape>
+			<equipment id="cts_castile_spanish_shoulder_cloth" />
+			<equipment id="sp_aserai_shoulder_a" />
+		</Cape>
+    <Body>
+      <equipment id="cts_castile_spanish_armor_tier2" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_chainmail_glove" />
+			<equipment id="cts_spanish_leather_glove" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_chainmail_boots" />
+			<equipment id="cts_spanish_leather_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="CAST"
+    banner="3.127.148.1135.1135.764.764.1.0.0.206.83.116.206.306.944.923.1.0.18.326.15.116.206.306.919.984.1.0.0.140.79.116.310.332.614.957.1.0.0.140.79.116.310.332.907.594.1.0.0.206.83.116.201.298.629.551.1.0.18.326.15.116.201.298.614.619.1.0.0"
+    color1="FF4A100C"
+    color2="FFFFFFFF"
+    name="Man at Arms"
+    mpclassdivision="bre_infantry"
+    id="infantry_castile_4">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_veterano1_castile"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet4" />
+			<equipment id="cts_spanish_helmet_10" />
+			<equipment id="cts_spanish_helmet5" />
+    </Head>
+    <Cape>
+			<equipment id="cts_castile_spanish_shoulder_protection" />
+			<equipment id="sp_aserai_shoulder_a" />
+		</Cape>
+    <Body>
+      <equipment id="cts_castile_spanish_armor_tier3" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+			<equipment id="cts_spanish_chainmail_glove" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="CAST"
+    banner="3.127.148.1135.1135.764.764.1.0.0.206.83.116.206.306.944.923.1.0.18.326.15.116.206.306.919.984.1.0.0.140.79.116.310.332.614.957.1.0.0.140.79.116.310.332.907.594.1.0.0.206.83.116.201.298.629.551.1.0.18.326.15.116.201.298.614.619.1.0.0"
+    color1="FF4A100C"
+    color2="FFFFFFFF"
+    name="Squire"
+    mpclassdivision="bre_infantry"
+    id="infantry_castile_5">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_veterano1_castile"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet3" />
+			<equipment id="cts_spanish_helmet5" />
+			<equipment id="ci_cav_bascinet2" />
+    </Head>
+    <Cape>
+			<equipment id="ci_mochila_escudero" />
+		</Cape>
+    <Body>
+      <equipment id="cts_castile_spanish_armor_tier3" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+			<equipment id="cts_spanish_chainmail_glove" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="CAST"
+    banner="3.127.148.1135.1135.764.764.1.0.0.206.83.116.206.306.944.923.1.0.18.326.15.116.206.306.919.984.1.0.0.140.79.116.310.332.614.957.1.0.0.140.79.116.310.332.907.594.1.0.0.206.83.116.201.298.629.551.1.0.18.326.15.116.201.298.614.619.1.0.0"
+    color1="FF4A100C"
+    color2="FFFFFFFF"
+    name="Standard-bearer"
+    mpclassdivision="bre_infantry"
+    id="infantry_castile_banner">
+    <Weapon0>
+      <equipment id="sp_banner_empire3" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="cts_spanish_helmet3" />
+			<equipment id="cts_spanish_helmet4" />
+			<equipment id="cts_spanish_helmet_10" />
+			<equipment id="cts_spanish_helmet5" />
+    </Head>
+    <Cape>
+			<equipment id="cts_castile_spanish_shoulder_protection" />
+			<equipment id="cts_castile_spanish_shoulder_metal_cloth" />
+			<equipment id="cts_castile_spanish_shoulder_metal_cloth1" />
+			<equipment id="sa_swadian_shoulders" />
+		</Cape>
+    <Body>
+      <equipment id="cts_castile_spanish_armor_tier4" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+			<equipment id="cts_spanish_chainmail_glove" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_plated_boots" />
+			<equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="CAST"
+    banner="3.127.148.1135.1135.764.764.1.0.0.206.83.116.206.306.944.923.1.0.18.326.15.116.206.306.919.984.1.0.0.140.79.116.310.332.614.957.1.0.0.140.79.116.310.332.907.594.1.0.0.206.83.116.201.298.629.551.1.0.18.326.15.116.201.298.614.619.1.0.0"
+    color1="FF4A100C"
+    color2="FFFFFFFF"
+    name="Royal Guard"
+    mpclassdivision="bre_infantry"
+    id="infantry_castile_6">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudoveterano2_castile"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="null"/>
+			<equipment id="cts_spanish_kinguard_bascinet"/>
+			<equipment id="cts_spanish_kinguard_bascinet1"/>
+    </Head>
+    <Cape>
+			<equipment id="cts_spanish_kinguard_cape_castile" />
+		</Cape>
+    <Body>
+      <equipment id="cts_spanish_kinguard_armor" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_kinguard_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="CAST"
+    banner="3.127.148.1135.1135.764.764.1.0.0.206.83.116.206.306.944.923.1.0.18.326.15.116.206.306.919.984.1.0.0.140.79.116.310.332.614.957.1.0.0.140.79.116.310.332.907.594.1.0.0.206.83.116.201.298.629.551.1.0.18.326.15.116.201.298.614.619.1.0.0"
+    color1="FF4A100C"
+    color2="FFFFFFFF"
+    name="Officer of the Watch"
+    mpclassdivision="bre_infantry"
+    id="infantry_castile_7">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudoveterano2_castile"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="null" />
+			<equipment id="cts_spanish_helmet_9" />
+			<equipment id="cts_spanish_helmet3" />
+			<equipment id="cts_spanish_helmet4" />
+			<equipment id="cts_spanish_helmet_10" />
+			<equipment id="cts_spanish_helmet5" />
+			<equipment id="sa_sallet_base" />
+			<equipment id="sa_great_prankh_helm" />
+    </Head>
+    <Cape>
+			<equipment id="cts_castile_spanish_shoulder_protection" />
+			<equipment id="cts_castile_spanish_shoulder_cloth2" />
+			<equipment id="cts_castile_spanish_shoulder_metal_cloth" />
+			<equipment id="cts_castile_spanish_shoulder_metal_cloth1" />
+		</Cape>
+    <Body>
+      <equipment id="cts_castile_spanish_armor_tier4" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+			<equipment id="cts_spanish_chainmail_glove" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_plated_boots" />
+			<equipment id="cts_spanish_chainmail_boots" />
+    </Leg>
+  </ClanClass>
+  <ClanClass
+    clan="CAST"
+    banner="3.127.148.1135.1135.764.764.1.0.0.206.83.116.206.306.944.923.1.0.18.326.15.116.206.306.919.984.1.0.0.140.79.116.310.332.614.957.1.0.0.140.79.116.310.332.907.594.1.0.0.206.83.116.201.298.629.551.1.0.18.326.15.116.201.298.614.619.1.0.0"
+    color1="FF4A100C"
+    color2="FFFFFFFF"
+    name="Leadership of the Watch"
+    mpclassdivision="bre_infantry"
+    id="infantry_castile_7">
+    <Weapon0>
+      <equipment id="b2_native_spear" />
+      <equipment id="b2_faussard" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b2_2h_axe" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" disablegroup="Weapon2" />
+      <equipment id="b3_coalition_polearm" disablerandomize="true" disablegroup="Weapon1" />
+      <equipment id="null" hidden="true" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_oficial_castile"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="null" />
+			<equipment id="cts_spanish_helmet_6" />
+			<equipment id="cts_spanish_helmet_9" />
+			<equipment id="cts_spanish_helmet3" />
+			<equipment id="cts_spanish_helmet4" />
+			<equipment id="cts_spanish_helmet_10" />
+			<equipment id="cts_spanish_helmet5" />
+			<equipment id="sa_great_prankh_helm" />
+			<equipment id="ci_armet" />
+			<equipment id="ci_butterlord1" />
+			<equipment id="ci_butterlord3" />
+			<equipment id="sa_sallet_base" />
+			<equipment id="sa_sugarloaf_helm3" />
+			<equipment id="sa_sugarloaf_helm2" />
+			<equipment id="sa_vlandian_helm_with_visor" />
+    </Head>
+    <Cape>
+			<equipment id="cts_castile_spanish_shoulder_protection" />
+			<equipment id="cts_castile_spanish_shoulder_cloth2" />
+			<equipment id="cts_castile_spanish_shoulder_metal_cloth" />
+			<equipment id="cts_castile_spanish_shoulder_metal_cloth1" />
+		</Cape>
+    <Body>
+      <equipment id="cts_castile_spanish_armor_tier5" />
+			<equipment id="cts_castile_spanish_armor_tier5_2" />
+    </Body>
+    <Gloves>
+      <equipment id="cts_spanish_plated_gloves" />
+    </Gloves>
+    <Leg>
+      <equipment id="cts_spanish_plated_boots" />
+    </Leg>
+  </ClanClass>
+  <!-- #endregion -->
+
+  <!-- #region (CISP) CI Special Classes -->
+  <ClanClass
+    clan="CISP"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Arquero"
+    mpclassdivision="bre_archer"
+    id="archer_1_ci">
+    <Weapon0>
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet_10" />
+		  <equipment id="cts_spanish_helmet5" />
+		  <equipment id="sp_kettle_helmet_leather" />
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_levi" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_leather_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="null" />
+    </Cape>
+    <Gloves>
+      <equipment id="null" />
+      <equipment id="cts_spanish_leather_glove" />
+    </Gloves>
+  </ClanClass>
+
+  <ClanClass
+    clan="CISP"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Suboficial Arqueros"
+    mpclassdivision="bre_archer"
+    id="archer_2_ci">
+    <Weapon0>
+      <equipment id="sp_yew_bow" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_arrows" archeritem="true"/>
+      <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_native_sword" />
+      <equipment id="b2_native_axe" />
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="cts_spanish_helmet_10" />
+      <equipment id="cts_spanish_helmet5" />
+      <equipment id="sp_kettle_helmet_leather" />
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_levi" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_leather_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="cts_spain_shoulder_metal_cloth" />
+    </Cape>
+    <Gloves>
+      <equipment id="cts_spanish_leather_glove" />
+    </Gloves>
+  </ClanClass>
+
+  <ClanClass
+    clan="CISP"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Explorador"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_1_ci">
+    <Weapon0>
+      <equipment id="b2_lance_ci" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_explorador" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
+    <Head>
+      <equipment id="ci_cav_bascinet2" />
+    </Head>
+    <Body>
+      <equipment id="ci_cav_gambeson1" />
+    </Body>
+    <Leg>
+      <equipment id="ci_cav_pantalones1" />
+    </Leg>
+    <HorseHarness>
+      <equipment id="mp_chain_barding" cavalryitem="true"/>
+      <equipment id="mp_halfchain_barding" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+
+  <ClanClass
+    clan="CISP"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Jinete"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_2_ci">
+    <Weapon0>
+      <equipment id="b2_lance_ci" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_explorador" />
+			<equipment id="ci_escudo_subofi" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
+    <Head>
+      <equipment id="ci_cav_bascinet2" />
+			<equipment id="ci_cav_bascinet3" />
+    </Head>
+    <Cape>
+			<equipment id="null" />
+			<equipment id="sp_aserai_shoulder_a" />
+			<equipment id="sp_battania_cloak_a" />
+			<equipment id="mp_battania_cloak_b" />
+			<equipment id="ci_mochila_escudero" />
+		</Cape>
+    <Body>
+      <equipment id="ci_cav_gambeson2" />
+    </Body>
+    <Gloves>
+			<equipment id="cts_spanish_plated_gloves" />
+		</Gloves>
+    <Leg>
+      <equipment id="ci_cav_pantalones1" />
+    </Leg>
+    <HorseHarness>
+      <equipment id="mp_chain_barding" cavalryitem="true"/>
+      <equipment id="mp_halfchain_barding" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+
+  <ClanClass
+    clan="CISP"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Caballero"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_3_ci">
+    <Weapon0>
+      <equipment id="b2_lance_ci" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_explorador" />
+			<equipment id="ci_escudo_subofi" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
+    <Head>
+      <equipment id="ci_cav_bascinet2" />
+			<equipment id="ci_cav_bascinet3" />
+			<equipment id="sa_vlandian_helm_with_visor" />
+			<equipment id="sa_sallet_no_visor" />
+			<equipment id="sa_pigface_bascinet_tail" />
+			<equipment id="sa_sugarloaf_helm4" />
+    </Head>
+    <Cape>
+			<equipment id="null" />
+			<equipment id="sa_swadian_shoulders" />
+			<equipment id="sp_aserai_shoulder_a" />
+			<equipment id="sp_battania_cloak_a" />
+			<equipment id="mp_battania_cloak_b" />
+		</Cape>
+    <Body>
+      <equipment id="ci_cav_gambeson2" />
+    </Body>
+    <Gloves>
+			<equipment id="cts_spanish_plated_gloves" />
+		</Gloves>
+    <Leg>
+      <equipment id="ci_cav_pantalones1" />
+			<equipment id="ci_cav_pantalones2" />
+    </Leg>
+    <HorseHarness>
+      <equipment id="mp_chain_barding" cavalryitem="true"/>
+      <equipment id="mp_halfchain_barding" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+
+  <ClanClass
+    clan="CISP"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Oficial caballería"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_4_ci">
+    <Weapon0>
+      <equipment id="b2_lance_ci" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="ci_escudo_explorador" />
+			<equipment id="ci_escudo_subofi" />
+			<equipment id="ci_escudo_oficial" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon3>
+    <Head>
+      <equipment id="ci_cav_bascinet2" />
+			<equipment id="ci_cav_bascinet3" />
+			<equipment id="sa_vlandian_helm_with_visor" />
+			<equipment id="sa_sallet_no_visor" />
+			<equipment id="sa_pigface_bascinet_tail" />
+			<equipment id="sa_sugarloaf_helm4" />
+			<equipment id="sa_great_prankh_helm" />
+			<equipment id="sa_pigface_bascinet_tail" />
+			<equipment id="ci_armet" />
+			<equipment id="ci_askz2" />
+			<equipment id="ci_butterlord1" />
+			<equipment id="ci_crowned_vlandian_helm_with_visor" />
+			<equipment id="ci_butterlord3" />
+			<equipment id="ci_sallet_base" />
+			<equipment id="sa_sugarloaf_helm3" />
+			<equipment id="sa_engraved_vlandian_helm_with_visor" />
+			<equipment id="ci_sallet_winged" />
+    </Head>
+    <Cape>
+			<equipment id="null" />
+			<equipment id="sa_swadian_shoulders" />
+			<equipment id="sp_aserai_shoulder_a" />
+			<equipment id="sp_battania_cloak_a" />
+			<equipment id="mp_battania_cloak_b" />
+		</Cape>
+    <Body>
+      <equipment id="ci_cav_gambeson3" />
+			<equipment id="sa_swadian_leather_plate_with_armguards" />
+    </Body>
+    <Gloves>
+			<equipment id="cts_spanish_plated_gloves" />
+		</Gloves>
+    <Leg>
+      <equipment id="ci_cav_pantalones1" />
+			<equipment id="ci_cav_pantalones2" />
+    </Leg>
+    <HorseHarness>
+      <equipment id="mp_chain_barding" cavalryitem="true"/>
+      <equipment id="mp_halfchain_barding" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="CISP"
+    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0"
+    color1="FF260702"
+    color2="FFec7c0f"
+    name="Rey"
+    mpclassdivision="bre_cavalry"
+    id="cavalry_5_ci">
+    <Weapon0>
+      <equipment id="b2_lance_ci" />
+      <equipment id="b2_jousting_lance_x" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="cts_spanish_king_shield" />
+			<equipment id="ci_escudo_oficial" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h"/>
+      <equipment id="b2_native_mace" />
+      <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h" />
+      <equipment id="ci_espada_ceremonial" />
+    </Weapon3>
+    <Head>
+      <equipment id="cts_spanish_king_helm" />
+			<equipment id="ci_corona_alecks" />
+    </Head>
+    <Body>
+      <equipment id="cts_spanish_king_armor" />
+    </Body>
+    <Leg>
+      <equipment id="cts_spanish_king_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="cts_shoulder_spanish_king" />
+			<equipment id="cts_shoulder_spanish_king1" />
+			<equipment id="null" />
+    </Cape>
+    <Gloves>
+      <equipment id="cts_spanish_king_gloves" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="mp_chain_barding" cavalryitem="true"/>
+      <equipment id="mp_halfchain_barding" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="b2_horse_brown" cavalryitem="true"/>
+      <equipment id="b2_horse_gold"/>
+      <equipment id="b2_horse_white"/>
+      <equipment id="b2_horse_grey"/>
+      <equipment id="b2_horse_darkgrey"/>
+      <equipment id="b2_horse_black"/>
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <!-- #endregion -->
+</ClanClasses>
