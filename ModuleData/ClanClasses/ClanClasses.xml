@@ -29145,7 +29145,7 @@
     </Horse>
   </ClanClass>
   <!--SAN Santiago-->
-  <ClanClass
+  <!-- <ClanClass
     clan="SAN"
     banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0"
     color1="FFF4F4F4"
@@ -29337,9 +29337,9 @@
     <Gloves>
       <equipment id="mp_mail_chausses" />
     </Gloves>
-  </ClanClass>
+  </ClanClass> -->
   <!--TOL Toledo-->
-  <ClanClass
+  <!-- <ClanClass
     clan="TOL"
     banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0"
     color1="FFBCA816"
@@ -29462,7 +29462,7 @@
     <Gloves>
       <equipment id="mp_mail_mitten" />
     </Gloves>
-  </ClanClass>
+  </ClanClass> -->
   <!--VSC Völsung clan-->
   <ClanClass
     clan="VSC"

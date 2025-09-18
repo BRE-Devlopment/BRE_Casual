@@ -1216,10 +1216,11 @@
 			<equipment id="casco_toledo_custodio_gorjal" />
 			<equipment id="sa_vlandian_helm_with_visor" />
 			<equipment id="sa_sallet_no_visor" />
-			<equipment id="null" />
+			<equipment id="null" disablerandomize="true"/>
     </Head>
     <Cape>
 			<equipment id="ba_knightpadgorget1" />
+      <equipment id="null" disablerandomize="true"/>
 		</Cape>
     <Body>
       <equipment id="sa_coat_of_plates9_c" />
