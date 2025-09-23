@@ -3,7 +3,7 @@
   <NPCCharacter 
     id="bre_infantry_hero"
     default_group="Infantry"
-    level="25"
+    level="0"
     name="Infantry"
     occupation="Soldier"
     culture="Culture.bretonnie">
@@ -51,7 +51,7 @@
   <NPCCharacter 
     id="bre_infantry_hero_invisible"
     default_group="Infantry"
-    level="25"
+    level="0"
     name="Infantry"
     race="invisible"
     occupation="Soldier"
@@ -100,7 +100,7 @@
   <NPCCharacter 
     id="bre_archer_hero"
     default_group="Ranged"
-    level="30"
+    level="0"
     name="Archer"
     occupation="Soldier"
     culture="Culture.bretonnie">
@@ -148,7 +148,7 @@
   <NPCCharacter 
     id="bre_cavalry_hero"
     default_group="Cavalry"
-    level="25"
+    level="0"
     name="Cavalry"
     occupation="Soldier"
     culture="Culture.bretonnie">
@@ -203,7 +203,7 @@
   <NPCCharacter 
     id="bre_cavalry_infantry_hero"
     default_group="Cavalry"
-    level="25"
+    level="0"
     name="Cavalry"
     occupation="Soldier"
     culture="Culture.bretonnie">
@@ -258,7 +258,7 @@
   <NPCCharacter 
     id="bre_archer_cavalry_hero"
     default_group="Cavalry"
-    level="25"
+    level="0"
     name="Archer Cavalry"
     occupation="Soldier"
     culture="Culture.enemy">
