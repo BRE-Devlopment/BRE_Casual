@@ -17347,9 +17347,9 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b2_templar_1"/>
@@ -17416,9 +17416,9 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="sa_coat_of_plates1_c"/>
@@ -17598,7 +17598,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -20666,9 +20666,9 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b2_templar_1"/>
@@ -20735,9 +20735,9 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="sa_coat_of_plates1_c"/>
@@ -20917,7 +20917,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -21066,7 +21066,7 @@
       <equipment id="b3_kerrant_gloves_dark"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_squire_horse_cre" cavalryitem="true"/>
+      <equipment id="b3_squire_horse_gau" cavalryitem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
@@ -21080,7 +21080,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
+  <ClanClass
     clan="GAU"
     color1="FF263d7d"
     color2="FF263d7d"
@@ -21327,9 +21327,9 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b2_templar_1"/>
@@ -21396,9 +21396,9 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="sa_coat_of_plates1_c"/>
@@ -21578,7 +21578,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -21759,11 +21759,11 @@
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
-      <equipment id="b3_gau_kerrant_sword_1h" />
+      <equipment id="b3_theu_kerrant_sword_1h" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b3_gau_kerrant_sword_2h" />
+      <equipment id="b3_theu_kerrant_sword_2h" />
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
@@ -21988,9 +21988,9 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b2_templar_1"/>
@@ -22057,9 +22057,9 @@
       <equipment id="b2_norman_mail_1"/>
 
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="sa_coat_of_plates1_c"/>
@@ -22239,7 +22239,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted" disablerandomize="true"/>
     </Head>
      <Body>
       <equipment id="b2_mail_shirt"/>
@@ -22419,12 +22419,12 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b2_man_mace" />
-      <equipment id="b3_gis_duke_sword_1h" />
+      <equipment id="b2_man_mace"/>
+      <equipment id="b3_gis_duke_sword_1h"/>
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
-      <equipment id="b3_gis_duke_sword_2h" />
+      <equipment id="b3_gis_duke_sword_2h"/>
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
