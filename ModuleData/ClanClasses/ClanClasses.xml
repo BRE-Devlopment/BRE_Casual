@@ -747,10 +747,11 @@
       <equipment id="b3_pilgrim_shield_1" />
       <equipment id="b3_pilgrim_shield_2" />
       <equipment id="b3_pilgrim_shield_3" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
-      <equipment id="null"/>	  
+      <equipment id="null" disablerandomize="true"/>
     </Weapon2>	
     <Head>
       <equipment id="b3_bre_monk_hair" />
@@ -799,10 +800,11 @@
       <equipment id="b3_exalted_pilgrim_shield_1" />
       <equipment id="b3_exalted_pilgrim_shield_2" />
       <equipment id="b3_exalted_pilgrim_shield_3" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
-      <equipment id="null"/>	  
+      <equipment id="null" disablerandomize="true"/>
     </Weapon2>		
     <Head>
       <equipment id="b3_bre_monk_hair" />
@@ -849,10 +851,11 @@
       <equipment id="b3_exalted_pilgrim_shield_1" />
       <equipment id="b3_exalted_pilgrim_shield_2" />
       <equipment id="b3_exalted_pilgrim_shield_3" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_mace"/>
-      <equipment id="null"/>	  
+      <equipment id="null" disablerandomize="true"/>
     </Weapon2>		
     <Head>
       <equipment id="b3_bre_monk_hair" />
@@ -898,10 +901,11 @@
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
-      <equipment id="null"/>	  
+      <equipment id="null" disablerandomize="true"/>
     </Weapon2>	
     <Head>
       <equipment id="b3_bre_monk_hair" />
@@ -937,14 +941,27 @@
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" />
-      <equipment id="null"/>	    
+      <equipment id="null" disablerandomize="true"/>
     </Weapon2>		
     <Head>
       <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_sergeant_helmet" />
+      <equipment id="b2_spiked_mail"/>
+      <equipment id="b2_flattop_mail"/>
+      <equipment id="b2_faceplate_mail"/>
+      <equipment id="b2_kettle_mail_0"/>
+      <equipment id="b2_kettle_mail_1"/>
+      <equipment id="b2_kettle_mail_2"/>
+      <equipment id="b2_norman_mail_0"/>
+      <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
       <equipment id="null" disablerandomize="true" />
     </Head>
     <Body>
@@ -977,6 +994,24 @@
     <Head>
       <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_sergeant_helmet" />
+      <equipment id="b2_spiked_mail"/>
+      <equipment id="sa_vlandian_helm_with_faceplate"/>
+      <equipment id="sa_vlandian_helm_with_faceplate_painted"/>
+      <equipment id="sa_vlandian_helm_with_faceplate_brass"/>
+      <equipment id="sa_pothelm2"/>
+      <equipment id="sa_pothelm"/>
+      <equipment id="sa_fluted_helm_with_faceplate"/>
+      <equipment id="b2_flattop_mail"/>
+      <equipment id="b2_faceplate_mail"/>
+      <equipment id="b2_kettle_mail_0"/>
+      <equipment id="b2_kettle_mail_1"/>
+      <equipment id="b2_kettle_mail_2"/>
+      <equipment id="b2_norman_mail_0"/>
+      <equipment id="b2_norman_mail_1"/>
+      <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
+      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
+      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
     </Head>
     <Body>
       <equipment id="b3_order_sergeant_body" />
@@ -998,16 +1033,18 @@
     id="brother_knight.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
-      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b3_kotr_lance_or"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b2_man_mace" disablerandomize="true" />
+      <equipment id="b2_man_mace" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b2_faussard"/>
@@ -1018,11 +1055,18 @@
     <Head>
       <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_knight_helmet" />
-
-      <equipment id="b3_squire_coif_1" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true"/>
-
+      <equipment id="b3_kerrant_head_1"/>
+      <equipment id="b3_kerrant_head_2"/>
+      <equipment id="b3_kerrant_head_3"/>
+      <equipment id="b3_squire_coif_1"/>
+      <equipment id="b3_squire_coif_2"/>
+      <equipment id="b3_squire_coif_3"/>
+      <equipment id="b3_squire_helmet_1_2"/>
+      <equipment id="b3_squire_helmet_2_2"/>
+      <equipment id="b3_squire_helmet_1"/>
+      <equipment id="b3_squire_helmet_2"/>
+      <equipment id="b3_squire_helmet_colored_1"/>
+      <equipment id="b3_squire_helmet_colored_2"/>
       <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
@@ -1060,16 +1104,18 @@
     id="commander.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
-      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b3_kotr_lance_or"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b2_man_mace" disablerandomize="true" />
+      <equipment id="b2_man_mace"/>
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b2_faussard"/>
@@ -1080,11 +1126,9 @@
     <Head>
       <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_commander_helmet" />
-
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
       <equipment id="b3_squire_coif_2" disablerandomize="true"/>
       <equipment id="b3_squire_coif_3" disablerandomize="true"/>
-
       <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
@@ -1123,15 +1167,17 @@
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b2_man_mace" disablerandomize="true" />
+      <equipment id="b2_man_mace"/>
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b2_faussard"/>
@@ -1143,11 +1189,9 @@
     <Head>
       <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_paladin_helmet" />
-
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
       <equipment id="b3_squire_coif_2" disablerandomize="true"/>
       <equipment id="b3_squire_coif_3" disablerandomize="true"/>
-
       <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
@@ -1185,16 +1229,18 @@
     id="chaplain.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
-      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b3_kotr_lance_or"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b2_man_mace" disablerandomize="true" />
+      <equipment id="b2_man_mace"/>
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b2_faussard"/>
@@ -1205,11 +1251,9 @@
     <Head>
       <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_chaplain_helmet" />
-
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
       <equipment id="b3_squire_coif_2" disablerandomize="true"/>
       <equipment id="b3_squire_coif_3" disablerandomize="true"/>
-
       <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
@@ -1247,15 +1291,17 @@
     id="inquisitor.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
-      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b3_kotr_lance_or"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_inquisitor" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
-      <equipment id="b2_man_mace" disablerandomize="true" />
+      <equipment id="b2_man_mace"/>
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b2_faussard"/>
@@ -1267,11 +1313,9 @@
     <Head>
       <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_inquisitor_helmet" />
-
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
       <equipment id="b3_squire_coif_2" disablerandomize="true"/>
       <equipment id="b3_squire_coif_3" disablerandomize="true"/>
-
       <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
@@ -1309,15 +1353,17 @@
     id="grand_master.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
-      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b3_kotr_lance_or"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_grand_master" />
+      <equipment id="null" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_man_mace" disablerandomize="true" />
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b2_faussard"/>
@@ -1329,11 +1375,9 @@
     <Head>
       <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_grand_master_helmet" />
-
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
       <equipment id="b3_squire_coif_2" disablerandomize="true"/>
       <equipment id="b3_squire_coif_3" disablerandomize="true"/>
-
       <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
@@ -1371,15 +1415,16 @@
     id="grand_prior.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
-      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+      <equipment id="b3_kotr_lance_or"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_knight_shield_or_grand_prior" />
     </Weapon1>
     <Weapon2>
-      <equipment id="b2_man_mace" disablerandomize="true" />
+      <equipment id="b2_man_mace"/>
       <equipment id="b2_bastard_axe" disablegroup="Weapon3" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true"/>
     </Weapon2>
     <Weapon3>
       <equipment id="b2_faussard"/>
@@ -1391,11 +1436,9 @@
     <Head>
       <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_order_grand_prior_helmet" />
-
       <equipment id="b3_squire_coif_1" disablerandomize="true"/>
       <equipment id="b3_squire_coif_2" disablerandomize="true"/>
       <equipment id="b3_squire_coif_3" disablerandomize="true"/>
-
       <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
@@ -14337,10 +14380,12 @@
       <equipment id="b3_kerrant_head_1"/>
       <equipment id="b3_kerrant_head_2"/>
       <equipment id="b3_kerrant_head_3"/>
-
+      <equipment id="b3_knighterrant_helmet_v4_light"/>
+      <equipment id="b3_knighterrant_helmet_v5_light"/>
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
 
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
@@ -15217,7 +15262,6 @@
       <equipment id="b2_kettle_mail_2"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
-
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
       <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
@@ -15286,7 +15330,6 @@
       <equipment id="b2_kettle_mail_2"/>
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
-
       <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
       <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
       <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
