@@ -496,6 +496,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -638,23 +639,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -1067,6 +1081,7 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
       <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
@@ -2156,6 +2171,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -2298,23 +2314,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -2908,6 +2937,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -3050,23 +3080,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -3693,6 +3736,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -3834,23 +3878,36 @@
       <equipment id="b3_squire_coif_3"/>
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -4467,6 +4524,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -4613,23 +4671,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -5248,6 +5319,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -5394,23 +5466,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -6043,6 +6128,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -6184,23 +6270,36 @@
       <equipment id="b3_squire_coif_3"/>
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -6701,6 +6800,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -6843,23 +6943,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -7368,6 +7481,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -7510,23 +7624,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -8036,6 +8163,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -8178,23 +8306,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -8703,6 +8844,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -8845,23 +8987,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -9532,6 +9687,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -9674,23 +9830,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -10204,6 +10373,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -10343,23 +10513,36 @@
       <equipment id="b3_squire_coif_3"/>
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -10863,6 +11046,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -11005,23 +11189,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -11080,6 +11277,8 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_knighterrant_helmet_v4_light"/>
+      <equipment id="b3_knighterrant_helmet_v5_light"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -11525,6 +11724,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -11667,23 +11867,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -12192,6 +12405,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -12334,23 +12548,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -12854,6 +13081,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -12993,23 +13221,36 @@
       <equipment id="b3_squire_coif_3"/>
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -13509,6 +13750,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -13651,23 +13893,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -14175,6 +14430,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -14316,23 +14572,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -14393,6 +14662,9 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
+      <equipment id="b3_knighterrant_helmet_v4_light"/>
+      <equipment id="b3_knighterrant_helmet_v5_light"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -14837,6 +15109,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -14979,23 +15252,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -15054,6 +15340,9 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
+      <equipment id="b3_knighterrant_helmet_v4_light"/>
+      <equipment id="b3_knighterrant_helmet_v5_light"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -15502,6 +15791,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -15641,23 +15931,36 @@
       <equipment id="b3_squire_coif_3"/>
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -15703,6 +16006,7 @@
     </Weapon3>
     <Head>
       <equipment id="b3_head_grism"/>
+      <equipment id="b3_kotr_head_grism"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -16127,8 +16431,8 @@
       <equipment id="b3_par_ror_boots" />
     </Leg>
     <Cape>
-      <equipment id="b3_par_ror_shoulder_r3" />
-      <equipment id="b3_par_ror_shoulder_r3_v2" />
+      <equipment id="b3_par_ror_coif_r3" />
+      <equipment id="b3_par_ror_coif_r3_v2" />
     </Cape>
     <Gloves>
       <equipment id="b3_par_ror_gauntlets_plates" />
@@ -16268,6 +16572,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -16410,23 +16715,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -16933,6 +17251,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -17075,23 +17394,36 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves"/>
@@ -17142,6 +17474,9 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
+      <equipment id="b3_knighterrant_helmet_v4_light"/>
+      <equipment id="b3_knighterrant_helmet_v5_light"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -17585,6 +17920,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -17723,25 +18059,38 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_squire_helmet_colored_old_1"/>
-      <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_helmet_colored_1"/>
+      <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -17801,6 +18150,9 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
+      <equipment id="b3_knighterrant_helmet_v4_light"/>
+      <equipment id="b3_knighterrant_helmet_v5_light"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -18251,6 +18603,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -18393,23 +18746,36 @@
       <equipment id="b3_squire_coif_3"/>
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -18467,8 +18833,11 @@
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
-      <equipment id="b3_squire_helmet_colored_1"/>
-      <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_helmet_colored_old_1"/>
+      <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
+      <equipment id="b3_knighterrant_helmet_v4_dark"/>
+      <equipment id="b3_knighterrant_helmet_v5_dark"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -18919,6 +19288,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -19061,23 +19431,36 @@
       <equipment id="b3_squire_coif_3"/>
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -19135,8 +19518,11 @@
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
-      <equipment id="b3_squire_helmet_colored_1"/>
-      <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_helmet_colored_old_1"/>
+      <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
+      <equipment id="b3_knighterrant_helmet_v4_dark"/>
+      <equipment id="b3_knighterrant_helmet_v5_dark"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -19582,6 +19968,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -19719,25 +20106,38 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_squire_helmet_colored_old_1"/>
-      <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_helmet_colored_1"/>
+      <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -19797,6 +20197,9 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
+      <equipment id="b3_knighterrant_helmet_v4_light"/>
+      <equipment id="b3_knighterrant_helmet_v5_light"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -20243,6 +20646,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -20383,23 +20787,36 @@
       <equipment id="b3_squire_coif_3"/>
       <equipment id="b3_squire_helmet_colored_old_1"/>
       <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -20457,8 +20874,11 @@
       <equipment id="b3_squire_helmet_2_2"/>
       <equipment id="b3_squire_helmet_1"/>
       <equipment id="b3_squire_helmet_2"/>
-      <equipment id="b3_squire_helmet_colored_1"/>
-      <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_helmet_colored_old_1"/>
+      <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_kerrant_dark_flattop_helm_nocloth"/>
+      <equipment id="b3_knighterrant_helmet_v4_dark"/>
+      <equipment id="b3_knighterrant_helmet_v5_dark"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -20904,6 +21324,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -21042,25 +21463,38 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_squire_helmet_colored_old_1"/>
-      <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_helmet_colored_1"/>
+      <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -21120,6 +21554,9 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
+      <equipment id="b3_knighterrant_helmet_v4_light"/>
+      <equipment id="b3_knighterrant_helmet_v5_light"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -21565,6 +22002,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -21703,25 +22141,38 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_squire_helmet_colored_old_1"/>
-      <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_helmet_colored_1"/>
+      <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
@@ -21781,6 +22232,9 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
+      <equipment id="b3_knighterrant_helmet_v4_light"/>
+      <equipment id="b3_knighterrant_helmet_v5_light"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -22226,6 +22680,7 @@
     <Weapon1>
       <equipment id="sp_arrows" archeritem="true"/>
       <equipment id="sp_arrows_fire" archeritem="true"/>
+      <equipment id="b3_archer_banner" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -22364,25 +22819,38 @@
       <equipment id="b3_squire_coif_1"/>
       <equipment id="b3_squire_coif_2"/>
       <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_squire_helmet_colored_old_1"/>
-      <equipment id="b3_squire_helmet_colored_old_2"/>
+      <equipment id="b3_squire_helmet_colored_1"/>
+      <equipment id="b3_squire_helmet_colored_2"/>
+      <equipment id="b3_squire_nasal_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_flattop_helm_nocloth_noneck"/>
+      <equipment id="b3_squire_coif_noneck"/>
+      <equipment id="b3_squire_coif_nocloth_noneck"/>
+      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
     </Head>
     <Body>
       <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <!-- <equipment id="b3_squire_body_v1_3"/> -->
       <equipment id="b3_squire_body_v2_1"/>
-      <!-- <equipment id="b3_squire_body_v2_2"/> -->
-      <!-- <equipment id="b3_squire_body_v2_3"/> -->
       <equipment id="b3_squire_body_v3_1"/>
-      <!-- <equipment id="b3_squire_body_v3_2"/> -->
-      <!-- <equipment id="b3_squire_body_v3_3"/> -->
+      <equipment id="b3_squire_body_v1_2"/>
+      <equipment id="b3_squire_body_old_v1"/>
+      <equipment id="b3_squire_body_old_v2"/>
+      <equipment id="b3_squire_body_old_v3"/>
+      <equipment id="b3_squire_body_old_v4"/>
+      <equipment id="b3_squire_body_old_v5"/>
+      <equipment id="b3_squire_body_old_v6"/>
+      <equipment id="b3_squire_body_old_v7"/>
+      <equipment id="b3_squire_body_old_v8"/>
+      <equipment id="b3_squire_body_old_v9"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg_dark"/>
     </Leg>
     <Cape>
       <equipment id="b3_squire_backpack"/>
+      <equipment id="b3_squire_backpack_v1"/>
+      <equipment id="b3_squire_backpack_v2"/>
+      <equipment id="b3_squire_backpack_v3"/>
+      <equipment id="b3_squire_backpack_v4"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kerrant_gloves_dark"/>
