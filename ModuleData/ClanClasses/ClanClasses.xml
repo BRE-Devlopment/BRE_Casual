@@ -14296,6 +14296,130 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
+  <ClanClass
+    clan="BAS"
+    color1="FFd7a12b"
+    color2="FF8e1818"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
+    name="Rempart"
+    mpclassdivision="bre_infantry"
+    id="bulwark.bas">
+    <Weapon0>
+      <equipment id="b3_beastslayers_poleaxe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_beastslayers_tower_shield_v1"/>
+      <equipment id="b3_beastslayers_tower_shield_v2"/>
+      <equipment id="b3_beastslayers_tower_shield_v3"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_beastslayers_huntingsword_1h"/>
+      <equipment id="b3_beastslayers_mace"/>
+    </Weapon2>
+    <Head>
+      <equipment id="b3_beastslayers_bulwark_helmet_v1"/>
+      <equipment id="b3_beastslayers_bulwark_helmet_v2"/>
+      <equipment id="b3_beastslayers_bulwark_helmet_v3"/>
+    </Head>
+    <Body>
+      <equipment id="b3_beastslayers_bulwark_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_beastslayers_bulwark_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_beastslayers_bulwark_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_beastslayers_bulwark_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="BAS"
+    color1="FFd7a12b"
+    color2="FF8e1818"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
+    name="Teuer de Betes"
+    mpclassdivision="bre_infantry"
+    id="beastslayer.bas">
+    <Weapon0>
+      <equipment id="b3_beastslayers_poleaxe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_beastslayers_tower_shield_v1"/>
+      <equipment id="b3_beastslayers_tower_shield_v2"/>
+      <equipment id="b3_beastslayers_tower_shield_v3"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_beastslayers_huntingsword_1h"/>
+      <equipment id="b3_beastslayers_mace"/>
+    </Weapon2>
+    <Head>
+      <equipment id="b3_beastslayers_beastslayer_helmet_v1"/>
+      <equipment id="b3_beastslayers_beastslayer_helmet_v1_painted"/>
+      <equipment id="b3_beastslayers_bulwark_helmet_v2"/>
+      <equipment id="b3_beastslayers_beastslayer_helmet_v2"/>
+      <equipment id="b3_beastslayers_beastslayer_helmet_v2_painted"/>
+      <equipment id="b3_beastslayers_beastslayer_helmet_v3"/>
+      <equipment id="b3_beastslayers_beastslayer_helmet_v3_painted"/>
+    </Head>
+    <Body>
+      <equipment id="b3_beastslayers_beastslayer_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_beastslayers_beastslayer_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_beastslayers_beastslayer_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_beastslayers_beastslayer_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="BAS"
+    color1="FFd7a12b"
+    color2="FF8e1818"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
+    name="Bastion"
+    mpclassdivision="bre_infantry"
+    id="bastion.bas">
+    <Weapon0>
+      <equipment id="b3_beastslayers_poleaxe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_beastslayers_tower_shield_v1"/>
+      <equipment id="b3_beastslayers_tower_shield_v2"/>
+      <equipment id="b3_beastslayers_tower_shield_v3"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_beastslayers_huntingsword_1h"/>
+      <equipment id="b3_beastslayers_mace"/>
+    </Weapon2>
+    <Head>
+      <equipment id="b3_beastslayers_bastion_helmet_v1"/>
+      <equipment id="b3_beastslayers_bastion_helmet_v1_painted"/>
+      <equipment id="b3_beastslayers_bastion_helmet_v2"/>
+      <equipment id="b3_beastslayers_bastion_helmet_v2_painted"/>
+      <equipment id="b3_beastslayers_bastion_helmet_v3"/>
+      <equipment id="b3_beastslayers_bastion_helmet_v3_painted"/>
+    </Head>
+    <Body>
+      <equipment id="b3_beastslayers_bastion_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_beastslayers_bastion_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_beastslayers_bastion_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_beastslayers_bastion_gauntlets"/>
+    </Gloves>
+  </ClanClass>
   <ClanClass 
     clan="BAS"
     color1="FFd7a12b"
@@ -14628,7 +14752,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Bohémond de Bastogne"
     mpclassdivision="bre_cavalry"
-    id="knight_errant.bas">
+    id="knight_of_the_realm.bas">
     <Weapon0>
       <equipment id="b2_lance_bas"/>
       <equipment id="b3_kotr_lance_bas" disablerandomize="true"/>
@@ -14646,13 +14770,13 @@
       <equipment id="b3_bas_duke_sword_2h"/>
     </Weapon3>
     <Head>
-      <equipment id="b3_kerrant_head_1"/>
-      <equipment id="b3_kerrant_head_2"/>
-      <equipment id="b3_kerrant_head_3"/>
-
-      <equipment id="b3_squire_coif_1"/>
-      <equipment id="b3_squire_coif_2"/>
-      <equipment id="b3_squire_coif_3"/>
+      <equipment id="b3_kotr_head_1" disablerandomize="true"/>
+      <equipment id="b3_kotr_head_2" disablerandomize="true"/>
+      <equipment id="b3_kotr_head_3" disablerandomize="true"/>
+      <equipment id="b3_kotr_head_4" disablerandomize="true"/>
+      <equipment id="b3_kotr_head_5" disablerandomize="true"/>
+      <equipment id="b3_kotr_head_6" disablerandomize="true"/>
+      <equipment id="b3_kotr_head_7" disablerandomize="true"/>
 
       <equipment id="b3_squire_helmet_1_2"/>
       <equipment id="b3_squire_helmet_2_2"/>
@@ -14660,9 +14784,6 @@
       <equipment id="b3_squire_helmet_2"/>
       <equipment id="b3_squire_helmet_colored_1"/>
       <equipment id="b3_squire_helmet_colored_2"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
-      <equipment id="b3_knighterrant_helmet_v4_light"/>
-      <equipment id="b3_knighterrant_helmet_v5_light"/>
       <equipment id="null"/>
     </Head>
     <Body>
@@ -14671,10 +14792,16 @@
       <equipment id="b3_kotr_body_v3_bas"/>
     </Body>
     <Leg>
-      <equipment id="b3_kerrant_leg"/>
+      <equipment id="b3_kotr_leg_1"/>
+      <equipment id="b3_kotr_leg_2"/>
     </Leg>
+    <Cape>
+      <equipment id="null"/>
+      <equipment id="b3_crest_bas" disablerandomize="true"/>
+    </Cape>
     <Gloves>
-      <equipment id="b3_kerrant_gloves"/>
+      <equipment id="b3_kotr_gloves_1"/>
+      <equipment id="b3_kotr_gloves_2"/>
     </Gloves>
     <HorseHarness>
       <equipment id="b3_kotr_horse_bas" cavalryitem="true"/>
@@ -21587,7 +21714,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry"
@@ -21655,7 +21782,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry"
@@ -21727,7 +21854,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry"
@@ -21787,7 +21914,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry"
@@ -21869,7 +21996,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer"
@@ -21931,7 +22058,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer"
@@ -21986,7 +22113,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer"
@@ -22043,7 +22170,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry"
@@ -22114,7 +22241,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
@@ -22193,7 +22320,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Theudis d'Embrun"
     mpclassdivision="bre_cavalry"
