@@ -14041,6 +14041,130 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
+  <ClanClass
+    clan="BAS"
+    color1="FFd7a12b"
+    color2="FF8e1818"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
+    name="Rempart"
+    mpclassdivision="bre_infantry"
+    id="bulwark.bas">
+    <Weapon0>
+      <equipment id="b3_beastslayers_poleaxe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_beastslayers_tower_shield_v1"/>
+      <equipment id="b3_beastslayers_tower_shield_v2"/>
+      <equipment id="b3_beastslayers_tower_shield_v3"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_beastslayers_huntingsword_1h"/>
+      <equipment id="b3_beastslayers_mace"/>
+    </Weapon2>
+    <Head>
+      <equipment id="b3_beastslayers_bulwark_helmet_v1"/>
+      <equipment id="b3_beastslayers_bulwark_helmet_v2"/>
+      <equipment id="b3_beastslayers_bulwark_helmet_v3"/>
+    </Head>
+    <Body>
+      <equipment id="b3_beastslayers_bulwark_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_beastslayers_bulwark_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_beastslayers_bulwark_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_beastslayers_bulwark_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="BAS"
+    color1="FFd7a12b"
+    color2="FF8e1818"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
+    name="Teuer de Betes"
+    mpclassdivision="bre_infantry"
+    id="beastslayer.bas">
+    <Weapon0>
+      <equipment id="b3_beastslayers_poleaxe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_beastslayers_tower_shield_v1"/>
+      <equipment id="b3_beastslayers_tower_shield_v2"/>
+      <equipment id="b3_beastslayers_tower_shield_v3"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_beastslayers_huntingsword_1h"/>
+      <equipment id="b3_beastslayers_mace"/>
+    </Weapon2>
+    <Head>
+      <equipment id="b3_beastslayers_beastslayer_helmet_v1"/>
+      <equipment id="b3_beastslayers_beastslayer_helmet_v1_painted"/>
+      <equipment id="b3_beastslayers_bulwark_helmet_v2"/>
+      <equipment id="b3_beastslayers_beastslayer_helmet_v2"/>
+      <equipment id="b3_beastslayers_beastslayer_helmet_v2_painted"/>
+      <equipment id="b3_beastslayers_beastslayer_helmet_v3"/>
+      <equipment id="b3_beastslayers_beastslayer_helmet_v3_painted"/>
+    </Head>
+    <Body>
+      <equipment id="b3_beastslayers_beastslayer_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_beastslayers_beastslayer_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_beastslayers_beastslayer_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_beastslayers_beastslayer_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="BAS"
+    color1="FFd7a12b"
+    color2="FF8e1818"
+    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
+    name="Bastion"
+    mpclassdivision="bre_infantry"
+    id="bastion.bas">
+    <Weapon0>
+      <equipment id="b3_beastslayers_poleaxe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_beastslayers_tower_shield_v1"/>
+      <equipment id="b3_beastslayers_tower_shield_v2"/>
+      <equipment id="b3_beastslayers_tower_shield_v3"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_beastslayers_huntingsword_1h"/>
+      <equipment id="b3_beastslayers_mace"/>
+    </Weapon2>
+    <Head>
+      <equipment id="b3_beastslayers_bastion_helmet_v1"/>
+      <equipment id="b3_beastslayers_bastion_helmet_v1_painted"/>
+      <equipment id="b3_beastslayers_bastion_helmet_v2"/>
+      <equipment id="b3_beastslayers_bastion_helmet_v2_painted"/>
+      <equipment id="b3_beastslayers_bastion_helmet_v3"/>
+      <equipment id="b3_beastslayers_bastion_helmet_v3_painted"/>
+    </Head>
+    <Body>
+      <equipment id="b3_beastslayers_bastion_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_beastslayers_bastion_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_beastslayers_bastion_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_beastslayers_bastion_gauntlets"/>
+    </Gloves>
+  </ClanClass>
   <ClanClass 
     clan="BAS"
     color1="FFd7a12b"
