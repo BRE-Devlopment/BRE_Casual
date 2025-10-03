@@ -14778,13 +14778,11 @@
       <equipment id="b3_kotr_head_6" disablerandomize="true"/>
       <equipment id="b3_kotr_head_7" disablerandomize="true"/>
 
-      <equipment id="b3_squire_helmet_1_2"/>
-      <equipment id="b3_squire_helmet_2_2"/>
-      <equipment id="b3_squire_helmet_1"/>
-      <equipment id="b3_squire_helmet_2"/>
-      <equipment id="b3_squire_helmet_colored_1"/>
-      <equipment id="b3_squire_helmet_colored_2"/>
-      <equipment id="null"/>
+      <equipment id="b3_squire_coif_1"  disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2"  disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3"  disablegroup="Cape"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_bas"/>
