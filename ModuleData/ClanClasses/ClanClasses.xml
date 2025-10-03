@@ -21278,7 +21278,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry"
@@ -21346,7 +21346,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry"
@@ -21418,7 +21418,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry"
@@ -21478,7 +21478,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry"
@@ -21560,7 +21560,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer"
@@ -21622,7 +21622,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer"
@@ -21677,7 +21677,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer"
@@ -21733,7 +21733,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry"
@@ -21804,7 +21804,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
@@ -21870,7 +21870,7 @@
   <ClanClass 
     clan="THEU"
     color1="FF8a1816"
-    color2="FF8a1816"
+    color2="FFffffff"
     banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Theudis d'Embrun"
     mpclassdivision="bre_cavalry"
