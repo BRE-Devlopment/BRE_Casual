@@ -14483,7 +14483,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Bohémond de Bastogne"
     mpclassdivision="bre_cavalry"
-    id="knight_errant.bas">
+    id="knight_of_the_realm.bas">
     <Weapon0>
       <equipment id="b2_lance_bas"/>
       <equipment id="b3_kotr_lance_bas" disablerandomize="true"/>
@@ -14501,23 +14501,19 @@
       <equipment id="b3_bas_duke_sword_2h"/>
     </Weapon3>
     <Head>
-      <equipment id="b3_kerrant_head_1"/>
-      <equipment id="b3_kerrant_head_2"/>
-      <equipment id="b3_kerrant_head_3"/>
-      <equipment id="b3_knighterrant_helmet_v4_light"/>
-      <equipment id="b3_knighterrant_helmet_v5_light"/>
-      <equipment id="b3_squire_coif_1"/>
-      <equipment id="b3_squire_coif_2"/>
-      <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_kerrant_flattop_helm_nocloth"/>
+      <equipment id="b3_kotr_head_1"/>
+      <equipment id="b3_kotr_head_2"/>
+      <equipment id="b3_kotr_head_3"/>
+      <equipment id="b3_kotr_head_4"/>
+      <equipment id="b3_kotr_head_5"/>
+      <equipment id="b3_kotr_head_6"/>
+      <equipment id="b3_kotr_head_7"/>
 
-      <equipment id="b3_squire_helmet_1_2"/>
-      <equipment id="b3_squire_helmet_2_2"/>
-      <equipment id="b3_squire_helmet_1"/>
-      <equipment id="b3_squire_helmet_2"/>
-      <equipment id="b3_squire_helmet_colored_1"/>
-      <equipment id="b3_squire_helmet_colored_2"/>
-      <equipment id="null"/>
+      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
+
+      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
       <equipment id="b3_kotr_body_v1_bas"/>
@@ -14525,10 +14521,16 @@
       <equipment id="b3_kotr_body_v3_bas"/>
     </Body>
     <Leg>
-      <equipment id="b3_kerrant_leg"/>
+      <equipment id="b3_kotr_leg_1"/>
+      <equipment id="b3_kotr_leg_2"/>
     </Leg>
+    <Cape>
+      <equipment id="b3_crest_bas"/>
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </Cape>
     <Gloves>
-      <equipment id="b3_kerrant_gloves"/>
+      <equipment id="b3_kotr_gloves_1"/>
+      <equipment id="b3_kotr_gloves_2"/>
     </Gloves>
     <HorseHarness>
       <equipment id="b3_kotr_horse_bas" cavalryitem="true"/>
