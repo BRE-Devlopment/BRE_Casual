@@ -21688,10 +21688,10 @@
       <equipment id="b3_kerrant_body_v3_gau"/>
     </Body>
     <Leg>
-      <equipment id="b3_kerrant_leg_dark"/>
+      <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Gloves>
-      <equipment id="b3_kerrant_gloves_dark"/>
+      <equipment id="b3_kerrant_gloves"/>
     </Gloves>
     <HorseHarness>
       <equipment id="b3_kotr_horse_gau" cavalryitem="true"/>
@@ -22366,10 +22366,10 @@
       <equipment id="b3_kerrant_body_v3_theu"/>
     </Body>
     <Leg>
-      <equipment id="b3_kerrant_leg_dark"/>
+      <equipment id="b3_kerrant_leg"/>
     </Leg>
     <Gloves>
-      <equipment id="b3_kerrant_gloves_dark"/>
+      <equipment id="b3_kerrant_gloves"/>
     </Gloves>
     <HorseHarness>
       <equipment id="b3_kotr_horse_theu" cavalryitem="true"/>
