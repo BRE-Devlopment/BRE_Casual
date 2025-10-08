@@ -11,6 +11,17 @@
 		<DependedModule Id="Multiplayer" Optional="false" />
 		<DependedModule Id="BRE_Core" Optional="false" />
 	</DependedModules>
+	<SubModules>
+		<SubModule>
+			<Name value="BRE_Casual"/>
+			<DLLName value="BRE_Casual.dll"/>
+			<SubModuleClassType value="BRE_Casual.SubModule"/>
+			<Tags>
+				<Tag key="DedicatedServerType" value="none" />
+				<Tag key="IsNoRenderModeElement" value="false" />
+			</Tags>
+		</SubModule>
+	</SubModules>
 	<Xmls>
 		<XmlNode>
 			<XmlName id="ClanClasses" path="ClanClasses"/>

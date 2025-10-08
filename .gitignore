@@ -2,3 +2,9 @@ AssetPackages
 DsAssetPackages
 EmAssetPackages
 Shaders
+bin/
+obj/
+*.dll
+*.pdb
+*.user
+.vs/
