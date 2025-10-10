@@ -16956,13 +16956,7 @@
       <equipment id="null" disablerandomize="true"/>
     </Weapon3>
     <Head>
-      <equipment id="b3_kotr_head_1"/>
-      <equipment id="b3_kotr_head_2"/>
-      <equipment id="b3_kotr_head_3"/>
-      <equipment id="b3_kotr_head_4"/>
-      <equipment id="b3_kotr_head_5"/>
-      <equipment id="b3_kotr_head_6"/>
-      <equipment id="b3_kotr_head_7"/>
+      <equipment id="b3_cassyon_de_parravon_helmet"/>
 
       <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
       <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
@@ -16971,21 +16965,17 @@
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
     <Body>
-      <equipment id="b3_kotr_body_v1_par"/>
-      <equipment id="b3_kotr_body_v2_par"/>
-      <equipment id="b3_kotr_body_v3_par"/>
+      <equipment id="b3_cassyon_de_parravon_torso"/>
     </Body>
     <Leg>
-      <equipment id="b3_kotr_leg_1"/>
-      <equipment id="b3_kotr_leg_2"/>
+      <equipment id="b3_cassyon_de_parravon_boots"/>
     </Leg>
     <Cape>
       <equipment id="b3_crest_par"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Cape>
     <Gloves>
-      <equipment id="b3_kotr_gloves_1"/>
-      <equipment id="b3_kotr_gloves_2"/>
+      <equipment id="b3_cassyon_de_parravon_gauntlets"/>
     </Gloves>
     <HorseHarness>
       <equipment id="b3_kotr_horse_par" cavalryitem="true"/>
