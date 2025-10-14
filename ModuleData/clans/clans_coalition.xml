@@ -1,0 +1,208 @@
+<Clans>
+	<Clan
+		id="ENEMY"
+		name="Coalition"
+	    color1="FF2D3F1D"
+	    color2="FFFFFFFF"
+	    banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0">
+		<UnitClasses>
+			<UnitClass id="coalition_infantry"/>
+			<UnitClass id="coalition_archer"/>
+			<UnitClass id="coalition_cavalry"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="ALMO"
+		name="Almogàver"
+	    color1="FFed9a13"
+	    color2="FF5a1310"
+	    banner="7002.132.14.1536.1536.764.764.0.0.0">
+		<UnitClasses>
+			<UnitClass id="almo_almogaver"/>
+			<UnitClass id="almo_almugaten"/>
+			<UnitClass id="almo_companyia_catalana_d_orient"/>
+			<UnitClass id="almo_adalil"/>
+			<UnitClass id="almo_hostigador"/>
+			<UnitClass id="almo_cavaller"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="BD"
+		name="Blood Diamond"
+	    color1="FF0d0d0d"
+	    color2="FF830d0d"
+	    banner="2.40.116.1536.1536.929.764.1.0.0.512.142.116.449.449.813.750.1.1.0">
+		<UnitClasses>
+			<UnitClass id="bd_infantry"/>
+			<UnitClass id="bd_officer"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="IPL"
+		name="Imperium Polskie"
+	    color1="FFa80d05"
+	    color2="FFffffff"
+	    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0">
+		<UnitClasses>
+			<UnitClass id="ipl_infantry"/>
+			<UnitClass id="ipl_archer"/>
+			<UnitClass id="ipl_archer_officer"/>
+			<UnitClass id="ipl_cavalry"/>
+			<UnitClass id="ipl_arris" forced_color1="FFffffff" forced_color2="FFf6d000"/>
+			<UnitClass id="ipl_arris_dismounted" forced_color1="FFffffff" forced_color2="FFf6d000"/>
+			<UnitClass id="ipl_dunleap" forced_color1="FFf1c500" forced_color2="FF000000"/>
+			<UnitClass id="ipl_dunleap_dismounted" forced_color1="FFf1c500" forced_color2="FF000000"/>
+			<UnitClass id="ipl_grimuald" forced_color1="FFf2f2f2" forced_color2="FF64ad42"/>
+			<UnitClass id="ipl_grimuald_dismounted" forced_color1="FFf2f2f2" forced_color2="FF64ad42"/>
+			<UnitClass id="ipl_hypnosis" forced_color1="FF080808" forced_color2="FFa3076c"/>
+			<UnitClass id="ipl_hypnosis_dismounted" forced_color1="FF080808" forced_color2="FFa3076c"/>
+			<UnitClass id="ipl_legionista" forced_color1="FF8d0000" forced_color2="FFf6d000"/>
+			<UnitClass id="ipl_legionista_dismounted" forced_color1="FF8d0000" forced_color2="FFf6d000"/>
+			<UnitClass id="ipl_radon" forced_color1="FF00600c" forced_color2="FF0d0d0d"/>
+			<UnitClass id="ipl_radon_dismounted" forced_color1="FF00600c" forced_color2="FF0d0d0d"/>
+			<UnitClass id="ipl_vino" forced_color1="FF0a0a0a" forced_color2="FFffaa09"/>
+			<UnitClass id="ipl_vino_dismounted" forced_color1="FF0a0a0a" forced_color2="FFffaa09"/>
+			<UnitClass id="ipl_weteran" forced_color1="FFb12218" forced_color2="FF0077e7"/>
+			<UnitClass id="ipl_weteran_dismounted" forced_color1="FFb12218" forced_color2="FF0077e7"/>
+			<UnitClass id="ipl_mrnoname" forced_color1="FF000000" forced_color2="FF0087f5"/>
+			<UnitClass id="ipl_mrnoname_dismounted" forced_color1="FF000000" forced_color2="FF0087f5"/>
+			<UnitClass id="ipl_mar" forced_color1="FF740082" forced_color2="FF032e7c"/>
+			<UnitClass id="ipl_mar_dismounted" forced_color1="FF740082" forced_color2="FF032e7c"/>
+			<UnitClass id="ipl_volv" forced_color1="FFffffff" forced_color2="FF000000"/>
+			<UnitClass id="ipl_volv_dismounted" forced_color1="FFffffff" forced_color2="FF000000"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="KOTF"
+		name="Kingdom of the Franks"
+	    color1="FF224277"
+	    color2="FFf7bf47"
+	    banner="27.15.12.1536.1536.764.764.1.0.0.6008.40.40.500.500.764.764.0.0.0">
+		<UnitClasses>
+			<UnitClass id="kotf_infantry"/>
+			<UnitClass id="kotf_commander"/>
+			<UnitClass id="kotf_archer"/>
+			<UnitClass id="kotf_cavalry"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="KOH"
+		name="Völsung Clan"
+	    color1="FF050505"
+	    color2="FFbdbdbd"
+	    banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0">
+		<UnitClasses>
+			<UnitClass id="koh_infantry"/>
+			<UnitClass id="koh_berserker"/>
+			<UnitClass id="koh_lendmann"/>
+			<UnitClass id="koh_adal"/>
+			<UnitClass id="koh_bogimadr"/>
+			<UnitClass id="koh_langbogimadr"/>
+			<UnitClass id="koh_riddari"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="XIII"
+		name="XIII Tagma"
+	    color1="FF361d80"
+	    color2="FFf1c232"
+	    banner="11.6.6.2000.2000.764.764.0.0.0.342.121.121.500.500.764.764.0.0.0">
+		<UnitClasses>
+			<UnitClass id="xiii_scutatus"/>
+			<UnitClass id="xiii_archon_scutatus"/>
+			<UnitClass id="xiii_gladiator"/>
+			<UnitClass id="xiii_lanista"/>
+			<UnitClass id="xiii_bandophorus"/>
+			<UnitClass id="xiii_saggitarius"/>
+			<UnitClass id="xiii_archon_saggitarius"/>
+			<UnitClass id="xiii_cataphract"/>
+			<UnitClass id="xiii_archon_cataphract"/>
+			<UnitClass id="xiii_comes_and_excubitores"/>
+			<UnitClass id="xiii_empire_nobility"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="SVCI"
+		name="Štvanci"
+	    color1="FF6f1716"
+	    color2="FFf4ebe9"
+	    banner="11.6.6.2000.2000.764.764.0.0.0.342.121.121.500.500.764.764.0.0.0">
+		<UnitClasses>
+			<UnitClass id="svci_kandidat"/>
+			<UnitClass id="svci_knecht"/>
+			<UnitClass id="svci_beschossene_knecht"/>
+			<UnitClass id="svci_fusknecht"/>
+			<UnitClass id="svci_gefreiter"/>
+			<UnitClass id="svci_beschossene_gefreiter"/>
+			<UnitClass id="svci_doppelsoldner"/>
+			<UnitClass id="svci_trabant"/>
+			<UnitClass id="svci_fahnrich"/>
+			<UnitClass id="svci_rottmeister"/>
+			<UnitClass id="svci_schutze"/>
+			<UnitClass id="svci_beschossene_schutze"/>
+			<UnitClass id="svci_fusschutze"/>
+			<UnitClass id="svci_haupt_schutze"/>
+			<UnitClass id="svci_knappe"/>
+			<UnitClass id="svci_reiter"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="MAW"
+		name="Mercenaries of the Maw"
+	    color1="FF0B0C11"
+	    color2="FFefece5"
+	    banner="11.116.116.1836.1836.768.788.1.0.330.404.33.33.637.644.762.762.1.1.0">
+		<UnitClasses>
+			<UnitClass id="maw_gnoblar"/>
+			<UnitClass id="maw_bull"/>
+			<UnitClass id="maw_irongut"/>
+			<UnitClass id="maw_leadbelcher"/>
+			<UnitClass id="maw_rider_horse"/>
+			<UnitClass id="maw_rider_camel"/>
+			<UnitClass id="maw_wamen"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="OMEY"
+		name="Guardia Omeya"
+	    color1="FF1623ab"
+	    color2="FFFFFFFF"
+	    banner="11.148.1.913.1278.763.763.0.0.0.6502.7.7.640.640.764.764.1.0.0.503.128.128.480.480.764.764.1.0.0.503.12.12.470.470.764.764.1.0.0.6501.127.127.400.400.764.764.1.0.0">
+		<UnitClasses>
+			<UnitClass id="omey_infantry"/>
+			<UnitClass id="omey_officer"/>
+			<UnitClass id="omey_archer"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="VD"
+		name="Vestmar Dominion"
+	    color1="FF264d16"
+	    color2="FF0d0d0d"
+	    banner="35.116.2.1418.1464.766.759.0.0.0.316.2.144.522.523.764.752.1.0.0.503.2.116.347.318.765.818.0.0.0.120.40.116.238.237.777.768.1.1.0.340.15.116.166.124.769.622.0.0.0.301.15.116.171.226.765.894.0.0.90">
+		<UnitClasses>
+			<UnitClass id="vd_infantry"/>
+			<UnitClass id="vd_officer"/>
+			<UnitClass id="vd_commander"/>
+			<UnitClass id="vd_streltsy"/>
+			<UnitClass id="vd_lancer"/>
+			<UnitClass id="vd_cossack"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="EICH"
+		name="Eichenwacht"
+	    color1="FFfa591e"
+	    color2="FFffffff"
+	    banner="11.611.611.2000.2000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0">
+		<UnitClasses>
+			<UnitClass id="eich_jungrecke"/>
+			<UnitClass id="eich_knecht"/>
+			<UnitClass id="eich_eichgeschworener"/>
+			<UnitClass id="eich_kronengarde"/>
+			<UnitClass id="eich_schutzenknecht"/>
+			<UnitClass id="eich_hainritter"/>
+			<UnitClass id="eich_marschall"/>
+		</UnitClasses>
+	</Clan>
+</Clans>

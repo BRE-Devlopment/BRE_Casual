@@ -1,0 +1,156 @@
+<UnitClasses>
+	<UnitClass
+		id="omey_infantry"
+		name="Infantry"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="sp_banner_aserai3" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="omey_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_southern_noble_helmet"/>
+		      	<Item id="mp_aserai_battle_crown"/>
+		      	<Item id="sp_brass_aserai_helmet_b_closed"/>
+		      	<Item id="sp_brass_aserai_helmet_b_leather"/>
+		      	<Item id="ba_turban_helmet_1"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sp_aserai_scale_armor_on_chain"/>
+		      	<Item id="mp_desert_scale_armor"/>
+		      	<Item id="mp_ringed_desert_armor"/>
+		      	<Item id="mp_aserai_armor_02"/>
+		      	<Item id="mp_aserai_armor_02_b"/>
+		      	<Item id="mp_aserai_civil_a"/>
+		      	<Item id="sa_coat_of_plates11_c"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_leather_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sp_aserai_scale_shoulder_e"/>
+		      	<Item id="sp_aserai_scale_shoulder_c"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_padded_vambrace"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="omey_officer"
+		name="Officer"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="sp_banner_aserai3" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="omey_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_aserai_lord_helmet_a"/>
+		      	<Item id="mp_aserai_battle_crown" disable_randomize="true"/>
+		      	<Item id="sp_brass_aserai_helmet_b_closed" disable_randomize="true"/>
+		      	<Item id="sp_brass_aserai_helmet_b_leather" disable_randomize="true"/>
+		      	<Item id="ba_turban_helmet_1" disable_randomize="true"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sp_aserai_scale_armor_on_chain"/>
+		      	<Item id="mp_desert_scale_armor" disable_randomize="true"/>
+		      	<Item id="mp_ringed_desert_armor" disable_randomize="true"/>
+		      	<Item id="mp_aserai_armor_02" disable_randomize="true"/>
+		      	<Item id="mp_aserai_armor_02_b" disable_randomize="true"/>
+		      	<Item id="mp_aserai_civil_a" disable_randomize="true"/>
+		      	<Item id="sa_coat_of_plates11_c" disable_randomize="true"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_leather_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sp_empire_cape_a"/>
+		      	<Item id="sp_aserai_scale_shoulder_e" disable_randomize="true"/>
+		      	<Item id="sp_aserai_scale_shoulder_c" disable_randomize="true"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_padded_vambrace"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="omey_archer"
+		name="Archer"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_cheap_bow"/>
+		      	<Item id="sp_lowland_bow"/>
+		      	<Item id="sp_yew_bow"/>
+		      	<Item id="sp_noble_long_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_dagger"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_southern_noble_helmet"/>
+		      	<Item id="mp_aserai_battle_crown"/>
+		      	<Item id="sp_brass_aserai_helmet_b_closed"/>
+		      	<Item id="sp_brass_aserai_helmet_b_leather"/>
+		      	<Item id="ba_turban_helmet_1"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sp_aserai_scale_armor_on_chain"/>
+		      	<Item id="mp_desert_scale_armor"/>
+		      	<Item id="mp_ringed_desert_armor"/>
+		      	<Item id="mp_aserai_armor_02"/>
+		      	<Item id="mp_aserai_armor_02_b"/>
+		      	<Item id="mp_aserai_civil_a"/>
+		      	<Item id="sa_coat_of_plates11_c"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_leather_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sp_aserai_scale_shoulder_e"/>
+		      	<Item id="sp_aserai_scale_shoulder_c"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_padded_vambrace"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>

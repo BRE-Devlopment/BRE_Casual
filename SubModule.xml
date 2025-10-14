@@ -13,19 +13,13 @@
 	</DependedModules>
 	<Xmls>
 		<XmlNode>
-			<XmlName id="ClanClasses" path="ClanClasses"/>
+			<XmlName id="UnitClasses" path="unit_classes" />
 			<IncludedGameTypes>
 				<GameType value = "MultiplayerGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
-			<XmlName id="MPCharacters" path="characters"/>
-			<IncludedGameTypes>
-				<GameType value = "MultiplayerGame"/>
-			</IncludedGameTypes>
-		</XmlNode>
-		<XmlNode>
-			<XmlName id="MPClassDivisions" path="classdivisions"/>
+			<XmlName id="Clans" path="clans" />
 			<IncludedGameTypes>
 				<GameType value = "MultiplayerGame"/>
 			</IncludedGameTypes>

@@ -1,0 +1,295 @@
+<UnitClasses>
+	<UnitClass
+		id="almo_almogaver"
+		name="Almogàver"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_bracketed_heater_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sp_cervelliere_over_cloth_headwrap"/>
+		      	<Item id="mp_cervelliere_over_arming_coif"/>
+		      	<Item id="mp_nasal_cervelliere_over_padded_coif"/>
+		      	<Item id="mp_nasal_cervelliere_over_laced_coif"/>
+		      	<Item id="mp_nasal_helmet_with_leather"/>
+		      	<Item id="mp_spangenhelm_with_leather"/>
+		      	<Item id="mp_spangenhelm_with_padded_cloth"/>
+		      	<Item id="mp_segmented_cervelliere_over_padded_cloth"/>
+		      	<Item id="mp_leather_studdedhelm_over_thinhide"/>
+		      	<Item id="mp_leather_studdedhelm_over_roughscale"/>
+		      	<Item id="almo_cervellera"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_layered_leather_tunic"/>
+		      	<Item id="sp_nordic_sloven"/>
+		      	<Item id="mp_nordic_sloven_over_mail"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_ragged_boots"/>
+		      	<Item id="mp_strapped_leather_boots"/>
+		      	<Item id="mp_rough_tied_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_battania_shoulder_furr"/>
+		      	<Item id="mp_hood"/>
+		      	<Item id="mp_wolf_shoulder"/>
+		      	<Item id="mp_battania_shoulder_strap"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_armwraps"/>
+		      	<Item id="mp_guarded_armwraps"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="almo_almugaten"
+		name="Almugatén"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="sp_banner_khuzait1" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_bracketed_heater_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_nasal_cervelliere_over_mail_coif"/>
+		      	<Item id="mp_nasal_cervelliere_over_padded_coif"/>
+		      	<Item id="mp_segmented_skullcap_over_mail_coif"/>
+		      	<Item id="almo_cervellera"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Body>
+		      	<Item id="almo_sobrecota"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_mail_chausses"/>
+		      	<Item id="mp_strapped_mail_chausses"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_western_chain_shoulders"/>
+		      	<Item id="sp_empire_cape_a"/>
+		      	<Item id="mp_battania_shoulder_strap"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_mail_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="almo_companyia_catalana_d_orient"
+		name="Companyia Catalana d’Orient"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_reinforced_kite_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_visoredkettlehelmet"/>
+		      	<Item id="mp_peaked_helmet_over_mail_coif"/>
+		      	<Item id="sa_italio_norman_helm"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_imperial_lamellar_over_leather"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_mail_chausses"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_varangian_bra_royal"/>
+		      	<Item id="mp_imperial_studded_strip_shoulders"/>
+		      	<Item id="mp_varangian_bra_basic"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_mail_mitten"/>
+		      	<Item id="mp_reinforced_mail_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="almo_adalil"
+		name="Adalil"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_heavy_heater_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_sugarloaf_helm"/>
+		      	<Item id="sa_sugarloaf_helm2"/>
+		      	<Item id="sa_vlandian_helm_with_faceplate_painted"/>
+		      	<Item id="sa_sallet_no_visor"/>
+		      	<Item id="mp_western_crowned_plated_helmet"/>
+		      	<Item id="sp_empire_crown_north"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_sacoat3"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_mail_chausses"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_western_chain_shoulders"/>
+		      	<Item id="sp_empire_cape_a"/>
+		      	<Item id="mp_varangian_bra_royal"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_mail_mitten"/>
+		      	<Item id="mp_reinforced_mail_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="almo_hostigador"
+		name="Hostigador"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_yew_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_peasant_dagger"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_cervelliere_over_arming_coif"/>
+		      	<Item id="sp_cervelliere_over_cloth_headwrap"/>
+		      	<Item id="mp_cervelliere_over_padded_cap"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_nordic_sloven_leather"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_ragged_boots"/>
+		      	<Item id="mp_strapped_shoes"/>
+		      	<Item id="mp_wrapped_shoes"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_wolf_shoulder"/>
+		      	<Item id="mp_hood"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_armwraps"/>
+		      	<Item id="mp_guarded_armwraps"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="almo_cavaller"
+		name="Cavaller"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_almo"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_heavy_heater_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sa_sallet_no_visor"/>
+		      	<Item id="sa_vlandian_helm_with_faceplate"/>
+		      	<Item id="sa_bacinet_with_facemask"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_vlandia_chainmail"/>
+		      	<Item id="almo_sobrecota"/>
+		      	<Item id="b2_templar_3"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_mail_chausses"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_swadian_shoulders"/>
+		      	<Item id="sp_empire_cape_a"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_mail_mitten"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+      			<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>

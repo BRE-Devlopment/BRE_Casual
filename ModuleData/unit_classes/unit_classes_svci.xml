@@ -1,0 +1,870 @@
+<UnitClasses>
+	<UnitClass
+		id="svci_kandidat"
+		name="Kandidat"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ca_tall_heater_shield_noboss"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_laced_coif"/>
+		      	<Item id="sp_imperial_open_mail_coif"/>
+		      	<Item id="sp_imperial_mail_coif"/>
+		      	<Item id="mp_arming_coif"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_patched_gambeson"/>
+		      	<Item id="sp_imperial_padded_cloth"/>
+		      	<Item id="mp_empire_warrior_padded_armor_e"/>
+		      	<Item id="mp_northern_padded_gambeson"/>
+		      	<Item id="mp_vlandia_bandit_a"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_folded_town_boots"/>
+		      	<Item id="mp_leather_shoes"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_hood"/>
+		      	<Item id="sp_desert_fabric_shoulderpad"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_leather_gloves"/>
+		      	<Item id="mp_reinforced_padded_mitten"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_knecht"
+		name="Knecht"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ca_tall_heater_shield_noboss"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_peaked_helmet_over_laced_coif"/>
+		      	<Item id="mp_kettle_helmet_over_padded_cloth"/>
+		      	<Item id="mp_guards_kettle_over_laced_coif"/>
+		      	<Item id="mp_pointed_skullcap_over_laced_coif"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_gambeson_b"/>
+		      	<Item id="mp_nordic_hauberk"/>
+		      	<Item id="mp_mail_shirt"/>
+		      	<Item id="mp_northern_padded_gambeson"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_steppe_leather_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_green_hood"/>
+		      	<Item id="null"/>
+		    </Cape>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_beschossene_knecht"
+		name="Beschossene Knecht"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ca_tall_heater_shield_noboss"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_peaked_helmet_over_mail"/>
+		      	<Item id="mp_peaked_helmet_over_mail_coif"/>
+		      	<Item id="mp_guards_kettle_over_mail_coif"/>
+		      	<Item id="mp_kettle_helmet_over_mail"/>
+		      	<Item id="mp_kettle_helmet_over_arming_coif"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_vlandia_chainmail"/>
+		      	<Item id="mp_nordic_sloven_over_mail"/>
+		      	<Item id="mp_battania_woodland_chainmail"/>
+		      	<Item id="mp_red_coat_over_mail"/>
+		      	<Item id="mp_mail_shirt"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_leather_cavalier_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sp_chainmail_shoulder_armor"/>
+		      	<Item id="mp_hood"/>
+		      	<Item id="sa_western_chain_shoulders"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_leather_gloves"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_fusknecht"
+		name="Fußknecht"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+      			<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1" />
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ca_tall_heater_shield_noboss"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="ba_salletclean"/>
+		      	<Item id="ba_sallet"/>
+		      	<Item id="ba_opensalletclean"/>
+		      	<Item id="ba_opensallet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_mail_with_tabbard1"/>
+		      	<Item id="sa_mail_with_tabbard2"/>
+		      	<Item id="sa_mail_with_tabbard3"/>
+		      	<Item id="sa_mail_with_tabbard4"/>
+		      	<Item id="sa_mail_with_tabbard5"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_strapped_mail_chausses"/>
+		      	<Item id="mp_mail_chausses"/>
+		      	<Item id="mp_mail_cavalier_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_western_chain_shoulders"/>
+		      	<Item id="sp_chainmail_shoulder_armor"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_mail_mitten"/>
+		      	<Item id="mp_lordly_mail_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_gefreiter"
+		name="Gefreiter"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+      			<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1" />
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ca_tall_heater_shield_noboss"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_barbute1"/>
+		      	<Item id="sa_barbute2"/>
+		      	<Item id="sa_bacinet_with_facemask"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_sacoat1"/>
+		      	<Item id="sa_sacoat2"/>
+		      	<Item id="sa_sacoat3"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_leather_cavalier_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="mp_leather_gloves"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_beschossene_gefreiter"
+		name="Beschossene Gefreiter"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+      			<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1" />
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ca_tall_heater_shield_noboss"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_churburghHelm"/>
+		      	<Item id="sa_1churburghhelm"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_brigandine_plate1"/>
+		      	<Item id="sa_brigandine_plate2"/>
+		      	<Item id="sa_brigandine_plate3"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_leather_cavalier_boots"/>
+		      	<Item id="mp_fine_town_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="sa_churburghgauntlet"/>
+		      	<Item id="sa_1churburghgauntlet"/>
+		      	<Item id="sa_2churburghgauntlet"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_doppelsoldner"
+		name="Doppelsöldner"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_native_spear" disable_randomize="true"/>
+      			<Item id="b3_coalition_polearm" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon1>
+		    <Head>
+		      	<Item id="ba_opensallet"/>
+		      	<Item id="ba_openhelm2"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_swadian_striped_cuirass"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_leather_cavalier_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sp_chainmail_shoulder_armor"/>
+		      	<Item id="mp_hood"/>
+		      	<Item id="sa_western_chain_shoulders"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_leather_gloves"/>
+		      	<Item id="mp_lordly_mail_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_trabant"
+		name="Trabant"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b3_squire_sword_2h" disable_group="Weapon1" disable_randomize="true"/>
+      			<Item id="b3_coalition_polearm" disable_group="Weapon1" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ca_tall_heater_shield_noboss"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="ba_salletclean"/>
+		      	<Item id="ba_opensalletclean"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_swadian_leather_plate_with_armguards"/>
+		      	<Item id="sa_swadian_striped_cuirass"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_strapped_mail_chausses"/>
+		      	<Item id="mp_mail_chausses"/>
+		      	<Item id="mp_mail_cavalier_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_western_chain_shoulders"/>
+		      	<Item id="sa_swadian_shoulders"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_lordly_mail_mitten"/>
+		      	<Item id="mp_reinforced_mail_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_fahnrich"
+		name="Fähnrich"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_banner_sturgia2"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon1>
+		    <Head>
+		      	<Item id="ba_salletpainted"/>
+		      	<Item id="ba_salletclean"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_coat_of_plates2_c"/>
+		      	<Item id="sa_tabbartplate"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sp_sturgia_boots_a"/>
+		      	<Item id="mp_fine_town_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sp_empire_cape_a"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_eastern_plated_leather_vambraces"/>
+		      	<Item id="mp_reinforced_padded_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_rottmeister"
+		name="Rottmeister"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+      			<Item id="b3_coalition_polearm" disable_group="Weapon1" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ca_tall_heater_shield_noboss"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="ba_salletclean"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_brigandine_plate1"/>
+		      	<Item id="sa_brigandine_plate2"/>
+		      	<Item id="sa_brigandine_plate3"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sp_sturgia_boots_a"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="ba_plategauntlet"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_schutze"
+		name="Schütze"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_cheap_bow"/>
+		      	<Item id="sp_lowland_bow"/>
+		      	<Item id="sp_yew_bow"/>
+		      	<Item id="sp_noble_long_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_dagger"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_visoredkettlehelmet"/>
+		      	<Item id="sa_visoredkettlehelmet1"/>
+		      	<Item id="ba_openhelm2"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_mail_shirt"/>
+		      	<Item id="mp_imperial_mail_vest"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_woven_leather_boots"/>
+		      	<Item id="sp_sturgia_boots_a"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_hood"/>
+		      	<Item id="mp_wrapped_scarf"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_leather_gloves"/>
+		      	<Item id="mp_padded_vambrace"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_beschossene_schutze"
+		name="Beschossene Schütze"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_cheap_bow"/>
+		      	<Item id="sp_lowland_bow"/>
+		      	<Item id="sp_yew_bow"/>
+		      	<Item id="sp_noble_long_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_dagger"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_sallet_no_visor"/>
+		      	<Item id="sa_sallet_base"/>
+		      	<Item id="ba_opensalletclean"/>
+		      	<Item id="ba_opensallet"/>
+		      	<Item id="ba_salletpainted"/>
+		      	<Item id="ba_salletclean"/>
+		      	<Item id="ba_sallet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_brigandine1"/>
+		      	<Item id="sa_brigandine2"/>
+		      	<Item id="sa_brigandine3"/>
+		      	<Item id="sa_brigandine4"/>
+		      	<Item id="sa_brigandine5"/>
+		      	<Item id="sa_brigandine6"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_folded_town_boots"/>
+		      	<Item id="sp_steppe_leather_boots"/>
+		      	<Item id="sp_sturgia_boots_a"/>
+		      	<Item id="mp_strapped_mail_chausses"/>
+		      	<Item id="mp_mail_chausses"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_green_hood"/>
+		      	<Item id="mp_hood"/>
+		      	<Item id="sp_chainmail_shoulder_armor"/>
+		      	<Item id="sa_western_chain_shoulders"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_leather_gloves"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_fusschutze"
+		name="Fußschütze"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_cheap_bow"/>
+		      	<Item id="sp_lowland_bow"/>
+		      	<Item id="sp_yew_bow"/>
+		      	<Item id="sp_noble_long_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_dagger"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="ba_salletpainted"/>
+		      	<Item id="ba_salletclean"/>
+		      	<Item id="ba_sallet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_coat_of_plates11_c"/>
+		      	<Item id="sa_coat_of_plates4_c"/>
+		      	<Item id="sa_coat_of_plates5_c"/>
+		      	<Item id="sa_coat_of_plates3_c"/>
+		      	<Item id="sa_coat_of_plates2_c"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_folded_town_boots"/>
+		      	<Item id="sp_steppe_leather_boots"/>
+		      	<Item id="sp_sturgia_boots_a"/>
+		      	<Item id="mp_strapped_mail_chausses"/>
+		      	<Item id="mp_mail_chausses"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_green_hood"/>
+		      	<Item id="mp_hood"/>
+		      	<Item id="sp_chainmail_shoulder_armor"/>
+		      	<Item id="sa_western_chain_shoulders"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_leather_gloves"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_haupt_schutze"
+		name="Haupt Schütze"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_cheap_bow"/>
+		      	<Item id="sp_lowland_bow"/>
+		      	<Item id="sp_yew_bow"/>
+		      	<Item id="sp_noble_long_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_dagger"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_barbute4"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_swadian_plate_with_armguards"/>
+		      	<Item id="sa_swadian_striped_cuirass"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_fine_town_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_hood"/>
+		      	<Item id="mp_wrapped_scarf"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_leather_gloves"/>
+		      	<Item id="mp_padded_vambrace"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_knappe"
+		name="Knappe"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_svci"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_reinforced_flat_kite_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="ba_sallet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_sacoat1"/>
+		      	<Item id="sa_sacoat2"/>
+		      	<Item id="sa_sacoat3"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_mail_cavalier_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="mp_mail_mitten"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+		      	<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_reiter"
+		name="Reiter"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_svci"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_reinforced_flat_kite_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sa_armet"/>
+		      	<Item id="sa_churburghHelm_black_trimmed_feather"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_swadian_plate_armor"/>
+		      	<Item id="sa_swadian_plate_with_armguards"/>
+		      	<Item id="sa_swadian_striped_plate_armor"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sa_churburghboots"/>
+		      	<Item id="sa_1churburghboots"/>
+		      	<Item id="sa_2churburghboots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_hood"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="sa_churburghgauntlet"/>
+		      	<Item id="sa_1churburghgauntlet"/>
+		      	<Item id="sa_2churburghgauntlet"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		      	<Item id="mp_stripped_leather_harness"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+		      	<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_wachtmeister"
+		name="Wachtmeister"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_svci"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ca_tall_heater_shield_noboss"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sa_armet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_tabbartplate"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="ba_plategreaves"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_swadian_shoulders"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="ba_plategauntlet"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+		      	<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_feldwebel"
+		name="Feldwebel"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_svci"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ca_tall_heater_shield_noboss"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sa_butterlord1"/>
+		      	<Item id="sa_armet"/>
+		      	<Item id="sa_crowned_vlandian_helm_with_visor"/>
+		      	<Item id="sa_great_helm_base"/>
+		      	<Item id="sa_sallet_base"/>
+		      	<Item id="sa_sugarloaf_helm3"/>
+		      	<Item id="ba_bolzanogreathelmet"/>
+		      	<Item id="sa_butterlord3"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_tabbartplate"/>
+		      	<Item id="sa_swadian_striped_plate_armor"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sa_1churburghboots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_swadian_shoulders"/>
+		      	<Item id="sp_empire_cape_a"/>
+		      	<Item id="mp_scarf"/>
+		      	<Item id="mp_wrapped_scarf"/>
+		      	<Item id="b2_pauldron_cape_a"/>
+		      	<Item id="mp_varangian_bra_royal"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="sa_1churburghgauntlet"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+		      	<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="svci_hauptmann"
+		name="Hauptmann"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_svci"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ca_tall_heater_shield_noboss"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sa_pigface_bascinet_feather"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_tabbartplate"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sp_sturgia_boots_a"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_swadian_shoulders"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="sa_1churburghgauntlet"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+		      	<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>

@@ -1,0 +1,651 @@
+<UnitClasses>
+	<UnitClass
+		id="xiii_scutatus"
+		name="Scutatus"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="xiii_spear_1"/>
+		      	<Item id="xiii_2h_sword_1" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_sword_3" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_mace_1" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_axe_1" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_axe_2" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="xiii_shield"/>
+		      	<Item id="xiii_shield_3"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="xiii_mace_1"/>
+		      	<Item id="xiii_mace_2"/>
+		      	<Item id="xiii_mace_3"/>
+		      	<Item id="xiii_axe_1"/>
+		      	<Item id="xiii_axe_2"/>
+		      	<Item id="xiii_sword_1"/>
+		      	<Item id="xiii_sword_3"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_empire_helmet_with_metal_strips"/>
+		      	<Item id="mp_ridged_northernhelm"/>
+		      	<Item id="mp_ironlame_nasalhelm_over_imperial_mail"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_empire_legion_a"/>
+		      	<Item id="mp_sturgian_chainmale_longsleeve"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_plated_strip_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sp_varangian_bra_mail"/>
+		      	<Item id="mp_wrapped_scarf"/>
+		      	<Item id="mp_scarf"/>
+		      	<Item id="mp_peasant_hood"/>
+		      	<Item id="mp_battanian_chainmail_shoulder_a"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_plated_strip_gauntlets"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="xiii_archon_scutatus"
+		name="Archon Scutatus"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="xiii_spear_1"/>
+		      	<Item id="xiii_2h_sword_1" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_sword_2" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_sword_3" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_mace_1" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_axe_1" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_axe_2" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="xiii_shield"/>
+		      	<Item id="xiii_shield_2"/>
+		      	<Item id="xiii_shield_3"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="xiii_mace_1"/>
+		      	<Item id="xiii_mace_2"/>
+		      	<Item id="xiii_mace_3"/>
+		      	<Item id="xiii_axe_1"/>
+		      	<Item id="xiii_axe_2"/>
+		      	<Item id="xiii_sword_1"/>
+		      	<Item id="xiii_sword_2"/>
+		      	<Item id="xiii_sword_3"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="sp_horse_whip"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="mp_empire_battle_crown_west"/>
+		      	<Item id="mp_empire_helmet_with_metal_strips"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_imperial_lamellar_over_leather"/>
+		      	<Item id="mp_empire_legion_b"/>
+		      	<Item id="mp_empire_legion_a"/>
+		      	<Item id="mp_sturgian_lamellar_base"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_decorated_imperial_boots"/>
+		      	<Item id="mp_plated_strip_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_studded_imperial_neckguard"/>
+		      	<Item id="sp_desert_fabric_shoulderpad"/>
+		      	<Item id="mp_varangian_bra_scale"/>
+		      	<Item id="mp_varangian_bra_padded"/>
+		      	<Item id="sp_varangian_bra_mail"/>
+		      	<Item id="mp_wrapped_scarf"/>
+		      	<Item id="mp_scarf"/>
+		      	<Item id="mp_peasant_hood"/>
+		      	<Item id="sp_empire_cape_a"/>
+		      	<Item id="mp_varangian_bra_royal"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_decorated_imperial_gauntlets"/>
+		      	<Item id="mp_plated_strip_gauntlets"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_stripped_leather_harness"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="null" disable_group="HorseHarness"/>
+		      	<Item id="b2_horse_brown" disable_randomize="true"/>
+		      	<Item id="b2_horse_gold" disable_randomize="true"/>
+		      	<Item id="b2_horse_white" disable_randomize="true"/>
+		      	<Item id="b2_horse_grey" disable_randomize="true"/>
+		      	<Item id="b2_horse_darkgrey" disable_randomize="true"/>
+		      	<Item id="b2_horse_black" disable_randomize="true"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="xiii_gladiator"
+		name="Gladiator"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="xiii_spear_1"/>
+		      	<Item id="xiii_2h_sword_1"/>
+		      	<Item id="xiii_2h_sword_3"/>
+		      	<Item id="xiii_2h_mace_1"/>
+		      	<Item id="xiii_2h_axe_1"/>
+		      	<Item id="xiii_2h_axe_2"/>
+		      	<Item id="b3_coalition_polearm"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="xiii_mace_1"/>
+		      	<Item id="xiii_mace_2"/>
+		      	<Item id="xiii_mace_3"/>
+		      	<Item id="xiii_axe_1"/>
+		      	<Item id="xiii_axe_2"/>
+		      	<Item id="xiii_sword_1"/>
+		    </Weapon1>
+		    <Head>
+		      	<Item id="mp_battania_earmuff_helmet_c_brnz"/>
+		      	<Item id="mp_battania_earmuff_helmet_a_brnz"/>
+		      	<Item id="mp_battania_earmuff_helmet_b"/>
+		      	<Item id="mp_battania_earmuff_helmet_b_brnz"/>
+		      	<Item id="mp_battania_earmuff_helmet_a"/>
+		      	<Item id="mp_battania_earmuff_helmet_c"/>
+		      	<Item id="mp_battania_earmuff_helmet_c_cpr"/>
+		      	<Item id="mp_closed_desert_helmet_with_mail"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_empire_short_dress"/>
+		      	<Item id="mp_battanian_savage_armor"/>
+		      	<Item id="sp_studded_leather_waistcoat"/>
+		      	<Item id="mp_fur_skirt"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sp_ladys_shoe"/>
+		      	<Item id="mp_wrapped_leather_boots"/>
+		      	<Item id="mp_rough_tied_boots"/>
+		      	<Item id="null"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_battania_shoulder_strap"/>
+		      	<Item id="mp_battania_shoulder_strap_cloak"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_northern_brass_bracers"/>
+		      	<Item id="mp_buttoned_leather_bracers"/>
+		      	<Item id="mp_roughtied_leather_bracers"/>
+		      	<Item id="mp_rough_tied_bracers"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="xiii_lanista"
+		name="Lanista"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="xiii_spear_1"/>
+		      	<Item id="xiii_2h_sword_1" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_sword_2" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_sword_3" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_mace_1" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_axe_1" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_axe_2" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="xiii_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="xiii_mace_1"/>
+		      	<Item id="xiii_mace_2"/>
+		      	<Item id="xiii_mace_3"/>
+		      	<Item id="xiii_axe_1"/>
+		      	<Item id="xiii_axe_2"/>
+		      	<Item id="xiii_sword_1"/>
+		      	<Item id="xiii_sword_2"/>
+		      	<Item id="xiii_sword_3"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="sp_horse_whip"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sp_western_plated_helmet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sp_empire_plate_vest_armor"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_northern_plated_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sp_aserai_scale_shoulder_e"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_decorated_imperial_gauntlets"/>
+		      	<Item id="mp_plated_strip_gauntlets"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_stripped_leather_harness"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="null" disable_group="HorseHarness"/>
+		      	<Item id="b2_horse_brown" disable_randomize="true"/>
+		      	<Item id="b2_horse_gold" disable_randomize="true"/>
+		      	<Item id="b2_horse_white" disable_randomize="true"/>
+		      	<Item id="b2_horse_grey" disable_randomize="true"/>
+		      	<Item id="b2_horse_darkgrey" disable_randomize="true"/>
+		      	<Item id="b2_horse_black" disable_randomize="true"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="xiii_bandophorus"
+		name="Bandophorus"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="xiii_banner"/>
+		      	<Item id="xiii_banner_3" disable_randomize="true"/>
+		      	<Item id="xiii_banner_4" disable_randomize="true"/>
+		      	<Item id="xiii_banner_2" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="xiii_mace_1"/>
+		      	<Item id="xiii_mace_2"/>
+		      	<Item id="xiii_mace_3"/>
+		      	<Item id="xiii_axe_1"/>
+		      	<Item id="xiii_axe_2"/>
+		      	<Item id="xiii_sword_1"/>
+		      	<Item id="xiii_sword_2"/>
+		      	<Item id="xiii_sword_3"/>
+		      	<Item id="xiii_2h_sword_1" disable_randomize="true"/>
+		      	<Item id="xiii_2h_sword_2" disable_randomize="true"/>
+		      	<Item id="xiii_2h_axe_1" disable_randomize="true"/>
+		    </Weapon1>
+		    <Head>
+		      	<Item id="mp_wolfhead"/>
+		      	<Item id="mp_empire_helmet_with_metal_strips"/>
+		      	<Item id="mp_ridged_northernhelm"/>
+		      	<Item id="mp_ironlame_nasalhelm_over_imperial_mail"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_empire_legion_a"/>
+		      	<Item id="mp_sturgian_chainmale_longsleeve"/>
+		      	<Item id="mp_sturgian_lamellar_base"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_plated_strip_boots"/>
+		      	<Item id="mp_decorated_imperial_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sp_varangian_bra_mail"/>
+		      	<Item id="mp_battanian_chainmail_shoulder_a"/>
+		      	<Item id="mp_wrapped_scarf"/>
+		      	<Item id="mp_scarf"/>
+		      	<Item id="mp_peasant_hood"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_plated_strip_gauntlets"/>
+		      	<Item id="mp_decorated_imperial_gauntlets"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="xiii_saggitarius"
+		name="Saggitarius"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_noble_bow"/>
+		      	<Item id="sp_steppe_heavy_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_imperial_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="xiii_sword_1"/>
+		      	<Item id="xiii_sword_3"/>
+		      	<Item id="b2_peasant_dagger"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sp_roundkettle_over_imperial_padding"/>
+		      	<Item id="mp_spiked_kettle_over_imperial_padding"/>
+		      	<Item id="mp_nasal_cervelliere_over_padded_coif"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_empire_warrior_padded_armor_d"/>
+		      	<Item id="mp_empire_warrior_padded_armor_b"/>
+		      	<Item id="mp_empire_warrior_padded_armor_c"/>
+		      	<Item id="mp_empire_warrior_padded_armor_a"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_fine_town_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_wrapped_scarf"/>
+		      	<Item id="mp_scarf"/>
+		      	<Item id="mp_hood"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_guarded_padded_vambrace"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="xiii_archon_saggitarius"
+		name="Archon Saggitarius"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_noble_bow"/>
+		      	<Item id="sp_steppe_heavy_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_imperial_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="xiii_sword_1"/>
+		      	<Item id="xiii_sword_2"/>
+		      	<Item id="xiii_sword_3"/>
+		      	<Item id="b2_peasant_dagger"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_empire_lord_helmet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_empire_warrior_padded_armor_d"/>
+		      	<Item id="mp_empire_warrior_padded_armor_b"/>
+		      	<Item id="mp_empire_warrior_padded_armor_c"/>
+		      	<Item id="mp_empire_warrior_padded_armor_a"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_fine_town_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_varangian_bra_royal"/>
+		      	<Item id="sp_empire_cape_a"/>
+		      	<Item id="mp_wrapped_scarf"/>
+		      	<Item id="mp_scarf"/>
+		      	<Item id="mp_hood"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_guarded_padded_vambrace"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_stripped_leather_harness"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="null" disable_group="HorseHarness"/>
+		      	<Item id="b2_horse_brown" disable_randomize="true"/>
+		      	<Item id="b2_horse_gold" disable_randomize="true"/>
+		      	<Item id="b2_horse_white" disable_randomize="true"/>
+		      	<Item id="b2_horse_grey" disable_randomize="true"/>
+		      	<Item id="b2_horse_darkgrey" disable_randomize="true"/>
+		      	<Item id="b2_horse_black" disable_randomize="true"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="xiii_cataphract"
+		name="Cataphract"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_xiii"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="xiii_shield_2"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="xiii_mace_1"/>
+		      	<Item id="xiii_mace_2"/>
+		      	<Item id="xiii_mace_3"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="xiii_2h_sword_1"/>
+		      	<Item id="xiii_2h_axe_1"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="mp_imperial_goggled_helmet"/>
+		      	<Item id="mp_ridged_northernhelm"/>
+		      	<Item id="sp_pointed_skullcap_over_mail_coif"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_imperial_lamellar"/>
+		      	<Item id="mp_sturgian_chainmale_longsleeve"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_lamellar_plate_boots"/>
+		      	<Item id="mp_plated_strip_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_imperial_lamellar_shoulders"/>
+		      	<Item id="mp_wrapped_scarf"/>
+		      	<Item id="mp_scarf"/>
+		      	<Item id="mp_hood"/>
+		      	<Item id="mp_battanian_chainmail_shoulder_a"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_lamellar_plate_gauntlets"/>
+		      	<Item id="mp_leather_gloves"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_imperial_scale_barding"/>
+		      	<Item id="mp_half_scale_barding"/>
+		      	<Item id="mp_stripped_leather_harness"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+		      	<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="xiii_archon_cataphract"
+		name="Archon Cataphract"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_xiii"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="xiii_shield_2"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="xiii_mace_1"/>
+		      	<Item id="xiii_mace_2"/>
+		      	<Item id="xiii_mace_3"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="xiii_2h_sword_1"/>
+		      	<Item id="xiii_2h_sword_2"/>
+		      	<Item id="xiii_2h_axe_1"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="mp_empire_guarded_lord_helmet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_imperial_lamellar"/>
+		      	<Item id="mp_sturgian_lamellar_base"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_lamellar_plate_boots"/>
+		      	<Item id="mp_decorated_imperial_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_imperial_lamellar_shoulders"/>
+		      	<Item id="sp_empire_cape_a"/>
+		      	<Item id="mp_wrapped_scarf"/>
+		      	<Item id="mp_scarf"/>
+		      	<Item id="mp_hood"/>
+		      	<Item id="mp_battanian_chainmail_shoulder_a"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_lamellar_plate_gauntlets"/>
+		      	<Item id="mp_decorated_imperial_gauntlets"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_imperial_scale_barding"/>
+		      	<Item id="mp_half_scale_barding"/>
+		      	<Item id="mp_stripped_leather_harness"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+		      	<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="xiii_comes_and_excubitores"
+		name="Comes and Excubitores"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="xiii_spear_1"/>
+		      	<Item id="xiii_2h_sword_1" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_sword_2" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_sword_3" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_mace_1" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_axe_1" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="xiii_2h_axe_2" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="xiii_shield"/>
+		      	<Item id="xiii_shield_2"/>
+		      	<Item id="xiii_shield_3"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="xiii_mace_1"/>
+		      	<Item id="xiii_mace_2"/>
+		      	<Item id="xiii_mace_3"/>
+		      	<Item id="xiii_axe_1"/>
+		      	<Item id="xiii_axe_2"/>
+		      	<Item id="xiii_sword_1"/>
+		      	<Item id="xiii_sword_2"/>
+		      	<Item id="xiii_sword_3"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="sp_horse_whip"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sa_rus_helm_noble_icon"/>
+		      	<Item id="sa_rus_helm_noble"/>
+		      	<Item id="mp_empire_battle_crown_north"/>
+		      	<Item id="mp_imperial_goggled_helmet"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_imperial_scale_armor"/>
+		      	<Item id="mp_heavy_skirt"/>
+		      	<Item id="mp_sturgian_lamellar_fortified"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_lamellar_plate_boots"/>
+		      	<Item id="mp_decorated_imperial_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_imperial_lamellar_shoulders"/>
+		      	<Item id="sp_empire_cape_a"/>
+		      	<Item id="mp_wrapped_scarf"/>
+		      	<Item id="mp_scarf"/>
+		      	<Item id="mp_peasant_hood"/>
+		      	<Item id="mp_varangian_bra_royal"/>
+		      	<Item id="mp_battanian_chainmail_shoulder_a"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_lamellar_plate_gauntlets"/>
+		      	<Item id="mp_decorated_imperial_gauntlets"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_stripped_leather_harness"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="null" disable_group="HorseHarness"/>
+		      	<Item id="b2_horse_brown" disable_randomize="true"/>
+		      	<Item id="b2_horse_gold" disable_randomize="true"/>
+		      	<Item id="b2_horse_white" disable_randomize="true"/>
+		      	<Item id="b2_horse_grey" disable_randomize="true"/>
+		      	<Item id="b2_horse_darkgrey" disable_randomize="true"/>
+		      	<Item id="b2_horse_black" disable_randomize="true"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="xiii_empire_nobility"
+		name="Empire Nobility"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+		    <Head>
+		      	<Item id="sp_aserai_female_civil_hscarf"/>
+		      	<Item id="sp_empire_crown_north"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_imperial_robes"/>
+		      	<Item id="sp_steppe_dress"/>
+		      	<Item id="sp_vlandian_noble_woman_dress"/>
+		      	<Item id="sp_fine_southern_dress"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_fine_town_boots"/>
+		      	<Item id="sp_ladys_shoe"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_wrapped_scarf"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <HorseHarness>
+		      	<Item id="mp_stripped_leather_harness"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="null" disable_group="HorseHarness"/>
+		      	<Item id="b2_horse_brown" disable_randomize="true"/>
+		      	<Item id="b2_horse_gold" disable_randomize="true"/>
+		      	<Item id="b2_horse_white" disable_randomize="true"/>
+		      	<Item id="b2_horse_grey" disable_randomize="true"/>
+		      	<Item id="b2_horse_darkgrey" disable_randomize="true"/>
+		      	<Item id="b2_horse_black" disable_randomize="true"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>

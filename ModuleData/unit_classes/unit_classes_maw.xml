@@ -1,0 +1,286 @@
+<UnitClasses>
+	<UnitClass
+		id="maw_gnoblar"
+		name="Gnoblar"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_leather_round_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_man_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sp_kettle_helmet_with_mail"/>
+		      	<Item id="mp_kettle_helmet_over_padded_cap"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_vlandia_bandit_c"/>
+		      	<Item id="sp_tattered_rags"/>
+		    </Body>
+		    <Gloves>
+		      	<Item id="mp_armwraps"/>
+		      	<Item id="mp_ragged_armwraps"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="maw_bull"
+		name="Bull"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_leather_round_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_man_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_bearhead"/>
+		      	<Item id="mp_padded_leather_cape"/>
+		      	<Item id="mp_pilgrim_hood"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_battanian_savage_armor"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_northern_plated_boots"/>
+		      	<Item id="mp_battania_woodland_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_rough_bearskin"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_northern_plated_gloves"/>
+		      	<Item id="mp_guarded_armwraps"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="maw_irongut"
+		name="Irongut"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="sp_banner_khuzait1" disable_randomize="true"/>
+		      	<Item id="sp_banner_khuzait2" disable_randomize="true"/>
+		      	<Item id="sp_banner_khuzait3" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_leather_round_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_man_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_bearhead"/>
+		      	<Item id="sa_great_prankh_helm_horns"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_eastern_stitched_leather_coat"/>
+		      	<Item id="mp_ringed_desert_armor"/>
+		      	<Item id="mp_northern_coat_of_plates"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_northern_plated_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_rough_bearskin"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_northern_plated_gloves"/>
+		      	<Item id="sp_khuzait_heavy_armor_bracer"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="maw_leadbelcher"
+		name="Leadbelcher"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_cheap_bow"/>
+		      	<Item id="sp_lowland_bow"/>
+		      	<Item id="sp_yew_bow"/>
+		      	<Item id="sp_noble_long_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_man_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_bearhead"/>
+		      	<Item id="mp_padded_leather_cape"/>
+		      	<Item id="mp_pilgrim_hood"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_battanian_savage_armor"/>
+		      	<Item id="mp_eastern_stitched_leather_coat"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_northern_plated_boots"/>
+		      	<Item id="mp_battania_woodland_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_rough_bearskin"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_northern_plated_gloves"/>
+		      	<Item id="mp_guarded_armwraps"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="maw_rider_horse"
+		name="Rider (Horse)"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_maw"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_leather_round_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="mp_bearhead"/>
+		      	<Item id="mp_padded_leather_cape"/>
+		      	<Item id="mp_pilgrim_hood"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_battanian_savage_armor"/>
+		      	<Item id="mp_eastern_stitched_leather_coat"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_northern_plated_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_rough_bearskin"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_northern_plated_gloves"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_bandit_saddle_highland"/>
+		      	<Item id="mp_battania_horse_harness"/>
+		      	<Item id="mp_battania_horse_harness_scaled"/>
+		      	<Item id="sp_mule_load_c" disable_randomize="true"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+      			<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="maw_rider_camel"
+		name="Rider (Camel)"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_maw"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_leather_round_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="mp_bearhead"/>
+		      	<Item id="mp_padded_leather_cape"/>
+		      	<Item id="mp_pilgrim_hood"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_battanian_savage_armor"/>
+		      	<Item id="mp_eastern_stitched_leather_coat"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_northern_plated_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_rough_bearskin"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_northern_plated_gloves"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_camel_saddle"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="mp_aserai_camel"/>
+      			<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="maw_wamen"
+		name="Wamen"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_leather_round_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_man_sword"/>
+		    </Weapon2>
+		    <Body>
+		      	<Item id="sp_cut_dress_with_pouch"/>
+		    </Body>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>

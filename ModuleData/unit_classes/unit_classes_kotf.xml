@@ -1,0 +1,166 @@
+<UnitClasses>
+	<UnitClass
+		id="kotf_infantry"
+		name="Infantry"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="sp_banner_vlandia3" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_ironrim_riders_kite_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_pigface_bascinet"/>
+		      	<Item id="mp_peaked_helmet_over_mail_coif"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_mail_with_tabbard3"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_strapped_mail_chausses"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_swadian_shoulders"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_mail_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="kotf_commander"
+		name="Commander"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_ironrim_riders_kite_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_italio_norman_helm_crown"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_coat_of_plates3_c"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_strapped_mail_chausses"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_swadian_shoulders"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_mail_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="kotf_archer"
+		name="Archer"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_yew_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_dagger"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_peaked_helmet_over_laced_coif"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_banded_leather_over_mail"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_leather_cavalier_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="mp_padded_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="kotf_cavalry"
+		name="Cavalry"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_kotf"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_ironrim_riders_kite_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sa_pigface_bascinet"/>
+		      	<Item id="mp_peaked_helmet_over_mail_coif"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_mail_with_tabbard3"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_strapped_mail_chausses"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_swadian_shoulders"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_mail_mitten"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+      			<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>

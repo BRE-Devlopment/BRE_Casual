@@ -1,0 +1,206 @@
+<UnitClasses>
+	<UnitClass
+		id="coalition_infantry"
+		name="Infantry"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_tall_heater_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_full_helm_over_padded_cap"/>
+		      	<Item id="mp_full_helm_over_padded_cloth"/>
+		      	<Item id="mp_visored_helmet_over_mail_coif"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_vlandia_chainmail"/>
+		      	<Item id="mp_white_coat_over_mail"/>
+		      	<Item id="mp_hauberk"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_leather_cavalier_boots"/>
+		      	<Item id="mp_mail_cavalier_boots"/>
+		      	<Item id="mp_fine_town_boots"/>
+		      	<Item id="mp_empire_horseman_boots"/>
+		      	<Item id="mp_folded_town_boots"/>
+		      	<Item id="mp_plated_strip_boots"/>
+		      	<Item id="mp_mail_chausses"/>
+		      	<Item id="mp_eastern_leather_boots"/>
+		      	<Item id="mp_khuzait_curved_boots"/>
+		      	<Item id="mp_leather_boots"/>
+		      	<Item id="mp_steppe_leather_boots"/>
+		      	<Item id="mp_strapped_mail_chausses"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_hood"/>
+		      	<Item id="mp_padded_leather_shoulders"/>
+		      	<Item id="mp_battania_woodland_cloak"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_mail_mitten"/>
+		      	<Item id="mp_reinforced_mail_mitten"/>
+		      	<Item id="mp_lordly_mail_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="coalition_archer"
+		name="Archer"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_cheap_bow"/>
+		      	<Item id="sp_lowland_bow"/>
+		      	<Item id="sp_yew_bow"/>
+		      	<Item id="sp_noble_long_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_dagger"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="mp_kettle_helmet_over_mail"/>
+		      	<Item id="mp_guards_kettle_over_laced_coif"/>
+		      	<Item id="mp_guards_kettle_over_mail_coif"/>
+		      	<Item id="mp_kettle_helmet_with_leather"/>
+		      	<Item id="mp_guards_kettle_over_padded_coif"/>
+		      	<Item id="mp_kettle_hat_over_padded_cloth"/>
+		      	<Item id="mp_kettle_hat_over_padded_coif"/>
+		      	<Item id="mp_kettle_helmet_over_arming_coif"/>
+		      	<Item id="mp_kettle_hat_over_mail_coif"/>
+		      	<Item id="mp_kettle_helmet_over_laced_coif"/>
+		      	<Item id="mp_kettle_helmet_over_padded_cap"/>
+		      	<Item id="mp_kettle_helmet_over_padded_cloth"/>
+		      	<Item id="mp_kettle_helmet_over_padded_coif"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_mail_shirt"/>
+		      	<Item id="mp_hauberk"/>
+		      	<Item id="mp_nordic_sloven_over_mail"/>
+		      	<Item id="mp_sturgian_fortified_armor"/>
+		      	<Item id="mp_banded_leather_over_mail"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_leather_cavalier_boots"/>
+		      	<Item id="mp_mail_cavalier_boots"/>
+		      	<Item id="mp_fine_town_boots"/>
+		      	<Item id="mp_empire_horseman_boots"/>
+		      	<Item id="mp_folded_town_boots"/>
+		      	<Item id="mp_plated_strip_boots"/>
+		      	<Item id="mp_mail_chausses"/>
+		      	<Item id="mp_eastern_leather_boots"/>
+		      	<Item id="mp_khuzait_curved_boots"/>
+		      	<Item id="mp_leather_boots"/>
+		      	<Item id="mp_steppe_leather_boots"/>
+		      	<Item id="mp_strapped_mail_chausses"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_hood"/>
+		      	<Item id="mp_padded_leather_shoulders"/>
+		      	<Item id="mp_battania_woodland_cloak"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_leather_gloves"/>
+		      	<Item id="mp_guarded_padded_vambrace"/>
+		      	<Item id="mp_mail_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="coalition_cavalry"
+		name="Cavalry"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_x"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_wide_heater_shield"/>
+		      	<Item id="sp_western_riders_kite_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="mp_pointed_skullcap_over_mail"/>
+		      	<Item id="mp_nasal_helmet_over_cloth_headwrap"/>
+		      	<Item id="mp_nasal_helmet_over_laced_coif"/>
+		      	<Item id="mp_nasal_helmet_over_mail"/>
+		      	<Item id="mp_nasal_helmet_over_mail_coif"/>
+		      	<Item id="mp_nasal_helmet_over_padded_cloth"/>
+		      	<Item id="mp_nasal_helmet_over_padded_coif"/>
+		      	<Item id="mp_visored_helmet_over_mail_coif"/>
+		      	<Item id="mp_visored_helmet_over_laced_coif"/>
+		      	<Item id="mp_visored_helmet_over_padded_cloth"/>
+		      	<Item id="mp_visored_helmet_over_padded_coif"/>
+		      	<Item id="mp_vlandian_faceguard_helmet_a"/>
+		      	<Item id="mp_vlandian_faceguard_helmet_b"/>
+		      	<Item id="mp_pointed_skullcap_over_mail"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_vlandia_chainmail"/>
+		      	<Item id="mp_white_coat_over_mail"/>
+		      	<Item id="mp_hauberk"/>
+		      	<Item id="mp_coat_of_plates_over_mail"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_mail_cavalier_boots"/>
+		      	<Item id="mp_strapped_mail_chausses"/>
+		      	<Item id="mp_mail_chausses"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_hood"/>
+		      	<Item id="mp_padded_leather_shoulders"/>
+		      	<Item id="mp_battania_woodland_cloak"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_mail_mitten"/>
+		      	<Item id="mp_reinforced_mail_mitten"/>
+		      	<Item id="mp_lordly_mail_mitten"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+      			<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>
