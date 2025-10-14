@@ -1,0 +1,300 @@
+<UnitClasses>
+	<UnitClass
+		id="tol_milicia"
+		name="Milicia"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="pt_escudo_recluta_toledo"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="casco_toledo_peon"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="cts_toledo_spain_shoulder_cloth2"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_toledo_spanish_levi"/>
+		    </Body>
+		    <Gloves>
+		      	<Item id="cts_spanish_leather_glove"/>
+		    </Gloves>
+		    <Leg>
+		      	<Item id="cts_spanish_leather_boots"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="tol_peon"
+		name="Peón"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="pt_escudo_soldado_toledo"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="casco_toledo_peon"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="cts_spain_shoulder_metal_cloth"/>
+		      	<Item id="cts_toledo_spain_shoulder_cloth2"/>
+		      	<Item id="cts_toledo_spain_shoulder_metal_cloth1"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_toledo_peon_spanish_armor_tier2"/>
+		      	<Item id="cts_toledo_spanish_armor_tier2"/>
+		    </Body>
+		    <Gloves>
+		      	<Item id="cts_spanish_chainmail_glove"/>
+		    </Gloves>
+		    <Leg>
+		      	<Item id="cts_spanish_leather_boots"/>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="tol_alabardero"
+		name="Alabardero"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="pt_escudo_veterano1_toledo"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="casco_toledo_espadero"/>
+		      	<Item id="casco_toledo_espadero_gorjal"/>
+		      	<Item id="ci_casco_camarada"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="cts_toledo_spanish_square_shoulder_protection"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_toledo_spanish_armor_tier3"/>
+		      	<Item id="cts_toledo_espadero_spanish_armor_tier2"/>
+		    </Body>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		    </Gloves>
+		    <Leg>
+		      	<Item id="cts_spanish_leather_boots"/>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="tol_escudero"
+		name="Escudero"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="pt_escudo_veterano1_toledo"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="casco_toledo_espadero"/>
+		      	<Item id="casco_toledo_espadero_gorjal"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="ci_mochila_escudero"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_toledo_spanish_armor_tier3"/>
+		      	<Item id="cts_toledo_espadero_spanish_armor_tier2"/>
+		    </Body>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		    </Gloves>
+		    <Leg>
+		      	<Item id="cts_spanish_leather_boots"/>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="tol_abanderado"
+		name="Abanderado"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="toledo_new_banner"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon1>
+		    <Head>
+		      	<Item id="casco_toledo_espadero"/>
+		      	<Item id="casco_toledo_espadero_gorjal"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="cts_spanish_plated_shoulder_ptrotection1"/>
+		      	<Item id="cts_toledo_spanish_square_shoulder_protection"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_toledo_espadero_spanish_armor_tier2"/>
+		      	<Item id="cts_toledo_spanish_armor_tier3"/>
+		    </Body>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		    </Gloves>
+		    <Leg>
+		      	<Item id="cts_spanish_plated_boots"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="tol_custodio"
+		name="Custodio"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="pt_escudoveterano2_toledo"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="casco_toledo_custodio"/>
+		      	<Item id="casco_toledo_custodio_gorjal"/>
+		      	<Item id="sa_vlandian_helm_with_visor"/>
+		      	<Item id="sa_sallet_no_visor"/>
+		      	<Item id="null" disable_randomize="true"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="ba_knightpadgorget1"/>
+		      	<Item id="null" disable_randomize="true"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="sa_coat_of_plates9_c"/>
+		    </Body>
+		    <Gloves>
+		      	<Item id="sa_1churburghgauntlet"/>
+		    </Gloves>
+		    <Leg>
+		      	<Item id="sa_plate_boots"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="tol_oficial"
+		name="Oficial"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="pt_escudo_oficial_toledo"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="casco_toledo_oficial"/>
+		      	<Item id="casco_toledo_oficial_gorjal"/>
+		      	<Item id="ci_filipogh"/>
+		      	<Item id="ci_casco_nolicus"/>
+		      	<Item id="ci_battania_crown"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="toledo_capa_hispano"/>
+		      	<Item id="cts_toledo_spanish_plated_shoulder_ptrotection"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_toledo_ofi_spanish_armor_tier5_2"/>
+		      	<Item id="cts_toledo_spanish_armor_tier5_2"/>
+		    </Body>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		    </Gloves>
+		    <Leg>
+		      	<Item id="cts_spanish_plated_boots"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>

@@ -1,0 +1,390 @@
+<UnitClasses>
+	<UnitClass
+		id="san_peregrino"
+		name="Peregrino"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="os_escudo_recluta_santiago"/>
+		      	<Item id="os_escudo_iniciado_santiago"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="cts_spanish_helmet_10"/>
+		      	<Item id="sp_pointed_skullcap_over_mail_coif"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="cts_santiago_spanish_shoulder_protection4"/>
+		      	<Item id="cts_santiago_spanish_shoulder_protection2"/>
+		      	<Item id="cts_santiago_spanish_shoulder_protection3"/>
+		      	<Item id="cts_santiago_spanish_shoulder_protection5"/>
+		      	<Item id="os_collar_inquisidor"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_santiago_spanish_levi"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_leather_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="cts_spanish_leather_glove"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="san_iniciado"
+		name="Iniciado"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="os_escudo_iniciado_santiago"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="cts_spanish_helmet_10"/>
+		      	<Item id="sp_pointed_skullcap_over_mail_coif"/>
+		      	<Item id="os_cotamalla"/>
+		      	<Item id="os_capuchamalla_benda"/>
+		      	<Item id="os_capuchamallabajada"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="cts_santiago_spanish_shoulder_protection4"/>
+		      	<Item id="cts_santiago_spanish_shoulder_protection2"/>
+		      	<Item id="cts_santiago_spanish_shoulder_protection3"/>
+		      	<Item id="cts_santiago_spanish_shoulder_protection5"/>
+		      	<Item id="os_capasantiago"/>
+		      	<Item id="os_capasantiago2"/>
+		      	<Item id="os_nueva_capasantiago"/>
+		      	<Item id="os_nueva_capasantiago2"/>
+		      	<Item id="os_collar_inquisidor"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_santiago_spanish_armor_tier2"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		      	<Item id="cts_spanish_leather_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="cts_spanish_chainmail_glove"/>
+		      	<Item id="cts_spanish_leather_glove"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="san_hombre_de_armas"
+		name="Hombre de Armas"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="os_escudo_veterano1_santiago"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_vlandian_helm_with_faceplate"/>
+		      	<Item id="os_casco_cruzado"/>
+		      	<Item id="os_capucha_santiago"/>
+		      	<Item id="os_cotamalla"/>
+		      	<Item id="os_capuchamalla_benda"/>
+		      	<Item id="os_capuchamallabajada"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="cts_santiago_spanish_shoulder_protection"/>
+		      	<Item id="os_capasantiago"/>
+		      	<Item id="os_capasantiago2"/>
+		      	<Item id="os_nueva_capasantiago"/>
+		      	<Item id="os_nueva_capasantiago2"/>
+		      	<Item id="os_collar_inquisidor"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_santiago_spanish_armor_tier3"/>
+		      	<Item id="sp_monk_robe"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		      	<Item id="sp_sturgia_boots_d"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="san_inquisidor"
+		name="Inquisidor"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="os_escudo_veterano1_santiago"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="os_sombrero_inquisidor"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="os_capa_santiago_inquisidor"/>
+		      	<Item id="os_capa_santiago_corta_inquisidor"/>
+		      	<Item id="os_collar_inquisidor"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_santiago_spanish_armor_inquisidor"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="san_escudero"
+		name="Escudero"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="os_escudo_veterano1_santiago"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_vlandian_helm_with_faceplate"/>
+		      	<Item id="os_casco_cruzado"/>
+		      	<Item id="os_capucha_santiago"/>
+		      	<Item id="os_cotamalla"/>
+		      	<Item id="os_capuchamalla_benda"/>
+		      	<Item id="os_capuchamallabajada"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="ci_mochila_escudero"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_santiago_spanish_armor_tier3"/>
+		      	<Item id="sp_monk_robe"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		      	<Item id="sp_sturgia_boots_d"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="cts_spanish_chainmail_glove"/>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="san_abanderado"
+		name="Abanderado"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="santiago_banner"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon1>
+		    <Head>
+		      	<Item id="sa_vlandian_helm_with_visor"/>
+		      	<Item id="sa_sallet_no_visor"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="cts_spanish_plated_shoulder_ptrotection1"/>
+		      	<Item id="cts_santiago_spanish_shoulder_protection"/>
+		      	<Item id="os_capasantiago"/>
+		      	<Item id="os_capasantiago2"/>
+		      	<Item id="os_nueva_capasantiago"/>
+		      	<Item id="os_nueva_capasantiago2"/>
+		      	<Item id="os_collar_inquisidor"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_santiago_spanish_armor_tier4"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="cts_spanish_chainmail_glove"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="san_suboficial"
+		name="Suboficial"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="os_escudo_veterano1_santiago"/>
+		      	<Item id="os_escudoveterano2_santiago"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sw_great_helm_brass"/>
+		      	<Item id="sw_sugarloaf_helm3"/>
+		      	<Item id="ci_greathelmetjoanisi_cloth_1"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="cts_spanish_plated_shoulder_ptrotection1"/>
+		      	<Item id="cts_santiago_spanish_shoulder_protection"/>
+		      	<Item id="os_capasantiago"/>
+		      	<Item id="os_capasantiago2"/>
+		      	<Item id="os_nueva_capasantiago"/>
+		      	<Item id="os_nueva_capasantiago2"/>
+		      	<Item id="os_collar_inquisidor"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_santiago_spanish_armor_tier4"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_plated_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="san_maestrazgo"
+		name="Maestrazgo"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="os_escudo_oficial_santiago"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="os_mario_helmet"/>
+		      	<Item id="ci_manu_helmet"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="os_capasantiago"/>
+		      	<Item id="os_capasantiago2"/>
+		      	<Item id="os_nueva_capasantiago"/>
+		      	<Item id="os_nueva_capasantiago2"/>
+		      	<Item id="sp_empire_cape_a"/>
+		      	<Item id="cts_santiago_spanish_shoulder_protection2"/>
+		      	<Item id="os_collar_inquisidor"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="cts_santiago_spanish_armor_tier5_2"/>
+		      	<Item id="cts_santiago_spanish_armor_tier5_3"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_plated_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>

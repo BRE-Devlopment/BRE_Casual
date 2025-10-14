@@ -1,0 +1,500 @@
+<UnitClasses>
+	<UnitClass
+		id="ci_leva"
+		name="Leva"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ci_escudo_recluta_ci"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="cts_spanish_helmet5"/>
+		      	<Item id="cts_spanish_helmet_7"/>
+		    </Head>
+		    <Body>
+		      	<Item id="cts_spanish_levi"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_leather_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="cts_spanish_leather_glove"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ci_milicia"
+		name="Milicia"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ci_escudo_soldado_ci"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="cts_spanish_helmet_10"/>
+		      	<Item id="cts_spanish_helmet5"/>
+		      	<Item id="cts_spanish_helmet_7"/>
+		    </Head>
+		    <Body>
+		      	<Item id="cts_spanish_levi"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_leather_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="cts_spain_shoulder_cloth2"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="cts_spanish_leather_glove"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ci_infanteria"
+		name="Infantería"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ci_escudo_soldado_ci"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="cts_spanish_helmet_10"/>
+		      	<Item id="cts_spanish_helmet5"/>
+		      	<Item id="cts_spanish_helmet_7"/>
+		    </Head>
+		    <Body>
+		      	<Item id="cts_spanish_armor_tier2"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		      	<Item id="cts_spanish_leather_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="cts_spain_shoulder_metal_cloth"/>
+		      	<Item id="cts_spain_shoulder_cloth2"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="cts_spanish_chainmail_glove"/>
+		      	<Item id="cts_spanish_leather_glove"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ci_hombre_de_armas"
+		name="Hombre de Armas"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ci_escudo_veterano1_ci"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="cts_spanish_helmet4"/>
+		      	<Item id="cts_spanish_helmet_10"/>
+		      	<Item id="cts_spanish_helmet5"/>
+		      	<Item id="ci_pacocasco"/>
+		    </Head>
+		    <Body>
+		      	<Item id="cts_spanish_armor_tier3"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="cts_spanish_square_shoulder_protection"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		      	<Item id="cts_spanish_chainmail_glove"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ci_vieja_guardia"
+		name="Vieja Guardia"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ci_escudo_veterano1_ci"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="cts_spanish_helmet_veteran"/>
+		      	<Item id="cts_spanish_helmet_officer"/>
+		    </Head>
+		    <Body>
+		      	<Item id="cts_armor_spanish_veteran"/>
+		      	<Item id="cts_armor_spanish_veteran1"/>
+		      	<Item id="cts_armor_spanish_veteran2"/>
+		      	<Item id="cts_armor_spanish_veteran3"/>
+		      	<Item id="cts_armor_spanish_veteran4"/>
+		      	<Item id="cts_armor_spanish_veteran5"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_leather_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="cts_spanish_leather_glove"/>
+		      	<Item id="null"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ci_escudero"
+		name="Escudero"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ci_escudo_veterano1_ci"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="cts_spanish_helmet3"/>
+		      	<Item id="cts_spanish_helmet5"/>
+		      	<Item id="ci_cav_bascinet2"/>
+		    </Head>
+		    <Body>
+		      	<Item id="cts_spanish_armor_tier3"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="cts_spanish_square_shoulder_protection"/>
+		      	<Item id="ci_mochila_escudero"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		      	<Item id="cts_spanish_chainmail_glove"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ci_abanderado"
+		name="Abanderado"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_banner_empire3"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon1>
+		    <Head>
+		      	<Item id="cts_spanish_helmet3"/>
+		      	<Item id="cts_spanish_helmet4"/>
+		      	<Item id="cts_spanish_helmet_10"/>
+		      	<Item id="cts_spanish_helmet5"/>
+		    </Head>
+		    <Body>
+		      	<Item id="cts_spanish_armor_tier3"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_plated_boots"/>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="cts_spanish_plated_shoulder_ptrotection1"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		      	<Item id="cts_spanish_chainmail_glove"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ci_guardia_real"
+		name="Guardia Real"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ci_escudoveterano2_ci"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="cts_spanish_kinguard_bascinet"/>
+		      	<Item id="cts_spanish_kinguard_bascinet1"/>
+		      	<Item id="ci_antonio"/>
+		      	<Item id="ci_casco_sutrupa"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Body>
+		      	<Item id="cts_spanish_kinguard_armor"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_kinguard_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="cts_spanish_kinguard_cape_ci"/>
+		      	<Item id="cts_spanish_kinguard_cape_toledo"/>
+		      	<Item id="cts_spanish_kinguard_cape_omey"/>
+		      	<Item id="cts_spanish_kinguard_cape_santiago"/>
+		      	<Item id="cts_spanish_kinguard_cape_termito"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ci_suboficial_infanteria"
+		name="Suboficial Infantería"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ci_escudoveterano2_ci"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="cts_spanish_helmet_9"/>
+		      	<Item id="cts_spanish_helmet3"/>
+		      	<Item id="cts_spanish_helmet4"/>
+		      	<Item id="cts_spanish_helmet_10"/>
+		      	<Item id="cts_spanish_helmet5"/>
+		      	<Item id="sa_sallet_base"/>
+		      	<Item id="sa_great_prankh_helm"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Body>
+		      	<Item id="cts_spanish_armor_tier4"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_plated_boots"/>
+		      	<Item id="cts_spanish_chainmail_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="cts_spanish_plated_shoulder_ptrotection1"/>
+		      	<Item id="cts_spain_shoulder_cloth2"/>
+		      	<Item id="cts_spain_shoulder_metal_cloth"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		      	<Item id="cts_spanish_chainmail_glove"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ci_ificial"
+		name="Oficial"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ci_escudo_oficial_ci"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="cts_spanish_helmet_6"/>
+		      	<Item id="cts_spanish_helmet_9"/>
+		      	<Item id="cts_spanish_helmet3"/>
+		      	<Item id="cts_spanish_helmet4"/>
+		      	<Item id="cts_spanish_helmet_10"/>
+		      	<Item id="cts_spanish_helmet5"/>
+		      	<Item id="sw_great_prankh_helm"/>
+		      	<Item id="ci_askz2"/>
+		      	<Item id="ci_armet"/>
+		      	<Item id="sa_butterlord1"/>
+		      	<Item id="ci_crowned_vlandian_helm_with_visor"/>
+		      	<Item id="sa_butterlord3"/>
+		      	<Item id="sa_sallet_base"/>
+		      	<Item id="sa_sugarloaf_helm3"/>
+		      	<Item id="sa_sugarloaf_helm2"/>
+		      	<Item id="ci_filipogh"/>
+		      	<Item id="null"/>
+		    </Head>
+		    <Body>
+		      	<Item id="cts_spanish_armor_tier5"/>
+		      	<Item id="cts_aguila_spanish_armor_tier5_2"/>
+		      	<Item id="cts_patron3_spanish_armor_tier5_2"/>
+		      	<Item id="cts_patron4_spanish_armor_tier5_2"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_plated_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="cts_spanish_plated_shoulder_ptrotection"/>
+		      	<Item id="mp_varangian_bra_royal"/>
+		      	<Item id="sp_empire_cape_a"/>
+		      	<Item id="sa_swadian_shoulders"/>
+		      	<Item id="b2_pauldron_cape_a"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="cts_spanish_plated_gloves"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ci_rey"
+		name="Rey"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="ci_espada_ceremonial" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="cts_spanish_king_shield"/>
+		      	<Item id="ci_escudo_oficial_ci"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="cts_spanish_king_helm"/>
+		      	<Item id="ci_corona_alecks"/>
+		    </Head>
+		    <Body>
+		      	<Item id="cts_spanish_king_armor"/>
+		      	<Item id="cts_spanish_armor_tier5"/>
+		      	<Item id="cts_aguila_spanish_armor_tier5_2"/>
+		      	<Item id="cts_patron3_spanish_armor_tier5_2"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="cts_spanish_king_boots"/>
+		      	<Item id="cts_spanish_plated_boots"/>
+		      	<Item id="cts_spanish_kinguard_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="cts_shoulder_spanish_king"/>
+		      	<Item id="cts_shoulder_spanish_king1"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="cts_spanish_king_gloves"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>
