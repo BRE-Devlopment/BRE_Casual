@@ -76,8 +76,8 @@
   <Item 
     id="ca_tower_shield3_eich" 
     name="Tower Shield" 
-    body_name="bo_cap_ca_tower_shield3" 
-    shield_body_name="bo_ca_tower_shield3" 
+    body_name="bo_cap_co_tower_shield3" 
+    shield_body_name="bo_co_tower_shield3" 
     recalculate_body="false" 
     mesh="bre_tower_shield3_eich" 
     using_tableau="false" 
