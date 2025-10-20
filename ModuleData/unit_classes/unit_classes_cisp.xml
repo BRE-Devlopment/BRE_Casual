@@ -81,7 +81,7 @@
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
-		      	<Item id="b2_lance_x"/>
+		      	<Item id="b2_lance_ci"/>
 		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
 			</Weapon0>
 		    <Weapon1>
@@ -126,7 +126,7 @@
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
-		      	<Item id="b2_lance_x"/>
+		      	<Item id="b2_lance_ci"/>
 		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
 			</Weapon0>
 		    <Weapon1>
@@ -183,7 +183,7 @@
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
-		      	<Item id="b2_lance_x"/>
+		      	<Item id="b2_lance_ci"/>
 		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
 			</Weapon0>
 		    <Weapon1>
@@ -245,7 +245,7 @@
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
-		      	<Item id="b2_lance_x"/>
+		      	<Item id="b2_lance_ci"/>
 		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
 			</Weapon0>
 		    <Weapon1>
@@ -320,7 +320,7 @@
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
-		      	<Item id="b2_lance_x"/>
+		      	<Item id="b2_lance_ci"/>
 		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
 			</Weapon0>
 		    <Weapon1>

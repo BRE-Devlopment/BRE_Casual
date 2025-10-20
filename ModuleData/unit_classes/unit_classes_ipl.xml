@@ -339,7 +339,7 @@
 	<UnitClass
 		id="ipl_dunleap"
 		name="Dunleap"
-		character="human_acavalry"
+		character="human_cavalry"
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
@@ -444,7 +444,7 @@
 	<UnitClass
 		id="ipl_grimuald"
 		name="Grimuald"
-		character="human_acavalry"
+		character="human_cavalry"
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
@@ -549,7 +549,7 @@
 	<UnitClass
 		id="ipl_hypnosis"
 		name="Hypnosis"
-		character="human_acavalry"
+		character="human_cavalry"
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
@@ -654,7 +654,7 @@
 	<UnitClass
 		id="ipl_legionista"
 		name="Legionista"
-		character="human_acavalry"
+		character="human_cavalry"
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
@@ -759,7 +759,7 @@
 	<UnitClass
 		id="ipl_radon"
 		name="Radon"
-		character="human_acavalry"
+		character="human_cavalry"
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
@@ -864,7 +864,7 @@
 	<UnitClass
 		id="ipl_vino"
 		name="Vino"
-		character="human_acavalry"
+		character="human_cavalry"
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
@@ -969,7 +969,7 @@
 	<UnitClass
 		id="ipl_weteran"
 		name="Weteran"
-		character="human_acavalry"
+		character="human_cavalry"
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
@@ -1074,7 +1074,7 @@
 	<UnitClass
 		id="ipl_mrnoname"
 		name="MrNoname"
-		character="human_acavalry"
+		character="human_cavalry"
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
@@ -1179,7 +1179,7 @@
 	<UnitClass
 		id="ipl_mar"
 		name="Mar"
-		character="human_acavalry"
+		character="human_cavalry"
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>
@@ -1284,7 +1284,7 @@
 	<UnitClass
 		id="ipl_volv"
 		name="Volv"
-		character="human_acavalry"
+		character="human_cavalry"
 		stats_preset="cavalry_base">
 		<Equipment>
 			<Weapon0>

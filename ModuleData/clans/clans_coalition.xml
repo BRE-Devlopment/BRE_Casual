@@ -126,7 +126,7 @@
 		name="Štvanci"
 	    color1="FF6f1716"
 	    color2="FFf4ebe9"
-	    banner="11.6.6.2000.2000.764.764.0.0.0.342.121.121.500.500.764.764.0.0.0">
+	    banner="11.609.609.1536.1536.764.764.1.0.0.6010.40.40.500.500.764.764.1.0.0">
 		<UnitClasses>
 			<UnitClass id="svci_kandidat"/>
 			<UnitClass id="svci_knecht"/>
@@ -207,7 +207,7 @@
 	</Clan>
 	<Clan
 		id="CI"
-		name="Corona Ibérica"
+		name="Coronas Ibéricas"
 	    color1="FF260702"
 	    color2="FFec7c0f"
 	    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0">
@@ -278,7 +278,7 @@
 	</Clan>
 	<Clan
 		id="CISP"
-		name="CI Special Classes"
+		name="Coronas Ibéricas Clases Especiales"
 	    color1="FF260702"
 	    color2="FFec7c0f"
 	    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0">
