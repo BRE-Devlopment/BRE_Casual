@@ -14789,7 +14789,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Bohémond de Bastogne"
     mpclassdivision="bre_cavalry"
-    id="knight_of_the_realm.bas">
+    id="questing_knight.bas">
     <Weapon0>
       <equipment id="b2_lance_bas"/>
       <equipment id="b3_kotr_lance_bas" disablerandomize="true"/>
@@ -14815,9 +14815,8 @@
       <equipment id="b3_kotr_head_6"/>
       <equipment id="b3_kotr_head_7"/>
 
-      <equipment id="b3_squire_coif_1" disablerandomize="true" disablegroup="Cape"/>
-      <equipment id="b3_squire_coif_2" disablerandomize="true" disablegroup="Cape"/>
-      <equipment id="b3_squire_coif_3" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_squire_coif_noneck" disablerandomize="true"/>
+      <equipment id="b3_squire_coif_nocloth_noneck" disablerandomize="true"/>
 
       <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
     </Head>
@@ -14832,14 +14831,16 @@
     </Leg>
     <Cape>
       <equipment id="b3_crest_bas"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="b3_squire_backpack" disablerandomize="true"/>
+      <equipment id="b3_squire_backpack_v1" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true"/>
     </Cape>
     <Gloves>
       <equipment id="b3_kotr_gloves_1"/>
       <equipment id="b3_kotr_gloves_2"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_kotr_horse_bas" cavalryitem="true"/>
+      <equipment id="b3_bas_questing_knight_caparison" cavalryitem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
