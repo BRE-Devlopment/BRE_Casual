@@ -1,0 +1,305 @@
+<UnitClasses>
+	<UnitClass
+		id="vsc_volsung_vikingr"
+		name="Völsung Vikingr"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="sp_banner_empire3" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="mp_leather_round_shield_light"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="vsc_infantry_helmet"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="vsc_infantry_shoulder1"/>
+		      	<Item id="vsc_infantry_shoulder2"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="vsc_infantry_armour"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="vsc_infantry_legs"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="vsc_infantry_gloves"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="vsc_volsung_adal"
+		name="Völsung Aðal"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="sp_banner_empire3" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="mp_leather_round_shield_light"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="vsc_infantry_ls_helmet"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="vsc_infantry_ls_shoulder"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="vsc_infantry_ls_armour"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="vsc_infantry_legs"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="vsc_infantry_gloves"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="vsc_volsung_bogimadr"
+		name="Völsung Bogimaðr"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_woodland_yew_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_dagger"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="vsc_archer_helmet"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="vsc_archer_shoulder"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="vsc_archer_armour"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_rough_tied_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="vsc_archer_gloves"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="vsc_volsung_bogimadr_adal"
+		name="Völsung Bogimaðr Aðal"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_woodland_yew_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_dagger"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="vsc_archer_ls_helmet"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="mp_rough_bearskin"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="vsc_archer_ls_armour"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="vsc_archer_ls_gloves"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="vsc_infantry_legs"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="vsc_volsung_riddari"
+		name="Völsung Riddari"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_vsc"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_reinforced_flat_kite_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="vsc_cavalry_helmet"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="vsc_cavalry_shoulder"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="vsc_cavalry_armour"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="vsc_infantry_legs"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="vsc_archer_gloves"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+      			<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="vsc_volsung_riddari_adal"
+		name="Völsung Riddari Aðal"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_vsc"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_reinforced_flat_kite_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="vsc_cavalry_ls_helmet"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="vsc_cavalry_ls_shoulder"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="vsc_infantry_armour"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="vsc_infantry_legs"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="vsc_archer_gloves"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+      			<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="vsc_volsung_light_riddari"
+		name="Völsung Light Riddari"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_vsc"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_reinforced_flat_kite_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="vsc_light_cavalry_helmet"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="vsc_light_cavalry_shoulder"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="mp_eastern_studded_leather"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_rough_tied_boots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="vsc_archer_ls_gloves"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+      			<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>

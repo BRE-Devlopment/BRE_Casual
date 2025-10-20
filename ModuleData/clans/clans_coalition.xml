@@ -86,19 +86,19 @@
 		</UnitClasses>
 	</Clan>
 	<Clan
-		id="KOH"
+		id="VSC"
 		name="Völsung Clan"
 	    color1="FF050505"
 	    color2="FFbdbdbd"
 	    banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0">
 		<UnitClasses>
-			<UnitClass id="koh_infantry"/>
-			<UnitClass id="koh_berserker"/>
-			<UnitClass id="koh_lendmann"/>
-			<UnitClass id="koh_adal"/>
-			<UnitClass id="koh_bogimadr"/>
-			<UnitClass id="koh_langbogimadr"/>
-			<UnitClass id="koh_riddari"/>
+			<UnitClass id="vsc_volsung_vikingr"/>
+			<UnitClass id="vsc_volsung_adal"/>
+			<UnitClass id="vsc_volsung_bogimadr"/>
+			<UnitClass id="vsc_volsung_bogimadr_adal"/>
+			<UnitClass id="vsc_volsung_riddari"/>
+			<UnitClass id="vsc_volsung_riddari_adal"/>
+			<UnitClass id="vsc_volsung_light_riddari"/>
 		</UnitClasses>
 	</Clan>
 	<Clan
