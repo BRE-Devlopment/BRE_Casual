@@ -96,7 +96,7 @@
 	    color1="FF050505"
 	    color2="FFbdbdbd"
 	    faction="enemy"
-	    banner="24.108.116.2091.2091.764.764.1.0.0.432.116.58.486.486.765.725.1.0.0">
+	    banner="24.58.116.2091.2091.764.764.1.0.0.432.116.58.333.333.767.560.1.0.0.432.116.58.333.333.764.961.1.0.179">
 		<UnitClasses>
 			<UnitClass id="vsc_volsung_vikingr"/>
 			<UnitClass id="vsc_volsung_adal"/>
