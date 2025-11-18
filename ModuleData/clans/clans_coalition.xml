@@ -152,6 +152,9 @@
 			<UnitClass id="svci_haupt_schutze"/>
 			<UnitClass id="svci_knappe"/>
 			<UnitClass id="svci_reiter"/>
+			<UnitClass id="svci_wachtmeister"/>
+			<UnitClass id="svci_feldwebel"/>
+			<UnitClass id="svci_hauptmann"/>
 		</UnitClasses>
 	</Clan>
 	<Clan
