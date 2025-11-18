@@ -722,57 +722,6 @@
 		      	<Item id="b2_bastard_axe"/>
 		    </Weapon3>
 		    <Head>
-		      	<Item id="sa_armet"/>
-		    </Head>
-		    <Body>
-		      	<Item id="sa_tabbartplate"/>
-		    </Body>
-		    <Leg>
-		      	<Item id="ba_plategreaves"/>
-		    </Leg>
-		    <Cape>
-		      	<Item id="sa_swadian_shoulders"/>
-		    </Cape>
-		    <Gloves>
-		      	<Item id="ba_plategauntlet"/>
-		    </Gloves>
-		    <HorseHarness>
-		      	<Item id="mp_chain_barding"/>
-		      	<Item id="mp_halfchain_barding"/>
-		    </HorseHarness>
-		    <Horse>
-		      	<Item id="b2_horse_brown"/>
-		      	<Item id="b2_horse_gold"/>
-		      	<Item id="b2_horse_white"/>
-		      	<Item id="b2_horse_grey"/>
-		      	<Item id="b2_horse_darkgrey"/>
-		      	<Item id="b2_horse_black"/>
-		      	<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
-		    </Horse>
-		</Equipment>
-	</UnitClass>
-	<UnitClass
-		id="svci_feldwebel"
-		name="Feldwebel"
-		character="human_cavalry"
-		stats_preset="cavalry_base">
-		<Equipment>
-			<Weapon0>
-		      	<Item id="b2_lance_svci"/>
-		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
-			</Weapon0>
-		    <Weapon1>
-		      	<Item id="ca_tall_heater_shield_noboss"/>
-		    </Weapon1>
-		    <Weapon2>
-		      	<Item id="b2_native_sword"/>
-		      	<Item id="b2_native_mace"/>
-		    </Weapon2>
-		    <Weapon3>
-		      	<Item id="b3_squire_sword_2h"/>
-		      	<Item id="b2_bastard_axe"/>
-		    </Weapon3>
-		    <Head>
 		      	<Item id="sa_butterlord1"/>
 		      	<Item id="sa_armet"/>
 		      	<Item id="sa_crowned_vlandian_helm_with_visor"/>
@@ -817,6 +766,58 @@
 		</Equipment>
 	</UnitClass>
 	<UnitClass
+		id="svci_feldwebel"
+		name="Feldwebel"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_svci"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+		      	<Item id="b2_native_spear" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ca_tall_heater_shield_noboss"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sa_armet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_tabbartplate"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="ba_plategreaves"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_swadian_shoulders"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="ba_plategauntlet"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+		      	<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
 		id="svci_hauptmann"
 		name="Hauptmann"
 		character="human_cavalry"
@@ -825,6 +826,7 @@
 			<Weapon0>
 		      	<Item id="b2_lance_svci"/>
 		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+		      	<Item id="b2_native_spear" disable_randomize="true"/>
 			</Weapon0>
 		    <Weapon1>
 		      	<Item id="ca_tall_heater_shield_noboss"/>
