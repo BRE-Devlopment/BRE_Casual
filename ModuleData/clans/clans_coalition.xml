@@ -48,10 +48,19 @@
 	    faction="enemy"
 	    banner="11.605.605.1536.1536.764.764.1.0.0.6003.40.40.500.500.764.764.0.0.0">
 		<UnitClasses>
-			<UnitClass id="ipl_infantry"/>
 			<UnitClass id="ipl_archer"/>
 			<UnitClass id="ipl_archer_officer"/>
-			<UnitClass id="ipl_cavalry"/>
+			<UnitClass id="ipl_poborowi"/>
+			<UnitClass id="ipl_piechur"/>
+			<UnitClass id="ipl_Konny"/>
+			<UnitClass id="ipl_Zbrojny"/>
+			<UnitClass id="ipl_Pocztowy"/>
+			<UnitClass id="ipl_Pancerni"/>
+			<UnitClass id="ipl_Pancerni_cavalry"/>
+			<UnitClass id="ipl_Gwardziści"/>
+			<UnitClass id="ipl_Gwardziści_cavalry"/>
+			<UnitClass id="ipl_Czempion"/>
+			<UnitClass id="ipl_Czempion_cavalry"/>
 			<UnitClass id="ipl_arris" forced_color1="FFffffff" forced_color2="FFf6d000"/>
 			<UnitClass id="ipl_arris_dismounted" forced_color1="FFffffff" forced_color2="FFf6d000"/>
 			<UnitClass id="ipl_dunleap" forced_color1="FFf1c500" forced_color2="FF000000"/>

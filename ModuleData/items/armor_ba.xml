@@ -125,7 +125,19 @@
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
+  <Item multiplayer_item="true" id="ba_platearmor2" name="Full Plate Armor" mesh="ba_platearmor2" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
   <Item multiplayer_item="true" id="ba_platearmorgold" name="Gold Full Plate Armor with Rondel" mesh="ba_platearmorgold" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item multiplayer_item="true" id="ba_platearmor2worn" name="Battered Full Plate Armor" mesh="ba_platearmor2worn" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>

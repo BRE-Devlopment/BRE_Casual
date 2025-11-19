@@ -1,53 +1,5 @@
 <UnitClasses>
 	<UnitClass
-		id="ipl_infantry"
-		name="Infantry"
-		character="human_infantry"
-		stats_preset="infantry_base">
-		<Equipment>
-			<Weapon0>
-		      	<Item id="b2_native_spear"/>
-		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
-		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
-		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
-		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
-		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
-		      	<Item id="ipl_shield_ipl" disable_randomize="true" disable_group="Weapon1"/>
-		      	<Item id="ipl_banner" disable_randomize="true" disable_group="Weapon1"/>
-			</Weapon0>
-		    <Weapon1>
-		      	<Item id="ipl_tall_heater_shield_noboss_ipl"/>
-		      	<Item id="ipl_shield_ipl" disable_randomize="true"/>
-		    </Weapon1>
-		    <Weapon2>
-		      	<Item id="b2_native_mace"/>
-		      	<Item id="b2_native_axe"/>
-		      	<Item id="b2_native_sword"/>
-		    </Weapon2>
-		    <Head>
-		      	<Item id="sa_bacinet_with_facemask"/>
-		      	<Item id="sa_butterlord1" disable_randomize="true"/>
-		      	<Item id="sa_butterlord2" disable_randomize="true"/>
-		      	<Item id="sa_butterlord3" disable_randomize="true"/>
-		      	<Item id="sa_butterlord5" disable_randomize="true"/>
-		      	<Item id="sa_butterlord6" disable_randomize="true"/>
-		      	<Item id="sa_butterlord7" disable_randomize="true"/>
-		    </Head>
-		    <Body>
-		      	<Item id="ipl_mail_with_tabbard_ipl"/>
-		    </Body>
-		    <Leg>
-		      	<Item id="sa_1churburghboots"/>
-		    </Leg>
-		    <Cape>
-		      	<Item id="ipl_shoulder"/>
-		    </Cape>
-		    <Gloves>
-		      	<Item id="sa_1churburghgauntlet"/>
-		    </Gloves>
-		</Equipment>
-	</UnitClass>
-	<UnitClass
 		id="ipl_archer"
 		name="Archer"
 		character="human_archer"
@@ -175,8 +127,104 @@
 		</Equipment>
 	</UnitClass>
 	<UnitClass
-		id="ipl_cavalry"
-		name="Cavalry"
+		id="ipl_poborowi"
+		name="Poborowi"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="ipl_tall_heater_shield_noboss_ipl" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="ipl_banner" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ipl_tall_heater_shield_noboss_ipl"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sp_imperial_mail_coif"/>
+		      	<Item id="mp_cervelliere_over_arming_coif"/>
+		      	<Item id="mp_nasal_helmet_with_leather"/>
+		      	<Item id="mp_hood"/>
+		      	<Item id="mp_segmented_skullcap_over_mail_coif"/>
+		    </Head>
+		    <Body>
+		      	<Item id="mp_empire_warrior_padded_armor_a"/>
+		      	<Item id="sp_sturgia_light_tunic"/>
+		      	<Item id="sp_desert_scale_armor"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sp_sturgia_boots_c"/>
+		      	<Item id="sp_sturgia_boots_a"/>
+		      	<Item id="mp_plated_strip_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_western_chain_shoulders"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_padded_vambrace"/>
+		      	<Item id="mp_buttoned_leather_bracers"/>
+		      	<Item id="mp_guarded_padded_vambrace"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ipl_piechur"
+		name="Piechur / Strażnik"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="ipl_tall_heater_shield_noboss_ipl" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="ipl_banner" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ipl_tall_heater_shield_noboss_ipl"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="ba_openhelm2"/>
+		      	<Item id="ba_opensallet"/>
+		      	<Item id="sa_pothelm"/>
+		      	<Item id="ba_sallet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="ipl_coat_over_plate_ipl"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_plated_strip_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_swadian_shoulders"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_highland_gloves"/>
+		      	<Item id="mp_reinforced_mail_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ipl_Konny"
+		name="Konny / Kawalerzysta"
 		character="human_cavalry"
 		stats_preset="cavalry_base">
 		<Equipment>
@@ -186,7 +234,211 @@
 			</Weapon0>
 		    <Weapon1>
 		      	<Item id="ipl_shield_ipl"/>
+		      	<Item id="ipl_banner" disable_randomize="true"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="ba_openhelm2"/>
+		      	<Item id="ba_opensallet"/>
+		      	<Item id="sa_pothelm"/>
+		      	<Item id="ba_sallet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="ipl_coat_over_plate_ipl"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_plated_strip_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="sa_swadian_shoulders"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="mp_highland_gloves"/>
+		      	<Item id="mp_reinforced_mail_mitten"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="ipl_caparsion_ipl"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ipl_Zbrojny"
+		name="Zbrojny / Ciężkozbrojny"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="ipl_tall_heater_shield_noboss_ipl" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="ipl_banner" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
 		      	<Item id="ipl_tall_heater_shield_noboss_ipl"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_bacinet_with_facemask"/>
+		      	<Item id="sa_butterlord4"/>
+		    </Head>
+		    <Body>
+		      	<Item id="ipl_mail_with_tabbard_ipl"/>
+		      	<Item id="sa_coat_of_plates1_c"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sa_plate_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_leopard_pelt"/>
+		      	<Item id="ipl_shoulder"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="sa_1churburghgauntlet"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ipl_Pocztowy"
+		name="Pocztowy / Ciężki Kawalerzysta"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_ipl"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ipl_shield_ipl"/>
+		      	<Item id="ipl_banner" disable_randomize="true"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sa_1ChurburghHelm"/>
+		      	<Item id="sa_sugarloaf_helm4"/>
+		      	<Item id="sa_great_helm_base"/>
+		      	<Item id="sa_vlandian_helm_with_visor"/>
+		      	<Item id="sa_churburghHelm"/>
+		      	<Item id="sa_sugarloaf_helm"/>
+		      	<Item id="sa_great_helm_brass"/>
+		      	<Item id="sa_butterlord4"/>
+		    </Head>
+		    <Body>
+		      	<Item id="ipl_mail_with_tabbard_ipl"/>
+		      	<Item id="sa_coat_of_plates1_c"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sa_plate_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="ipl_shoulder"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="sa_1churburghgauntlet"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="ipl_caparsion_ipl"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ipl_Pancerni"
+		name="Pancerni"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="ipl_tall_heater_shield_noboss_ipl" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="ipl_banner" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ipl_tall_heater_shield_noboss_ipl"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_1ChurburghHelm"/>
+		      	<Item id="sa_sugarloaf_helm4"/>
+		      	<Item id="sa_great_helm_base"/>
+		      	<Item id="sa_vlandian_helm_with_visor"/>
+		      	<Item id="sa_churburghHelm"/>
+		      	<Item id="sa_sugarloaf_helm"/>
+		      	<Item id="sa_great_helm_brass"/>
+		      	<Item id="sa_butterlord4"/>
+		    </Head>
+		    <Body>
+		      	<Item id="ipl_mail_with_tabbard_ipl"/>
+		      	<Item id="sa_coat_of_plates1_c"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sa_plate_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="ipl_shoulder"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="sa_1churburghgauntlet"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ipl_Pancerni_cavalry"
+		name="Pancerni (cavalry)"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_ipl"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ipl_shield_ipl"/>
 		      	<Item id="ipl_banner" disable_randomize="true"/>
 		    </Weapon1>
 		    <Weapon2>
@@ -199,24 +451,221 @@
 		    </Weapon3>
 		    <Head>
 		      	<Item id="sa_bacinet_with_facemask"/>
-		      	<Item id="sa_butterlord1" disable_randomize="true"/>
-		      	<Item id="sa_butterlord2" disable_randomize="true"/>
-		      	<Item id="sa_butterlord3" disable_randomize="true"/>
-		      	<Item id="sa_butterlord5" disable_randomize="true"/>
-		      	<Item id="sa_butterlord6" disable_randomize="true"/>
-		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="sa_butterlord4"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_ipl"/>
+		      	<Item id="sa_coat_of_plates1_c"/>
 		    </Body>
 		    <Leg>
-		      	<Item id="sa_1churburghboots"/>
+		      	<Item id="sa_plate_boots"/>
 		    </Leg>
 		    <Cape>
-		      	<Item id="ipl_shoulder"/>
+		      	<Item id="sa_bacinet_with_facemask"/>
+		      	<Item id="sa_butterlord4"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="ipl_caparsion_ipl"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ipl_Gwardziści"
+		name="Gwardziści"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="ipl_tall_heater_shield_noboss_ipl" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="ipl_banner" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ipl_tall_heater_shield_noboss_ipl"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_vlandian_helm_with_faceplate"/>
+		      	<Item id="sa_vlandian_helm_with_faceplate_blackend_brass"/>
+		    </Head>
+		    <Body>
+		      	<Item id="ba_platearmor2"/>
+		      	<Item id="ba_platearmor2gold"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="ba_plategreaves"/>
+		      	<Item id="ba_plategreavesgold"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="ba_plategauntlet"/>
+		      	<Item id="ba_plategauntletgold"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ipl_Gwardziści_cavalry"
+		name="Gwardziści (cavalry)"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_ipl"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ipl_shield_ipl"/>
+		      	<Item id="ipl_banner" disable_randomize="true"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sa_vlandian_helm_with_faceplate"/>
+		      	<Item id="sa_vlandian_helm_with_faceplate_blackend_brass"/>
+		    </Head>
+		    <Body>
+		      	<Item id="ba_platearmor2"/>
+		      	<Item id="ba_platearmor2gold"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="ba_plategreaves"/>
+		      	<Item id="ba_plategreavesgold"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="ba_plategauntlet"/>
+		      	<Item id="ba_plategauntletgold"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="ipl_caparsion_ipl"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ipl_Czempion"
+		name="Czempion"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="ipl_tall_heater_shield_noboss_ipl" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="ipl_banner" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ipl_tall_heater_shield_noboss_ipl"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_butterlord6"/>
+		      	<Item id="sa_butterlord5"/>
+		    </Head>
+		    <Body>
+		      	<Item id="ipl_mail_with_tabbard_ipl"/>
+		      	<Item id="sa_tabbartplate"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sa_churburghboots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_varangian_bra_royal"/>
+		      	<Item id="sp_aserai_scale_shoulder_b"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="sa_churburghgauntlet"/>
+		      	<Item id="mp_lamellar_plate_gauntlets"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="ipl_Czempion_cavalry"
+		name="Czempion (cavalry)"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_ipl"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="ipl_shield_ipl"/>
+		      	<Item id="ipl_banner" disable_randomize="true"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sa_butterlord6"/>
+		      	<Item id="sa_butterlord5"/>
+		    </Head>
+		    <Body>
+		      	<Item id="ipl_mail_with_tabbard_ipl"/>
+		      	<Item id="sa_tabbartplate"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sa_churburghboots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="mp_varangian_bra_royal"/>
+		      	<Item id="sp_aserai_scale_shoulder_b"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="sa_churburghgauntlet"/>
+		      	<Item id="mp_lamellar_plate_gauntlets"/>
 		    </Gloves>
 		    <HorseHarness>
 		      	<Item id="ipl_caparsion_ipl"/>
@@ -262,6 +711,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_arr"/>
@@ -271,6 +721,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_churburghgauntlet"/>
@@ -321,6 +772,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_arr"/>
@@ -330,6 +782,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_churburghgauntlet"/>
@@ -367,6 +820,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_dun"/>
@@ -376,6 +830,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -426,6 +881,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_dun"/>
@@ -435,6 +891,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -472,6 +929,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_gri"/>
@@ -481,6 +939,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -531,6 +990,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_gri"/>
@@ -540,6 +1000,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -577,6 +1038,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_hyp"/>
@@ -586,6 +1048,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -636,6 +1099,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_hyp"/>
@@ -645,6 +1109,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -682,6 +1147,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_leg"/>
@@ -691,6 +1157,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -741,6 +1208,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_leg"/>
@@ -750,6 +1218,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -787,6 +1256,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_rad"/>
@@ -796,6 +1266,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -846,6 +1317,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_rad"/>
@@ -855,6 +1327,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -892,6 +1365,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_vin"/>
@@ -901,6 +1375,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -951,6 +1426,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_vin"/>
@@ -960,6 +1436,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -997,6 +1474,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_wet"/>
@@ -1006,6 +1484,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -1056,6 +1535,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_wet"/>
@@ -1065,6 +1545,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -1102,6 +1583,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_mrn"/>
@@ -1111,6 +1593,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -1161,6 +1644,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_mrn"/>
@@ -1170,6 +1654,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -1207,6 +1692,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_mar"/>
@@ -1216,6 +1702,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -1266,6 +1753,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_mail_with_tabbard_mar"/>
@@ -1275,6 +1763,7 @@
 		    </Leg>
 		    <Cape>
 		      	<Item id="ipl_shoulder"/>
+		      	<Item id="ipl_shoulder_snow"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
@@ -1312,6 +1801,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_sa_surcoatplate_vol"/>
@@ -1371,6 +1861,7 @@
 		      	<Item id="sa_butterlord5" disable_randomize="true"/>
 		      	<Item id="sa_butterlord6" disable_randomize="true"/>
 		      	<Item id="sa_butterlord7" disable_randomize="true"/>
+		      	<Item id="null" disable_randomize="true"/>
 		    </Head>
 		    <Body>
 		      	<Item id="ipl_sa_surcoatplate_vol"/>
