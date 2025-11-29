@@ -260,8 +260,8 @@
 		<Equipment>
 			<Weapon0>
 		      	<Item id="xiii_banner"/>
-		      	<Item id="xiii_banner_3" disable_randomize="true"/>
-		      	<Item id="xiii_banner_4" disable_randomize="true"/>
+		      	<!--<Item id="xiii_banner_3" disable_randomize="true"/>
+		      	<Item id="xiii_banner_4" disable_randomize="true"/>-->
 		      	<Item id="xiii_banner_2" disable_randomize="true"/>
 			</Weapon0>
 		    <Weapon1>

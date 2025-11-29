@@ -18,7 +18,7 @@
 	    color1="FFed9a13"
 	    color2="FF5a1310"
 	    faction="enemy"
-	    banner="7002.132.14.1536.1536.764.764.0.0.0">
+	    banner="7002.552.550.1536.1536.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="almo_almogaver"/>
 			<UnitClass id="almo_almugaten"/>
