@@ -22,7 +22,7 @@
         weapon_length="150"
         swing_damage="6"
         swing_damage_type="Blunt"
-        item_usage="torch"
+        item_usage="banner"
         physics_material="metal_weapon"
         position="0.0, 0.0, -0.8">
         <WeaponFlags MeleeWeapon="true"/>
@@ -56,7 +56,7 @@
         weapon_length="150"
         swing_damage="6"
         swing_damage_type="Blunt"
-        item_usage="torch"
+        item_usage="banner"
         physics_material="metal_weapon"
         position="0.0, 0.0, -0.8">
         <WeaponFlags MeleeWeapon="true"/>
@@ -90,7 +90,7 @@
         weapon_length="150"
         swing_damage="6"
         swing_damage_type="Blunt"
-        item_usage="torch"
+        item_usage="banner"
         physics_material="metal_weapon"
         position="0.0, 0.0, -0.8">
         <WeaponFlags MeleeWeapon="true"/>
@@ -124,7 +124,7 @@
         weapon_length="150"
         swing_damage="6"
         swing_damage_type="Blunt"
-        item_usage="torch"
+        item_usage="banner"
         physics_material="metal_weapon"
         position="0.0, 0.0, -0.8">
         <WeaponFlags MeleeWeapon="true"/>
