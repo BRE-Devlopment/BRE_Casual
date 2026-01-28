@@ -218,7 +218,7 @@
 	    color1="FFfa591e"
 	    color2="FFffffff"
 	    faction="enemy"
-	    banner="11.611.611.2000.2000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0">
+	    banner="14.611.58.2000.2000.764.764.0.0.0.6013.35.35.480.480.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="eich_jungrecke"/>
 			<UnitClass id="eich_knecht"/>

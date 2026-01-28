@@ -153,6 +153,7 @@
 		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
 		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
 		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="sp_banner_vlandia2" disable_randomize="true" disable_group="Weapon1"/>
 			</Weapon0>
 		    <Weapon1>
 		      	<Item id="sp_bracketed_heater_shield"/>
