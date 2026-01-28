@@ -23,4 +23,72 @@
 				scale_factor="100" />
 		</Pieces>
 	</CraftedItem>
+	<Item
+    id="ci_santiago_banner"
+    name="Bandera de Santiago"
+    body_name="bo_mace_a"
+    recalculate_body="false"
+    mesh="estandartesantiago"
+    culture="Culture.neutral_culture"
+    weight="2.1"
+    Type="OneHandedWeapon"
+    using_tableau="false"
+    item_holsters="abdomen_left">
+    <ItemComponent>
+      <Weapon
+        weapon_class="OneHandedAxe"
+        weapon_balance="100"
+        thrust_speed="78"
+        speed_rating="97"
+        missile_speed="0"
+        weapon_length="150"
+        swing_damage="6"
+        swing_damage_type="Blunt"
+        item_usage="banner"
+        physics_material="metal_weapon"
+        position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true"/>
+      </Weapon>
+    </ItemComponent>
+    <Flags
+      DropOnWeaponChange="true"
+      ForceAttachOffHandPrimaryItemBone="true"
+      HeldInOffHand="true"
+      HasToBeHeldUp="true"
+      CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item
+    id="ci_toledo_banner"
+    name="Bandera de Toledo"
+    body_name="bo_mace_a"
+    recalculate_body="false"
+    mesh="toledo_new_banner"
+    culture="Culture.neutral_culture"
+    weight="2.1"
+    Type="OneHandedWeapon"
+    using_tableau="false"
+    item_holsters="abdomen_left">
+    <ItemComponent>
+      <Weapon
+        weapon_class="OneHandedAxe"
+        weapon_balance="100"
+        thrust_speed="78"
+        speed_rating="97"
+        missile_speed="0"
+        weapon_length="150"
+        swing_damage="6"
+        swing_damage_type="Blunt"
+        item_usage="banner"
+        physics_material="metal_weapon"
+        position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true"/>
+      </Weapon>
+    </ItemComponent>
+    <Flags
+      DropOnWeaponChange="true"
+      ForceAttachOffHandPrimaryItemBone="true"
+      HeldInOffHand="true"
+      HasToBeHeldUp="true"
+      CanBePickedUpFromCorpse="false" />
+  </Item>
 </Items>

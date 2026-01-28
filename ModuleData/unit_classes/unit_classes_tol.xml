@@ -178,7 +178,7 @@
 		stats_preset="infantry_base">
 		<Equipment>
 			<Weapon0>
-		      	<Item id="sp_banner_empire3"/>
+		      	<Item id="ci_toledo_banner"/>
 			</Weapon0>
 		    <Weapon1>
 		      	<Item id="b2_native_mace"/>
