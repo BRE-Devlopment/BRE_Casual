@@ -143,6 +143,12 @@
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
+  <Item multiplayer_item="true" id="ba_platearmor2gold" name="Trimmed Full Plate Armor" mesh="ba_platearmor2gold" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="0" leg_armor="0" arm_armor="0" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
   <!--GLOVES-->
   <Item multiplayer_item="true" id="ba_plategauntletworn" name="Battered Plate Gauntlets" mesh="ba_plategauntletworn" subtype="body_armor" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HandArmor">
     <ItemComponent>
