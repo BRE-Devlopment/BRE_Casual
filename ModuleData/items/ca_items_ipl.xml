@@ -13,7 +13,10 @@
     using_tableau="false"
     item_holsters="abdomen_left">
     <ItemComponent>
-      <Weapon
+      <BRE_Banner
+        aura_all="false"
+        aura_radius="15"
+        aura_strength="0.7"
         weapon_class="OneHandedAxe"
         weapon_balance="100"
         thrust_speed="78"
@@ -26,7 +29,7 @@
         physics_material="metal_weapon"
         position="0.0, 0.0, -0.8">
         <WeaponFlags MeleeWeapon="true"/>
-      </Weapon>
+      </BRE_Banner>
     </ItemComponent>
     <Flags
       DropOnWeaponChange="true"
