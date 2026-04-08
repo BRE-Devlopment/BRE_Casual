@@ -56,12 +56,6 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="ba_closedsallet" name="Worn Closed Sallet" subtype="head_armor" mesh="ba_closedsallet" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
-    <ItemComponent>
-      <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
-    </ItemComponent>
-    <Flags UseTeamColor="true" />	
-  </Item>
   <Item id="ba_closedsalletclean" name="Plate Closed Sallet" subtype="head_armor" mesh="ba_closedsalletclean" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
       <Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />

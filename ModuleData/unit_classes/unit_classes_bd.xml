@@ -129,7 +129,7 @@
 		      	<Item id="sp_empire_plate_armor_shoulder_b"/>
 		    </Cape>
 		    <Gloves>
-				<item id="null"/>
+				<Item id="null"/>
 		      	<Item id="sa_churburghgauntlet"/>
 		      	<Item id="sa_2churburghgauntlet"/>
 		    </Gloves>
