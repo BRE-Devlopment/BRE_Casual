@@ -12,6 +12,96 @@
 		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
 		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
 		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_heavy_heater_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="ba_salletclean"/>
+		      	<Item id="ba_sallet"/>
+		      	<Item id="ba_opensalletclean"/>
+		      	<Item id="ba_opensallet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_brigandine_plate3"/>
+		      	<Item id="sa_brigandine_plate1"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sa_churburghboots"/>
+		      	<Item id="sa_2churburghboots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="null"/>
+		      	<Item id="sp_empire_plate_armor_shoulder_b"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="sa_churburghgauntlet"/>
+		      	<Item id="sa_2churburghgauntlet"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="bd_infantry_elite"
+		name="Elite Infantry"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_heavy_heater_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="ba_closedsalletclean"/>
+		      	<Item id="ba_closedsallet"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_brigandine_plate3"/>
+		      	<Item id="sa_brigandine_plate1"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sa_churburghboots"/>
+		      	<Item id="sa_2churburghboots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="ba_gorget"/>
+		      	<Item id="ba_knightpadgorget1"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="sa_churburghgauntlet"/>
+		      	<Item id="sa_2churburghgauntlet"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="bd_bannerman"
+		name="Bannerman"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
 		      	<Item id="sp_banner_vlandia2" disable_randomize="true" disable_group="Weapon1"/>
 			</Weapon0>
 		    <Weapon1>
@@ -23,19 +113,68 @@
 		      	<Item id="b2_native_sword"/>
 		    </Weapon2>
 		    <Head>
-		      	<Item id="sa_sallet_base"/>
+		      	<Item id="ba_salletpainted"/>
+		      	<Item id="ba_closedsalletpainted"/>
 		    </Head>
 		    <Body>
 		      	<Item id="sa_brigandine_plate3"/>
+		      	<Item id="sa_brigandine_plate1"/>
 		    </Body>
 		    <Leg>
-		      	<Item id="mp_lamellar_plate_boots"/>
+		      	<Item id="sa_churburghboots"/>
+		      	<Item id="sa_2churburghboots"/>
 		    </Leg>
 		    <Cape>
+		      	<Item id="null"/>
 		      	<Item id="sp_empire_plate_armor_shoulder_b"/>
 		    </Cape>
 		    <Gloves>
-		      	<Item id="mp_plated_strip_gauntlets"/>
+				<Item id="null"/>
+		      	<Item id="sa_churburghgauntlet"/>
+		      	<Item id="sa_2churburghgauntlet"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+		<UnitClass
+		id="bd_dreadguard"
+		name="Dreadguard"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_heavy_heater_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_2churburghHelm"/>
+		      	<Item id="sa_churburghHelm_black_trimmed_feather"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_2ChurburghTorso"/>
+		      	<Item id="sa_coat_of_plates11_c"/>
+		      	<Item id="sa_coat_of_plates12_c"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sa_2churburghboots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="ba_knightpad2"/>
+		      	<Item id="ba_knightpadcape3"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="sa_2churburghgauntlet"/>
 		    </Gloves>
 		</Equipment>
 	</UnitClass>
@@ -63,19 +202,176 @@
 		    </Weapon2>
 		    <Head>
 		      	<Item id="sa_sallet_wings"/>
+		      	<Item id="sa_armet"/>
+		      	<Item id="sa_1ChurburghHelm"/>
+		      	<Item id="sa_churburghHelm_feather"/>
 		    </Head>
 		    <Body>
+		      	<Item id="sa_swadian_plate_armor"/>
 		      	<Item id="sa_swadian_striped_plate_armor"/>
+		      	<Item id="sa_tabbartplate"/>
 		    </Body>
 		    <Leg>
+		      	<Item id="ba_plategreaves"/>
+		      	<Item id="sa_plate_boots"/>
 		      	<Item id="sa_1churburghboots"/>
 		    </Leg>
 		    <Cape>
-		      	<Item id="b2_pauldron_cape_a"/>
+		      	<Item id="ba_gorget"/>
+		      	<Item id="ba_knightpadgorget1"/>
+		      	<Item id="ba_knightpadcape3"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="sa_1churburghgauntlet"/>
+		      	<Item id="ba_plategauntletworn"/>
 		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="bd_king"
+		name="King"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_native_spear"/>
+		      	<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_heavy_heater_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="sa_sallet_crowned"/>
+		      	<Item id="ba_closehelmgold"/>
+		    </Head>
+		    <Body>
+		      	<Item id="sa_tabbartplate"/>
+		      	<Item id="ba_platearmorgold"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="sa_churburghboots"/>
+		      	<Item id="ba_plategreavesgold"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="ba_knightpadcape3"/>
+		      	<Item id="ba_knightpadcapegold"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="sa_churburghgauntlet"/>
+		      	<Item id="ba_plategauntletgold"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="bd_archer"
+		name="Archer"
+		character="human_archer"
+		stats_preset="archer_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="sp_yew_bow"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_dagger"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<Item id="ba_salletclean"/>
+		      	<Item id="ba_sallet"/>
+		      	<Item id="ba_salletpainted"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="null"/>
+		      	<Item id="mp_wrapped_scarf"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="mp_aserai_robe_c_chain"/>
+		      	<Item id="mp_eastern_studded_leather"/>
+		      	<Item id="sp_assassin_armor"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_plated_strip_boots"/>
+		      	<Item id="sp_assassin_boot"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="mp_padded_vambrace"/>
+		      	<Item id="mp_guarded_padded_vambrace"/>
+		      	<Item id="mp_plated_strip_gauntlets"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="bd_cavalry"
+		name="Cavalry"
+		character="human_cavalry"
+		stats_preset="cavalry_base">
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_lance_bd"/>
+		      	<Item id="b2_jousting_lance_x" disable_randomize="true"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="sp_heavy_heater_shield"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_native_sword"/>
+		      	<Item id="b2_native_mace"/>
+		    </Weapon2>
+		    <Weapon3>
+		      	<Item id="b3_squire_sword_2h"/>
+		      	<Item id="b2_bastard_axe"/>
+		    </Weapon3>
+		    <Head>
+		      	<Item id="sa_sallet_wings"/>
+		      	<Item id="sa_armet"/>
+		      	<Item id="sa_churburghHelm_feather"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="ba_gorget"/>
+		      	<Item id="ba_knightpadgorget1"/>
+		      	<Item id="ba_knightpadcape3"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="sa_swadian_plate_armor"/>
+		      	<Item id="sa_swadian_striped_plate_armor"/>
+		      	<Item id="sa_tabbartplate"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="ba_plategreaves"/>
+		      	<Item id="sa_plate_boots"/>
+		      	<Item id="sa_1churburghboots"/>
+		    </Leg>
+		    <Gloves>
+		      	<Item id="ba_plategauntletworn"/>
+		      	<Item id="sa_1churburghgauntlet"/>
+		    </Gloves>
+		    <HorseHarness>
+		      	<Item id="mp_chain_barding"/>
+		      	<Item id="mp_halfchain_barding"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="b2_horse_brown"/>
+		      	<Item id="b2_horse_gold"/>
+		      	<Item id="b2_horse_white"/>
+		      	<Item id="b2_horse_grey"/>
+		      	<Item id="b2_horse_darkgrey"/>
+		      	<Item id="b2_horse_black"/>
+      			<Item id="null" disable_randomize="true" disable_group="HorseHarness"/>
+		    </Horse>
 		</Equipment>
 	</UnitClass>
 </UnitClasses>

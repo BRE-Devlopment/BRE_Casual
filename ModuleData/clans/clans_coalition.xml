@@ -37,7 +37,13 @@
 	    banner="2.40.116.1536.1536.929.764.1.0.0.512.142.116.449.449.813.750.1.1.0">
 		<UnitClasses>
 			<UnitClass id="bd_infantry"/>
+			<UnitClass id="bd_infantry_elite"/>
+			<UnitClass id="bd_bannerman"/>
+			<UnitClass id="bd_dreadguard"/>
 			<UnitClass id="bd_officer"/>
+			<UnitClass id="bd_king"/>
+			<UnitClass id="bd_archer"/>
+			<UnitClass id="bd_cavalry"/>
 		</UnitClasses>
 	</Clan>
 	<Clan
