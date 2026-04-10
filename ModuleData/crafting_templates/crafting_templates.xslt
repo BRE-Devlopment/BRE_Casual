@@ -74,6 +74,7 @@
       <UsablePiece piece_id="b2_spear_banner_10_lbo_pre" />
       <UsablePiece piece_id="b2_spear_banner_10_lbo_vra" />
       <UsablePiece piece_id="b2_spear_banner_10_eich" />
+      <UsablePiece piece_id="b2_spear_banner_10_bd" />
 
       <UsablePiece piece_id="xiii_spear_blade_1" />
       <UsablePiece piece_id="xiii_spear_guard_1" />

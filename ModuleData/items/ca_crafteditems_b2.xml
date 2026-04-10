@@ -99,4 +99,11 @@
       <Piece id="sp_spear_handle_25" Type="Handle" scale_factor="96"/>
     </Pieces>
   </CraftedItem>
+  <CraftedItem multiplayer_item="true" id="b2_lance_bd" name="Lance" crafting_template="B2_TwoHandedPolearm_NoHorseStop" culture="Culture.neutral_culture">
+    <Pieces>
+      <Piece id="sp_spear_blade_14" Type="Blade"/>
+      <Piece id="b2_spear_banner_10_bd" Type="Guard"/>
+      <Piece id="sp_spear_handle_25" Type="Handle" scale_factor="96"/>
+    </Pieces>
+  </CraftedItem>
 </Items>
