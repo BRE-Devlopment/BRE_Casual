@@ -2088,6 +2088,1179 @@
 			<Armor leg_armor="0" covers_legs="true" modifier_group="leather" material_type="Leather" />
 		</ItemComponent>
 		<Flags />
+	</Item><Item
+		multiplayer_item="true"
+		id="santiago_shield"
+		name="Santiago Shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="ci_santiagoshield"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_shield_toledo"
+		name="Escudo Toledo"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="ci_shield_toledo"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudodralion"
+		name="Dralion Shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="dralion_heater_shield_c"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+  <Item
+		multiplayer_item="true"
+		id="ci_escudo_recluta_ci"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_recluta_ci"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_soldado_ci"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_soldado_ci"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_veterano1_ci"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_veterano1_ci"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudoveterano2_ci"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudoveterano2_ci"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_oficial_ci"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_oficial_ci"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="os_escudo_recluta_santiago"
+		name="Escudo Santiago"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_recluta_santiago"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="os_escudo_iniciado_santiago"
+		name="Escudo iniciado Santiago"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_iniciado_santiago"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="os_escudo_soldado_santiago"
+		name="Escudo Santiago"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_soldado_santiago"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="os_escudo_veterano1_santiago"
+		name="Escudo Santiago"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_veterano1_santiago"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="os_escudoveterano2_santiago"
+		name="Escudo Santiago"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudoveterano2_santiago"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="os_escudo_oficial_santiago"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_oficial_santiago"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="pt_escudo_recluta_toledo"
+		name="Escudo Toledo"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_recluta_toledo"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="pt_escudo_soldado_toledo"
+		name="Escudo Toledo"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_soldado_toledo"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="pt_escudo_veterano1_toledo"
+		name="Escudo Toledo"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_veterano1_toledo"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="pt_escudoveterano2_toledo"
+		name="Escudo Toledo"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudoveterano2_toledo"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="pt_escudo_oficial_toledo"
+		name="Escudo CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_oficial_toledo"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_subofi"
+		name="Escudo jinete CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_subofi"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_oficial"
+		name="Escudo oficial caballería CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_oficial"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_explorador"
+		name="Escudo explorador CI"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_explorador"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+  <Item
+		multiplayer_item="true"
+		id="ci_escudo_oficial_castile"
+		name="Castile leadership shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_oficial_castile"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudoveterano2_castile"
+		name="Castile oficial shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudoveterano2_castile"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_veterano1_castile"
+		name="Castile veteran shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_veterano1_castile"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_soldado_castile"
+		name="Castile shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_soldado_castile"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+	<Item
+		multiplayer_item="true"
+		id="ci_escudo_recluta_castile"
+		name="Castile levy shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="escudo_recluta_castile"
+		culture="Culture.neutral_culture"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		Type="Shield"
+		item_holsters="shield:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,-0.05,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				physics_material="wood_shield"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,10.0,40.00"
+				weapon_length="105"
+				center_of_mass="-0.0,0.1,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+  <Item
+		id="cts_spanish_king_shield"
+		name="{=OM9achAa}Iberian royal shield"
+		body_name="bo_cap_heater_shield_k"
+		shield_body_name="bo_heater_shield_k"
+		recalculate_body="false"
+		mesh="cts_spanish_king_shield"
+		using_tableau="true"
+		value="1"
+		is_merchandise="false"
+		weight="2.1"
+		appearance="0.7"
+		Type="Shield"
+		item_holsters="shield_kite:shield_2:shield_3:shield_4"
+		has_lower_holster_priority="true"
+		holster_position_shift="-0.1,0,-0.025">
+		<ItemComponent>
+			<Weapon
+				weapon_class="LargeShield"
+				body_armor="15"
+				thrust_speed="82"
+				thrust_damage_type="Blunt"
+				speed_rating="82"
+				item_usage="shield"
+				position="0.0, 0.00, 0.00"
+				rotation="0.0,-15.0,220.00"
+				physics_material="wood_shield"
+				weapon_length="105"
+				center_of_mass="0.0,0.05,0.05"
+				hit_points="160">
+				<WeaponFlags
+					CanBlockRanged="true"
+					HasHitPoints="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			WoodenParry="true"
+			HeldInOffHand="true"
+			ForceAttachOffHandSecondaryItemBone="true" />
 	</Item>
 	<!-- #endregion -->
 	<!-- #endregion -->

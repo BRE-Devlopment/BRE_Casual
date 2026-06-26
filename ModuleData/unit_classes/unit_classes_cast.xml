@@ -37,6 +37,87 @@
 			</Leg>
 		</Equipment>
 	</UnitClass>
+
+
+	<UnitClass
+		id="cast_militia"
+		name="Militia"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+				<Item id="b2_native_spear" />
+				<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2" />
+				<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2" />
+				<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2" />
+				<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2" />
+				<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1" />
+			</Weapon0>
+			<Weapon1>
+				<Item id="ci_escudo_recluta_castile" />
+			</Weapon1>
+			<Weapon2>
+				<Item id="b2_native_mace" />
+				<Item id="b2_native_axe" />
+				<Item id="b2_native_sword" />
+			</Weapon2>
+			<Head>
+				<Item id="cts_castile_helmet_barbute_cloth_square" />
+				<Item id="cts_castile_helmet_barbute_cloth_simple" />
+			</Head>
+			<Body>
+				<Item id="cts_castile_spanish_levi" />
+			</Body>
+			<Gloves>
+				<Item id="null" />
+				<Item id="cts_spanish_leather_glove" />
+			</Gloves>
+			<Leg>
+				<Item id="cts_spanish_leather_boots" />
+			</Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="cast_watchman"
+		name="Watchman"
+		character="human_infantry"
+		stats_preset="infantry_base">
+		<Equipment>
+			<Weapon0>
+				<Item id="b2_native_spear" />
+				<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2" />
+				<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2" />
+				<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2" />
+				<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2" />
+				<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1" />
+			</Weapon0>
+			<Weapon1>
+				<Item id="ci_escudo_recluta_castile" />
+			</Weapon1>
+			<Weapon2>
+				<Item id="b2_native_mace" />
+				<Item id="b2_native_axe" />
+				<Item id="b2_native_sword" />
+			</Weapon2>
+			<Head>
+				<Item id="cts_castile_helmet_barbute_cloth_square" />
+				<Item id="cts_castile_helmet_barbute_cloth_simple" />
+			</Head>
+			<Body>
+				<Item id="cts_castile_spanish_levi" />
+			</Body>
+			<Gloves>
+				<Item id="null" />
+				<Item id="cts_spanish_leather_glove" />
+			</Gloves>
+			<Leg>
+				<Item id="cts_spanish_leather_boots" />
+			</Leg>
+		</Equipment>
+	</UnitClass>
+
+
+<!-- 
 	<UnitClass
 		id="cast_militia"
 		name="Militia"
@@ -68,8 +149,8 @@
 				<Item id="cts_castile_spanish_levi" />
 			</Body>
 			<Gloves>
-				<Item id="null" />
 				<Item id="cts_spanish_leather_glove" />
+				<Item id="null" />
 			</Gloves>
 			<Leg>
 				<Item id="cts_spanish_chainmail_boots" />
@@ -107,14 +188,14 @@
 				<Item id="cts_castile_helmet_barbute_cloth_simple" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="cts_spain_shoulder_cloth1" />
 				<Item id="cts_castile_spanish_shoulder_protection" />
 				<Item id="cts_castile_spanish_shoulder_cloth" />
 				<Item id="cts_castile_spanish_shoulder_cloth2" />
-				<Item id="cts_castile_spanish_shoulder_metal_cloth" />
-				<Item id="cts_castile_spanish_shoulder_metal_cloth1" />
+				<Item id="cts_castile_spanish_shoulder_metal_cloth"/>
+				<Item id="cts_castile_spanish_shoulder_metal_cloth1"/>
 				<Item id="nv_aserai_shoulder_a" />
+				<Item id="null"/>
 			</Cape>
 			<Body>
 				<Item id="cts_castile_spanish_armor_tier2" />
@@ -126,7 +207,7 @@
 				<Item id="cts_spanish_chainmail_boots" />
 			</Leg>
 		</Equipment>
-	</UnitClass>
+	</UnitClass> -->
 	<UnitClass
 		id="cast_man_at_arms"
 		name="Man at Arms"
@@ -156,13 +237,13 @@
 				<Item id="cts_castile_closed_helmet_white_tower" />
 			</Head>
 			<Cape>
-				<Item id="null"/>
 				<Item id="cts_castile_spanish_shoulder_protection" />
 				<Item id="cts_castile_spanish_shoulder_cloth" />
 				<Item id="cts_castile_spanish_shoulder_cloth2" />
 				<Item id="nv_aserai_shoulder_a" />
 				<Item id="sa_swadian_shoulders"/>
-				<Item id="sp_aserai_shoulder_a" />
+				<!-- <Item id="sp_aserai_shoulder_a" /> -->
+				<Item id="null"/>
 			</Cape>
 			<Body>
 				<Item id="cts_castile_spanish_armor_tier3" />
@@ -242,17 +323,17 @@
 				<Item id="b2_native_sword" />
 			</Weapon2>
 			<Head>
-				<Item id="null" />
 				<Item id="cts_castile_closed_helmet_simple_a" />
 				<Item id="cts_castile_closed_helmet_simple" />
 				<Item id="cts_castile_closed_helmet_red_tower" />
 				<Item id="cts_castile_closed_helmet_white_tower" />
+				<Item id="null" />
 			</Head>
 			<Cape>
-				<Item id="null"/>
 				<Item id="cts_castile_spanish_shoulder_protection" />
 				<Item id="nv_aserai_shoulder_a" />
 				<Item id="sa_swadian_shoulders"/>
+				<Item id="null"/>
 			</Cape>
 			<Body>
 				<Item id="cts_spanish_armor_royal_color4" />
@@ -376,7 +457,6 @@
 				<Item id="b2_native_sword" />
 			</Weapon2>
 			<Head>
-				<Item id="null" />
 				<Item id="cts_castile_closed_helmet_colored_tower" />
 				<Item id="cts_castile_closed_helmet_red_tower" />
 				<Item id="cts_castile_closed_helmet_redline" />
@@ -430,7 +510,6 @@
 				<Item id="b2_native_sword" />
 			</Weapon2>
 			<Head>
-				<Item id="null" />
 				<Item id="cts_spanish_closed_helmet_rose"/>
 				<Item id="ci_hugoboss_helmet"/>
 				<Item id="cts_castile_closed_helmet_colored_tower" />
@@ -444,9 +523,9 @@
 				<Item id="sa_sugarloaf_helm3" />
 				<Item id="sa_sugarloaf_helm2" />
 				<Item id="sa_vlandian_helm_with_visor" />
+				<Item id="null" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="cts_spain_lion_shoulder"/>
 				<Item id="cts_castile_spanish_shoulder_protection" />
 				<Item id="cts_spanish_plated_shoulder_ptrotection1"/>
@@ -456,9 +535,10 @@
 				<Item id="cts_castile_spanish_shoulder_metal_cloth1" />
 				<Item id="cts_spain_shoulder_cloth1" />
 				<Item id="mp_varangian_bra_royal" />
-				<Item id="nv_empire_cape_a" />
+				<!-- <Item id="nv_empire_cape_a" /> -->
 				<Item id="sa_swadian_shoulders" />
 				<Item id="nv_pauldron_cape_a" />
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="cts_castile_spanish_armor_tier5" />

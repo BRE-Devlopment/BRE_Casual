@@ -204,14 +204,14 @@
 				<Item id="b2_native_sword" />
 			</Weapon2>
 			<Head>
-				<Item id="null" />
 				<Item id="casco_toledo_espadero" />
 				<Item id="casco_toledo_espadero_gorjal" />
+				<Item id="null" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="cts_toledo_spanish_square_shoulder_protection" />
 				<Item id="sa_swadian_shoulders"/>
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="cts_spanish_armor_royal_color4" />
@@ -304,7 +304,7 @@
 				<Item id="cts_toledo_custodio_armor" />
 			</Body>
 			<Gloves>
-				<Item id="sw_1churburghgauntlet" />
+				<!-- <Item id="sw_1churburghgauntlet" /> -->
 			</Gloves>
 			<Leg>
 				<Item id="sa_plate_boots" />
@@ -340,9 +340,9 @@
 				<Item id="null" disable_randomize="true" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="cts_toledo_spanish_square_shoulder_protection" />
 				<Item id="cts_spanish_plated_shoulder_ptrotection1" />
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="cts_toledo_suboficial_armor" />

@@ -74,8 +74,8 @@
 				<Item id="os_cotamalla" />
 				<Item id="os_capuchamalla_benda" />
 				<Item id="os_capuchamallabajada" />
-				<Item id="sa_italio_norman_helm_bronze" />
-				<Item id="sa_vlandian_helm_with_faceplate_black" />
+				<!-- <Item id="sa_italio_norman_helm_bronze" /> -->
+				<!-- <Item id="sa_vlandian_helm_with_faceplate_black" /> -->
 				<Item id="os_norman_helmet" />
 				<Item id="os_casco_cruzado" />
 				<Item id="null" />
@@ -85,8 +85,8 @@
 				<Item id="cts_santiago_spanish_shoulder_protection2" />
 				<Item id="cts_santiago_spanish_shoulder_protection3" />
 				<Item id="cts_santiago_spanish_shoulder_protection5" />
-				<Item id="os_capasantiago" />
-				<Item id="os_capasantiago2" />
+				<!-- <Item id="os_capasantiago" /> -->
+				<!-- <Item id="os_capasantiago2" /> -->
 				<Item id="os_nueva_capasantiago" />
 				<Item id="os_nueva_capasantiago2" />
 				<Item id="os_collar_inquisidor" />
@@ -136,8 +136,8 @@
 				<Item id="os_cotamalla" />
 				<Item id="os_capuchamalla_benda" />
 				<Item id="os_capuchamallabajada" />
-				<Item id="sa_italio_norman_helm_bronze" />
-				<Item id="sa_vlandian_helm_with_faceplate_black" />
+				<!-- <Item id="sa_italio_norman_helm_bronze" /> -->
+				<!-- <Item id="sa_vlandian_helm_with_faceplate_black" /> -->
 				<Item id="os_norman_helmet" />
 				<Item id="os_casco_cruzado" />
 				<Item id="null" />
@@ -148,8 +148,8 @@
 				<Item id="cts_santiago_spanish_shoulder_protection2" />
 				<Item id="cts_santiago_spanish_shoulder_protection3" />
 				<Item id="cts_santiago_spanish_shoulder_protection5" />
-				<Item id="os_capasantiago" />
-				<Item id="os_capasantiago2" />
+				<!-- <Item id="os_capasantiago" /> -->
+				<!-- <Item id="os_capasantiago2" /> -->
 				<Item id="os_nueva_capasantiago" />
 				<Item id="os_nueva_capasantiago2" />
 				<Item id="os_collar_inquisidor" />
@@ -331,19 +331,19 @@
 				<Item id="b2_native_sword" />
 			</Weapon2>
 			<Head>
-				<Item id="null" />
 				<Item id="sa_vlandian_helm_with_faceplate" />
 				<Item id="os_cotamalla" />
-				<Item id="sa_italio_norman_helm_bronze" />
-				<Item id="sa_vlandian_helm_with_faceplate_black" />
+				<!-- <Item id="sa_italio_norman_helm_bronze" /> -->
+				<!-- <Item id="sa_vlandian_helm_with_faceplate_black" /> -->
 				<Item id="os_norman_helmet" />
+				<Item id="null" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="cts_santiago_spanish_shoulder_protection" />
 				<Item id="os_nueva_capasantiago" />
 				<Item id="os_nueva_capasantiago2" />
 				<Item id="sa_swadian_shoulders" />
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="cts_santiago_spanish_armor_tier3" />
@@ -376,8 +376,8 @@
 			<Head>
 				<Item id="sa_vlandian_helm_with_visor" />
 				<Item id="sa_sallet_no_visor" />
-				<Item id="sa_italio_norman_helm_bronze" />
-				<Item id="sa_vlandian_helm_with_faceplate_black" />
+				<!-- <Item id="sa_italio_norman_helm_bronze" /> -->
+				<!-- <Item id="sa_vlandian_helm_with_faceplate_black" /> -->
 				<Item id="null" />
 			</Head>
 			<Cape>
@@ -430,7 +430,6 @@
 				<Item id="null" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="cts_spanish_plated_shoulder_ptrotection1" />
 				<Item id="cts_santiago_spanish_shoulder_protection" />
 				<Item id="os_nueva_capasantiago" />
@@ -438,6 +437,7 @@
 				<Item id="os_collar_inquisidor" />
 				<Item id="os_capuchamallabajada" />
 				<Item id="nv_empire_cape_a_white" />
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="cts_santiago_spanish_armor_tier4" />
