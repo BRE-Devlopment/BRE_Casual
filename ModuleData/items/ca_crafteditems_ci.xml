@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../XmlSchemas/Items.xsd">
   <CraftedItem
-		id="ci_espada_ceremonial"
-		name="Espada ceremonial"
-		crafting_template="B2_TwoHandedSword">
-		<Pieces>
-			<Piece
-				id="aloevera_blade"
-				Type="Blade"
-				scale_factor="135" />
-			<Piece
-				id="aloevera_guard_low"
-				Type="Guard"
-				scale_factor="110" />
-			<Piece
-				id="aloevera_grip"
-				Type="Handle"
-				scale_factor="150" />
-			<Piece
-				id="aloeavera_pommel"
-				Type="Pommel"
-				scale_factor="100" />
-		</Pieces>
-	</CraftedItem>
-	<Item
+    id="ci_espada_ceremonial"
+    name="Espada ceremonial"
+    crafting_template="B2_TwoHandedSword">
+    <Pieces>
+      <Piece
+        id="aloevera_blade"
+        Type="Blade"
+        scale_factor="135" />
+      <Piece
+        id="aloevera_guard_low"
+        Type="Guard"
+        scale_factor="110" />
+      <Piece
+        id="aloevera_grip"
+        Type="Handle"
+        scale_factor="150" />
+      <Piece
+        id="aloeavera_pommel"
+        Type="Pommel"
+        scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <Item
     id="ci_santiago_banner"
-    name="Bandera de Santiago"
+    name="Santiago Cross"
     body_name="bo_mace_a"
     recalculate_body="false"
     mesh="estandartesantiago"
@@ -60,12 +60,160 @@
       HasToBeHeldUp="true"
       CanBePickedUpFromCorpse="false" />
   </Item>
-  <Item
-    id="ci_toledo_banner"
-    name="Bandera de Toledo"
+  <Item 
+    id="ci_castile_banner"
+    name="Castile Banner"
     body_name="bo_mace_a"
     recalculate_body="false"
-    mesh="toledo_new_banner"
+    mesh="castile_banner"
+    culture="Culture.neutral_culture"
+    weight="2.1"
+    Type="OneHandedWeapon"
+    using_tableau="false"
+    item_holsters="abdomen_left">
+    <ItemComponent>
+      <BRE_Banner
+        aura_all="false"
+        aura_radius="15"
+        aura_strength="0.7"
+        weapon_class="OneHandedAxe"
+        weapon_balance="100"
+        thrust_speed="78"
+        speed_rating="97"
+        missile_speed="0"
+        weapon_length="150"
+        swing_damage="6"
+        swing_damage_type="Blunt"
+        item_usage="banner"
+        physics_material="metal_weapon"
+        position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true"/>
+      </BRE_Banner>
+    </ItemComponent>
+    <Flags
+      DropOnWeaponChange="true"
+      ForceAttachOffHandPrimaryItemBone="true"
+      HeldInOffHand="true"
+      HasToBeHeldUp="true"
+      CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item
+    id="ci_royal_banner"
+    name="Estandarte Real"
+    body_name="bo_mace_a"
+    recalculate_body="false"
+    mesh="cts_spain_flag_b"
+    culture="Culture.neutral_culture"
+    weight="2.1"
+    Type="OneHandedWeapon"
+    using_tableau="false"
+    item_holsters="abdomen_left">
+    <ItemComponent>
+      <BRE_Banner
+        aura_all="false"
+        aura_radius="15"
+        aura_strength="0.7"
+        weapon_class="OneHandedAxe"
+        weapon_balance="100"
+        thrust_speed="78"
+        speed_rating="97"
+        missile_speed="0"
+        weapon_length="150"
+        swing_damage="6"
+        swing_damage_type="Blunt"
+        item_usage="banner"
+        physics_material="metal_weapon"
+        position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true"/>
+      </BRE_Banner>
+    </ItemComponent>
+    <Flags
+      DropOnWeaponChange="true"
+      ForceAttachOffHandPrimaryItemBone="true"
+      HeldInOffHand="true"
+      HasToBeHeldUp="true"
+      CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item
+    id="ci_gib_banner"
+    name="Gibraltar Banner"
+    body_name="bo_mace_a"
+    recalculate_body="false"
+    mesh="gibraltar_banner"
+    culture="Culture.neutral_culture" 
+    weight="2.1"
+    Type="OneHandedWeapon"
+    using_tableau="false"
+    item_holsters="abdomen_left">
+    <ItemComponent>
+      <BRE_Banner
+        aura_all="false"
+        aura_radius="15"
+        aura_strength="0.7"
+        weapon_class="OneHandedAxe"
+        weapon_balance="100"
+        thrust_speed="78"
+        speed_rating="97"
+        missile_speed="0"
+        weapon_length="150"
+        swing_damage="6"
+        swing_damage_type="Blunt"
+        item_usage="banner"
+        physics_material="metal_weapon"
+        position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true"/>
+      </BRE_Banner>
+    </ItemComponent>
+    <Flags
+      DropOnWeaponChange="true"
+      ForceAttachOffHandPrimaryItemBone="true"
+      HeldInOffHand="true"
+      HasToBeHeldUp="true"
+      CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item
+    id="ci_navarre_banner"
+    name="Navarre Banner"
+    body_name="bo_mace_a"
+    recalculate_body="false"
+    mesh="navarre_banner"
+    culture="Culture.neutral_culture"
+    weight="2.1"
+    Type="OneHandedWeapon"
+    using_tableau="false"
+    item_holsters="abdomen_left">
+    <ItemComponent>
+      <BRE_Banner
+        aura_all="false"
+        aura_radius="15"
+        aura_strength="0.7"
+        weapon_class="OneHandedAxe"
+        weapon_balance="100"
+        thrust_speed="78"
+        speed_rating="97"
+        missile_speed="0"
+        weapon_length="150"
+        swing_damage="6"
+        swing_damage_type="Blunt"
+        item_usage="banner"
+        physics_material="metal_weapon"
+        position="0.0, 0.0, -0.8">
+        <WeaponFlags MeleeWeapon="true"/>
+      </BRE_Banner>
+    </ItemComponent>
+    <Flags
+      DropOnWeaponChange="true"
+      ForceAttachOffHandPrimaryItemBone="true"
+      HeldInOffHand="true"
+      HasToBeHeldUp="true"
+      CanBePickedUpFromCorpse="false" />
+  </Item>
+  <Item
+    id="ci_toledo_banner"
+    name="Clan Banner"
+    body_name="bo_mace_a"
+    recalculate_body="false"
+    mesh="toledo_small_banner"
     culture="Culture.neutral_culture"
     weight="2.1"
     Type="OneHandedWeapon"
