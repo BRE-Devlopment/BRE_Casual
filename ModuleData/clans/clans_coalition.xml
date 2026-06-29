@@ -305,8 +305,8 @@
 	    banner="11.612.162.1528.1528.764.764.1.0.0.6505.172.171.600.600.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="cast_levy"/>
-			<UnitClass id="cast_militia"/>
-			<UnitClass id="cast_watchman"/>
+			<UnitClass id="cast_militia_v1"/>
+			<UnitClass id="cast_watchman_v1"/>
 			<UnitClass id="cast_man_at_arms"/>
 			<UnitClass id="cast_squire"/>
 			<UnitClass id="cast_knight"/>

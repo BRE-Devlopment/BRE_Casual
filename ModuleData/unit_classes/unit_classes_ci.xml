@@ -22,24 +22,14 @@
 		      	<Item id="b2_native_sword"/>
 		    </Weapon2>
 		    <Head>
-		      	<Item id="null"/>
 				<Item id="sp_imperial_open_mail_coif"/>
 				<Item id="nv_vlandia_helmet_f"/>
 				<Item id="nv_leather_cap"/>
 				<Item id="nv_laced_coif"/>
 		      	<Item id="cts_spanish_helmet5"/>
 		      	<Item id="cts_spanish_helmet_7"/>
+		      	<Item id="null"/>
 		    </Head>
-		    <Cape>
-				<Item id="null" />
-				<Item id="nv_shoulder_cape_multicolor" />
-				<Item id="nv_battania_woodland_cloak" />
-				<Item id="nv_battania_scarf_a" />
-		      	<Item id="cts_spain_shoulder_cloth2"/>
-		      	<Item id="cts_spain_shoulder_cloth3"/>
-		      	<Item id="cts_spain_shoulder_cloth4"/>
-		      	<Item id="cts_spain_shoulder_cloth5"/>
-		    </Cape>
 		    <Body>
 		      	<Item id="cts_spanish_levi"/>
 		      	<Item id="cts_spanish_levi_2"/>
@@ -47,6 +37,16 @@
 		    <Leg>
 		      	<Item id="cts_spanish_leather_boots"/>
 		    </Leg>
+		    <Cape>
+				<Item id="nv_shoulder_cape_multicolor" />
+				<Item id="nv_battania_woodland_cloak" />
+				<Item id="nv_battania_scarf_a" />
+		      	<Item id="cts_spain_shoulder_cloth2"/>
+		      	<Item id="cts_spain_shoulder_cloth3"/>
+		      	<Item id="cts_spain_shoulder_cloth4"/>
+		      	<Item id="cts_spain_shoulder_cloth5"/>
+				<Item id="null" />
+		    </Cape>
 		    <Gloves>
 		      	<Item id="cts_spanish_leather_glove"/>
 		      	<Item id="null"/>

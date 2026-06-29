@@ -185,13 +185,6 @@
 		<Flags UseTeamColor="true" />
 	</Item>		
 
-	<Item multiplayer_item="true" id="ci_askz2" name="Helmet Askz" subtype="head_armor" mesh="hp_askz2" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
-		<ItemComponent>
-			<Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
-		</ItemComponent>
-		<Flags UseTeamColor="false" />
-	</Item>
-
 	<Item multiplayer_item="true" id="ci_butterlord1" name="Helmet Rey 01" subtype="head_armor" mesh="sa_butterlord1" culture="Culture.neutral_culture" weight="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
 			<Armor head_armor="0" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />

@@ -38,7 +38,7 @@
 		</Equipment>
 	</UnitClass>
 	<UnitClass
-		id="cast_militia"
+		id="cast_militia_v1"
 		name="Militia"
 		character="human_infantry"
 		stats_preset="infantry_base">
@@ -78,7 +78,7 @@
 		</Equipment>
 	</UnitClass>
 	<UnitClass
-		id="cast_watchman"
+		id="cast_watchman_v1"
 		name="Watchman"
 		character="human_infantry"
 		stats_preset="infantry_base">

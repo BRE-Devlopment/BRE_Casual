@@ -20,7 +20,6 @@
 			<Head>
 				<Item id="cts_spanish_helmet_10" />
 				<Item id="cts_spanish_helmet5" />
-				<Item id="sp_kettle_helmet_leather" />
 			</Head>
 			<Body>
 				<Item id="cts_spanish_levi" />
@@ -28,9 +27,6 @@
 			<Leg>
 				<Item id="cts_spanish_leather_boots" />
 			</Leg>
-			<Cape>
-				<Item id="null" />
-			</Cape>
 			<Gloves>
 				<Item id="cts_spanish_leather_glove" />
 				<Item id="null" />
@@ -58,7 +54,6 @@
 			<Head>
 				<Item id="cts_spanish_helmet_10" />
 				<Item id="cts_spanish_helmet5" />
-				<Item id="sp_kettle_helmet_leather" />
 			</Head>
 			<Body>
 				<Item id="cts_spanish_levi" />
@@ -146,12 +141,10 @@
 				<Item id="ci_cav_bascinet3" />
 			</Head>
 			<Cape>
-				<Item id="null" />
-				<Item id="sp_aserai_shoulder_a" />
-				<Item id="sp_battania_cloak_a" />
 				<Item id="mp_battania_cloak_b" />
 				<Item id="ci_mochila_escudero" />
 				<Item id="cts_spanish_plated_shoulder_ptrotection1" />
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="ci_cav_gambeson2" />
@@ -208,12 +201,10 @@
 				<Item id="sa_sugarloaf_helm4" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="sa_swadian_shoulders" />
-				<Item id="sp_aserai_shoulder_a" />
-				<Item id="sp_battania_cloak_a" />
 				<Item id="mp_battania_cloak_b" />
 				<Item id="cts_spanish_plated_shoulder_ptrotection1" />
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="ci_cav_gambeson2" />
@@ -278,7 +269,6 @@
 				<Item id="sa_sugarloaf_helm4" />
 				<Item id="sa_great_prankh_helm" />
 				<Item id="ci_armet" />
-				<Item id="ci_askz2" />
 				<Item id="ci_butterlord1" />
 				<Item id="ci_crowned_vlandian_helm_with_visor" />
 				<Item id="ci_butterlord3" />
@@ -290,14 +280,12 @@
 				<Item id="cts_spanish_closed_helmet_rose"/>
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="sa_swadian_shoulders" />
-				<Item id="sp_aserai_shoulder_a" />
-				<Item id="sp_battania_cloak_a" />
 				<Item id="mp_battania_cloak_b" />
 				<Item id="nv_empire_cape_a" />
 				<Item id="cts_spanish_plated_shoulder_ptrotection" />
 				<Item id="cts_spain_lion_shoulder"/>
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="ci_cav_gambeson3" />
