@@ -241,7 +241,7 @@
 	    color1="FF260702"
 	    color2="FFec7c0f"
 	    faction="enemy"
-	    banner="11.612.162.1528.1528.764.764.1.0.0.6501.172.171.600.600.764.764.0.0.0">
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6501.172.171.900.900.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="ci_leva"/>
 			<UnitClass id="ci_milicia"/>
@@ -263,7 +263,7 @@
 	    color1="FFF4F4F4"
 	    color2="FF880000"
 	    faction="enemy"
-	    banner="11.612.162.1528.1528.764.764.1.0.0.6504.172.171.600.600.764.764.0.0.0">
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6504.172.171.600.600.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="san_peregrino"/>
 			<UnitClass id="san_iniciado"/>
@@ -283,7 +283,7 @@
 	    color1="FFBCA816"
 	    color2="FF000000"
 	    faction="enemy"
-	    banner="11.612.162.1528.1528.764.764.1.0.0.6502.172.171.600.600.764.764.0.0.0">
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6502.172.171.900.900.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="tol_milicia"/>
 			<UnitClass id="tol_peon"/>
@@ -302,11 +302,11 @@
 	    color1="FF4A100C"
 	    color2="FFFFFFFF"
 	    faction="enemy"
-	    banner="11.612.162.1528.1528.764.764.1.0.0.6505.172.171.600.600.764.764.0.0.0">
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6505.172.171.900.900.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="cast_levy"/>
-			<UnitClass id="cast_militia_v1"/>
-			<UnitClass id="cast_watchman_v1"/>
+			<UnitClass id="cast_militia"/>
+			<UnitClass id="cast_watchman"/>
 			<UnitClass id="cast_man_at_arms"/>
 			<UnitClass id="cast_squire"/>
 			<UnitClass id="cast_knight"/>
@@ -322,7 +322,7 @@
 	    color1="FF260702"
 	    color2="FFec7c0f"
 	    faction="enemy"
-	    banner="11.612.162.1528.1528.764.764.1.0.0.6501.172.171.600.600.764.764.0.0.0">
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6501.172.171.900.900.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="cisp_arquero"/>
 			<UnitClass id="cisp_suboficial_arqueros"/>
@@ -339,7 +339,7 @@
 	    color1="FF0A5B77"
 	    color2="FFF4F4F4"
 	    faction="enemy"
-	    banner="11.612.162.1528.1528.764.764.1.0.0.6500.172.171.600.600.764.764.0.0.0">
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6500.172.171.700.700.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="gib_levy"/>
 			<UnitClass id="gib_militia"/>
@@ -359,7 +359,7 @@
 	    color1="FF61241B"
 	    color2="FF007336"
 	    faction="enemy"
-	    banner="11.612.162.1528.1528.764.764.1.0.0.6506.172.171.600.600.764.764.0.0.0">
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6506.172.171.600.600.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="nav_levy"/>
 			<UnitClass id="nav_militia"/>

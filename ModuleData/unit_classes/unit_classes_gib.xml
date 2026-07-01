@@ -22,20 +22,20 @@
 				<Item id="b2_native_sword" />
 			</Weapon2>
 			<Head>
-        <Item id="ci_gibraltarcasco_leva" />
-        <Item id="nv_vlandia_helmet_t_c" />
-        <Item id="nv_vlandia_helmet_t_a" />
+				<Item id="ci_gibraltarcasco_leva" />
+				<Item id="nv_vlandia_helmet_t_c" />
+				<Item id="nv_vlandia_helmet_t_a" />
 			</Head>
-      <Cape>
-        <Item id="null" />
-        <Item id="cts_gibraltar_spanish_shoulder_cloth" />
-      </Cape>
+			<Cape>
+				<Item id="cts_gibraltar_spanish_shoulder_cloth" />
+				<Item id="null" />
+			</Cape>
 			<Body>
-			  <Item id="cts_gibraltar_spanish_levi" />
+				<Item id="cts_gibraltar_spanish_levi" />
 			</Body>
 			<Gloves>
-        <Item id="null" />
-        <Item id="cts_spanish_leather_glove" />
+				<Item id="cts_spanish_leather_glove" />
+				<Item id="null" />
 			</Gloves>
 			<Leg>
 				<Item id="cts_spanish_leather_boots" />
@@ -69,17 +69,17 @@
         		<Item id="nv_vlandia_helmet_r_a" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="nv_battania_scarf_a" />
 				<Item id="mp_battania_shoulder_strap_cloak" />
 				<Item id="cts_gibraltar_spanish_shoulder_cloth" />
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="cts_gibraltar_spanish_milicia" />
 			</Body>
 			<Gloves>
-        		<Item id="null" />
         		<Item id="cts_spanish_leather_glove" />
+        		<Item id="null" />
 			</Gloves>
 			<Leg>
 				<Item id="cts_spanish_leather_boots" />
@@ -113,12 +113,12 @@
 				<Item id="ci_gibraltarcasco_vanguard2" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="cts_gibraltar_spanish_shoulder_metal_cloth" />
 				<Item id="sa_swadian_shoulders" />
 				<Item id="cts_gibraltar_spanish_shoulder_cloth" />
 				<Item id="nv_battania_scarf_a" />
 				<Item id="mp_battania_shoulder_strap_cloak" />
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="cts_gibraltar_spanish_armor_tier2" />
@@ -162,12 +162,12 @@
 				<Item id="sa_sallet_no_visor" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="sa_swadian_shoulders" />
 				<Item id="cts_gibraltar_spanish_shoulder_metal_cloth" />
 				<Item id="cts_gibraltar_spanish_shoulder_cloth" />
 				<Item id="nv_battania_scarf_a" />
 				<Item id="mp_battania_shoulder_strap_cloak" />
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="cts_gibraltar_spanish_armor_tier3" />
@@ -247,17 +247,17 @@
 				<Item id="b2_native_sword" />
 			</Weapon2>
 			<Head>
-				<Item id="null" />
 				<Item id="ci_gibraltarcasco_maa" />
 				<Item id="ci_gibraltarcasco_maa2" />
 				<Item id="sa_sallet_base" />
 				<Item id="sa_sallet_no_visor" />
+				<Item id="null" />
 			</Head>
 			<Cape>
-				<Item id="null"/>
 				<Item id="sa_swadian_shoulders" />
 				<Item id="nv_battania_scarf_a" />
 				<Item id="mp_battania_shoulder_strap_cloak" />
+				<Item id="null"/>
 			</Cape>
 			<Body>
 				<Item id="cts_spanish_armor_royal_color1" />
@@ -282,35 +282,26 @@
 		stats_preset="infantry_base">
 		<Equipment>
 			<Weapon0>
-				<Item id="b2_native_spear" />
-				<Item id="b2_faussard" disable_randomize="true" disable_group="Weapon2" />
-				<Item id="b2_2h_mace" disable_randomize="true" disable_group="Weapon2" />
-				<Item id="b2_2h_axe" disable_randomize="true" disable_group="Weapon2" />
-				<Item id="b3_squire_sword_2h" disable_randomize="true" disable_group="Weapon2" />
-				<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1" />
-			</Weapon0>
-			<Weapon1>
 				<Item id="ci_gib_banner" />
-			</Weapon1>
-			<Weapon2>
-				<Item id="b2_native_mace" />
-				<Item id="b2_native_axe" />
-				<Item id="b2_native_sword" />
-			</Weapon2>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="b2_native_mace"/>
+		      	<Item id="b2_native_axe"/>
+		      	<Item id="b2_native_sword"/>
+		    </Weapon1>
 			<Head>
 				<Item id="ci_gibraltarcasco_maa" />
 				<Item id="ci_gibraltarcasco_maa2" />
-				<Item id="sa_armet2" />
 				<Item id="cts_gibraltar_spanish_helmet4" />
 				<Item id="cts_gibraltar_spanish_helmet3" />
 				<Item id="cts_gibraltar_spanish_helmet5" />
 				<Item id="cts_gibraltar_spanish_helmet_7" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="cts_gibraltar_spanish_shoulder_protection" />
 				<Item id="nv_battania_scarf_a" />
 				<Item id="mp_battania_shoulder_strap_cloak" />
+				<Item id="null" />
 			</Cape>
 			<Body>
         		<Item id="cts_gibraltar_spanish_armor_tier4" />
@@ -339,7 +330,7 @@
 				<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1" />
 			</Weapon0>
 			<Weapon1>
-				<Item id="ci_escudoveterano2_gibraltar" />
+				<Item id="ci_escudo_veterano2_gibraltar" />
 			</Weapon1>
 			<Weapon2>
 				<Item id="b2_native_mace" />
@@ -347,9 +338,9 @@
 				<Item id="b2_native_sword" />
 			</Weapon2>
 			<Head>
-				<Item id="null"/>
 				<Item id="cts_spanish_kinguard_bascinet"/>
 				<Item id="cts_spanish_kinguard_bascinet1"/>
+				<Item id="null"/>
 			</Head>
 			<Cape>
 				<Item id="cts_spanish_kinguard_cape_ci"/>
@@ -380,7 +371,7 @@
 				<Item id="b3_coalition_polearm" disable_randomize="true" disable_group="Weapon1" />
 			</Weapon0>
 			<Weapon1>
-				<Item id="ci_escudoveterano2_gibraltar" />
+				<Item id="ci_escudo_veterano2_gibraltar" />
 			</Weapon1>
 			<Weapon2>
 				<Item id="b2_native_mace" />
@@ -388,9 +379,7 @@
 				<Item id="b2_native_sword" />
 			</Weapon2>
 			<Head>
-				<Item id="null" />
 				<Item id="ci_gibraltarcasco_subof" />
-				<Item id="sa_armet2" />
 				<Item id="cts_gibraltar_spanish_helmet4" />
 				<Item id="cts_gibraltar_spanish_helmet3" />
 				<Item id="cts_gibraltar_spanish_helmet5" />
@@ -403,12 +392,13 @@
 				<Item id="sa_sallet_base" />
 				<Item id="sa_great_prankh_helm" />
 				<Item id="sa_sallet_no_visor" />
+				<Item id="null" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="cts_gibraltar_spanish_shoulder_protection" />
 				<Item id="nv_battania_scarf_a" />
 				<Item id="mp_battania_shoulder_strap_cloak" />
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="cts_gibraltar_spanish_armor_tier5" />
@@ -447,7 +437,6 @@
 				<Item id="b2_native_sword" />
 			</Weapon2>
 			<Head>
-				<Item id="null" />
 				<Item id="ci_gibraltarcasco_of" />
 				<Item id="sa_armet" />
 				<Item id="cts_gibraltar_spanish_helmet4" />
@@ -468,14 +457,15 @@
 				<Item id="sa_sugarloaf_helm2" />
 				<Item id="sa_vlandian_helm_with_visor" />
 				<Item id="cts_brithelment_gib" />
+				<Item id="null" />
 			</Head>
 			<Cape>
-				<Item id="null" />
 				<Item id="cts_gibraltar_spanish_shoulder_protection" />
 				<Item id="sp_empire_cape_a" />
 				<Item id="nv_pauldron_cape_a" />
 				<Item id="nv_battania_scarf_a" />
 				<Item id="mp_battania_shoulder_strap_cloak" />
+				<Item id="null" />
 			</Cape>
 			<Body>
 				<Item id="cts_gibraltar_spanish_armor_tier5" />

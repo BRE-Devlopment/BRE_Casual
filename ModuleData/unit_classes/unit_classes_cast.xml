@@ -32,13 +32,13 @@
 				<Item id="cts_spanish_leather_boots" />
 			</Leg>
 			<Gloves>
-				<Item id="null" />
 				<Item id="cts_spanish_leather_glove" />
+				<Item id="null" />
 			</Gloves>
 		</Equipment>
 	</UnitClass>
 	<UnitClass
-		id="cast_militia_v1"
+		id="cast_militia"
 		name="Militia"
 		character="human_infantry"
 		stats_preset="infantry_base">
@@ -78,7 +78,7 @@
 		</Equipment>
 	</UnitClass>
 	<UnitClass
-		id="cast_watchman_v1"
+		id="cast_watchman"
 		name="Watchman"
 		character="human_infantry"
 		stats_preset="infantry_base">

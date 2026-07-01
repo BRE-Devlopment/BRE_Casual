@@ -70,6 +70,8 @@
 			<Color id="611" hex="0xFFfa851e"/>
 			<!--CI Black-->
 			<Color id="612" hex="0xFF000000" />
+			<!--CI Red-->
+			<Color id="613" hex="0xFF210400" />
 		</BannerColors>
 	</BannerIconData>
 </base>

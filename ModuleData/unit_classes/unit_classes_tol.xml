@@ -304,7 +304,7 @@
 				<Item id="cts_toledo_custodio_armor" />
 			</Body>
 			<Gloves>
-				<!-- <Item id="sw_1churburghgauntlet" /> -->
+				<Item id="cts_spanish_plated_gloves" />
 			</Gloves>
 			<Leg>
 				<Item id="sa_plate_boots" />

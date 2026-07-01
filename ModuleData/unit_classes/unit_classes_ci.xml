@@ -22,7 +22,7 @@
 		      	<Item id="b2_native_sword"/>
 		    </Weapon2>
 		    <Head>
-				<Item id="sp_imperial_open_mail_coif"/>
+		      	<Item id="sp_imperial_open_mail_coif"/>
 				<Item id="nv_vlandia_helmet_f"/>
 				<Item id="nv_leather_cap"/>
 				<Item id="nv_laced_coif"/>
@@ -38,7 +38,6 @@
 		      	<Item id="cts_spanish_leather_boots"/>
 		    </Leg>
 		    <Cape>
-				<Item id="nv_shoulder_cape_multicolor" />
 				<Item id="nv_battania_woodland_cloak" />
 				<Item id="nv_battania_scarf_a" />
 		      	<Item id="cts_spain_shoulder_cloth2"/>
@@ -76,16 +75,14 @@
 				<Item id="b2_native_sword"/>
 			</Weapon2>
 		    <Head>
-				<Item id="null" />
 				<Item id="sp_imperial_open_mail_coif" />
 				<Item id="cts_spanish_helmet2" />
 				<Item id="cts_spanish_helmet_10"/>
 				<Item id="cts_spanish_helmet5"/>
 				<Item id="cts_spanish_helmet_7"/>
+				<Item id="null" />
 		    </Head>
 		    <Cape>
-				<Item id="null" />
-				<Item id="nv_shoulder_cape_multicolor" />
 				<Item id="nv_aserai_shoulder_a" />
 				<Item id="nv_padded_leather_shoulders" />
 				<Item id="cts_spain_shoulder_cloth" />
@@ -93,6 +90,7 @@
 				<Item id="cts_spain_shoulder_cloth3" />
 				<Item id="cts_spain_shoulder_cloth4" />
 				<Item id="cts_spain_shoulder_cloth5" />
+				<Item id="null" />
 		    </Cape>
 		    <Body>
 		      	<Item id="cts_spanish_levi"/>
@@ -102,8 +100,8 @@
 		      	<Item id="cts_spanish_leather_boots"/>
 		    </Leg>
 		    <Gloves>
-		      	<Item id="null"/>
 		      	<Item id="cts_spanish_leather_glove"/>
+		      	<Item id="null"/>
 		    </Gloves>
 		</Equipment>
 	</UnitClass>
@@ -146,7 +144,6 @@
 				<Item id="cts_spain_shoulder_metal_cloth2" />
 				<Item id="cts_spain_shoulder_cloth3" />
 				<Item id="cts_spain_shoulder_cloth4" />
-				<Item id="nv_shoulder_cape_multicolor" />
 				<Item id="nv_aserai_shoulder_a" />
 		    </Cape>
 		    <Body>
@@ -159,8 +156,8 @@
 		      	<Item id="cts_spanish_chainmail_boots"/>
 		    </Leg>
 		    <Gloves>
-		      	<Item id="null"/>
 		      	<Item id="cts_spanish_chainmail_glove"/>
+		      	<Item id="null"/>
 		    </Gloves>
 		</Equipment>
 	</UnitClass>
@@ -202,7 +199,6 @@
 				<Item id="ci_cav_bascinet1" />
 		    </Head>
 		    <Cape>
-				<Item id="null" />
 				<Item id="cts_spain_shoulder_cloth" />
 				<Item id="cts_spain_shoulder_cloth3" />
 				<Item id="cts_spain_shoulder_cloth4" />
@@ -217,10 +213,10 @@
 				<Item id="cts_spanish_square_shoulder_protection_2" />
 				<Item id="cts_spanish_square_shoulder_protection_3" />
 				<Item id="cts_spanish_square_shoulder_protection_4" />
-				<Item id="nv_shoulder_cape_multicolor" />
 				<Item id="nv_aserai_shoulder_a" />
 				<Item id="mp_battania_cloak_b" />
 				<Item id="mp_scarf" />
+				<Item id="null" />
 		    </Cape>
 		    <Body>
 				<Item id="cts_spanish_armor_tier3" />
@@ -234,8 +230,8 @@
 				<Item id="cts_spanish_chainmail_boots" />
 		    </Leg>
 		    <Gloves>
-				<Item id="null" />
 				<Item id="cts_spanish_plated_gloves" />
+				<Item id="null" />
 		    </Gloves>
 		</Equipment>
 	</UnitClass>
@@ -278,8 +274,8 @@
 		      	<Item id="cts_spanish_leather_boots"/>
 		    </Leg>
 		    <Gloves>
-				<Item id="null" />
 				<Item id="cts_spanish_leather_glove" />
+				<Item id="null" />
 		    </Gloves>
 		</Equipment>
 	</UnitClass>
@@ -332,12 +328,12 @@
 				<Item id="cts_spanish_chainmail_boots" />
 		    </Leg>
 		    <Gloves>
-				<Item id="null" />
 				<Item id="cts_spanish_plated_gloves" />
+				<Item id="null" />
 		    </Gloves>
 		</Equipment>
 	</UnitClass>
-		<UnitClass
+	<UnitClass
 		id="ci_knight"
 		name="Caballero"
 		character="human_infantry"
@@ -360,7 +356,6 @@
 		      	<Item id="b2_native_sword"/>
 		    </Weapon2>
 		    <Head>
-				<Item id="null" />
 				<Item id="cts_spanish_helmet_6" />
 				<Item id="cts_spanish_helmet_8" />
 				<Item id="cts_spanish_helmet_9" />
@@ -371,17 +366,16 @@
 				<Item id="sa_sugarloaf_helm3" />
 				<Item id="sa_sugarloaf_helm2" />
 				<Item id="sa_pigface_bascinet_tail"/>
+				<Item id="null" />
 		    </Head>
 		    <Cape>
-				<Item id="null" />
 				<Item id="cts_spanish_square_shoulder_protection" />
 				<Item id="cts_spanish_square_shoulder_protection_1" />
 				<Item id="cts_spanish_square_shoulder_protection_2" />
 				<Item id="cts_spanish_square_shoulder_protection_3" />
 				<Item id="cts_spanish_square_shoulder_protection_4" />
-				<Item id="nv_shoulder_cape_multicolor" />
 				<Item id="nv_aserai_shoulder_a" />
-				<Item id="nv_scarf" />
+				<Item id="null" />
 		    </Cape>
 		    <Body>
 				<Item id="cts_spanish_armor_royal_color4" />
@@ -414,9 +408,7 @@
 		      	<Item id="b2_native_sword"/>
 		    </Weapon1>
 		    <Head>
-				<Item id="null" />
 				<Item id="sp_imperial_open_mail_coif" />
-				<Item id="nv_open_mail_coif" />
 				<Item id="cts_spanish_helmet1" />
 				<Item id="cts_spanish_helmet2" />
 				<Item id="cts_spanish_helmet3" />
@@ -429,16 +421,20 @@
 				<Item id="cts_spanish_helmet_10" />
 				<Item id="ci_cav_bascinet2" />
 				<Item id="ci_cav_bascinet1" />
+				<Item id="null" />
 		    </Head>
 		    <Body>
-		      	<Item id="cts_spanish_armor_tier4_alvaro"/>
+				<Item id="cts_spanish_armor_tier3" />
+				<Item id="cts_spanish_armor_tier3_1" />
+				<Item id="cts_spanish_armor_tier3_2" />
+				<Item id="cts_spanish_armor_tier3_3" />
+				<Item id="cts_spanish_armor_tier3_4" />
 		    </Body>
 		    <Leg>
 				<Item id="cts_spanish_plated_boots" />
 				<Item id="cts_spanish_chainmail_boots" />
 		    </Leg>
 		    <Cape>
-				<Item id="null" />
 				<Item id="cts_spanish_plated_shoulder_ptrotection1" />
 				<Item id="cts_spain_shoulder_cloth" />
 				<Item id="cts_spain_shoulder_cloth3" />
@@ -454,14 +450,12 @@
 				<Item id="cts_spanish_square_shoulder_protection_2" />
 				<Item id="cts_spanish_square_shoulder_protection_3" />
 				<Item id="cts_spanish_square_shoulder_protection_4" />
-				<Item id="nv_shoulder_cape_multicolor" />
 				<Item id="nv_aserai_shoulder_a" />
-				<Item id="nv_battania_cloak"/>
-				<Item id="nv_scarf" />
+				<Item id="null" />
 		    </Cape>
 		    <Gloves>
-				<Item id="null" />
 				<Item id="cts_spanish_plated_gloves" />
+				<Item id="null" />
 		    </Gloves>
 		</Equipment>
 	</UnitClass>
@@ -504,7 +498,6 @@
 		      	<Item id="cts_spanish_kinguard_cape_toledo"/>
 		      	<Item id="cts_spanish_kinguard_cape_omey"/>
 		      	<Item id="cts_spanish_kinguard_cape_santiago"/>
-		      	<Item id="cts_spanish_kinguard_cape_termito"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="cts_spanish_plated_gloves"/>
@@ -534,9 +527,7 @@
 		      	<Item id="b2_native_sword"/>
 		    </Weapon2>
 		    <Head>
-				<Item id="null" />
 				<Item id="sp_imperial_open_mail_coif" />
-				<Item id="nv_open_mail_coif" />
 				<Item id="cts_spanish_helmet1" />
 				<Item id="cts_spanish_helmet2" />
 				<Item id="cts_spanish_helmet3" />
@@ -554,6 +545,7 @@
 				<Item id="sa_great_prankh_helm" />
 				<Item id="sa_italio_norman_helm"/>
 				<Item id="sa_vlandian_helm_with_visor" />
+				<Item id="null" />
 		    </Head>
 		    <Body>
 		    	<Item id="cts_spanish_armor_tier4"/>
@@ -578,9 +570,9 @@
 				<Item id="cts_spanish_plated_shoulder_ptrotection1" />
 		    </Cape>
 		    <Gloves>
-				<Item id="null" />
 				<Item id="cts_spanish_plated_gloves" />
 				<Item id="cts_spanish_chainmail_glove" />
+				<Item id="null" />
 		    </Gloves>
 		</Equipment>
 	</UnitClass>
@@ -607,15 +599,12 @@
 		      	<Item id="b2_native_sword"/>
 		    </Weapon2>
 		    <Head>
-		      	<Item id="null"/>
 		      	<Item id="cts_spanish_helmet_6"/>
 		      	<Item id="cts_spanish_helmet_9"/>
 		      	<Item id="cts_spanish_helmet3"/>
 		      	<Item id="cts_spanish_helmet4"/>
 		      	<Item id="cts_spanish_helmet_10"/>
 		      	<Item id="cts_spanish_helmet5"/>
-		      	<Item id="sw_great_prankh_helm"/>
-		      	<Item id="ci_askz2"/>
 		      	<Item id="ci_armet"/>
 		      	<Item id="sa_butterlord1"/>
 		      	<Item id="ci_crowned_vlandian_helm_with_visor"/>
@@ -627,6 +616,7 @@
 				<Item id="ci_casco_dume"/>
 				<Item id="ci_zurcohelmet_closed"/>
 				<Item id="ci_casco_toni"/>
+		      	<Item id="null"/>
 		    </Head>
 		    <Body>
 		      	<Item id="cts_spanish_armor_tier5"/>
@@ -638,12 +628,12 @@
 		      	<Item id="cts_spanish_plated_boots"/>
 		    </Leg>
 		    <Cape>
-		      	<Item id="null"/>
 		      	<Item id="cts_spanish_plated_shoulder_ptrotection"/>
 		      	<Item id="mp_varangian_bra_royal"/>
 		      	<Item id="sp_empire_cape_a"/>
 		      	<Item id="sa_swadian_shoulders"/>
 		      	<Item id="b2_pauldron_cape_a"/>
+		      	<Item id="null"/>
 		    </Cape>
 		    <Gloves>
 		      	<Item id="cts_spanish_plated_gloves"/>
