@@ -195,7 +195,7 @@
 	    color1="FF1623ab"
 	    color2="FFFFFFFF"
 	    faction="enemy"
-	    banner="11.148.1.913.1278.763.763.0.0.0.6502.7.7.640.640.764.764.1.0.0.503.128.128.480.480.764.764.1.0.0.503.12.12.470.470.764.764.1.0.0.6501.127.127.400.400.764.764.1.0.0">
+	    banner="11.612.162.1528.1528.764.764.1.0.0.6503.172.171.600.600.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="omey_infantry"/>
 			<UnitClass id="omey_officer"/>
@@ -241,7 +241,7 @@
 	    color1="FF260702"
 	    color2="FFec7c0f"
 	    faction="enemy"
-	    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0">
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6501.172.171.900.900.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="ci_leva"/>
 			<UnitClass id="ci_milicia"/>
@@ -249,10 +249,11 @@
 			<UnitClass id="ci_hombre_de_armas"/>
 			<UnitClass id="ci_vieja_guardia"/>
 			<UnitClass id="ci_escudero"/>
+			<UnitClass id="ci_knight"/>
 			<UnitClass id="ci_abanderado"/>
 			<UnitClass id="ci_guardia_real"/>
 			<UnitClass id="ci_suboficial_infanteria"/>
-			<UnitClass id="ci_ificial"/>
+			<UnitClass id="ci_oficial"/>
 			<UnitClass id="ci_rey"/>
 		</UnitClasses>
 	</Clan>
@@ -262,13 +263,15 @@
 	    color1="FFF4F4F4"
 	    color2="FF880000"
 	    faction="enemy"
-	    banner="7001.143.142.1536.1536.764.764.1.0.0.503.127.127.510.510.764.764.1.0.0.6500.142.142.480.480.764.764.1.0.0">
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6504.172.171.600.600.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="san_peregrino"/>
 			<UnitClass id="san_iniciado"/>
 			<UnitClass id="san_hombre_de_armas"/>
+			<UnitClass id="san_clero"/>
 			<UnitClass id="san_inquisidor"/>
 			<UnitClass id="san_escudero"/>
+			<UnitClass id="san_knight"/>
 			<UnitClass id="san_abanderado"/>
 			<UnitClass id="san_suboficial"/>
 			<UnitClass id="san_maestrazgo"/>
@@ -280,14 +283,16 @@
 	    color1="FFBCA816"
 	    color2="FF000000"
 	    faction="enemy"
-	    banner="3.148.0.1536.1536.764.764.0.0.0.6506.84.116.545.545.764.809.1.0.0.6505.84.116.560.560.764.809.1.0.0">
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6502.172.171.900.900.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="tol_milicia"/>
 			<UnitClass id="tol_peon"/>
 			<UnitClass id="tol_alabardero"/>
 			<UnitClass id="tol_escudero"/>
+			<UnitClass id="tol_knight"/>
 			<UnitClass id="tol_abanderado"/>
 			<UnitClass id="tol_custodio"/>
+			<UnitClass id="tol_suboficial"/>
 			<UnitClass id="tol_oficial"/>
 		</UnitClasses>
 	</Clan>
@@ -297,13 +302,14 @@
 	    color1="FF4A100C"
 	    color2="FFFFFFFF"
 	    faction="enemy"
-	    banner="3.127.148.1135.1135.764.764.1.0.0.206.83.116.206.306.944.923.1.0.18.326.15.116.206.306.919.984.1.0.0.140.79.116.310.332.614.957.1.0.0.140.79.116.310.332.907.594.1.0.0.206.83.116.201.298.629.551.1.0.18.326.15.116.201.298.614.619.1.0.0">
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6505.172.171.900.900.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="cast_levy"/>
 			<UnitClass id="cast_militia"/>
 			<UnitClass id="cast_watchman"/>
 			<UnitClass id="cast_man_at_arms"/>
 			<UnitClass id="cast_squire"/>
+			<UnitClass id="cast_knight"/>
 			<UnitClass id="cast_standard_bearer"/>
 			<UnitClass id="cast_royal_guard"/>
 			<UnitClass id="cast_officer_of_the_watch"/>
@@ -316,7 +322,7 @@
 	    color1="FF260702"
 	    color2="FFec7c0f"
 	    faction="enemy"
-	    banner="7001.602.601.1536.1536.764.764.1.0.0.6001.602.602.500.500.764.764.0.0.0">
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6501.172.171.900.900.764.764.0.0.0">
 		<UnitClasses>
 			<UnitClass id="cisp_arquero"/>
 			<UnitClass id="cisp_suboficial_arqueros"/>
@@ -325,6 +331,46 @@
 			<UnitClass id="cisp_caballero"/>
 			<UnitClass id="cisp_oficial_caballeria"/>
 			<UnitClass id="cisp_rey"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="GIB"
+		name="Gibraltar"
+	    color1="FF0A5B77"
+	    color2="FFF4F4F4"
+	    faction="enemy"
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6500.172.171.700.700.764.764.0.0.0">
+		<UnitClasses>
+			<UnitClass id="gib_levy"/>
+			<UnitClass id="gib_militia"/>
+			<UnitClass id="gib_infantry"/>
+			<UnitClass id="gib_man_at_arms"/>
+			<UnitClass id="gib_squire"/>
+			<UnitClass id="gib_knight"/>
+			<UnitClass id="gib_ensign"/>
+			<UnitClass id="gib_royal_guard"/>
+			<UnitClass id="gib_officer_of_the_marines"/>
+			<UnitClass id="gib_leadership_of_the_marines"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="NAV"
+		name="Navarre"
+	    color1="FF61241B"
+	    color2="FF007336"
+	    faction="enemy"
+	    banner="11.613.613.4000.4000.764.764.1.0.0.6506.172.171.600.600.764.764.0.0.0">
+		<UnitClasses>
+			<UnitClass id="nav_levy"/>
+			<UnitClass id="nav_militia"/>
+			<UnitClass id="nav_infantry"/>
+			<UnitClass id="nav_man_at_arms"/>
+			<UnitClass id="nav_squire"/>
+			<UnitClass id="nav_knight"/>
+			<UnitClass id="nav_bannerman"/>
+			<UnitClass id="nav_royal_guard"/>
+			<UnitClass id="nav_officer"/>
+			<UnitClass id="nav_leadership"/>
 		</UnitClasses>
 	</Clan>
 </Clans>

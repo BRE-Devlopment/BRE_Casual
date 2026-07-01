@@ -34,14 +34,14 @@
 			<!--EICH-->
 			<Icon id="6013" material_name="bannericons_coalition" texture_index="0" />
 		</BannerIconGroup>
-		<BannerIconGroup id="21" name="bannericons_ci" is_pattern="false">
-			<Icon id="6500" material_name="bannericons_ci" texture_index="0" />
-			<Icon id="6501" material_name="bannericons_ci" texture_index="1" />
-			<Icon id="6502" material_name="bannericons_ci" texture_index="2" />
-			<Icon id="6503" material_name="bannericons_ci" texture_index="3" />
-			<Icon id="6504" material_name="bannericons_ci" texture_index="4" />
-			<Icon id="6505" material_name="bannericons_ci" texture_index="5" />
-			<Icon id="6506" material_name="bannericons_ci" texture_index="6" />
+		<BannerIconGroup id="21" name="bannericons_ci_new" is_pattern="false">
+			<Icon id="6500" material_name="bannericons_ci_new" texture_index="0" />
+			<Icon id="6501" material_name="bannericons_ci_new" texture_index="1" />
+			<Icon id="6502" material_name="bannericons_ci_new" texture_index="2" />
+			<Icon id="6503" material_name="bannericons_ci_new" texture_index="3" />
+			<Icon id="6504" material_name="bannericons_ci_new" texture_index="4" />
+			<Icon id="6505" material_name="bannericons_ci_new" texture_index="5" />
+			<Icon id="6506" material_name="bannericons_ci_new" texture_index="6" />
 		</BannerIconGroup>
 		<BannerIconGroup id="20" name="Background" is_pattern="true">
 			<Background id="7500" mesh_name="bre_banner_background_lbo" />
@@ -68,6 +68,10 @@
 			<Color id="610" hex="0xFF361d80"/>
 			<!--EICH black-->
 			<Color id="611" hex="0xFFfa851e"/>
+			<!--CI Black-->
+			<Color id="612" hex="0xFF000000" />
+			<!--CI Red-->
+			<Color id="613" hex="0xFF210400" />
 		</BannerColors>
 	</BannerIconData>
 </base>
