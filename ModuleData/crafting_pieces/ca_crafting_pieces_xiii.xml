@@ -63,12 +63,18 @@
     <BladeData blade_length="9.105" blade_width="23.082" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
+    <Flags>
+      <Flag name="BonusAgainstShield" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece id="xiii_axe_head_1" name="Round Bitted Fine Steel Hatchet Head" tier="2" piece_type="Blade" mesh="axe_craft_9_head" distance_to_next_piece="4.642" distance_to_previous_piece="2.104" weight="0.666">
     <BuildData piece_offset="-4.208" />
     <BladeData blade_length="11.538" blade_width="26.876" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.6" />
     </BladeData>
+    <Flags>
+      <Flag name="BonusAgainstShield" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece id="xiii_axe_handle_1" name="Long Mahogany Handle With Leather Wrapping" tier="2" piece_type="Handle" mesh="axe_craft_18_handle" length="100" weight="0.361" item_holster_pos_shift="0,0,-0.15">
     <BuildData piece_offset="31" next_piece_offset="2" />
@@ -126,6 +132,9 @@
     <BladeData blade_length="13.923" blade_width="21.94" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.2" />
     </BladeData>
+    <Flags>
+      <Flag name="BonusAgainstShield" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece id="xiii_2h_axe_handle_2" name="Leather Wrapped Two Handed Ash Shaft" tier="2" piece_type="Handle" mesh="axe_craft_29_handle" length="120" weight="0.5">
     <BuildData piece_offset="35" next_piece_offset="1.835" />
@@ -164,6 +173,9 @@
     <BladeData blade_length="17.6" blade_width="19.393" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="4.1"/>
     </BladeData>
+    <Flags>
+      <Flag name="BonusAgainstShield" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece id="xiii_2h_axe_handle_1" name="Long Mahogany Handle With Leather Wrapping" tier="2" piece_type="Handle" mesh="axe_craft_18_handle" length="100" weight="0.3" item_holster_pos_shift="0,0,-0.15">
     <BuildData piece_offset="31" next_piece_offset="2" />
